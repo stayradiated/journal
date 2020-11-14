@@ -1,0 +1,7 @@
+Sunday 15 Nov 2020
+==================
+
+Todos
+-----
+
+- [ ] migrate relevant data from the knowledge repo into this journal 

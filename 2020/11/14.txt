@@ -1,0 +1,112 @@
+Saturday 14 Nov 2020
+====================
+
+- Up at 6:30. Working in the hosel on my journal software. Setting up the github actions to create a mirror witohut the private notes.
+- Walking to Pak'n'Save (barefoot), listening to Dithering podcast. Bought snacks for lunch.
+- Out for a run in Hagley Park. No Shoes! Feet are a litle sore but I like walking around in bare feet.
+- Had a pleasant picnic in the park. Ate bread + hummus, crackers + brie, peanut butter + dates, apple, banana.
+- Sitting by Lake Victoria and editing my journal on my phone.
+- Had a coffee at "The Curator's House". $5 for a long black is bit spenny, but they have a great view of the garden. I planned out how to replace each section of my physical journal with a digital file.
+
+git-filter-repo
+---------------
+
+This morning I discovered `git-filter-repo` and have configured it to mirror this journal into public repo.
+
+I forked the git-filter-repo-docker-action (https://github.com/wmde/git-filter-repo-docker-action) repo and added support for force pushing based on the commit message.
+
+With this addition, my digital journal is now ready to use.
+
+It's not complete though, I still need to publish it as a website.
+
+Shoes & Travel
+--------------
+
+Goal: to travel light and also go running
+
+Travelling with two pairs of shoes isn’t easy. Shoes take up a lot of space! My only pair of running shoes (Newton Motion 9's) are too sporty and bright red -- I wouldn't want to wear them around town casually. My other pair of shoes (Ecco Cool GTX's) are comfy and waterproof but are quite heavy for running and my feet get quite sweaty.
+
+I decided to purchase a pair of Allbirds Tree Dasher's last week. They are quite good looking shoes and rather comfortable for walking and running. 
+
+However, I had a couple of issues:
+
+- My heel would slip up and down inside the shoe while running.
+- My toes were noticeably stretching the fabric mesh. I felt that after a month or two they would almost certainly have holes.
+- They didn't feel like they could justify the $245 price tag.
+
+Allbirds have a 30 day no questions asked returns policy, so I sent them back.
+
+I could could try a smaller size down, I think that might help the shoe fit better -- but I would also like to do some research on other available dual-purpose running/walking shoes.
+
+But, do I even need running shoes?
+
+I was strolling through Hagley Park yesterday when I popped my jandals off and started walking barefoot through the grass. 
+
+It occurred to me that I could run without running shoes. I read the wikipedia page on barefoot running. Running barefoot doesn't seem to be any better or worse than running with shoes. The general recommendation is to start out with short runs on grass and slowly build up endurance.
+
+Yesterday I ran 3x 800m laps on a grass field (~2.5km).
+
+Today I ran 4x 1200m laps on a grass field (~5km).
+
+I've also been walking around Christchurch barefoot. The sidewalks in the city center are very clean and it's quite comfortable
+
+My feet ache and I have a couple of blisters but I am enjoying the experience.
+
+I plan to continue running barefoot, but I think I need to give my feet time to adjust to their shoelessness.
+
+Todos
+-----
+
+- Grocery shopping
+  - [x] Bananas
+  - [x] Dried Dates
+  - [x] Peanut Butter
+- Gifts
+  - [x] Visit T2 store
+- Travel
+  - [ ] Organise flights for James to visit me in Auckland
+- stayradiated/journal
+  - [ ] Publish as a plain text website
+
+Ideas
+-----
+
+A chatbot integration for warehouse mobile would be nice. 
+
+    wmob status
+      
+        data: 1.12 GB
+        credit: $3.21
+
+    wmob buy data
+        
+        would you like to purchase 1.25 GB of data for $8?
+
+    yes
+
+        topping up your account by $5...
+
+        purchasing 1.25 GB data pack...
+
+        completed.
+
+    wmob status
+
+        data: 2.27 GB
+        credit: $0.21
+
+Automatically top up account and purchase data pack
+
+Media
+-----
+
+- [x] Tom Rosenthal's new album (as Edith Whiskers)
+- [x] 12 startups in 12 months (https://monicalent.com/12x-startup/)
+- [ ] George Hotz & compression (https://www.youtube.com/watch?v=Sx2PVCAiGhQ)
+
+Thoughts
+--------
+
+- Could I design & launch a paid service within a month?
+
+

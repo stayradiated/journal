@@ -1,0 +1,15 @@
+Friday 13 Nov 2020
+==================
+
+I have started writing down my thoughts about moving to a digital journal.
+
+I want something as simple as pen & paper but that can be easily shared online.
+
+---
+
+This is a public note.  It should be visible in the public repo and on the
+website.
+
+There is a private note below this, but it will be hidden on the public repo.
+
+
