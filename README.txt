@@ -53,7 +53,7 @@ The public repo is the one that will be visible on the internet and power the bl
 I can edit notes in a git repo on my laptop and phone.
 Sync/edit on iOS with Working Copy and iA Writer.
 
-Private notes will be marked with a special character, let's say `[[[ ... ]]]`
+Private notes will be marked with a special character, let's say `{{ ... }}`
 There will be software that removes these lines from the commits in source repo
 and publishes them to the public repo.
 
@@ -66,7 +66,7 @@ Color Scheme: https://github.com/stayradiated/vim-termorrow
 I can use git-filter-repo (https://github.com/newren/git-filter-repo/) to
 remove all the private notes.
 
-    » echo 'regex:(?s)[[[.*?]]]==>' > ./git-replace.txt
+    » echo 'regex:(?s){{.*?}}==>' > ./git-replace.txt
     » git-filter-repo --replace-text ./git-replace.txt
 
 I am using Github Actions to automatically filter and push new commits to the
