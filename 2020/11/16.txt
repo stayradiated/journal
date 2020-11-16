@@ -1,35 +1,95 @@
 Monday 16 Nov 2020
 ==================
 
+bouldering
+----------
+
+Morning bouldering session from 07:15 to 09:00.
+Met up with Pete and his friend James.
+I warmed up on blues/greens and practiced on the yellows.
+
+We met Tom. Tom is a bouldering legend! He showed us how to do some of the more challenging climbs, which seemed impossible to us mere mortals.
+
+Things to try next time:
+
+- Try the grip strength wall at the start
+- End with the pull-up bar
+- Can I make the yellow dyno?
+- Try the yellow cave climb without feet.
+- Try the green cave climb like Tom did it.
+- Keep practicing on the yellows, try an orange or two.
+
 open source
 -----------
 
-Got an email from Alexandr. He wants to maintain stayradiated/termcolors. I
-haven't touched that project in years. I added him as a maintainer, interested
-to see what he does.
+I received an email from Alexandr. He wants to maintain stayradiated/termcolors. I haven't touched that project in years. I added him as a maintainer -- I'm  interested to see what he does.
 
-Machine Learning
+machine learning
 ----------------
 
-How To Build Your Own MuZero AI Using Python
-https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
+Instead of working on Runn I spent the day learning about MuZero - a model for machines to learn to play games. 
 
-Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
-https://arxiv.org/pdf/1911.08265.pdf
+I started out without much idea of how MuZero worked. What I hoped for was that I could train it to play board games really well.
 
-google colab sucks
-gradient sucks
-aws sucks
-datacrunch.io is awesome
+I initially started out by trying to implement the rules for the Arboretum board game [[ https://www.boardgamegeek.com/boardgame/140934/arboretum ]], however I realised it would be better to start with a simple game. I wrote a simple Tic-Tac-Toe game in python, which was a fun learning experience in itself (I haven't written much Python).
 
-fast.ai
+I found this excellent series of articles on how MuZero works: How To Build Your Own MuZero AI Using Python [[ https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a ]]
 
-wrote a tic-tac-toe game
+After getting a rough understanding of how MuZero worked, I knew that it was going to be difficult challenge to implement it myself. Luckily, I found the [[ https://github.com/werner-duvaud/muzero-general ]] project. This is a ready to use implementation of MuZero, complete with several games already configured -- inculding a Tic-Tac-Toe game.
 
-Monte Carlo Tree Search
-https://www.youtube.com/watch?v=UXW2yZndl7U
+I ran the code locally but my laptop doesn't have a supported GPU so the training was very slow.
 
-Todos
+I tried a variety of other services but didn't have much luck.
+
+- google colab:
+  - free
+  - very easy to get started
+  - can on CPU, GPU or TPU
+  - seemed to freeze and crash if left alone for too long
+  - difficulty interacting with muzero-general CLI
+- gradient
+  - I couldn't figure out how to just launch a server and run some code
+- aws
+  - lots of server types to choose from
+  - wouldn't let me launch a server, I had to get permisson from AWS to increase my quota
+- datacrunch.io
+  - simple to use
+  - cheap
+  - prepaid credit
+  
+I'm currently training MuZero on Tic-Tac-Toe on the cheapest DataCrunch server. I'll leave it overnight and see how well it did tomorrow.
+
+media
+-----
+
+[[ https://fast.ai ]] looks a good resource to learn more about nerual networks.
+
+This is a good explanation of the Monte Carlo Tree Search [[ https://www.youtube.com/watch?v=UXW2yZndl7U ]].
+
+lunch
+-----
+
+Went out for lunch with Ivan & Tim. We ordered food from SteamPunk Labs and ate back in the office. Talking about how overly complicated web development is these days.
+
+exercise
+--------
+
+Around 16:00 I went for a run up & down the car park building in bare feet.
+Listening to the Exponent podcast with Ben & James [[ http://exponent.fm ]].
+
+dinner
+------
+
+- Naked Kitchen Thai Jungle Curry
+- Rice crackers & hummus
+- Hot cocoa
+
+todos
 -----
 
 - [x] Send invoice to Mish Guru.
+
+journaling
+----------
+
+Is quite different on a laptop. I get distracted quite easily. I may need to switch off the internet next time...
