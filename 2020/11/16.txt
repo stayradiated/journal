@@ -1,12 +1,21 @@
 Monday 16 Nov 2020
 ==================
 
+open source
+-----------
+
+Got an email from Alexandr. He wants to maintain stayradiated/termcolors. I
+haven't touched that project in years. I added him as a maintainer, interested
+to see what he does.
+
+Machine Learning
+----------------
+
 How To Build Your Own MuZero AI Using Python
 https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
 
 Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
 https://arxiv.org/pdf/1911.08265.pdf
-
 
 google colab sucks
 gradient sucks
@@ -19,3 +28,8 @@ wrote a tic-tac-toe game
 
 Monte Carlo Tree Search
 https://www.youtube.com/watch?v=UXW2yZndl7U
+
+Todos
+-----
+
+- [x] Send invoice to Mish Guru.

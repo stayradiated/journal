@@ -37,21 +37,20 @@ Ideally it would be part of a repl.
 Todos
 -----
 
-- [ ] migrate relevant data from the knowledge repo into this journal 
-
+- [x] migrate relevant data from the knowledge repo into this journal 
 
 Research
+--------
 
 - watch vsauce video on the sphere paradox
 - what is Shannon’s noisy coding Theorem
 - how is IPFS going?
-- watch 3b1b videos on neural networks (https://youtu.be/aircAruvnKk)
+- watch 3B1B videos on neural networks [[ https://youtu.be/aircAruvnKk ]]
 
 Media
+-----
 
-Lex Fridman x Grant Sanderson: https://castro.fm/episode/bgfYpS
-
-- [x] migrate relevant data from the knowledge repo into this journal 
+Lex Fridman x Grant Sanderson [[ https://castro.fm/episode/bgfYpS ]]
 
 Gratitude
 ---------

@@ -1,13 +1,53 @@
-$ GOALS
+Week 46
+=======
 
+$ GOALS
 
 - [x] Apply for a Kiwi Access card
 - [x] Blog! -> Start digital journal
-- [ ] New profile photo
-- [ ] Buy white-out and a new 0.1mm pen
-- [/] Find a better pair of running/travel shoes than the AllBirds Dashers
+- [ ] Take a new profile photo
+- [ ] Reply to friends
 - [x] Get better at reading and replying to messages/emails
+- [/] Buy white-out and a new 0.1mm pen
+- [/] Find a better pair of running/travel shoes than the AllBirds Dashers
 - [x] Try running barefoot around Hagley park
 - [ ] Plan out Christmas presents for mates
 - [ ] Write out October daily notes
 - [ ] Plan out South Island travels, from now to the 26th November
+- [ ] Ask mates if they want to go for a hike somewhere
+- [x] Post Murchison Day present to Jo
+- [x] Purchase 2x T2 Tea Strainers for Pete & Katja
+- [ ] Play Pocket Tanks with James
+- [ ] Check in with Auckland mates
+- [/] Try Rave App to watch Netflix with Jo
+- [ ] Organise for James & I to go on another trip, maybe Auckland?
+
+$ DIGITAL JOURNAL
+
+- Completely replaces my physical journal
+- Entry for current day
+- Notes for current week
+- Plain text, no styling
+- Commit via Git, edit in Vim
+- Does working copy support git-crypt? -> no
+- Requirements:
+  - Be able to keep private & public notes in the same file
+  - Support plain text
+  - Editable on desktop & phone
+  - Automatically publishes to the web
+- Idea: private repo that has a public mirror -- however the public mirror has all the private notes removed
+
+$ BAREFOOT RUNNING
+
+- I started barefoot running on Friday. ~2.5km on grass. I can run fast but it feels more exhausting.
+- I quite like waking around Christchurch in barefeet. Everyone wears shoes or jandals. I'm not sure why barefeet isn't more popular. Feel the cool smooth concrete and the lush grass of the parks.
+- On Saturday I went out for another run. This tiem >6km on the grass. I now have a few blisters...
+
+$ NO ADDED SUGAR
+
+Things I accendtally consumed while trying to go for a month without added sugar:
+
+- Chai Latte
+- Honey & Pistachio Cheese
+- Paneer Butter Masala
+- Stir Fry Noodles (the sauce)
