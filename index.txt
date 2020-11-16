@@ -1,7 +1,17 @@
-# 2020
+[[ /README ]]
 
-## November
+== 2020 ==
 
-[[ /2020/11/15.txt ]]
-[[ /2020/11/14.txt ]]
-[[ /2020/11/13.txt ]]
+[[ /2020/calendar ]]
+[[ /2020/nz_covid_stats ]]
+
+-- Weekly Notes --
+
+[[ /2020/week/46 ]]
+
+-- Daily Notes --
+
+[[ /2020/11/13 ]] Nov 12 Friday
+[[ /2020/11/14 ]] Nov 13 Saturday
+[[ /2020/11/15 ]] Nov 14 Sunday
+[[ /2020/11/16 ]] Nov 16 Monday
