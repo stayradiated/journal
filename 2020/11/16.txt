@@ -1,0 +1,21 @@
+Monday 16 Nov 2020
+==================
+
+How To Build Your Own MuZero AI Using Python
+https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
+
+Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
+https://arxiv.org/pdf/1911.08265.pdf
+
+
+google colab sucks
+gradient sucks
+aws sucks
+datacrunch.io is awesome
+
+fast.ai
+
+wrote a tic-tac-toe game
+
+Monte Carlo Tree Search
+https://www.youtube.com/watch?v=UXW2yZndl7U

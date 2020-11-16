@@ -1,7 +1,48 @@
 Sunday 15 Nov 2020
 ==================
 
+what did you to do today?
+-------------------------
+
+- Waking up around 6:30am.
+- Having a coffee (short macchiato) at the Foundation Cafe. The cafe is part of the Chch Public Library and they nice big stone tables outside.
+- Create a CLI tool for building plaintext websites [[htps://github.com/stayradiated/plaintext]].
+- Had a falafal pita for lunch in the park. Listening to the Lex Fridman interview with Grant Sanderson. Lots of great quotes.
+- Back at the library. Continuing development on plaintext app. Added support for linking to files and custom HTML templates.
+- Picked up some food for dinner from Pak'n'Save. The "California Wellness Bowl" from Naked Kitchen is pretty good cold on a hot day. Also snacking on peanut butter, dates and apples.
+- Catching up with family over vidcall. 
+- Watching Stranger Things s2e2 with Jo. What's up with all the gooey pumpkins?
+
+Why does FB messenger audio not work on my laptop? It doesn't give me an option to choose the input device.
+
+stayradiated/plaintext
+----------------------
+
+Thanks to Netlify, my journal is now available at https://journal.george.czabania.com.
+
+It's a pretty cool system. I publish to my private journal repo, github actions updates the public journal repo and then Netlify builds the HTML site and hosts it.
+
+Notes
+-----
+
+Calque (https://calque.io/) is a handy tool for doing quick calculations. I wish it support adding hours and durations.
+
+Is there any tool that can do this?
+Ideally it would be part of a repl.
+
+  $ calc
+  1h 45m + 3h 25m
+  = 5h 10m
+
 Todos
 -----
 
-- [ ] migrate relevant data from the knowledge repo into this journal 
+- [x] migrate relevant data from the knowledge repo into this journal 
+
+Gratitude
+---------
+
+I was sitting outside the library cafe with my laptop and a woman walking past complimented me on my posture. Receiving compliments feels good, I should give people compliments. I should also keep my back straight.
+
+
+
