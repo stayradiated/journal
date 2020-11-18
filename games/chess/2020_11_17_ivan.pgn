@@ -1,0 +1,18 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/VlEjx4vY"]
+[Date "2020.11.17"]
+[White "George"]
+[Black "Ivan"]
+[Result "0-1"]
+[UTCDate "2020.11.17"]
+[UTCTime "04:01:32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Bf4 { D00 Queen's Pawn Game: Mason Variation } Bf5 3. Nc3 h6 4. e3 a6 5. Be2 c5 6. Bf3 e6 7. a4 cxd4 8. exd4 Nf6 9. Nh3 Be7 10. O-O Bxh3 11. gxh3 O-O 12. Qe2 Nc6 13. Rfd1 Qb6 14. Ra3 Nxd4 15. Qe5 Nxf3+ 16. Kg2 Nxe5 17. Bxe5 Ne4 18. Nxe4 Bxa3 19. bxa3 dxe4 20. Bd4 Qc6 21. a5 Rfd8 22. c3 e3+ 23. f3 e2 24. Kf2 Qc4 25. f4 Qa2 26. a4 f6 27. h4 e5 28. fxe5 fxe5 29. Ke1 exd4 30. cxd4 Re8 31. Rd2 Qxa4 32. Rxe2 Qxa5+ 33. Kf1 Rxe2 34. Kxe2 Qc3 35. Kf2 Qxd4+ 36. Kg3 Rc8 37. h5 Rc3+ 38. Kg2 Qd2+ 39. Kf1 Rc1# { Black wins by checkmate. } 0-1

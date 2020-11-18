@@ -1,0 +1,64 @@
+Tuesday 17 Nov 2020
+===================
+
+- Checking out of the YHA hostel this morning. I am staying at Pete's place for the next couple of nights. I should find out w
+- Catching up with Stephanie. She is still living in Berlin, thinking about moving to Copenhagen.
+- Stopped training TicTacToe bot after ~15 hours. I estimate it's ability at around a 10 year old. It knows how to win and how to not lose, but doesn't play perfectly.
+- Investigating bug with HyperPing
+- Lunch at Miss Bing with Pete & Ivan. $11.50 for a kimchi wrap.
+- Polishing off the conversion of the Person Dashboard page to react.
+- Caught the bus to Pete's after work
+- Dinner with Pete & Katja -- Katja made us a delicious Feta & Spinach pie
+- Watching Stranger Things s2e3 with Jo
+
+Todos:
+------
+
+- [ ] Find out how long can I stay at Pete's place?
+
+CrossBot
+--------
+
+x = CrossBot
+o = playtictactoe.org
+
+It did beat playtictactoe.org on it's first go, I'm surprised the online bot made a mistake:
+
+ | |     | |     | |     | |    x| | 
+-+-+-   -+-+-   -+-+-   -+-+-   -+-+-
+x| |    x| |    x| |    x|o|    x|o| 
+-+-+-   -+-+-   -+-+-   -+-+-   -+-+-
+ | |     |o|    x|o|    x|o|    x|o| 
+
+But it did lose the next game:
+
+ | |     | |     | |     | |    x| |    x| |    x| |    x| |o
+-+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-
+x| |    x|o|    x|o|x   x|o|x   x|o|x   x|o|x   x|o|x   x|o|x
+-+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-
+ | |     | |     | |     | |o    | |o   o| |o   o|x|o   o|x|o
+
+And the game after that...
+
+ | |     | |     | |     | |    x| |    x|o| 
+-+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-
+x| |    x| |    x| |x   x|o|x   x|o|x   x|o|x
+-+-+-   -+-+-   -+-+-   -+-+-   -+-+-   -+-+-
+ | |     |o|     |o|     |o|     |o|     |o| 
+
+Schedule
+--------
+
+0700,0800,Check out of YHA #dn
+0815,0935,Stephanie, Chat #fr
+0945,1700,Saltworks
+1000,1025,HR w/ Nicole #st
+1030,1300,Uptime monitor #st
+1300,1330,Lunch w/ pete & ivan #rt
+1330,1700,People dashboard #st
+1749,1825,Bus 60 to Pete's #bus
+
+Startup Idea
+------------
+
+Uptime Monitor with custom status page for developers

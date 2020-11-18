@@ -1,0 +1,75 @@
+Wednesday 18 Nov 2020
+=====================
+
+- Cycling into work with Pete. The rear wheel on his back is a bit wobbly, but we aren't sure how to fix it. He should get it looked at by a professional.
+- For lunch, I Went out to Subway. Ate in the park while listening to podcasts.
+- Found someones keys on the sidewalk outside Subway. Walked back into the store and handed them in to the staff. Turns out they were the store managers keys!
+- After lunch I went to the city FreshChoice supermarket. Picked up peanut butter, apples and a banana.
+- In the afternoon I made bliss balls and took them home to share with Pete & Katja.
+- I made vegan burrito enchildas for dinner [[ https://www.thegraciouswife.com/rice-and-black-bean-burritos-recipe/ ]]
+  - vegan because we didn't have any cheese... I also used quinoa instead of rice and Pete added spinach.
+  - It turned out better than I expected. Pete & Katja also liked it.
+  - Also plenty of leftovers, so we have lunch tomorrow
+  - I would make this again, but add cheddar cheese.
+- Got a phone call from Anna this evening. She is trying to organize christmas gifts for the AKL gang. Her idea is that everyone should make a list of things they want to make it easier for everyone else to buy gifts. I'm not sure if I like this idea but I understand the reasoning. 
+- I updated my system to use `pipx` to install python CLI tools. I also installed `vdirsyncer` but I need to finish setting it up.
+
+Schedule
+--------
+
+0750,0820,cycle to office #rt
+1000,1045,dev meeting #st
+1100,1215,design meeting #st
+1220,1300,lunch out #rt
+1515,1530,staris with pete
+1630,1700,make bliss balls
+1700,1730,cycle home
+1800,1900,make dinner
+1900,1930,dinner
+1930,2000,exploding kittens
+2000,2100,maths puzzle
+2100,2200,pete's game
+
+Todos
+-----
+
+- [/] Add ability to toggle timesheets [[ https://github.com/Runn-Fast/runn/issues/4951#issuecomment-728696605 ]]
+- [x] Make sure PR is ready for review and then request a review from the team
+- [x] Make bliss balls!
+
+Tomorrow
+--------
+
+I am working from home tomorrow, but will be going into the office in the evening for the SaltWorks quiz.
+
+- [ ] Review Rowan's PR for SAML SSO Support [[ https://github.com/Runn-Fast/runn/pull/4734 ]]
+- [ ] Can we configure Hasura via a config file, instead of through the web console?
+- [ ] Run prettier on our CSS files
+- [ ] Try out latest version of StackHawk on our GraphQL API.
+- [ ] Try out using sim card with laptop, can I get mobile data working?
+- [ ] Can I implement Pete's Game in Python?
+
+A Curious Pattern Indeed
+------------------------
+
+I showed Pete this video from 3B1B [[ https://www.youtube.com/watch?v=84hEmGHw3J8 ]].
+
+We sat down and had a good think about the problem, drawing lots of diagrams and trying to find patterns in the number of segments.
+
+After 25 minutes of thinking, we watched the solution, pausing often to discuss the various equations and try to guess what the next step is.
+
+The Euler characteristic is really quite beautiful.
+
+Pete's Game
+-----------
+
+Draw a 4x4 box.
+Each player can choose how many squares they want to color in. They must color in at least one square. The squares must be contiguous and can only be on a single row or column.
+The player to fill in the last square loses the game.
+
++----+  +----+  +----+  +----+  +----+  +----+  +----+  +----+  +----+  +----+
+|    |  |░░░░|  |░░░░|  |░░░░|  |░░░░|  |░░░░|  |░░░░|  |░░░░|  |░░░░|  |░░░░|
+|    |  |    |  | ▓  |  | ▓░ |  | ▓░ |  | ▓░ |  | ▓░ |  | ▓░ |  |▓▓░ |  |▓▓░░|
+|    |  |    |  | ▓  |  | ▓░ |  | ▓░ |  | ▓░ |  | ▓░ |  | ▓░░|  |▓▓░░|  |▓▓░░|
+|    |  |    |  |    |  |    |  | ▓▓ |  |░▓▓ |  |░▓▓▓|  |░▓▓▓|  |░▓▓▓|  |░▓▓▓|
++----+  +----+  +----+  +----+  +----+  +----+  +----+  +----+  +----+  +----+
