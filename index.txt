@@ -15,3 +15,5 @@
 [[ /2020/11/14 ]] Nov 13 Saturday
 [[ /2020/11/15 ]] Nov 14 Sunday
 [[ /2020/11/16 ]] Nov 16 Monday
+[[ /2020/11/17 ]] Nov 17 Tuesday
+[[ /2020/11/18 ]] Nov 18 Wednesday
