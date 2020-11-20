@@ -1,0 +1,52 @@
+Thursday 19 Nov 2020
+====================
+
+- Bought some new shaving soap from the Groom Room. It's "Taylor of Old Bond Street" brand - quite nice, I chose the Sandalwood scent.
+- Grocery shopping at FreshChoice for Apples, Bananas, Peanut Butter, Peanuts and Raisins.
+- Went for an afternoon barefoot run in the park. 5km at 4:30 pace.
+
+Cypress
+-------
+
+Cypress tests are so slow!!! >17 minutes to run on CircleCI is too long. Alternatively, can I run all the cypress tests locally with certainty?
+
+Why is the cypress failing? Are my insight calculations incorrect??
+-> Hmm, total revenue within range seems to be using the wrong source data.
+-> What is the calculation that Ruby is doing?
+
+Prod issue
+----------
+
+Debugging error in prod. Customers cannot create people!
+ 
+I couldn't reproduce the issue locally or on staging. It didn't seem to be related to a code change we had made recently. 
+
+I could reproduce the issue on production but I didn't get any error messages. I didn't have access to the production server logs or database. I could see there was a new error from Rollbar on slack, but I didn't have permissions to view the details.
+
+I tried using the REST API to create a user. This also failed AND returned a useful error message:
+
+> Contract date range overlaps with another contract for this individual
+
+This matched the Rollbar error we had been seeing in Slack. This error is thrown then a contract already exists with an overlapping date range. The question is, how is this possible for a newly created user that should only have one contract?!
+
+I found a workaround that involved creating a user with a start date set to the year 2025 -- this would get around the validation check. The start date could then be changed afterwards.
+
+Rowan came online and can check the database.
+
+Todo
+----
+
+- [ ] Review Rowan's PR for SAML SSO Support [[ https://github.com/Runn-Fast/runn/pull/4734 ]]
+- [ ] Can we configure Hasura via a config file, instead of through the web console?
+- [ ] Run prettier on our CSS files
+- [ ] Try out latest version of StackHawk on our GraphQL API.
+- [ ] Try out using sim card with laptop, can I get mobile data working?
+- [x] Can I implement Pete's Game in Python?
+- [ ] tidy up naming of helpers/* in runn dir
+- [x] Buy some new shaving soap from The Groom Room [[ http://www.thegroomroom.co.nz ]]
+- [x] Clean your laptop keyboard, it's filthy!
+
+Pete's game
+-----------
+
+I have implemented a muzero game class with `legal_actions`, `step` and `has_winner()`.

@@ -1,0 +1,166 @@
+Friday 20 Nov 2020
+==================
+
+Bouldering at Uprising with Pete. Turning up 7am just as the doors opened.
+
+Climbing on most of the yellow walls. I'm getting better, but still have lots of room for improvement. 
+
+About half an hour into the session I hurt my left arm -- nothing serious but I didn't want to make it worse so I didn't push myself too much after that.
+
+Had a shower there before we drove into the office.
+
+---
+
+Sitting upstairs in the office, catching up with Jo.
+She is visiting her grandmother this weekend.
+
+We practiced the first Unlock game (The House on the Hill). It still took us over 25 minutes, even when we knew how to solve the puzzles! The most time is spent searching through the deck to look for the right cards.
+
+We then played the second Unlock game (The Nautilus Traps).
+
+I suggested we split the deck up into three piles of 20, so we could combine our efforts and reduce time searching for cards.
+
+We failed to complete the game in time (ran out of oxygen about 3/4 of the way). We solved the game in 92 minutes and only used 3 hints. We only had 1 penalty as well (the stupid one right at the start of the game). We scored 3 stars, same as last time.
+
+See **SPOILERS** section at bottom for thoughts on the game.
+
+There are quite a few people upset with a few of the puzzles in this game. We still enjoyed it, but we hope that the next one (Tonipals Treasure) is of higher quality.
+
+---
+
+TIL about `as const`. Brendon showed me the way of the future.
+
+Lunch
+-----
+
+The Student Volunteer Army put on a Taco lunch in the kitchen. $5 for 2 tacos.
+
+Taco fillings were very tasty, but gluten-free tortillas are rather awful.
+
+Barefeet
+--------
+
+Still walking around in barefreet, though I learned there is a health & safety rule in the office that I need to wear shoes, which seems rather silly.
+
+Stairs
+------
+
+Walking up the car park building stairs with Peter, Ivan and Brendon. I run up/down twice.
+
+Vim
+---
+
+Vim marks are so useful!
+
+[[ https://vim.fandom.com/wiki/Using_marks ]]
+
++-----------+------------------------------------------------------------------+
+| Command   |  Description                                                     |
++-----------+------------------------------------------------------------------+
+| ma        | set mark a at current cursor location                            |
+| 'a        | jump to line of mark a (first non-blank character in line)       |
+| `a        | jump to position (line and column) of mark a                     |
+| d'a       | delete from current line to line of mark a                       |
+| d`a       | delete from current cursor position to position of mark a        |
+| c'a       | change text from current line to line of mark a                  |
+| y`a       | yank text to unnamed buffer from cursor to position of mark a    |
+| :marks    | list all the current marks                                       |
+| :marks aB | list marks a, B                                                  |
++-----------+------------------------------------------------------------------+
+
+Runn
+----
+
+Priority:
+
+- [ ] Get PR 4951 passing tests again... Don't use rate cards!
+
+Other:
+
+- [ ] Review Rowan's PR for SAML SSO Support [[ https://github.com/Runn-Fast/runn/pull/4734 ]]
+- [ ] Can we configure Hasura via a config file, instead of through the web console?
+- [ ] Run prettier on our CSS files
+- [ ] Try out latest version of StackHawk on our GraphQL API.
+- [ ] Tidy up naming of helpers/* in runn dir
+
+Todo
+----
+
+- [ ] Try out using sim card with laptop, can I get mobile data working?
+
+Go
+--
+
+Pete and I played a game of Go.
+Played on a 9x9 board.
+Pete beat me by 27 points.
+Pete has played a few games before, this was my 2nd game.
+Neither of us really don't have a good strategy.
+We watched parts of Match 1 of AlphaGo vs Lee Seedol in amazement. Not really understanding what was happening, but they were playing a much different game than we did.
+Is there an in-browser version of Go you can play locally without having to sign up with an account?
+
+Research
+--------
+
+How does simulated annealing work? [[ https://en.wikipedia.org/wiki/Simulated_annealing ]]
+
+Pete said he wrote an N Queens solver using annealing. I would like to know more about this.
+
+Compression
+-----------
+
+Still trying to finish George Hotz stream on Compression Pt.1 
+[[ https://www.youtube.com/watch?v=Sx2PVCAiGhQ ]]
+
+---
+
+Evening with Pete:
+
+- Shopping at Countdown for burger ingredients.
+- Making and eating veggie buggers.
+- Playing a game of Go.
+- Watching AlphaGo beat Lee Seedol.
+- Talking about Assembly, Prolog.
+
+Burger Ingredients:
+
+- Burger buns
+- Bean Supreme Hemp Burger Patties [[ https://shop.countdown.co.nz/shop/productdetails?stockcode=65247&name=bean-supreme-vegetarian-burgers-hemp ]]
+- Tomatoes
+- Capsicum
+- Cucumber
+- Avocado
+- Eggs
+- Beetroot
+
+
+
+
+
+
+
+
+** SPOILERS ** UNLOCK! The Nautilus Traps ** SPOILERS **
+
+Things I didn't like about it:
+
+- Getting a penalty for looking at the fish!?
+- Needing to know the word "sixains"... That's not a common word!
+- The lantern puzzle was clever but wasn't obvious that you needed to use those
+  cards together. We were trying to use the dividers with the prism map plus
+  the "first trip" guide and were very confused. They should not have used a
+  map background for the prism card.
+- The manometer puzzle stumped me the most, we were trying to line up the cards
+  with the dashes instead of looking at the needles and projecting across.
+
+Things I did like about it:
+
+- Combining three cards together to make a picture was cool
+- The music sheet puzzle was pretty clever
+- The sonar machine puzzle with the sounds was a nice idea but wasn't obvious
+
+Things we messed up:
+
+- Trying to use dividers on the prism card.
+- Couldn't read the manometers at all. Tried lots of different techniques.
+- We thought that EOIL puzzle was related to the +1, +2, +3 hint from another card, but turned out to be something quit different.
