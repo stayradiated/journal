@@ -1,1 +1,35 @@
-https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+November 21 2020
+================
+
+schedule
+--------
+
+0800,0830 cycle into office
+0840,0850 purchase dates
+0855,0920 make date bliss balls
+1000,1200 saltworks district cleanup
+1200,1245 burgers for lunch
+1300,1700 working on mish
+1720,1800 cycling back home
+1830,1930 dinner
+
+watch/read list
+---------------
+
+Crash Course Computer Science
+Recommended by Pete.
+[[ https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo ]]
+
+Pieter Levels blog.
+The guy made nomadlist, remoteok and hoodmaps.
+[[ https://levels.io/reset-your-life/ ]]
+[[ https://levels.io/archive/ ]]
+
+MakeBook
+[[ https://makebook.io/ ]]
+
+mish guru
+---------
+
+- [x] Find out what request AllUpdates is currently sending to Snapchat.
+- [ ] Update receiveSnap to run without AWS credentials
