@@ -14,6 +14,7 @@ schedule
 1300,1700 working on mish
 1720,1800 cycling back home
 1830,1930 dinner
+2000,2100 evening walk
 
 trash
 -----
@@ -63,8 +64,30 @@ The guy made nomadlist, remoteok and hoodmaps.
 MakeBook
 [[ https://makebook.io/ ]]
 
+Noton
+> A minimal logic gates playground, written in ANSI C.
+[[ https://git.sr.ht/~rabbits/noton ]]
+
+Hexapawn
+> Hexapawn is played on a mere 3x3 board. The near rank contains your three pawns, and the far rank contains those of your opponent. Pawns move as in chess, but with no double-step. You win if you get one of your pawns to the far rank. You lose if it is your turn and you cannot move.
+[[ https://www.chessvariants.com/small.dir/hexapawn.html ]]
+
+Minimalism and Self-Reliance 
+[[ https://wolfmd.me/blog/minimalism-v-self-reliance.html ]]
+
+XXIIVV Webring
+> This webring is an attempt to inspire artists & developers to build their own website and share traffic among each other. The ring welcomes personalized websites such as diaries, wikis & portfolios. 
+[[ https://webring.xxiivv.com/ ]]
+
+Zen And The Art Of Motorcycle Maintenance
+by Robert Pirsig
+[[ https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance ]]
+
+George Hotz | Programming | twitchcoq, writing a language we can prove things in
+[[ https://www.youtube.com/watch?v=VTFaWOPspEo ]]
+
 mish guru
 ---------
 
 - [x] Find out what request AllUpdates is currently sending to Snapchat.
-- [ ] Update receiveSnap to run without AWS credentials
+- [x] Update receiveSnap to run without AWS credentials
