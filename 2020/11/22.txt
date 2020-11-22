@@ -1,0 +1,106 @@
+Sunday 22 Nov 2020
+==================
+
+My laptop disk drive ran out of space so I had to purge docker again. I wish I knew how to keep all the bits it needs to build of my desktop image.
+
+machine learning
+----------------
+
+Still trying to train muzero on "pete's game". Tried running it on datacrunch.io for better speeds but found that it wasn't much faster than training on my laptop. This is because the slow part is all the selfplay - and this is CPU bound.
+
+I think I need to tune the hyper parameters but I don't how. I am going to leave my laptop training overnight to see if that helps.
+
+I would like Pete to write his solver for the game so I can compare how well my bot is playing.
+
+zettelkasten
+------------
+
+Oscean is a fantastic and inspiring project.
+[[ https://github.com/xxiivv/oscean ]]
+
+I want to learn to write programs in C.
+
+I started researching how to compile C and writing down notes in [[ /research ]].
+
+art
+---
+
+I decided to buy a drawing tablet.
+
+I caught the bus into town and bought a Wacom Intuous CTL-480 for $129.
+
+It's quite neat and works pretty much out of the box with Ubuntu which was a pleasant surprise. I still need to figure out how to scroll in firefox though.
+
+I foud and installed REXPaint. It's quite a neat ASCII text editor that I want to learn how to use. The art in the gallery is amazing.
+
+REXPaint
+--------
+
+ASCII art editor
+[[ https://www.gridsagegames.com/rexpaint/index.html ]]
+
+Can export as txt files.
+
+ ███ █  █  ███ ████  ███ █  █                                                
+█    █  █ █  █ █  █ █  █ █  █                                                
+████ █  █ █  █ █  █ ████ ████                                                
+   █ █  █ █  █ █  █ █  █    █                                                
+███  ███  █  █ ███  █  █  ███                                                
+
+Run with Wine.
+
+  apt-get install wine64 wine32
+  wine64 ./REXPaint.exe
+
+Todos
+-----
+
+- [x] start training petes_game on datacrunch.io
+
+hrefs
+-----
+
+tilde.club: a social network based on unix
+[[ https://tilde.club/ ]]
+
+podcasts
+--------
+
+Listening to these two podcasts today:
+
+- https://lexfridman.com/chris-lattner/
+- https://lexfridman.com/nick-bostrom/
+
+Chris Lattner is a very smart fellow. I hope to use Clang and LLVM to compile some C code tomorrow.
+
+Nick Bostrom has got me thinking about what it means to live in a simulation. Also trying to understand the Doomsday Argument.
+
+food
+----
+
+lunch:
+
+- cheese, cucumber, beetroot, capsicum sandwhich
+- 2 hardboiled eggs
+- 2 bananas
+- 2 apples
+- lots of peanut butter
+- handful of apriots
+
+dinner:
+
+- pan fried tomatoes with garlic, rosemary and oregano
+- cheese and crackers
+- cucumber and capsicum
+- pineapple chunks
+
+camel cup
+---------
+
+I played two games of Camel Cup with Pete & Katja. Pete won both games! I made some very silly bets on very unlucky camels.
+
+We added a new rule:
+
+> At the beginning of each leg, if none of the dice have been rolled yet, you may double a bet.
+
+For example, if I am starting a leg I can take the Blue-5 bet and pay 5 coins to make it a 10 coin return. If Blue comes first, I get a total of 10 coins, otherwise I lose my 5 coins and resolve the bet as normal.

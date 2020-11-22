@@ -1,0 +1,10 @@
+C (programming language)
+========================
+
+tcc: is the {https://bellard.org/tcc/ Tiny C Compiler} created by {Fabrice Bellard}
+gcc: is the GNU C Compiler from the GCC 
+g++: is the GNU C++ Compiler from the GCC
+GCC: is the GNU Compiler Collection
+GNU: stands for GNU's Not Unix! (pronounced guh-new).
+Clang: is a compiler for C, C++, Objective-C and Objective-C++. Built by the {LLVM}.
+{LLVM}: originally created by Vikram Adve and {Chris Lattner}.
