@@ -1,9 +1,53 @@
 Thursday 26 Nov 2020
 ====================
 
+schedule
+--------
+
+0800,0935 bus to airport
+1000,1120 fly CHC to AKl
+1130,1230 bus to newmarket
+1250,1315 lunch at subway
+1320,1430 coffee at La La Café
+
+morning
+-------
+
+Walking to the bus stop, soft drizzle of rain. 
+
+Planning to catch the Orange line to Halswell shops and then switch to the 125 to get to the airport. The O. Bus was 8 minutes late and arrived just behind the 125! I had an extra half hour to kill so walked along the 125 route looking for a bus stop with a shelter (it was still drizzling). Waited under a pleasant tree on Lancewood Dr. 
+
+Upon arriving at the airport I forgot to press the buzzer and nearly missed the airport stop. Fortunately the bus driver allowed me to get off while the bus was stopped at the gate. 
+
+The Christchurch Airport has recently installed new security scanning equipment. They didn't ask to check my safety razor for blades (which I had already taken out and given to Katja). 
+
+A very full plane, nearly didn't have room for my bag in the overhead lockers. 
+
+Listening to the Off Menu podcast with Jo Brand while enjoying a cup of tea. Really want to eat the Cookie but I'm still doing the no-added-sugar thing. 
+
+books
+-----
+
+I should make a reading list file...
+
+- Trainspotting (from Jo Brand @ Off Menu podcast)
+- "The Emperor's New Mind" and "Gödel, Escher, Bach" (from Michael McGuffin)
+
+knots
+-----
+
+From DLL interview:
+
+The carrick bend looks like a cool knot. I'd like to practice tying it with some rope. I bet it's a popular tattoo design as well. 
+
+I haven't done any origami in years! Learning how to make different polygons would be fun. How would you fold a square into a pentagon?
+
 It would be useful to catch TODO and FIXME comments with an ESLint.
 I should check how the rest of the time feels.
 [[ https://eslint.org/docs/rules/no-warning-comments ]]
+
+github pull request comments
+----------------------------
 
 Does software exist to view and reply to PR comments through the terminal?
 
