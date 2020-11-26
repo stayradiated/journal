@@ -27,7 +27,7 @@ todo
 - [x] bake bagels
 - [x] lunch with the fellas
 - [x] write message for Tim/his family/new baby and send to Ruth
-- [ ] play chess/go game against pete/ivan
+- [/] play chess/go game against pete/ivan
 - [ ] schedule leave for next week (what is the weather doing?)
 
 schedule
