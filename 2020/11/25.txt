@@ -1,0 +1,51 @@
+Wednesday 25 Nov 2020
+=====================
+
+hrefs
+-----
+
+most interesting things
+[[ http://www.michaelmcguffin.com/mostInteresting/ ]]
+
+trackpad
+--------
+
+still not using the trackpad today.
+might try and disable the trackpoint as well, I am relying on it too much.
+
+work
+----
+
+- [.] get pr #5193 ready [[ https://github.com/Runn-Fast/runn/pull/5193 ]]
+- [.] review pr #5200 [[ https://github.com/Runn-Fast/runn/pull/5200 ]]
+- [x] can we detect unsaved models in relay? -> not without custom IDs or an extra field
+- [.] reviewro's SAML PR [[ https://github.com/Runn-Fast/runn/pull/4734 ]] 
+- [ ] continue learning how to configure/use Hasura
+
+todo
+----
+- [x] bake bagels
+- [x] lunch with the fellas
+- [x] write message for Tim/his family/new baby and send to Ruth
+- [ ] play chess/go game against pete/ivan
+- [ ] schedule leave for next week (what is the weather doing?)
+
+schedule
+--------
+
+0900,0945 baking bagels
+1000,1040 dev meeting
+1100,1200 design meeting
+1230,1330 lunch with ivan & brendo
+1430,1600 prod access meeting
+1800,1900 bouldering
+
+docker
+------
+
+running my desktop inside docker combined with running dev projects in docker means I can reload my entire desktop environment without having to kill/restart my dev projects. NICE!
+
+sichuan kitchen
+---------------
+
+A great lunch with Ivan and Brendon at Sichuan Kitchen. Ivan recommended the B9 noodles, spicy but very satisfying. I also tried a "boiled egg with tea flavour" -- tastes a lot better than it sounds (and looks).

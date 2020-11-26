@@ -1,0 +1,12 @@
+Thursday 26 Nov 2020
+====================
+
+It would be useful to catch TODO and FIXME comments with an ESLint.
+I should check how the rest of the time feels.
+[[ https://eslint.org/docs/rules/no-warning-comments ]]
+
+Does software exist to view and reply to PR comments through the terminal?
+
+I should try out https://aerc-mail.org/
+
+Stumbled upon Fltrdr. Looks like a cool project, I would like to try reading with it. [[ https://github.com/octobanana/fltrdr ]]

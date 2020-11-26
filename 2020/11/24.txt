@@ -1,0 +1,127 @@
+Tuesday 24 Nov 2020
+===================
+
+no trackpad
+-----------
+
+I disabled my trackpad. Going to see if I can go a whole day without using the mouse.
+
+  xinput disable 'Synaptics TM3289-021'
+
+I still have vhe trackpoint nipple as a fallback.
+
+figma
+-----
+
+Allow using the <space> key moving the mouse to pan the screen:
+
+  xinput set-prop 'Synaptics TM3289-021' 'libinput Disable While Typing Enabled' 0
+
+todo
+----
+
+- [x] check that my microphone works
+- [ ] write message for Tim/his family/new baby and send to Ruth
+- [x] finish off PR #4951 (for real this time) (well nearly...)
+- [ ] review/test ro's SAML PR
+- [ ] continue learning how to configure/use Hasura
+- [x] make bagels
+
+alsamixer
+---------
+
+- easily check if microphone is working by using audacity
+- use <space> to toggler microphone inputs
+- input level doesn't need to be maxxed out
+
+port numbers
+------------
+
+seems funny that a service gets to have their own port number.
+
+Why can't I use port 0?
+
+[[ https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers ]]
+
+pomodoros
+---------
+
+I would like to try and achieve a pomodoro today.
+
+How I hope it will work:
+
+1. I set a task to complete
+2. I set a timer for 25 minutes
+3. I work undistracted for 25 minutes
+4. I take a break for 5 minutes
+
+While working in a pomodoro, avoid:
+
+- checking slack
+- talking to other people
+- leaving your desk
+- browsing the internet
+- using your phone
+
+This only works if I have a set task to complete.
+
+pomodoros:
+
+[1020,1045]: write unit tests for insight helpers
+[1055,1120]: check that figures match for main branch
+
+typescript
+----------
+
+Running the compiler in --watch mode is so much faster when fixing issues.
+
+  npx tsc --noEmit --watch
+
+stayradiated/shell
+------------------
+
+Need to figure out why bspwm/bspc loses it connection when I apt install something.
+
+Alternatively find a way to fix the session.
+
+bagels
+------
+
+It was Ivan's birthday on Saturday. I decided to make bagels for him. They will be ready to eat tomorrow!
+
+sprouts
+-------
+
+I've been playing "sprouts" with Pete & Ivan.
+
+It's an interesting game, I don't quite understand why someone wins or loses.
+
+Pete discovered that once the graph equates to a triangle than the game is over.
+
+[[ https://en.wikipedia.org/wiki/Sprouts_(game) ]]
+
+samurai bowl
+------------
+
+Ivan invited me out for dinner. We asked Brendo if he wanted to join us but he had some important work he wanted to complete.
+
+We walked over to Samurai Bowl for ramen. Ivan had bought a guitar off TradeMe and was carrying it with him.
+
+Ivan's flatmate Mike joined us. I shouted Ivan dinner because it was his birthday recently.
+
+I had the Vegan Spicy Miso Ramen with a Ramen Egg. It was delicious but very spicy, tears were shed.
+
+blood test
+----------
+
+I think it would be worthwhile to get a blood test and see how my vitamin
+levels are going. Kotte was telling me how she went vegan and become very deficient in vitamin b12 and now needs to get b12 shots every week.
+
+cypress
+-------
+
+Make sure are running the same version of Cypress locally and on CI or else you waste a lot of time debugging errors.
+
+In your CI script, you shoud use `npx cypress install` instead of `yarn add cypress`.
+
+The latter will install the latest version of Cypress instead of the version you have specified in your package.json.

@@ -1,0 +1,18 @@
+Monday 23 Nov 2020
+==================
+
+- morning bouldering session with Pete at uprising.
+- grabbing flour, dates, oats and baking powder from Bin Inn. I also grabbed some flour to make bagels tomorrow.
+- cycled over to the Wigram New World. Bought peanut butter, apples, carrots, brocolli, hummus and sprouts. 
+- I cooked a roast veggie salad for lunch - plenty of food for both Pete and I.
+- configuring my laptop, updating my docker config to support xsetwacom. Also installing REXPaint using Wine.
+- pete and katja are going out for their monday night community dinner. I ordered a veg biryani from Roti Chai. It was quite tasty and I ate the whole thing... I felt uncomfortably full. I would not do that again. I also ordered a naan bread and that got left out -- next time I should check to make sure I have everything before I leave.
+- watching George Hotz continue to experiment with Context Tree Weighting and building a lossless file compression engine.
+- watching Stranger Things s2e4 with Jo. She is back home after visiting her grandmother over the weekend. Only 2 weeks left before she flies to Antigua!
+- I switched from pulseaudio to pure ALSA yesterday and now I need to learn how to configure my microphone...
+
+xsetwacom + docker
+------------------
+
+1. Install xf86-input-wacom on host and restart
+2. Install xf86-input-wacom inside the docker container
