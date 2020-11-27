@@ -29,7 +29,7 @@ todo
 - [x] request leave for next wednesday
 - [ ] purchase shaving razor
 - [ ] have a look at icebreaker shirts
-- [ ] shout dinner for auckland mates
+- [x] shout dinner for auckland mates
 
 intercity
 ---------
@@ -165,3 +165,10 @@ I messed up Chris's order. I accidentally ordered an extra vegetarian pizza inst
 Chris and I picked up the Sals. Chris and Anna collected the Pizza Club.
 
 We watched a few episodes of Friends season 1. They show has a few good jokes but I don't find it that appealing. 
+
+open source
+-----------
+
+I responded to an issue on the google-places-periods-parser repo about targeting ES5.
+
+I have extended @stayradiated/pkg to support overriding of the tsconfig options.

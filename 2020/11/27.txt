@@ -1,0 +1,100 @@
+Friday 27 Nov 2020
+==================
+
+schedule
+--------
+
+0620,1300 working from the flat
+1310,1340 grab subway for lunch
+1345,1445 working from the flat
+1500,1600 westfield mall
+1600,1645 friday drinks
+
+work
+----
+
+- [x] fix issue with missing time_off views
+- [x] create eslint plugin for checking that CSS import paths exist
+- [ ] continue learning how to configure/use Hasura
+- [ ] can we add relay to the lint-staged config?
+- [ ] review https://github.com/Runn-Fast/runn/pull/5208
+- [ ] review https://github.com/Runn-Fast/runn/pull/5195
+- [ ] review https://github.com/Runn-Fast/runn/pull/5148
+
+todo
+----
+
+- [x] purchase safety razor blades -> bought altra + pomade
+- [x] have a look at icebreaker shirts -> bought singlet
+- [ ] need screen cleaning liquid
+
+mish guru
+---------
+
+I have transferred ownership of the Sentinel project in Balena over to Jacob.
+
+journal-utils
+--------------
+
+Rewrote my journal-utils in python. I learned how to parse arguments, format dates and  write files.
+
+I have added some new aliases to my shell:
+
+- jj: cd to journal directory
+- jd: edit todays journal entry
+- jw: edit this weeks journal entry
+
+xournal++
+---------
+
+I'm trying out using Xournal++ to take handwritten notes.
+
+It's great for drawings but it's a lot faster for me to type text than to write.
+
+I wonder if I could easily embed drawings in these journal files? I think I would have to export them as SVG.
+
+  xournalpp --create-img output.svg input.xopp
+
+eslint: check import path exists
+--------------------------------
+
+I would like to create an ESLint rule that quickly checks that all CSS path imports exist.
+
+I did it! [[ https://github.com/stayradiated/eslint-plugin-import-css-path ]].
+
+It's a fork of [[ https://github.com/BohdanTkachenko/eslint-plugin-require-path-exists ]].
+
+The main difference is that my plugin only checks CSS imports. The original plugin checks imports of all file types. 
+
+It also has zero dependencies and uses `require.resolve` to check if the file exists -- so it's pretty quick!
+
+shirt stains
+------------
+
+[[ https://www.wikihow.com/Remove-Grease-or-Oil-Stains-from-Clothing ]]
+
+Trying this method to remove stains from my shirt.
+
+1. Apply small amount of dish wash liquid to stain
+2. Add a litle bit of water
+3. Use toothbrush to gently scrub stain
+4. Rinse with water
+5. Wash in washing machine
+
+weechat + wee-slack
+-------------------
+
+It's a great way to use slack from the terminal. Also makes it easier to, so I can chat with my mates in the #mish-guru channel.
+
+I now have both Runn and Saltworks connected, so I can chat with my mates in the #mish-guru channel.
+
+westfield mall
+--------------
+
+Walked barefoot into Newmarket. Streets are pretty clean.
+
+Bought astra shaving razor blades. They also sold Layrite pomade so I bought a tub of the original.
+
+Had a look in at the Icebreaker store. They had a 30% off sale. Tried on a few shirts but I didn't like how the sleeves sat. Picked up a black singlet for $48.
+
+At 4pm I sat at the Something & Social cafe and caught up with Tim & Nicole for friday drinks. They are both away next week.
