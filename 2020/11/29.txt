@@ -145,4 +145,7 @@ Banana + apple + dates + peanut butter for desert.
 
 A very satisfying meal. I've been eating rubbish the last couple of days: pizza, subway, fried rice - it's great to have an early-ish dinner of veg and feel proper full. 
 
----
+Media
+-----
+
+Watching Linus Torvalds speak about Linux in 2012 [[ https://youtu.be/MShbP3OpASA ]]
