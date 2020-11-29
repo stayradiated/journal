@@ -9,6 +9,8 @@
 
 [[ /2020/week/46 ]] Week 46
 [[ /2020/week/47 ]] Week 47
+[[ /2020/week/48 ]] Week 48
+[[ /2020/week/49 ]] Week 49
 
 -- Daily Notes --
 
@@ -26,3 +28,6 @@
 [[ /2020/11/24 ]] Nov 24 Tuesday
 [[ /2020/11/25 ]] Nov 25 Wednesday
 [[ /2020/11/26 ]] Nov 26 Thursday
+[[ /2020/11/27 ]] Nov 27 Friday
+[[ /2020/11/28 ]] Nov 28 Saturday
+[[ /2020/11/29 ]] Nov 29 Sunday

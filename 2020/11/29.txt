@@ -1,30 +1,57 @@
+Sunday 29 Nov 2020
+==================
+
+Schedule
+--------
+
+- Bake scones
+- Pack bag
+- Catch bus into town
+- Grab a kebab for lunch
+- Purchase Poetry for Neanderthals board game
+- Coffee at the Ferry Building
+- Catch shuttle to Whangamata
+- Grocery shopping at New World
+- Run along the beach
+- Roast veg for dinner
+- Evening walk along the beach
+- Call parents
+
 Todo
 ----
 
-- [ ] Bake date scones
+- [x] Bake date scones
 - [/] Purchase Crabs Adjust Humidity
-- [ ] Catch shuttle to Whangamata
-- [ ] Check-in to NZ Surf and Stay
+- [x] Catch shuttle to Whangamata
+- [x] Check-in to NZ Surf and Stay
+- [x] Grocery shopping for dinner
+- [x] Go for a run along the beach
+
+Curious Git
+-----------
+
+I've been reading Mathhew Bretts blog about how Git works. I highly recommend it.
+
+- [x] https://practical-neuroimaging.github.io/git_parable.html
+- [x] https://matthew-brett.github.io/curious-git/curious_journey.html
+- [x] https://matthew-brett.github.io/curious-git/curious_git.html
+- [x] https://matthew-brett.github.io/curious-git/git_submodules.html
 
 Unparliamentary Language
----
+------------------------
 
-You can't say Git in the UK parliament. 
+[[ https://en.m.wikipedia.org/wiki/Unparliamentary_language ]]
 
+You can't say "git" in the UK parliament -- it's considered "Unparliamentary Language".
 
-https://en.m.wikipedia.org/wiki/Unparliamentary_language
+NZ has an official list, it's pretty funny: [[ https://www.parliament.nz/en/visit-and-learn/history-and-buildings/special-topics/unparliamentary-language/ ]]
 
-NZ has a great list: 
-https://www.parliament.nz/en/visit-and-learn/history-and-buildings/special-topics/unparliamentary-language/
-
-Idle vapourings of a mind diseased
-
-His brains could revolve inside a peanut shell for a thousand years without touching the sides
-
-Energy of a tired snail returning home from a funeral
+- Idle vapourings of a mind diseased
+- His brains could revolve inside a peanut shell for a thousand years without touching the sides
+- Energy of a tired snail returning home from a funeral
 
 Date Scones
-----
+-----------
 
 I made a batch of cinnamon date scones for the flat before I left. They turned out pretty decent.
 
@@ -35,9 +62,9 @@ This is the recipe I used:
 [[ https://www.lightscamera-bake.com/date-scones/ ]]
 
 Inner Link Bus
----
+--------------
 
-Caught the Inner Link bus, which does a loop around central Auckland. However seem to have caught the wrong bus because it's taking me the long way around. I'm rather confused - there must be 2 inner link busses that go in alternate directions but both start at the same bus stop.
+Caught the Inner Link bus, which does a loop around central Auckland. However seem to have caught the wrong bus because it's taking me the long way around. I'm rather confused - there must be 2 inner link buses that go in alternate directions but both start at the same bus stop.
 
 Oh well. It's not a bad day for sitting on a bus. 
 
@@ -49,9 +76,9 @@ I arrived in the city to find that the Santa parade is on and most of the street
 
 
 King of Cards
----
+-------------
 
-I stopped by the King of Cards boars game shop, perhaps the best board game shop in central auckland. I was looking for the Crabs Adjust Humidity board game, but they were out of stock. They did have Chronicles of Crime ($77) and Betrayal in the House in the Hill ($84) but these games were too large to take with me. 
+I stopped by the King of Cards boars game shop, perhaps the best board game shop in central Auckland. I was looking for the Crabs Adjust Humidity board game, but they were out of stock. They did have Chronicles of Crime ($77) and Betrayal in the House in the Hill ($84) but these games were too large to take with me. 
 
 Other games I saw:
 
@@ -65,19 +92,19 @@ How long can you use just one sound words to talk with? It is quite hard. There 
 [[ https://xkcd.com/thing-explainer/ ]]
 
 Lunch
----
+-----
 
 I bought a falafel kebab from Ivan's Kebabs. $11.50. No where near Berlin quality but still filling enough. 
 
 Kiwi Shuttle
----
+------------
 
 Waiting at the Queens Wharf to be picked up at 1:15pm. Large parts of Quay street are under construction so it's going to be a slow trip in and out of the city. 
 
 Carol from Go Kiwi arrived at 1pm. She live in Whitianga,  is in her 70s and has been driving for over 50 years! She has no time for auckland drivers. 
 
 Groceries
----
+---------
 
 After unpacking my gear I walked to the local supermarket. 
 
@@ -101,7 +128,7 @@ Total cost: $53
 Should cover lunch/dinner for the rest of the week. 
 
 Afternoon Run
----
+-------------
 
 I went out for a run along the beach. No shoes, just bare feet, soft sand and slow waves. It was glorious. 
 
@@ -110,7 +137,7 @@ I ran 5km and then went in for a quick swim.
 I aim to do this each morning. 
 
 Dinner
----
+------
 
 Roast pumpkin, onion, chickpeas and broccoli + fresh carrots, cucumber, capsicum and tomato + scoop of hummus. 
 
