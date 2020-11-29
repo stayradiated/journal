@@ -1,5 +1,5 @@
 Monday 30 Nov 2020
-===================
+==================
 
 schedule
 --------
@@ -11,6 +11,18 @@ schedule
 ? Go for a run
 ? Roast veg for lunch
 ? Catch up with Jo
+
+work
+----
+
+- [x] review https://github.com/Runn-Fast/runn/pull/5208
+- [x] review https://github.com/Runn-Fast/runn/pull/5195
+- [/] review https://github.com/Runn-Fast/runn/pull/5148
+- [x] review https://github.com/Runn-Fast/runn/pull/5211
+- [x] review https://github.com/Runn-Fast/runn/pull/5212
+- [x] can we add relay to the lint-staged config?
+- [x] continue learning how to configure/use Hasura -> hasura-cli is great
+- [ ] configure relay to support multiple endpoints (is it possible?)
 
 Surfing
 -------
