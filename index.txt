@@ -31,3 +31,6 @@
 [[ /2020/11/27 ]] Nov 27 Friday
 [[ /2020/11/28 ]] Nov 28 Saturday
 [[ /2020/11/29 ]] Nov 29 Sunday
+[[ /2020/11/30 ]] Nov 30 Monday
+
+[[ /2020/12/01 ]] Dec 01 Tuesday

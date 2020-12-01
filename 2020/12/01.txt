@@ -1,0 +1,134 @@
+Tuesday 01 Dec 2020
+===================
+
+It's December! How is it December already?
+
+Monthly Goals
+-------------
+
+I made it a month without added sugar, alcohol or meat. 
+
+Added sugar: I cheated a little by eating out at restaurants -- I'm sure they add sugar to their food -- but because it's not printed anywhere I let it go. I also ate that one cookie I got on the plane...
+
+Alcohol: Had a couple small glasses of Pete's home made cider, also had that one drink out at Little High when James was in Christchurch. Didn't miss alcohol, I'd rather have a cup of tea and a glass of water.
+
+Meat: 100% no cheating, it's pretty easy to not eat meat. Going 100% plant based (i.e. no animal products) should be a challenge for another month.
+
+Goals for December:
+
+- No peanut butter (this is going to be difficult)
+- No coffee
+
+I ate way too much peanut butter in November, I think I should take a break. I am not sure if there is a decent alternative -- I could just eat dates and apples plain... What about almond butter? It's twice the cost, which would encourage me to eat less of it - and I've heard almonds are more nutritious than peanuts.
+
+I started drinking coffee this year. I don't really like it, but I find myself drinking it quite often. Mostly because I like spending time at cafes, usually with my laptop or notebook -- and I'll buy a coffee as payment for spending time there. I would previously buy a tea or chai latte, but the coffee is usually the cheapest drink on the menu.
+
+I wonder how much the extra caffeine has been affecting me -- it will be quite interesting to see how I go without coffee for a month. The hardest part will be picking something to buy at a cafe - I still want to avoid sugary foods and drinks. Tea seems like a sensible option, but ~$5 is quite expensive for a teabag and hot water in a cup.
+
+The Mo
+------
+
+How long will it last? I should probably shave it off. Need to get a decent profile photo with it first...
+
+Mum thinks I look like Ted Lasso...
+
+Schedule
+--------
+
+0600      early start!
+0625,1110 runn: migrate PersonDashboard to Hasura
+1115,1330 surfing lesson!
+1330,1415 shower + lunch
+1415,1600 runn: planning out future work for Hasura
+1600,1700 running a lap of the beach
+1730,1800 strolling around
+1800,1900 cook and eat dinner
+1900,2000 journaling by the beach
+2000,2030 phone call with parents
+2045,2110 update journal
+
+Work 
+----
+
+- [x] migrate PersonDashboard to use Hasura GraphQL server
+- [x] review https://github.com/Runn-Fast/runn/pull/4734
+- [x] plan out future work on Hasura
+
+Surfing
+-------
+
+I have a surfing lesson booked for 10:00 today, however it's been rescheduled to 11:30 (something to do with the tide being too high). 
+
+I have also paid for a second private lesson, which will probably be on Friday (either 8:30am or 1pm).
+
+At 11:15 I went downstairs to the office. Cath drove me over to the SurfsUp trailer and picked out a wetsuit and board for me. I got changed and met Moro - the surf instructor. 
+
+I am using an Platino 8ft Soft Top Softboard - a great board for a beginner. Light weight and easy to balance on.
+
+Moro took me through some basic safety guidelines:
+
+- if you are renting the board, ask the people there what to watch out for
+- check for rocks
+- check for rip currents
+- if you are in a rip current, swim to the side
+- watch out for other people (and surfboards) in the water
+- don't paddle directly behind another surfer (i.e. between them and the shore)
+
+He then showed me how to lie on the board, paddle and stand up. We then went out into the water.
+
+Moro helped me catch a wave. I managed to stand up on the first go! It's all about getting that front foot forward and standing up with confidence.
+
+I need to practice timing to catch the wave, making sure I am facing perpendicular to the wave and paddling at the right speed to catch it.
+
+I should then quickly stand up on the board, find my balance (knees bent, arms stretched forward, "surfer pose") and then try and turn the board to the side to ride the wave at an angle.
+
+We wrapped up around 1pm, I enjoyed the lesson. I think I will rent a board/wetsuit tomorrow and have a practice by myself.
+
+Food
+----
+
+Lunch and dinner were the same:
+
+- roast pumpkin, carrot, chickpeas, onion and broccoli
+- freshly sliced capsicum, cucumber and tomato
+- a hearty dollop of hummus on top
+- sliced apple and banana for desert
+- cup of peppermint/lemon tea on the side
+
+I ate all my dates and peanut butter yesterday.
+
+Tomorrow I think I will pick up:
+
+- [ ] a jar of almond butter
+- [ ] a bag of dates
+- [ ] a can of chickpeas
+- [ ] a brown onion
+- [ ] a few more apples?
+
+I also need to get some paper to wrap Hannah's present in.
+
+Running
+-------
+
+I finished work at 4pm and went out for a 8km run along the Whangamata beach. There was a quite stiff breeze blowing, so it was quite a slow pace heading east. I am pretty pround of myself for making it the whole way though, going from one end of the beach to the other. Running in bare feet on wet sand is quite fun, you just have to watch out for the sea shells! (also I keep splashing sand and sea water over my phone...)
+
+Sunset
+------
+
+Sitting at a picnic table by the beach in the evening, listening to music and writing in my journal - it's a gorgeous spot.
+
+Term Deposits
+-------------
+
+It's the 1st of the month and I've put another $2k into a 6 month term deposit. The plan is to get a 6 month runway of emergency funds back in place (I chewed through it at the start of 2020 while I was between jobs).
+
+I think I might switch to 12 month term deposits - I like the idea of being able to go a whole year without having to work.
+
+Tomorrow
+--------
+
+I requested to take Wednesday off, but it hasn't been approved yet (Tim, Nicole and Ro are all on leave themselves this week).
+
+I think I will take the day off and continue improving my plaintext journal.
+
+Surprisingly, taking Wednesday off is quite different then Monday. Mondays are preceded by two days of weekend, so things just flow naturally. Wednesdays are surrounded by work, so I feel like I need to make the most of my time and do something worthwhile.
