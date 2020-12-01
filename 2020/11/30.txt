@@ -6,11 +6,12 @@ schedule
 
 0800,1200 Working from the hostel
 0900,0930 Have a shave
-1040 Starts raining
+1040,1300 Raining outside
+1215,1330 catching up with Jo
+1330,1400 Roast veg for lunch
+1400,1600 Working from the hostel
 
 ? Go for a run
-? Roast veg for lunch
-? Catch up with Jo
 
 work
 ----
