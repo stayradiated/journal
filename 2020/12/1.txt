@@ -33,6 +33,10 @@ schedule
 1115,1330 surfing lesson!
 1330,1415 shower + lunch
 1415,1600 runn: planning out future work for Hasura
+1600,1700 running a lap of the beach
+1730,1800 strolling around
+1800,1900 cook and eat dinner
+1900,2000 journaling by the beach
 
 
 work 
@@ -40,7 +44,7 @@ work
 
 - [x] migrate PersonDashboard to use Hasura GraphQL server
 - [x] review https://github.com/Runn-Fast/runn/pull/4734
-- [ ] plan out future work on Hasura
+- [x] plan out future work on Hasura
 
 surfing
 -------
@@ -48,3 +52,7 @@ surfing
 I have a surfing lesson booked for 10:00 today, however it's been rescheduled to 11:30 (something to do with the tide being too high). 
 
 I have also paid for a second private lesson, which will probably be on Friday (either 8:30am or 1pm).
+
+At 11:15 I went downstairs to the office. Cath drove me over to the SurfsUp trailer and picked out a wetsuit and board for me. I got changed and met Moro - the surf instructor. 
+
+He took me through some basic safety 
