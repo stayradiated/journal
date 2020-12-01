@@ -1,0 +1,9 @@
+Wednesday 02 Nov 2020
+====
+
+I think I will work today, but take a learning and development day to learn C. 
+
+I would like to rewrite the plaintext site generator in C. 
+
+I'm not sure if you can precompile binaries like you can in Go - but I imagine the build tools are already installed on Netlify and the build step is probably pretty quick. 
+
