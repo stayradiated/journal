@@ -21,7 +21,7 @@ Schedule
 1000,1045,dev meeting #st
 1100,1215,design meeting #st
 1220,1300,lunch out #rt
-1515,1530,staris with pete
+1515,1530,stairs with pete
 1630,1700,make bliss balls
 1700,1730,cycle home
 1800,1900,make dinner
