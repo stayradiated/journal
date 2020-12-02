@@ -1,8 +1,83 @@
+Thursday 03 Dec 2020
+====================
+
+schedule
+--------
+
+0600,0625 wake up
+0630,0700 walk along beach with cup of tea and a podcast
+0700,0750 working from the hostel (outside)
+0800,1035 work from port road project cafe
+1045,1130 hanging out at the hostel
+1145,1230 lunch
+
+          hire a surfboard
+          enquire about kayak rentals
+
+todo
+----
+
+- [x] Terminate remaining DigitalOcean services  (costing me a whopping $0.75/month)
+- [ ] Read latest post on aiweirdness.com [[ https://aiweirdness.com/post/636407379424100352/a-big-neural-net-reviews-a-smaller-neural-nets ]]
+- [ ] 
+
+work
+----
+
+- [x] reply to ro's comments about SSO on [[ https://github.com/Runn-Fast/runn/pull/4734 ]]
+- [ ] finish migrating MyTimesheets containers to use Hasura
+
+dinner
+------
+
+It's 7am and I'm already thinking about dinner...
+
+I think I will treat myself to a gourmet veggie patties and hamburger bun.
+The hostel has a BBQ I can use. I have enough veg in the fridge to cover the other toppings.
+
+- [ ] 2x veggie patties
+- [ ] 2x burger buns
+
+zsh
+---
+
+Today I learned about setting `REPORTTIME` in zsh. If set, zsh will automatically print how long a command took to execute -- but only if it was over the `REPORTTIME`.
+
+Important note: this only tracks user+system time -- it doesn't actually detect on wall time.
+
+For example:
+
+  $ REPORTTIME=3
+  $ sleep 2 
+  $ sleep 4
+
+Docs: [[ http://zsh.sourceforge.net/Doc/Release/Parameters.html ]]
+
+I want to understand the shell `time` builtin.
+
+  $ time curl -s https://stackoverflow.com/ > /dev/null
+  0.03s user 0.00s system 3% cpu 1.003 total
+
+Notice how the entire requests takes 1s total, but barely any user/system time?
+
+user:
+  amount of time spent executing user code
+  note that this is the sum time of all cores - so it may be higher for multi-threaded programs
+
+system:
+  amount of time spent executing kernel code
+  i.e. system operations, context switching, resource allocation
+
+This makes sense. Running `sleep 5` doesn't actually require the CPU to compute anything for 5 seconds. Same for requesting something over the network, most of the time is spent waiting for packets rather than calculating something in the CPU.
+
+hrefs
+=====
+
 Great post to read and think about goal setting:
 
-https://weiweihsu.com/2019-10-20/weeknotes-35
+[[ https://weiweihsu.com/2019-10-20/weeknotes-35 ]]
 
 Matt Webb's blog has some great posts to dig through:
 
-http://interconnected.org/home/
+[[ http://interconnected.org/home/ ]]
 
