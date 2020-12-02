@@ -1,5 +1,28 @@
 Wednesday 02 Nov 2020
-====
+=====================
+
+schedule
+--------
+
+0600      get up
+0615,0645 walk around beach
+0700,0800 sitting in the hostel lounge with my laptop
+0800,0950 port road project cafe, learning about markup languages
+0950,1215 unlock the tonipal's treasure with jo
+1230,1330 lunch at hostel
+1330,1410 cycle to shops on pink bike
+1415,1445 coding in c
+1445,1545 hanging out at the beach
+1545,1705 coding in c
+1710,1800 run along the beach + short swim
+1800,1830 shower and save
+1830,1930 roast veg dinner
+1930,2030 biking around the streets of Whangamata
+2030,2040 catch up with chris
+2100,2120 drinks + chats with the couple staying at the hostel (chile guy & kiwi gal)
+
+work
+----
 
 I think I will work today, but take a learning and development day to learn C. 
 
@@ -7,3 +30,105 @@ I would like to rewrite the plaintext site generator in C.
 
 I'm not sure if you can precompile binaries like you can in Go - but I imagine the build tools are already installed on Netlify and the build step is probably pretty quick. 
 
+Update: checked my email and my leave request has been approved!
+
+So, yeah, let's take the day off, skip the dev/design meetings and go learn C from a cafe.
+
+learning c
+----------
+
+Starting with Learn C in Y Minutes: [[ https://learnxinyminutes.com/docs/c/ ]]
+
+[[ https://www.kernel.org/doc/Documentation/process/coding-style.rst ]]
+
+> However, never break user-visible strings such as printk messages because
+that breaks the ability to grep for them.
+
+K&R C: [[ https://usuaris.tinet.cat/bertolin/pdfs/c_programming_language.pdf ]]
+
+...
+
+I decided to just try writing `plaintext` in C.
+
+First, I need to scan a directory for a list of `.txt` files.
+
+I found this article for reading a directory: [[ https://c-for-dummies.com/blog/?p=3246 ]]
+
+I've got a simple program that recursively lists all files in a directory.
+
+I've also got the PCRE2 example working -- I'll need to use PCRE2 to get regular expressions in C.
+
+Next step is to read and write files.
+
+rss
+---
+
+I've been reading about Aaron Swartz. He helped develop Reddit, RSS, Markdown and the Creative Commons!
+
+His plan for RSS 3.0 sounds fantastic, it's such a shame that RSS 2.0 is still the standard. I wonder if anyone has written a tool for translating between v3 and v2?
+
+media
+-----
+
+Jay Foreman: The Map That Saved The Most Lives
+[[ https://www.youtube.com/watch?v=Na9iO_HEe14 ]]
+
+Kurzgesagt: What If Earth Got Kicked Out Of The Solar System
+[[ https://www.youtube.com/watch?v=gLZJlf5rHVs ]]
+
+George Hotz: Context Tree Weighting pt3 (only 1/3 completed)
+[[ https://www.youtube.com/watch?v=x9uum2tddqQ#t=2820 ]]
+
+books
+-----
+
+I finished reading "Neuromancer" by William Gibson last night. Worth reading again.
+
+[[ https://en.wikipedia.org/wiki/Neuromancer ]]
+
+I've started on "The Metamorhosis of Prime Intellect" by Roger Williams.
+
+[[ https://en.wikipedia.org/wiki/The_Metamorphosis_of_Prime_Intellect ]]
+
+I've also been reading the first chapter of the K&R C book.
+
+unlock: the tonipals treasure
+-----------------------------
+
+The best unlock game so far. It is supposed to the be the most difficult of the three we've played, Jo and I both found it the easiest -- we didn't get completely stuck on any puzzle.
+
+!! SPOILER ~~ THE TONIPALS TREAUSER !!
+
+Good bits:
+- Using the cards to make a map was pretty cool
+
+Could be better bits:
+- Ending was a bit anticlimatic - it shouldn't be so easy to skip right to th eend.  We spent a good 15 minutes finding all the right cards to make the map -- but we missed the parrots clue ("I can not see you" --> "Eye Can Knot Sea U") and just started to trying to solve the Sea riddle -- putting the magnifiying glass down and then seeing the numbers.
+
+Difficult bits:
+- We missed that the keys should go with the locked chest and that they had little white markings on them.
+
+Confused bits:
+- How are you supposed to know which screws to unwind? It was a guess to pick the two flatheads.
+- How are you supposed to know which ship is Johnsons? We knew that he was coming from the East and that the rails would be red -- but we thought that his ship would have 2 cannons but it actually had 3...
+
+surfing
+-------
+
+I was hoping to go out surfing today, but the waves weren't great around 3:30pm. They got better around 6pm but I didn't have anywhere to hire a board from...  I will def need to go surfing tomorrow!
+
+I ended up spending half an hour on the beach watching some other people try surfing.
+
+running
+-------
+
+I went for a short 5km run along the beach listening to Penn's Sunday School podcast where he talks with Elan Lee, creator of the Exploding Kittens game. They talk about how great Poetry for Neanderthals is -- sounds like I made a good purchase!
+
+After the run I went for a short swim in the sea -- it was surprisingly warm after the wind had died down. I even tried body surfing for a bit. 
+
+cycling
+-------
+
+I asked Ashley, a young woman working at the hostel, if I could borrow the bike out the front. She said she didn't know whose bike that was, but that she would be happy to let me use her old bike around the bike -- it's bright pink, she jokingly said I would look quite cool on it.
+
+I rode around town exploring parts of Whangamata I had never been too before. I didn't realise there was so much beach along the South estury. I also stopped by New World and picked up some more groceries.
