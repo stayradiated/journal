@@ -1,7 +1,7 @@
 Thursday 03 Dec 2020
 ====================
 
-schedule
+Schedule
 --------
 
 0600,0625 wake up
@@ -11,10 +11,14 @@ schedule
 1045,1130 hanging out at the hostel
 1145,1230 lunch
 
-          hire a surfboard
-          enquire about kayak rentals
+1450,1500 cycling around town, stop by Whanga Books
+1500,1530 working from Little Latte
+1530,1600 picking up groceries
+1600,1700 running along the beach
+1730,1830 dinner
+1830,2000 cycling around town
 
-todo
+Todo
 ----
 
 - [x] Terminate remaining DigitalOcean services  (costing me a whopping $0.75/month)
@@ -25,9 +29,10 @@ work
 ----
 
 - [x] reply to ro's comments about SSO on [[ https://github.com/Runn-Fast/runn/pull/4734 ]]
-- [ ] finish migrating MyTimesheets containers to use Hasura
+- [x] finish migrating MyTimesheets containers to use Hasura
+- [ ] try out using Postgraphile
 
-dinner
+Dinner
 ------
 
 It's 7am and I'm already thinking about dinner...
@@ -38,7 +43,7 @@ The hostel has a BBQ I can use. I have enough veg in the fridge to cover the oth
 - [ ] 2x veggie patties
 - [ ] 2x burger buns
 
-zsh
+Zsh
 ---
 
 Today I learned about setting `REPORTTIME` in zsh. If set, zsh will automatically print how long a command took to execute -- but only if it was over the `REPORTTIME`.
@@ -70,8 +75,8 @@ system:
 
 This makes sense. Running `sleep 5` doesn't actually require the CPU to compute anything for 5 seconds. Same for requesting something over the network, most of the time is spent waiting for packets rather than calculating something in the CPU.
 
-hrefs
-=====
+Hrefs
+-----
 
 Great post to read and think about goal setting:
 
@@ -81,7 +86,17 @@ Matt Webb's blog has some great posts to dig through:
 
 [[ http://interconnected.org/home/ ]]
 
-...
+Media
+-----
+
+Craig's daily routine: [[ https://www.youtube.com/watch?v=XF-hWwZYwu8 ]]
+
+He references this video by Tim Ferris: [[ https://www.youtube.com/watch?v=eSdoidIMGNk ]]
+
+Interesting idea to have an early protein-heavy breakfast (eggs, black beans and spinach). I'm quite happy with my first meal at noon, but I could see myself adding spinach to the menu, as well as getting back into hard boiled eggs.
+
+Afternoon + evening
+-------------------
 
 It's 8pm and I'm lying in the hammock at the hostel. It's a beautiful evening. I feel very full, I had a luxury meal.
 
@@ -89,11 +104,11 @@ After I left Little Latte cafe, I cycled over to New World. A driver passing by 
 
 I cruised around town, thinking about what to do with my evening. I decided to drop off the groceries and then go for a run along the beach.
 
-I ran 8.5km along the beach, doing a complete lap. I forgot to start strava until over halfway done though... I listened to Ten Fe and Penn's Sunday School. I stopped to rest my feet several times - running on sand is still a bjt sore, also considering that I've been out running every day for the past 5 days. I finished up with a quick dip in the waves to cool off. Sea water is saltier than I remembered.
+I ran 8.5km along the beach, doing a complete lap. I forgot to start Strava until over halfway done though... I listened to Ten Fe and Penn's Sunday School. I stopped to rest my feet several times - running on sand is still a bit sore, also considering that I've been out running every day for the past 5 days. I finished up with a quick dip in the waves to cool off. Sea water is saltier than I remembered.
 
 Some girls had written "BE KIND" In large letters on the beach. Feeling nostalgic for the days of VHS rentals, I added in similar large letters, the word "REWIND". 
 
-I considered using the BBQ, but the strong southerly was discouraging, so I cooked up dinner in the kitchen. Fried onions, chickpea patties, fried brocolli, fried eggs, capsicum, cucumber, roast kumara chips, hummus and fried roti bread. Very tasty. I have plenty of spare food for lunch or dinner tomorrow as well. 
+I considered using the BBQ, but the strong southerly was discouraging, so I cooked up dinner in the kitchen. Fried onions, chickpea patties, fried broccoli, fried eggs, capsicum, cucumber, roast kumara chips, hummus and fried roti bread. Very tasty. I have plenty of spare food for lunch or dinner tomorrow as well. 
 
 For desert I had apple, dates and almond butter. At the New World a guy dressed up as Father Christmas handed me some chocolate, which I also ate. Two recent arrivals, an older couple, Christine and Jeff, also offered me some cheesecake and ice cream, which I readily accepted. I haven't had sweets in a month! So good!
 
