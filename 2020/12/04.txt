@@ -40,7 +40,13 @@ By default, Arch Linux will lock your account for 10 minutes if you try to login
 Surfing
 -------
 
-I have a surfing lesson booked for today. The original plan was to head out 9am but the waves aren't great so Mauro has rescheduled for 1pm.
+I have a surfing lesson booked for today. The original plan was to head out 9am but the waves aren't great so Mauro has rescheduled for 1pm. 
+
+I decided to have an early light lunch at 11:30am - a banana and two apples. 
+
+Mauro picked me up from the hostel and we drove over to the beach. There were some small waves but he didn't think it was doing a lesson. I decided to just go out surfing by myself instead - borrowing a board and wetsuit. I surfed for an 1 hour, practicing catching waves and paddling around. It was fun, but it would have been nice to have some bigger waves or have some friends around. 
+
+I left the board at the rental trailer and walked back to the hostel to shower the sand off and get changed. 
 
 Tmux
 ----
@@ -53,3 +59,16 @@ The suggested answer of using break-pane/join-pane works great:
 
   bind-key ! break-pane -d -n '...'
   bind-key @ join-pane -s $.1
+  
+  
+ Lunch
+ -----
+ 
+ After surfing I had a proper lunch: a chickpea patty, fried egg, roti bread, sliced capsicum, cucumber, roast chickpeas and roast pumpkin. Healthy and delicious. I also treated myself to sliced apple, dates and almond butter - with a cup of peppermint/lemon tea on the side. 
+ 
+I needed to catch up on work, so I ate with my laptop, catching up on slack messages. 
+
+Privacy Policy
+---
+
+https://www.privacy.org.nz/tools/knowledge-base/view/535
