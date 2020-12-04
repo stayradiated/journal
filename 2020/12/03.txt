@@ -10,7 +10,7 @@ Schedule
 0800,1035 work from port road project cafe
 1045,1130 hanging out at the hostel
 1145,1230 lunch
-
+1230,1430 working from the hostel
 1450,1500 cycling around town, stop by Whanga Books
 1500,1530 working from Little Latte
 1530,1600 picking up groceries
@@ -23,14 +23,13 @@ Todo
 
 - [x] Terminate remaining DigitalOcean services  (costing me a whopping $0.75/month)
 - [ ] Read latest post on aiweirdness.com [[ https://aiweirdness.com/post/636407379424100352/a-big-neural-net-reviews-a-smaller-neural-nets ]]
-- [ ] 
 
 work
 ----
 
 - [x] reply to ro's comments about SSO on [[ https://github.com/Runn-Fast/runn/pull/4734 ]]
 - [x] finish migrating MyTimesheets containers to use Hasura
-- [ ] try out using Postgraphile
+- [x] try out using Postgraphile
 
 Dinner
 ------

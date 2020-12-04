@@ -1,2 +1,55 @@
 Friday 04 Dec 2020
 ==================
+
+Todo
+----
+
+- [ ] Read latest post on aiweirdness.com [[ https://aiweirdness.com/post/636407379424100352/a-big-neural-net-reviews-a-smaller-neural-nets ]]
+- [ ] Learn how to configure xournalpp keyboard shortcuts [[ https://github.com/xournalpp/xournalpp/issues/919 ]]
+
+Schedule
+--------
+
+0600,0620 waking up
+0620,0645 morning stroll along beach with cup of tea
+0645,0715 packing up my gear
+0715,0845 working
+0845,0900 talking with Mauro about surfing lessons (was supposed to be at 9am)
+0900,1120 working from Project Port Road
+1130,1145 working from the hostel
+1145,1245 watching half of Stranger Things s2e9 with Jo
+1300,1400 surfing
+1400,1420 get back to hostel, shower
+1430,1530 make and eat lunch while catching up on work
+1530,1600 work work work
+1600,1700 catch up with Rowan
+1800,1811 check out of the hostel
+
+Hostel
+------
+
+The internet has been quite rubbish since yesterday evening. I'm not sure if it is the hostel or my laptop.
+
+Ok, after comparing fast.com results on my phone and laptop, it's probably my laptop...
+
+Linux Security
+--------------
+
+By default, Arch Linux will lock your account for 10 minutes if you try to login 3 times and fail. This is rather annoying, but you can configure its rules by editing the file `/etc/security/faillock.conf`.
+
+Surfing
+-------
+
+I have a surfing lesson booked for today. The original plan was to head out 9am but the waves aren't great so Mauro has rescheduled for 1pm.
+
+Tmux
+----
+
+I wanted to know if there was a way to toggle a tmux pane -- similar to `PREFIX + z` but only for a single pane.
+
+Someone else had exactly the same question: https://unix.stackexchange.com/questions/145857/how-do-you-hide-a-tmux-pane
+
+The suggested answer of using break-pane/join-pane works great:
+
+  bind-key ! break-pane -d -n '...'
+  bind-key @ join-pane -s $.1
