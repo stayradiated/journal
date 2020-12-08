@@ -1,0 +1,101 @@
+Saturday 05 Dec 2020
+====================
+
+Schedule
+--------
+
+0600,0645 wake up, make tea, walk along the beach
+0700,0800 chilling in the lounge
+0800,0900 morning walk for coffee with Chris G
+0900          chatting with jo + stranger things s2e9
+     1000 breakfast (hash browns + scrambled eggs)
+          backyard basketball with Chris S
+          chilling on the deck
+          lunch (corn bread & ciabatta)
+          santa parade
+          spectating the Surf Lifesaving competition
+          running along the beach
+          sunblocking up
+          waiting on the deck
+          beach soccer + a swim with Chris G and Anna
+          shower
+          dinner (veg skewers, salad, roast potatoes, fried egg)
+          dishes
+          game: one night ultimate werewolf
+          game: what do you meme?
+     0100 bedtime
+
+
+Todo
+----
+
+- [ ] Tomorrow: hire kayk from Surfsup / get a refund for lesson
+
+M1 Macs
+-------
+
+I listened to the most recent Dithering podcast this morning ("Presidents and CEOs") which prompted me to read Grubers article: [[ https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness ]]. I like his take and I am excited to see how the industry responds to these new chips.
+
+My 2 year old Lenovo X1 Carbon runs pretty cool, rarely uses the fan and seems plenty fast -- though I haven't actually tried the latest MacBook, I'm curious how much better it really is.
+
+I'm in the market for a new laptop, mainly because I'd like to upgrade from 8GB of RAM and you can't do that without replacing the whole machine... The X1 Carbon 8th gen looks good, and the X1 Nano has just been released.
+
+Can you run linux on an M1? Seems not.
+
+Someone asked Linus Torvalds what he thinks of the new laptops:
+
+| I'd absolutely love to have one, if it just ran Linux.. I have fairly fond
+memories of the 11" Macbook Air (I think 4,1) that I used about a decade ago
+(but moved away from because it took Apple too long to fix the screen - and by
+the time they did, I'd moved on to better laptops, and Apple had moved on to
+make Linux less convenient).
+| 
+| Apple may run Linux in their cloud, but their laptops don't ;(
+| 
+| I've been waiting for an ARM laptop that can run Linux for a long time. The new Air would be almost perfect, except for the OS. And I don't have the time to tinker with it, or the inclination to fight companies that don't want to help.
+| 
+| Linus
+
+Source: [[ https://www.realworldtech.com/forum/?threadid=196533&curpostid=196570 ]]
+
+X1 Nano
+-------
+
+Released on 30 November 2020, it's not currently available in their NZ store though. I'm keen to see someone actually try the laptop out and post a review.
+
+[[ https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Nano/p/22TP2X1X1N1 ]]
+
+pros:
+  - it's really light, at just 0.986 kg!
+  - anti-glare screen
+  - support for WWAN 4G and 5G (coming soon)
+
+cons:
+  - you only get 2x USB4 ports and a headphone/mic jack
+  - soldered RAM (but what else are you gonna do?)
+  - 2160x1350 minimum screen dimension (I kinda like how simple 1920x1080 is)
+  - The Nano (with WWAN) is only 104g lighter than the X1
+  - I am comfortable with the form factor of the 14" X1
+
+Music
+-----
+
+Listening to Sun Parade's latest album "Treats for Terry": [[ https://thesunparade.bandcamp.com/ ]]
+
+Highlights from the Beachy Weekend
+----------------------------------
+
+- Morning walk with Chris to Port Road Project to grab a coffee and stroll along the beach. Talking about my new job, chess and AI.
+- Catching up with Jo! She is heading to the carribean in 2 more days. She has nearly finished constructing her ditty bag. We watched the last 20 min of Stranger Things season 2. Planning to catch up again on Monday morning.
+- BBQ breakfast! The guys fried up bacon, hash browns and scrambled eggs.
+- Chilling on the deck reading "Metamorphosis of Prime Intellect"
+- Hannah baked us two loaves of delicious Ciabatta bread.
+- Hannah also made corn bread! With jalapenos, spring onions and corn. Super tasy, I should get the recipe off her.
+- Watching the Santa Parade in town. The coolest bit were three kids with "hoverboards" (self-balancing scooters) that had been modded into go-karts. Looked liked they might have used a kit, it seems like a fun and easy way to get an electric kart.
+- At the beach we watched part of Surf Lifesaving competition. Athletes were competing in an intense relay race, involving padding surf boards, speed kayaking, swimming and running. The 1st place team had a wide lead on the rest.
+- I was worried that I might be getting burnt, so I ran back ~1.5k along the beach and back to the house.
+- Got the gang out to beach around 5pm. Chris G and Anna were keen for a swim, but only Chris followed me into the water. Unfortunately there was a bit of cloud blocking the heat of the sun, but we got used to the water temepeature after a bit. Anna is convinced there are crabs around, I haven't seen any.
+- We made another batch of veg kebabs for dinner -- we grilled them in the oven before charring the edges on the BBQ. Others also had chicken kebabs and veggie sausages. Hannah roasted a bunch of small potatoes that were delicious.
+- Anna made meringues for desert! And she doesn't even eat egg
+- We played One Night Ultimate Werefolf. Tried out the Empath (seems useless?) the Beholder and Sentinel roles along with the regular Seer, Robber, Troublemaker, Minion, Tanner and Doppelganger.
+- We also played "What Do You Meme?" -- a Cards Against Humanity clone where the black cards are images from inernent meme and the white cards are captions you can play. Some of the mature cards are extremely crude but others are hilarious - I was choking with laughter and tears while trying to read out some of the answers.

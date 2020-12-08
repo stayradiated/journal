@@ -24,6 +24,11 @@ Schedule
 1530,1600 work work work
 1600,1700 catch up with Rowan
 1800,1811 check out of the hostel
+1815,1820 mates pick me up from the hostel
+1830,2100 unpacking stuff, making dinner
+2100,2140 cleaning up
+2140,2200 chris and anna arrive
+2200,0000 playing Poetry for Neanderthals
 
 Hostel
 ------
@@ -69,6 +74,21 @@ The suggested answer of using break-pane/join-pane works great:
 I needed to catch up on work, so I ate with my laptop, catching up on slack messages. 
 
 Privacy Policy
----
+--------------
 
-https://www.privacy.org.nz/tools/knowledge-base/view/535
+Did you know that New Zealand recently updated the Privacy Act? I didn't until I got any email from Pak'n'Save about it!
+
+I'm not a lawyer, but from this overview it seems things are moving in the right direction:
+
+[[ https://www.privacy.org.nz/tools/knowledge-base/view/535 ]]
+
+> Strengthening cross-border protections: New Zealand agencies will have to take reasonable steps to ensure that personal information sent overseas is protected by acceptable privacy standards. 
+
+What does it mean for information to be sent overseas? If it's on the public internet, it's available around the world! I guess if an NZ business stores customer information on a server located outside of NZ, then they need to make sure that data is secure?
+
+Beachy Weekend
+--------------
+
+Hannah, Chris S and Anthonly picked me up from the NZ Surfnstay hostel. We drove over to Barrowclough road and unpacked our gear into Hannah's parents house. Anna and Chris G are going to arrive later on. 
+
+I started prepping veggie skewers while the others headed over to New World to grab some more groceries. We are having zuchini, mushroom, capsicum and onion skewers which we will grill on the BBQ. Chris and Anthony helped to assemble them. I made a light salad: grated salad, cucumber, tomato and lettuce. 

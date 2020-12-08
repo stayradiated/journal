@@ -1,0 +1,110 @@
+Sunday 06 Dec 2020
+==================
+
+Schedule
+--------
+
+0640,0700 waking up
+0700,0740 stroll along the beach
+0750,0830 sitting outside in the sun
+          walking to New World with Hannah for hash browns
+1000      breakfast prep
+     1100 breakfast (hash browns, fried egg, ciabatta)
+     1118 call Surfsup about kayak hire
+1130      get ready to go kayaking
+1215      chris and I kayak across bay
+     1300 hire kayaks from Surfsup 4
+1315,1445 kayak around Whenuakura island
+     1500 drive back to AP2 to help chris and hannah with kayak
+1600      group walk into town and get ice cream
+     1700 group walk to supermarket for dinner supplies
+1715,1745 swim in the sea by myself
+1800,1900 nap on the couch
+          help with dinner
+1930,2000 dinner (onions, roast potatoes, salad, hummus, veg skewers)
+          dishes
+          card game: last card
+          board game: poetry for neanderthals
+          meringues, brandy snaps and ice cream for desert
+          board game: what do you meme?
+          board game: cards against humanity
+2300      bed time
+
+
+Todo
+----
+
+- [x] Figure out what the best time to go kayaking is...
+- [x] Hire kayk from Surfsup / get a refund for lesson
+- [ ] Play a game of chess with Chris
+- [ ] Basketball hoop shooting competition?
+- [/] Hire a buggy
+- [x] Go for a swim
+
+Tide Times
+----------
+
+0541 low tide
+0800 mid tide
+1206 high tide
+1511 mid tide
+1816 low tide
+0023 low tied
+
+I wrote some short functions to make it easy to work with times
+
+  // map 0:60 minutes to 0:100
+  const m = (n) => (((n % 100) % 60) / 60) * 100
+  const h = (n) => (Math.floor(n / 100) * 100)
+
+  // convert time (format hhmm) to decimal
+  const t = (n) => h(n) + m(n)
+
+  // convert decimal back to hhmm
+  const _ = (n) => h(n) + (((n % 100) / 100) * 60)
+
+The t & _ functions convert time between hhmm and decimal.
+
+For example,
+
+12:00pm   t(1200) -> 1200
+12:30pm   t(1230) -> 1250
+12:59pm   t(1259) -> 1298.333
+
+12:30pm + 1h = _(t(1230) + t(100)) => 1330
+
+12:15pm + 2h55m = _(t(1215) + t(255)) => 1510
+
+WARNING: do not prepend 0 to numbers in javascript or else they might be parsed as base 8. For example 0255 === 173
+
+We can then use these functions to find midtide times by average low and high tide:
+
+  const avg = (a, b) => _(((t(a) - t(b)) / 2) + t(b))
+
+  avg(0541, 1206) // => 0759.5 (7:59 am)
+  avg(1206, 1816) // => 1511 (3:11 pm)
+
+It would be fun to have a language to make this easier to express:
+
+  $ calc
+  > 05:41 + 3h22m
+  09:05
+
+  > avg(05:41, 12:06)
+  07:59:30
+
+Kayak Afternoon
+---------------
+
+Hannah has a 2 person kayak we can borrow, but we need to get it 2k down the beach. Hannah, Chris and I walk it to the beach on a trolley and then paddle it across the bay. Tough work but faster than walking it. We have to navigate around the Surf Lifesaving competition which has a course set out in the water.
+
+The others drive to Access Point 14 to meet us there. We hire 2x 2 person kayaks from Surfsup for $30/pp (total of $120). We can use the kayaks for 2 hours which gives up plenty of time to paddle across to Whenuakura island and have a swim on the beach next door.
+
+After a quick lesson on how to paddle a kayak and what to do if you fall out, we set off. We've all got life jackets and have done a bit of kayaking before (except maybe Chris S?). The three kayak groups are: Chris G and Anna, Chris S and Hannah, and me and Anthony.
+
+We cross over to Whenuakura island first. On the southern side of the island, There is a 12m high cave entrance with stunning rock formations. We paddle the kayaks through the narrow entrance. The island is nicknamed "Donut Island" because of it's shape. In the center is a beautiful lagoon of water surrounded by cliffs and trees. It's a magical spot, but also home to a wildlife sanctuary and the locals ask that we stay in the water and do not step on the land. There are a couple of other people in kayaks visiting as well.
+
+Apparently there are tuatara that live on the island!
+
+Whenuakura Island: [[ https://goo.gl/maps/6ozhrEZ9FseBm6HHA ]]
+Hauturu Island: [[ https://goo.gl/maps/TzCwhCgrDDMMRSdE8 ]]

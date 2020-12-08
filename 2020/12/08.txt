@@ -1,0 +1,53 @@
+Tuesday 08 Dec 2020
+===================
+
+schedule
+--------
+
+0900,0915 waking up
+0915,0945 walking barefoot around neighbourhood with tea
+
+todo
+----
+
+- [x] Book bus ticket to Auckland for Thursday 17th
+- [x] Sort out gifts for friends
+  - [x] Chris & Anna
+  - [ ] Anthony
+  - [ ] Hannah
+- [x] Delete old banksy project from Google Cloud and Firestore
+
+work
+----
+
+Hasura
+
+- [x] can a page use two endpoints to query data? --> yes but it is a pain
+- [ ] add a DB ID field to both GraphQL APIs
+- [ ] learn how to use mutations
+- [ ] for mutating actuals, can we use the Ruby API?
+- [ ] experiment with actions and event triggers
+- [ ] migrate reports to use Hasura
+- [ ] avoid using SQL functions as much as possible
+
+Deleting Google Cloud Project
+-----------------------------
+
+Use the cloud console to list and delete any liens.
+
+  $ gcloud alpha resource-manager liens list
+  $ gcloud alpha resource-manager liens delete [LIEN_NAME]
+
+purchases
+---------
+
+- Groceries from PAK'nSAVE ($64)
+- Bus ticket to Auckland ($30)
+- Chuffed gifts x2 ($149 + $299)
+
+weechat
+-------
+
+Uploading images is easy:
+
+  /slack upload <path>

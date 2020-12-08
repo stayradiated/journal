@@ -1,0 +1,48 @@
+Monday 07 Dec 2020
+==================
+
+0630,0645 waking up
+0645,0730 stroll along beach with tea
+0730,0815 chilling by myself, tea, shooting hoops
+          running along the beach
+          phone call with jo :)
+          brunch (hash browns, fried eggs, salad)
+          cleaning up the house
+          travelling back to Auckland with chris and anna
+          picking up anna's cat (rosie) from cat kennel
+          dropping gear off at mates flat
+          walking into newmarket, grabbing snacks at countdown
+          getting subway for dinner
+1755,1810 packing up a gear
+1815,1825 getting a lift into cbd with chris and anna
+1900,2230 catching intercity bus to rotorua
+
+
+todo
+----
+
+- [ ] Book bus tickets for getting to Auckland on the Friday 18th
+- [ ] Sort out gifts for friends
+- [ ] Delete old banksy project from Google Cloud and Firestore [[ https://console.cloud.google.com/cloud-resource-manager?organizationId=61667409561&authuser=0 ]] [[ https://console.firebase.google.com/project/banksy-a252e/settings/general ]]
+
+purchases
+---------
+
+- bus ticket from Auckland to Rotorua ($50)
+- falafel subway ($11.50)
+- snacks from countdown ($22.50) (almond butter is not cheap!)
+- earl grey tea at Federal ($3.50)
+
+jo
+--
+
+Jo is flying to Antigua tomorrow. She is currently staying the night at an airport hotel in London. She says she might have wifi for a few days while in Antigua, but while she is on the boat we may have to converse over email -- which could be fun!
+
+She is getting up for a 4am taxi tomorrow morning to catch her flight. I hope she doesn't catch COVID while travelling through all the airports.
+
+travel
+------
+
+I decided to get all my travel down in one day and catch a bus back to Rotorua tonight instead of crashing on the couch and going back tomorrow. I'm feeling pretty knackered, I know I'm going to fall asleep on the bus. It will be nice to be back in my own bed. The goal is to do something with the family this weeekend.
+
+On the 18th we are doing a mates Christmas
