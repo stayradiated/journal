@@ -1,8 +1,6 @@
+# Aaron Swartz
 
-Aaron Swartz
-============
-
-[[ https://en.wikipedia.org/wiki/Aaron_Swartz ]]
+https://en.wikipedia.org/wiki/Aaron_Swartz
 
 - helped develop RSS (not sure exactly what he worked on?)
 - helped develop the Markdown publishing format
@@ -16,11 +14,10 @@ Swartz died of suicide on Jan 11, 2013.
 
 > "He used his prodigious skills as a programmer and technologist not to enrich himself but to make the Internet and the world a fairer, better place."
 
-RSS 3.0
--------
+## RSS 3.0
 
-[[ http://www.aaronsw.com/weblog/000574 ]] The Road to RSS 3.0 
-[[ http://www.aaronsw.com/2002/rss30 ]] Spec
+- The Road to RSS 3.0 (http://www.aaronsw.com/weblog/000574)
+- Spec (http://www.aaronsw.com/2002/rss30)
 
 His plan for RSS v3 sounds great, a very lightweight pliantext
 

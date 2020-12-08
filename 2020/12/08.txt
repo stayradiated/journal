@@ -6,6 +6,14 @@ schedule
 
 0900,0915 waking up
 0915,0945 walking barefoot around neighbourhood with tea
+          work
+          cycling to PAK'nSAVE for groceries
+          lunch (roast veg salad)
+          work
+          cycling around town
+          dinner
+          watching "the mother of all demos"
+          trying out vim wiki plugins
 
 todo
 ----
@@ -30,10 +38,12 @@ Hasura
 - [ ] migrate reports to use Hasura
 - [ ] avoid using SQL functions as much as possible
 
-Deleting Google Cloud Project
------------------------------
+Deleting Google Cloud Projects
+------------------------------
 
-Use the cloud console to list and delete any liens.
+I ran into an issue with deleting a Google Cloud project that was linked to DialogFlow.
+
+You can use the cloud console to list and force delete any "liens".
 
   $ gcloud alpha resource-manager liens list
   $ gcloud alpha resource-manager liens delete [LIEN_NAME]

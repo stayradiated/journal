@@ -1,8 +1,6 @@
-C (programming language)
-========================
+# C (programming language)
 
-definitions
------------
+## Definitions
 
 GNU:
   stands for GNU's Not Unix! (pronounced guh-new).
@@ -10,15 +8,14 @@ GNU:
 GCC:
   is the GNU Compiler Collection
 
-{LLVM}:
+LLVM:
   a compiler infrastructure project, originally created by Vikram Adve and {Chris Lattner}.
 
 
-compilers
----------
+## Compilers
 
 tcc:
-  is the {https://bellard.org/tcc/ Tiny C Compiler} created by {Fabrice Bellard}
+  is the [Tiny C Compiler](https://bellard.org/tcc/) created by Fabrice Bellard
 
 cc:
   alias of gcc
@@ -35,36 +32,33 @@ g++:
 Clang:
   is a compiler for C, C++, Objective-C and Objective-C++. Built by the {LLVM}.
 
-languages
----------
+## Languages
 
 C99:
   the version of the C standard published in 1999.
   added support for single line comments with `//`
-  [[ https://en.wikipedia.org/wiki/C99 ]]
+  https://en.wikipedia.org/wiki/C99
 
 C11:
   the version of the C standard published in 2011.
-  [[ https://en.wikipedia.org/wiki/C11_(C_standard_revision) ]]
+  https://en.wikipedia.org/wiki/C11_(C_standard_revision)
 
 C17:
   the version of the C standard published in 2017.
   fixes some issues with C11 without adding any new features.
-  [[ https://en.wikipedia.org/wiki/C17_(C_standard_revision) ]]
+  https://en.wikipedia.org/wiki/C17_(C_standard_revision)
 
 
-hello world
------------
+## Hello World
 
-  $ cat hello.c
+    $ cat hello.c
+    #include <stdio.h>
 
-  #include <stdio.h>
-
-  int main() {
-    printf("hello, world\n");
-  }
+    int main() {
+      printf("hello, world\n");
+    }
 
 compile with:
 
-  $ cc hello.c
-  $ ./a.out
+    $ cc hello.c
+    $ ./a.out

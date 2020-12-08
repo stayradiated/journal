@@ -1,8 +1,0 @@
-/research
-
-[[ c_programming_language ]]
-[[ chris_lattner ]]
-[[ clang ]]
-[[ devine_lu_linvega ]]
-[[ linus_torvalds ]]
-[[ swift_programming_language ]]

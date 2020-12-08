@@ -17,10 +17,10 @@ Lex Fridman interviews
 ----------------------
 
 Compilers, LLVM, Swift, TPU, and ML Accelerators
-[[ https://lexfridman.com/chris-lattner/ ]]
+https://lexfridman.com/chris-lattner/
 
 The Future of Computing and Programming Languages
-[[ https://lexfridman.com/chris-lattner-2/ ]]
+https://lexfridman.com/chris-lattner-2/
 
 - "A Programming language is a bicycle for the mind. You can definitely walk, but you will get there a lot faster if you can bicycle on your way."
 - "It turns out if you ask a lot of dumb questions you become smarter really quick."

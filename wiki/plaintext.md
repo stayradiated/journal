@@ -1,10 +1,9 @@
-plaintext
----------
+# plaintext
 
 lightweight markup languages
 ----------------------------
 
-[[ https://en.wikipedia.org/wiki/Lightweight_markup_language ]]
+https://en.wikipedia.org/wiki/Lightweight_markup_language
 
 > a markup language with simple, unobtrusive syntax
 
@@ -16,4 +15,4 @@ lightweight markup languages
   used by Python docs
 
 markdown:
-  created in 2004 by John Gruber and {Aaron Swartz}.
+  created in 2004 by John Gruber and [Aaron Swartz](aaron_swartz.md)
