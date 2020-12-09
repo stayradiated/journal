@@ -4,3 +4,4 @@ cafes
 12.02 Port Road Project
 12.03 Port Road Project, Little Latte
 12.04 Port Road Project
+12.09 Arts Village Cafe

@@ -1,0 +1,129 @@
+Wednesday 09 Dec 2020
+=====================
+
+schedule
+--------
+
+0610,0630 waking up
+0630,0700 morning walk around neighbourhood
+0720,0830 working from home
+0830,0845 cycling
+0900,1000 working from arts village cafe
+1000,1045 dev meeting
+1100,1220 design meeting
+1230,1300 cycling home (pick up sunscreen)
+1325,1355 lunch
+1400,1700 work
+1700,1745 cycling around town
+1800,1830 thinking about credit cards
+1900,1930 dinner
+1930,2100 working on mish guru
+2100,2130 finish reading "metamorphosis of prime intellect"
+
+the mother of all demos
+-----------------------
+
+https://www.youtube.com/watch?v=fhEh3tEL1V4
+https://www.youtube.com/watch?v=g0yx-F1FGnc&list=PLEFuVIEJ66OWGcsiuwTUa6yjYA3zeKkyV&index=5&t=1755s
+
+What is a glass teletype? 
+Oh, it's a computer terminal (think VT100).
+
+git
+---
+
+Today I learned about `git clean`. 
+
+This is useful for removing untracked files.
+
+    # Print out the list of files and directories which will be removed (dry run)
+    git clean -n -d
+
+    # Delete the files from the repository
+    git clean -f
+
+There is even an interactive mode!
+  
+    git clean -i
+
+family foreign food day
+-----------------------
+
+I'm thinking we try an Australian cuisine day?
+
+https://en.wikipedia.org/wiki/Australian_cuisine
+
+- Breakfast: Damper + Vegemite
+- Lunch: Meat Pie in Pea Soup
+- Snacks: French Onion Dip with Plain Crinkle Cut Chips
+- Dinner: The AB?
+
+- Damper (bread): https://www.196flavors.com/australia-damper/
+- Vegemite
+- Lamington: https://www.recipetineats.com/classic-lamingtons/
+- Kitchener Bun
+- Meat Pie
+- Pie Floater
+- The "AB" (halal snack pack)
+- Sausage sizzle
+- French Onion Dip: https://www.recipetineats.com/homemade-french-onion-dip/
+
+weechat
+-------
+
+Opening long URLs in weechat is possible (I'm looking at you zoom!):
+
+Use <M-l> to display chat in "raw" mode, then press <C-a u> to open the URL using tmux-urlview.
+
+credit cards
+------------
+
+Thinking about how much entropy a credit card number has.
+
+4916 9870 8718 3045
+
+If every digit was random, than this would be ~53 bits of entropy.
+
+    log2(10 ^ 16) ~= 53.2
+
+However, every digit is _not_ random.
+
+The first 6 digits are the bank identifier.
+
+For example, a mastercard issued in NZ might start with "538643".
+
+The last digit of the card is the checksum. You can use the Luhn Algorithm to restore any single missing digit of the card.
+
+    16 - 6 - 1 = 9
+
+    log2(10 ^ 9) ~= 29.9
+
+Quite a reduction in the entropy.
+
+However, we can do better. the last 4 digits of the card are often displayed on receipts. This leaves just 6 digits unknown. We can guess 5 of these digits and calculate the 6th using the checksum.
+
+    16 - 6 - 4 - 1 = 5
+
+    log2(10 ^ 5) ~= 16.6
+
+This is just the numbers 0 - 99,999.
+
+samyk
+-----
+
+Steve Moulds interview with Samy Kamkar on patreon: https://www.patreon.com/m/1393254/posts
+
+cloud chamber
+-------------
+
+Holy moly I didn't know this even a thing and apparently you can build your own DIY version!?
+
+Oh, it's 100 year old tech as well!
+
+music
+-----
+
+- Dan & Drum (Sound Baths & Suffer Funk)
+- Blur (Parklife)
+- All Human (Teenages, You Don't Have To Die)
+- The Sun Parade (Braindrain, Wunnanuthr Time)
