@@ -1,0 +1,67 @@
+Monday 14 Dec 2020
+==================
+
+Yesterday I tried recording a journal entry using my voice. The idea was sound
+but I ended up talking for over fifty minutes!
+
+I am rather disappointed with the available offline speech to text
+transcription software -- I thought this was a solved problem.
+
+There is the Google Speech API, but this isn't free and the `gcloud ml speech`
+client only seems to work with tiny files. There are also plenty of online
+services that want to charge $5 an hour for audio transcription.
+
+The transcription software I ended up using is Picovoice. It's free for
+personal use. They have multiple engines, each with a different purpose and all
+named after animals. I am using the "leopard" engine.
+
+https://github.com/Picovoice/leopard
+
+Leopard does a pretty good job of taking a large audio file and converting the
+whole thing to text. It's also very quick and accurate enough to be useful.
+
+It requires that the audio be a single mono WAV track, sampled at 16,000 Hz.
+This is easy enough to do with Audacity and could be easily automated with a script.
+
+Leopard's translation is far from perfect however, often misunderstanding what
+I am saying.  It also does not understand punctuation, pauses or capitalization
+- it just outputs a stream of uppercase words.
+
+This means that fifty minutes of rambling audio can take another fifty minutes
+of editing to get it into a useable state.
+
+Future recordings are going to have to change. One thing I am trying today is
+to use dictation operators.
+
+For example, when I end a sentence I say "stop" (just like a telegram!). I can
+then easily replace "stop" with a period and a new line.
+
+I will also need to be more thoughtful about what I am saying, and to enunciate
+my words clearly to avoid transcription errors. I can also have longer pauses
+between sentences (because time doesn't matter) so I have plenty of time to
+think.
+
+todo
+----
+
+- [ ] Book haircut for thursday morning 
+- [ ] Purchase groceries for lunch 
+- [ ] Purchase chocolates the Chris and Anna
+- [ ] Book time with Pete for a virtual coffee 
+- [ ] Encourage family to go out for fish and chips by the blue lake tonight
+- [ ] Finish editing yesterdays journal entry 
+- [ ] Send message to Anne thanking her for her postcard and wishing her well
+- [ ] Visit the climbing wall around 5pm for a training session
+- [ ] (Hopefully!) pick up repaired bike wheel from shop.
+- [ ] Configure parents email use the new Zoho Server
+
+work
+----
+
+Today is a learning and development day. The focus of the learning will
+be be programming language haskell.
+
+1. set up a skull compiler on computer 
+2. complete a hello world program in haskell
+3. build a more complex application such as a web server or command line tool
+

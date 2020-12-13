@@ -1,0 +1,17 @@
+Saturday 12 Dec 2020
+====================
+
+We are having a family-foreign-food day today! Today is Australia Day.
+
+todo
+----
+
+- [x] bake damper bread to have with breakfast
+- [ ] purchase tomato sauce and meat pies
+- [ ] make Pie Floater for lunch
+
+work
+----
+
+- [x] upgrade @stayradiated/pkg dependencies (including eslint config)
+- [ ] convert receiveSnap to typescript 

@@ -1,0 +1,61 @@
+Thursday 10 Dec 2020
+====================
+
+schedule
+--------
+
+0800,0815 waking up
+0830,0900 morning walk around neighbourhood
+0920,1130 working
+1130,1230 future planning meeting
+1230,1300 lunch
+1310,1415 working
+1430,1530 bouldering at the wall
+1600,1810 working
+1820,1850 running around the park
+1900,1930 dinner
+2000,2045 evening bike ride with james (ice cream + lake front)
+2045,2100 email configuration
+
+tea
+---
+
+Adding a small dollop of honey to a milky black tea is the best thing.
+
+google
+------
+
+looking at moving away from Google Services.
+
+- YouTube
+  - [x] created a separate Google Account just for YouTube.
+  - [x] migrate subscriptions (https://github.com/raj-khare/yt-migrate)
+  - [ ] migrate liked videos
+- Google Photos: 
+  - [ ] find a decent alternative
+  - [ ] can I migrate to a new Google Account?
+- Google Mail
+  - [x] Move stayradiated.com over to FastMail
+  - [x] Move czabania.com over to Zoho
+  - [ ] Configure family devices to use Zoho
+
+anne
+----
+
+Received a postcard from her today!
+
+todo
+----
+ 
+- [ ] configure SPF and DKIM records for totalcarpetservices.com and totalcarpetservicesrotorua.co.nz
+
+email
+-----
+
+I have decided to finally move away from hosting my mail with Google.
+
+It's taken a while, because Google Mail works really well and I've got two accounts hosted for free (grandfathered plan).
+
+I've switched czabania.com to use Zoho, because I need hosting for 4 users and it's pretty cheap (~$85 a year).
+
+I'm currently using stayradiated.com with FastMail, on the trial -- not sure if I'll stick with FastMail or not.

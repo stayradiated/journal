@@ -1,0 +1,56 @@
+Friday 11 Dec 2020
+==================
+
+schedule
+--------
+
+0555,0610 waking up
+0700,0720 morning walk
+0800,1100 working from home
+1100,1130 early lunch
+1140,1240 phone call with jo :)
+1240,1300 working from home
+1330,1400 cycle to bin inn for peas
+1330,1410 bouldering at the wall
+1415,1600 working from capers cafe
+1600,1700 friday work catchup
+
+todo
+----
+
+- [x] order dough hook & scraper from NZMalt
+- [x] set up spark mail on phone (replace gmail/fastmail/zoho)
+- [x] purchase 500g of blue peas from Binn Inn (pie floater)
+- [ ] soak peas overnight in water
+- [ ] read about how the NZ Covid Tracer app works 
+
+watch
+-----
+
+- [ ] Kurzgesagt - Can You Upload Your Mind & Live Forever?: https://www.youtube.com/watch?v=4b33NTAuF5E
+
+google photos
+-------------
+
+I'm looking at moving away from Google Photos.
+
+Currently exporting an archive of everything using Google Takeout.
+
+I'm curious how much data I have stored in this service.
+
+PhotoStructure looks like a decent self-hosted option: https://photostructure.com
+
+email
+-----
+
+I've been trying out using Aerc as an email client. It's pretty friendly to get set up.
+
+https://aerc-mail.org
+
+NZ Covid Tracer
+---------------
+
+Has recently been updated with bluetooth tracking. The source code has also been published on Github, though they say they are not accepting issues or pull-requests at the moment.
+
+- https://github.com/minhealthnz/nzcovidtracer-docs
+- https://github.com/minhealthnz/nzcovidtracer-app
