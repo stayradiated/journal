@@ -34,3 +34,17 @@
 [[ /2020/11/30 ]] Nov 30 Monday
 
 [[ /2020/12/01 ]] Dec 01 Tuesday
+[[ /2020/12/02 ]] Dec 02 Wednesday
+[[ /2020/12/03 ]] Dec 03 Thursday
+[[ /2020/12/04 ]] Dec 04 Friday
+[[ /2020/12/05 ]] Dec 05 Saturday
+[[ /2020/12/06 ]] Dec 06 Sunday
+[[ /2020/12/07 ]] Dec 07 Monday
+[[ /2020/12/08 ]] Dec 08 Tuesday
+[[ /2020/12/09 ]] Dec 09 Wednesday
+[[ /2020/12/10 ]] Dec 10 Thursday
+[[ /2020/12/11 ]] Dec 11 Friday
+[[ /2020/12/12 ]] Dec 12 Saturday
+[[ /2020/12/13 ]] Dec 13 Sunday
+[[ /2020/12/14 ]] Dec 14 Monday
+[[ /2020/12/15 ]] Dec 15 Tuesday

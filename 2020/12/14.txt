@@ -1,6 +1,9 @@
 Monday 14 Dec 2020
 ==================
 
+dictation
+---------
+
 Yesterday I tried recording a journal entry using my voice. The idea was sound
 but I ended up talking for over fifty minutes!
 
@@ -117,3 +120,37 @@ Example: 1..2000
   sum [1..300000] -- 45000150000
 
   sum [1..n] = (45 * n / 3) + (n / 2)
+
+
+Evening
+-------
+
+I spent most of yesterday learning high school.
+
+In the evening around 5 pm, I cycled on mum's bike to the climbing wall in
+town. I claimed for half an hour, trying out a couple new walls and also
+completing the green overhang claim and the blue wall climb. I'm very proud of
+myself. The wall was a lot busier yesterday in the evening, there were perhaps
+20 people there. I would like to return again tomorrow for another short
+climbing session.
+
+On the way back home, mum's bike locked up on me. The chain had slipped off the
+rear cassette and had got stuck jammed next the wheel. I tried to fix it but it
+was not possible without any tools -- I tried my best but just got covered in
+grease. I gave called dad and he came and picked me up. Thanks dad.
+
+I was still keen to go out to the blue lake and have fish and chips for dinner
+with the family. It was 6:15 pm and I was still trying to organise everyone.  I
+put an order in with the Ranolf Fish & Chip shop, managed to get the whole
+family in the car along with the picnic gear and we drove off. It was 6:40pm by
+the time we were organised and dad wasn't in the mood to go all the way out to
+blue lake, so we decided to go to Lake Rotorua instead.
+
+We found a picnic table near the playground and enjoyed our dinner.  Afterwards
+we cleaned up and went for a short walk by the lake checking out the latest
+progress on the LakeFront Development Project.
+
+On the way back home dad felt like some ice cream so we stopped at Countdown.
+At home, I put on "The First Great Train Robbery" - a 1978 film starring Sean
+Connery and Donald Sutherland. An entertaining film with some fantastic stunt
+work by Connery.
