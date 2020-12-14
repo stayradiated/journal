@@ -1,0 +1,33 @@
+Tuesday, 15 December
+
+Yesterday
+
+I spent most of yesterday learning high school.
+
+In the evening around 5 pm, I cycled on mum's bike to the climbing wall in town. I claimed for half an hour, trying out a couple new walls and also completing the green overhang claim and the blue wall climb. I'm very proud of myself. The wolf was a lot busier yesterday in the evening, there were perhaps 20 people there. I would like to return again tomorrow for another short climbing session.
+
+
+On the way back home, mums bike locked up on me. The chain has come off the rear cassette and head got stuck between the wheel in the cassette. I tried to fix it but it was not possible with just my fingers. I also ended up getting grease everywhere. I gave dad a cool and he came and picked me up. Thanks dad.
+
+I was still keen to go out to the blue lake and have fish and chips for dinner with the family, it was 6 pm and I was still trying to organise everyone and make sure everyone was still keen. I put an order in with the rental for fish and chip shop, manage to get everyone into the car along with the picnic gear and we drove off. I it was 630 by the time we were organised and dad wasn't in the mood to go all the way out to blue lake, so we decided to go to Lake Rotorua instead
+
+We found a picnic table near the playground and enjoyed our dinner there. Afterwards we cleaned up and went for a short walk by the lake front inspecting the latest progress on the lakefront redevelopment.
+
+on the way back home dad felt like some ice cream so we stopped at countdown. I put on "the first great railway robbery" - A 1978 film starring Sean Connery and Donald Sutherland. Entertaining film with some fantastic stunt work by Connery.
+
+
+Todo:
+
+At 2 pm I have a virtual coffee scheduled with Pete. I'm looking forward to it.
+
+I still have not heard from the bike repair shop about my wheel. If I haven't heard anything by this afternoon then I will check in after my haircut at 3:30 pm.
+
+I think this morning I will go for a bike ride -- oh no I can't because I don't have a bike!
+
+I would like to visit the supermarket and pick up some snacks (I'm thinking apples, dates, almond butter, etc). I would also like to grab some chocolates for Chris and Anna, to add to their present. 
+
+...
+
+Haskell
+
+Yesterday I started learning Haskell  (the programming language). It's a lot better than I expected! I spent a lot of time reading http://learnyouahaskell.com -  Which is an excellent resource. I haven't made a WebServer yet, but I have done some research into different libraries to use. I think I will try and use Warp, which is used by Hasura and also claims to be one of the fastest WebServer libraries for haskell.
