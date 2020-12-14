@@ -44,15 +44,15 @@ think.
 todo
 ----
 
-- [ ] Book haircut for thursday morning 
-- [ ] Purchase groceries for lunch 
-- [ ] Purchase chocolates the Chris and Anna
-- [ ] Book time with Pete for a virtual coffee 
-- [ ] Encourage family to go out for fish and chips by the blue lake tonight
-- [ ] Finish editing yesterdays journal entry 
+- [x] Book haircut -> tomorrow @ 15:30
+- [>] Purchase groceries for lunch
+- [>] Purchase chocolates the Chris and Anna
+- [x] Book time with Pete for a virtual coffee -> tomorrow @ 1400
+- [x] Encourage family to go out for fish and chips by the blue lake tonight
+- [ ] Finish editing yesterdays journal entry
 - [ ] Send message to Anne thanking her for her postcard and wishing her well
-- [ ] Visit the climbing wall around 5pm for a training session
-- [ ] (Hopefully!) pick up repaired bike wheel from shop.
+- [x] Visit the climbing wall around 5pm for a training session
+- [?] (Hopefully!) pick up repaired bike wheel from shop.
 - [ ] Configure parents email use the new Zoho Server
 
 work
@@ -61,7 +61,59 @@ work
 Today is a learning and development day. The focus of the learning will
 be be programming language haskell.
 
-1. set up a skull compiler on computer 
+1. set up a skull compiler on computer
 2. complete a hello world program in haskell
 3. build a more complex application such as a web server or command line tool
 
+I wrote my notes in wiki/haskell.md
+
+morning tea
+-----------
+
+I (finally) convinced mum to walk down to the local cafe, "Grøunded". We walked
+via Wylie street and I shouted us hot drinks. I had a good time and I think mum
+enjoyed it. It would be nice to do this a few times each week -- surely just
+going for a short walk outdoors would be good for mum's mental and physical
+health -- I know it does wonders for my own.
+
+sums
+----
+
+Summing patterns are interesting:
+
+  sum [1..10]     -- 55
+  sum [1..100]    -- 5050
+  sum [1..1000]   -- 500500
+  sum [1..10000]  -- 50005000
+  sum [1..100000] -- 5000050000
+
+Sums of 1..10x can be done by dividing 10x by 2 and concatenating it.
+
+Example: 1..1000
+
+  1000 / 2       -- = 500
+  "500" ++ "500" -- = "500500"
+
+...
+
+  sum [1..20]     -- 210
+  sum [1..200]    -- 20100
+  sum [1..2000]   -- 2001000
+  sum [1..20000]  -- 200010000
+  sum [1..200000] -- 20000100000
+
+Example: 1..2000
+
+  2000 / 2        -- = 1000
+  1000 / 5        -- = 200
+  "200" ++ "1000" -- = "2001000"
+
+...
+
+  sum [1..30]     -- 465
+  sum [1..300]    -- 45150
+  sum [1..3000]   -- 4501500
+  sum [1..30000]  -- 450015000
+  sum [1..300000] -- 45000150000
+
+  sum [1..n] = (45 * n / 3) + (n / 2)
