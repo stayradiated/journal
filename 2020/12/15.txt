@@ -26,3 +26,8 @@ http://learnyouahaskell.com -  Which is an excellent resource. I haven't made a
 WebServer yet, but I have done some research into different libraries to use. I
 think I will try and use Warp, which is used by Hasura and also claims to be
 one of the fastest WebServer libraries for haskell.
+
+Bike
+----
+
+I just had a call from the bike shop. They are unable to repair my rear wheel unfortunately, so they suggest I pay $90 to buy a new one. That's a shame.
