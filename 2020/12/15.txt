@@ -17,6 +17,10 @@ I would like to visit the supermarket and pick up some snacks (I'm thinking
 apples, dates, almond butter, etc). I would also like to grab some chocolates
 for Chris and Anna, to add to their present. 
 
+I should read the Working Copy user's guide sometime:
+
+https://workingcopyapp.com/manual.html
+
 Haskell
 -------
 
@@ -30,4 +34,48 @@ one of the fastest WebServer libraries for haskell.
 Bike
 ----
 
-I just had a call from the bike shop. They are unable to repair my rear wheel unfortunately, so they suggest I pay $90 to buy a new one. That's a shame.
+I just had a call from the bike shop. They are unable to repair my rear wheel
+unfortunately, so they suggest I pay $90 to buy a new one. That's a shame.
+
+Haircut
+-------
+
+At 3:15pm James drove us down to Wilson's barbershop. I went to get some cash
+out and James went in by himself. James had his booking but I had messed up my
+booking (booked for Wednesday 3:30pm not Tuesday!).
+
+All good, I'll sort out my booking for later this week. I left James in the
+barbershop and walked to MyRide to purchase a new rear wheel.
+
+geohot
+------
+
+Still watching George Hotz hack on Context Tree Switching:
+https://www.youtube.com/watch?v=x9uum2tddqQ&t=51m49s
+
+I should have a go at implementing it myself.
+
+pete
+----
+
+I caught up with Pete this afternoon. He is doing well, getting to Uprising for
+regular climbing practice with Ivan.
+
+He is keen for me to join Loom -- I don't know. I'm still finding my feet at
+Runn and I like how much autononomy I have.
+
+I think Loom could be a better place to work, but I also want to dedicate more
+time to my own projects.
+
+bouldering
+----------
+
+I visited the Wall from 5pm to 5:45pm.
+Completed a few more climbs. I should try talking to some of the guys there.
+
+james
+-----
+
+James and I went out for an after dinner bike ride around town. I brought the
+basketball with me and we practiced shooting hoops at Kuirau park for 15
+minutes.
