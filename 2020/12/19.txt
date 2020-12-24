@@ -1,0 +1,37 @@
+Saturday 19 Dec 2020
+====================
+
+schedule
+--------
+0550,0600 waking up
+0600,0820 working on mish
+          morning run
+     1015 walk to cornwall park cafe
+
+chess
+-----
+
+   White to move
+
+8     ♚ ♜   ♝   ♜    █   ● BOT stockfish 1
+7       ♞   ♙ ♙ ♙    █     ♞ ♞ ♜ ♛ +19
+6 ♙                  █    ┏━━━━━━━━━━━━━━━━━━━┓
+5     ♙             _█    ┃ 32. Kc3    O-O-O  ┃
+4   ♞                █    ┃ 33. a3     Qxd3#  ┃
+3 ♙ ♙ ♔ ♛ ♙ ♙   ♙    █    ┗━━━━━━━━━━━━━━━━━━━┛
+2   ♗   ♙            █     Black wins by checkmate 0-1
+1             ♜      █   ● admin
+  a b c d e f g h          ♙
+
+
+   White to move
+
+8 ♜   ♝       ♚      █   ● BOT stockfish 1
+7 ♙   ♙       ♙      █     ♙ ♙ ♝ ♝ ♜ ♜ ♛ +27
+6   ♙                █    ┏━━━━━━━━━━━━━━━━━━━┓
+5   ♙           ♙   _█    ┃ 43. Ka4    b6     ┃
+4 ♔     ♜            █    ┃ 44. b5     Rd4#   ┃
+3       ♛     ♝      █    ┗━━━━━━━━━━━━━━━━━━━┛
+2 ♙           ♙      █     Black wins by checkmate 0-1
+1                    █   ● admin
+  a b c d e f g h

@@ -1,24 +1,71 @@
-Wednesday, 16 December 2020
-
+Wednesday 16 Dec 2020
+=====================
 
 Todo:
 
 - [ ] Wash shorts and singlets for trip to Auckland tomorrow
-- [ ] ￼Go out to dinner at Eat Street with family this evening￼
-- [ ] Work from a cafe this morning, perhaps AVC?
-- [ ] alternatively try and go for a morning walk to the local cafe with mum -- we would have to be back by 10am for the dev meeting￼
+- [ ] Go out to dinner at Eat Street with family this evening￼
+- [x] Work from a cafe this morning, perhaps AVC? -> Grøunded
+- [ ] alternatively try and go for a morning walk to the local cafe with mum --
+      we would have to be back by 10am for the dev meeting￼
+- [ ] get watch battery changed at Time Central
 
-I still haven't picked out any gifts for my family. I'm not sure what to get them, I should probably have a think about that today.
+I still haven't picked out any gifts for my family. I'm not sure what to get
+them, I should probably have a think about that today.
 
-I could help mum set up a website for the business on SquareSpace, using a pre-built template. I think that would be the best way to get them a website, or perhaps another service?￼￼￼
+I could help mum set up a website for the business on SquareSpace, using a
+pre-built template. I think that would be the best way to get them a website,
+or perhaps another service?￼￼￼
 
-I'd love to go out to the beach for a week with the family next year, I could look at organizing/￼booking that as a present. 
+I'd love to go out to the beach for a week with the family next year, I could
+look at organizing/￼booking that as a present. 
 
-I've been thinking about getting a few buckets of chocolate's to fill up the Chuffedtgift for Chris and Anna. But they might melt on the way up to Auckland tomorrow, so I think it might be a better idea to purchase the candy in Auckland tomorrow evening.
+I've been thinking about getting a few buckets of chocolate's to fill up the
+Chuffed gift for Chris and Anna. But they might melt on the way up to Auckland
+tomorrow, so I think it might be a better idea to purchase the candy in
+Auckland tomorrow evening.
 
+grøunded
+--------
 
+The spicy ginger latte is _not_ recommended.
 
-￼
+The cacao latte was much better.
 
+work
+----
 
+PRs to review:
 
+- [x] https://github.com/Runn-Fast/runn/pull/5148
+- [x] https://github.com/Runn-Fast/runn/pull/5266
+- [x] http://github.com/Runn-Fast/runn/pull/5269
+
+Hasura:
+
+- [x] find a good page to use mutations with -> PeopleList
+- [x] migrate PeopleList to Hasura
+- [ ] learn how Hasura does mutations
+
+docker-compose
+--------------
+
+Try and remember that `--net=host` is set using `network_mode: host`.
+
+offline
+-------
+
+It would be nice to be able to run Hasura offline. I think I just need to
+disable telemetry.
+
+droidcam audio
+--------------
+
+Use a single mono channel at 16000 Hz.
+
+» ./droidcam-cli -a ios 4747
+» arecord -D hw:1,1,0 -f S16_LE -c 1 -r 16000 test.wav
+
+Should work in audacity as well.
+
+Doesn't sound very good though :(

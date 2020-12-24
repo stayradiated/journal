@@ -1,0 +1,45 @@
+Friday 18 Dec 2020
+==================
+
+schedule
+--------
+
+0550,0600 waking up
+0740,0835 catching up with jacob
+0900,1130 working
+
+          driving to north shore
+          sushi for lunch
+          working from st mary's school
+          helping anna at school
+
+recommendations from jacob:
+  - Death Note (https://www.imdb.com/title/tt0877057/)
+  - Liar Game (https://www.mangareader.net/liar-game/1)
+
+work
+----
+
+- [ ] rebase eslint PR into hasura without losing all my commits.
+
+
+chess
+------
+
+Played a game against stockfish using [chs](https://github.com/nickzuber/chs).
+
+Lost.
+
+         White to move
+
+      8     ♝   ♚     ♜    █   ● BOT stockfish 1
+      7   ♙       ♙ ♙ ♙    █     ♙ ♙ ♞ ♞ ♜ ♛ +19
+      6       ♗            █    ┏━━━━━━━━━━━━━━━━━━━┓
+      5   ♙ ♞   ♙   ♙     _█    ┃ 26. Kf3    e5     ┃
+      4                    █    ┃ 27. Bd6    Nd2#   ┃
+      3           ♔        █    ┗━━━━━━━━━━━━━━━━━━━┛
+      2       ♞ ♗     ♙    █     Black wins by checkmate 0-1
+      1             ♛      █   ● george
+        a b c d e f g h          ♝
+
+

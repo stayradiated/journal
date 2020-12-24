@@ -79,3 +79,14 @@ james
 James and I went out for an after dinner bike ride around town. I brought the
 basketball with me and we practiced shooting hoops at Kuirau park for 15
 minutes.
+
+hyperfine
+---------
+
+Is a great tool for quickly benchmarking bash scripts.
+
+https://github.com/sharkdp/hyperfine
+
+I'd like to find a way to time how long it takes a server to respond with some data.
+
+hyperfine + httpie works ok, but there is a 200ms overhead of making the request and parsing the response.

@@ -1,0 +1,130 @@
+Thursday 24 Dec 2020
+====================
+
+schedule
+--------
+
+0700      waking up
+0730,0800 morning walk
+0845,0900 cycle into town
+0900,0910 checking if "time central" is open
+0915,0920 spotlight → cushion covers
+0930,0940 time central → new battery for nokia watch
+1000,1145 working
+1200,1220 walk around block with mum
+1250,1315 lunch
+1315,1745 working
+          cooking dinner with james
+          dinner with family
+          tidying up room
+0845,1015 evening walk to the lake
+1020,1035 cleaning up kitchen
+
+walking
+-------
+
+Convinced mum to go for a walk around the block. I was hoping to stop by
+Grøunded cafe for a hot drink, but they were closing up by the time we go
+there.
+
+Mum enjoyed the walk and it was good chatting together.
+
+Going to aim to get 2 walks next week.
+
+dinner
+-----
+
+James and I cooked a satay stir fry.
+
+- 3 cloves of garlic
+- 3 small sliced onion
+- 2 carrots, cut into match sticks
+- handful of button mushrooms, sliced
+- 1 chicken breast, diced
+- 2 small red capsicum, sliced
+- ¼ head of broccoli, cut into florets
+- 1 can of coconut cream
+- a large dollop of peanut butter
+- a decent helping of sweet chilly sauce
+- ½ a bag of canton noodles
+
+Turned out pretty well.
+
+Chris and Anthony turned up just as we started eating. They had just traveled
+down from Auckland. I had asked Chris to deliver me the Telestrations game,
+which he did.
+
+I was hoping to play it with the family tonight, but Dad was on the phone,
+James was in his room on his phone and mum was cooking/cleaning.
+
+I went for a walk to get some air.
+
+I'm not a big fan of Christmas, but it would be nice to have some fun together
+as a family.
+
+It's difficult to not take people you live with for granted.
+
+jo
+--
+
+Jo sent me another message this afternoon :)
+
+The Pelican has just arrived in Curacao, but everyone is stuck on board because
+the authoriities are concerned about covid.
+
+I get to open her present tomorrow.
+
+watches
+-------
+
+I'd buy the classic casio digital watch if I didn't already have a watch.
+
+vim
+---
+
+vim-abolish is such a great vim plugin.
+
+    :%s/Accounts/Contracts
+
+matches and preserves case:
+
+    Accounts -> Contracts
+    accounts -> contracts
+    ACCOUNTS -> CONTRACTS
+
+cuisines
+--------
+
+I'd like to do another family foreign food day. I plan to go through this last,
+write down 10 cuisines and put them in a hat for dad to pick out.
+
+https://en.wikipedia.org/wiki/List_of_cuisines
+https://en.wikipedia.org/wiki/List_of_African_cuisines
+https://en.wikipedia.org/wiki/List_of_cuisines_of_the_Americas
+https://en.wikipedia.org/wiki/List_of_Asian_cuisines
+https://en.wikipedia.org/wiki/List_of_European_cuisines
+https://en.wikipedia.org/wiki/Oceanic_cuisine
+
+spotlight
+---------
+
+I bought three cushion covers from Spotlight.
+
+I've stuffed them with the cushion fillings I originally bought for Jo.
+
+I was thinking about wrapping them, but it seems like an excessive use of
+wrapping paper.
+
+time central
+------------
+
+My Nokia watch started acting funny this morning. Bluetooth was still working
+and the minute hard was pointing to the right time -- but the hour hand was
+off.
+
+The app had been warning me to get the battery replaced, so I finally did.
+
+I visited Time Central, were the guy replaced the battery in 10 minutes and
+charged $25.
+
+I also picked up a SR621SW battery for my DW watch.
