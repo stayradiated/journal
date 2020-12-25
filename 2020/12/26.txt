@@ -1,0 +1,59 @@
+Saturday 26 Dec 2020
+====================
+
+- I woke up at 7:20am to an incoming video call from Jo! She is in Curaçao -
+  fortunately the crew made it through the local bureaucracy and were allowed
+  to go ashore. Jo is having a great christmas - most of the students on board
+  are from Germany, and they had celebrated with german traditions on the 24th
+  and british traditions on the 25th. She was telling me about a secret santa
+  game where they wrapped up silly gifts to play. We chatted for 25 minutes but
+  then Jo had to head back to the ship. The Pelican will soon be leaving for a
+  week long voyage to Costa Rica!
+
+- Dug out my old mish Chromebook and updated it to the latest version. Created
+  a new Google account to use with it. I've installed docker -- planning to
+  build pared down version of my shell image (just vim + git + ssh keys) to use
+  with journaling. It's cool to see that it has support for the wacom tablet!
+
+- I went out for a morning walk, stopping by Grøunded cafe for a spiced ginger
+  latte (much better than the last one). I was going to sit inside and do some
+  journaling, but the latte was served in a takeaway container, so I decided to
+  just continue walking instead. Ended up sitting in the backyard on a beanbag
+  with my laptop.
+
+- I've started digitising my 2020 journal, starting from Week 1. I should have
+  done this earlier. Reading through my past notes is a great for reflecting on
+  my thoughts and goals. It's also giving me plenty of ideas on how to improve
+  my digital journal -- I would love to find a way to integrate drawings into
+  my notes, as well as a markup system for adding structure and color.
+
+- Mum wants us to dress up as mexican musicians and play La Bamba. I don't
+  quite see the connection to Christmas but it sounds like fun.
+
+- I am pretty awful at remembering what happened the previous day.
+
+
+Monty Python
+------------
+
+Sketch from the 28th episode of Monty Python's Flying Circus (1972).
+
+               Son: Good evening, mother. Ah, good evening, Mrs. Nigger-Baiter.
+Mrs. Nigger-Baiter: Ooh, he's walking already!
+       Mrs. Shazam: Oh yes, he's such a clever little fellow, aren't you? Coochy coo…
+Mrs. Nigger-Baiter: Hello, coochy coo…
+               Son: Ha ha haa… yes…  (the son smiles a little tight smile)
+       Mrs. Shazam: Hello, hello… (they chuck him under the chin)
+Mrs. Nigger-Baiter: Look at him laughing… ooh, he's a chirpy little fellow. Yes, whose a chirpy little fellow, eh? Ooh, can he talk, can he talk, eh? eh?
+               Son: Of course I talk, I'm Minister for Overseas Development.
+Mrs. Nigger-Baiter: Ooh, he's a clever little boy, isn't he? He's a clever little fellow. (gets out a rattle) Do you like your rattle? Do you like your little rattle?
+               Son: Oh yes the rattle, yes very good, yes.
+Mrs. Nigger-Batier: Look at at his iggy piggy cheeky little eyeballs eh… oo… he's got a tubby tum-tum. Oh, he's got a tubby tum-tum.
+               Son: (whilst Mrs. Nigger-Baiter is talking) Mother, could I have a quick cup of tea please. I have an important statement about Rhodesia to make in the Commons tomorrow.
+(Sound of an explosion out of vision. Cut to reveal Mrs. Nigger-Baiter's chair charred and smoking. Mrs. Nigger-Baiter is no longer there. The upholstery is smoldering gently.)
+       Mrs. Shazam: Oh, Mrs. Nigger-Baiter's exploded.
+               Son: Good thing, too.
+       Mrs. Shazam: She was my best friend.
+               Son: Oh, mother, don't be so sentimental. Things explode every day.
+       Mrs. Shazam: Yes, I suppose so. Anyway, I didn't really like her really.
+

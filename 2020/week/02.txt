@@ -1,0 +1,139 @@
+Week 2
+======
+
+Montag 6th
+----------
+
+- Travelling back to Rotorua by bus (10am - 2.10pm). Sitting next to a girl who
+  is carrying a small pot plant - an unexpected Christmas gift.
+- James and I took the mountain bikes to the park at the end of the Devon
+  Street for an hour. He really enjoyed whizzing around. It was insanely windy,
+  but we didn't back down and got a couple of laps in.
+- Had a great evenig cooking BBQ grilled corn - super easy but delicious with a
+  garlic herb butter. Also used up a bunch of old bananas in a banana bread -
+  turned out moist and scrumptious.
+
+Dienstag 7th
+------------
+
++ Grreat lie in bed til 9:30am! Had a gorgeous shave with a hot towel. Face
+  feels super smooth.
+- Parents are looking at buying a new car.
+
+Mittwoch 8th
+------------
+
+- Morning run, legs are a bit sore.
+- Big mountain bike ride around town with James. Ward ave, to Te Ngae bridge to
+  PAK'nSAVE and back home. Tried to get something to eat from Guidoughs but
+  they are on holiday.
+
+Donnerstag 9th
+--------------
+
+- Morning run - 7.7km with under 4 min/km pace!
+- Success! James and I cycled to zippy's cafe for lunch. We shared two bagels.
+  A PHAT and a Jam. Not bad.
+- Watching the Good Oments TV show. Mom reallly likes David Tennant.
+- Spent most of my morning refactoring my dotfiles to use git-crypt.
+
+Freitag 10th
+------------
+
+- Got the new event system working for Bansky. It's not perfect, but good
+  enough to build upon.
+- [x] Goal: go to redwrodos with James → Success! We cycled all the way there,
+  which involved going across the Hemo Gorge track. We completed the "kids
+  loop" - which is a lot more challenging than it sounds, and celebrated with
+  an ice coffee at the Bike Cafe. Jame is surprisingly good at cycling. His
+  bell fell off this bike though...
+
+Samstag 11th
+------------
+
+- James and I cycled to the kuirau markets. I bought dumplings (delicious). We
+  visited the Warehouse and I bought James a new bell and handlegbar grips. We
+  sat in the shade at the lakefront while I at my ice cream. THere was a cute
+  girl sitting on the bench next to use with her eyes shut.
+- Finished watching Good Omens - 7/10.
+
+Sonntag 12th
+------------
+
+- Had a late start. Shaving after a hot towel is definitely the way to go, much
+  smoother skin. Headed to Grøunded for my regular weekly reflection. Had a
+  good catch up with Jo.
+- We should certainly go for a swim at the blue lake this afternoon.
+
+................................................................................
+
+Baking + Cooking
+----------------
+
+- Banana Bread
+- BBQ Grilled Corn w/ Garlic Butter
+- Morrocan Chicken on BBQ
+- Kimchi, Salsa, BUlgar Wheat, Cauliflower Rice
+- BBQ Meat + Veg
+
+Activities
+----------
+
+- Rock Climbing / Bouldering - James?
+- Swimming
+- Camping - James
+- Fishing - Dad
+- Golfing - Dad
+- Fitloop?
+
+
+- Stephanie?
+- Brendon
+- LJ
+- Jacob
+- Pavel
+- Kelsey
+- Peter
+- Mack
+
+- New Plymouth
+- Nelson
+- Christchurch
+
+Cheap flights....
+
+Driver's lience?
+
+Zwolf
+-----
+
+- Can deploy on git push
+- Need to configure service accounts for pub sub
+- Configure Facebook Messenger to use new endpoints
+
+Music
+-----
+
+- El Michels Affair
+- Magic Brendon
+- Carter Vail
+
+Podcasts
+--------
+
+- No Such Thing As A Fish
+- Party
+- Twenty Thousand Hertz
+
+Goals For Week #3
+-----------------
+
+- [ ] Check-in with Stephanie, Brendon and Peter
+- [ ] Start tracking communication with friends - keep in touch more
+- [x] Habit tracker German practice
+- [x] Set up a the tent in the backward - check out the condition
+- [x] Plan a nights camping trip with James
+- [x] Get a hearing check (encourage parents)
+- [x] Get a haircut (and James as well)
+- [>] Visit the Rock Climbing wall
+- [x] Make plans to visit friends in January
