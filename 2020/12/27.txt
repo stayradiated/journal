@@ -1,0 +1,121 @@
+Sunday 27 Dec 2020
+==================
+
+Chores
+------
+
+- [x] Purchase more sunscreen
+
+Future Happiness
+----------------
+
+- Another game of RISK with my friends. Perhaps try the "capitals" variant?
+- Sailing on Percy's Revenge with Goodall and Anna
+- Hanging out with Ivan in Christchurch
+
+Development Plan
+----------------
+
+This week: focus on getting Mish Guru to run.
+
+Try getting up at 6am and working for a few hours each morning.
+
+- complete refactor of ReceiveSnap
+- complete the mishguru/storage library as a wrapper around S3
+- test: receive directly sent snaps
+- test: downloading content from public stories
+
+Distractionless
+---------------
+
+I have set up a light weight build of my stayradiated/shell Docker image on the
+chromebook. I am taking inspiration from Devine Lu Linvega and trying out a
+"distractionless" editing experience. I know that if I have easy access to the
+internet that I end up spending far more time consuming content than creating
+it.
+
+The idea is to have a laptop that is designed just for writing. The chromebook
+works quite well for this, it's durable, has a great battery life and isn't
+designed to do too much. All I need to do is to make sure that I disable wifi.
+
+Videos
+------
+
+I was reminded of my goal at the start of the year to record a video each day.
+I think I was far too ambitious, but I love the idea.
+
+I think I could achieve a more pathetic attempt -- post a 10 second video to
+online each day. This could be too YouTube or Snapchat -- though ideally I
+would have a backup of it. Might be a good excuse to finally set up my Snapchat
+syncing server.
+
+I think the ideal length of each video should be 10 seconds. I could imagine a
+project at the end of 2021 were I join all the videos together in a montage.
+
+...
+
+I did it! I published a short 10 second video of the hailstorm. I tried using
+iMovie but it doesn't support vertical video. I tried a bunch of other video
+editors but they all want silly subscription money. The best editor I have
+found so far is called "VN" -- Video Now. It has a bunch of features and
+appears to be free? They don't even require an account to use…
+
+I will keep using it tomorrow and report back.
+
+Farmer's Market
+--------------
+
+It's a beautiful morning out (the forecast is for HEAVY RAIN this afternoon).
+
+I am out at the Rotorua Farmers Market this morning with my chromebook. Mum
+said she was keen to come along ++ Chris and Anna might also make an
+appearance!
+
+So mum got distracted sorting out the tupperware… but Chris and Anna showed up!
+We had a coffee, croissant and a good chat. Brief wander around the market and
+then down to the lake front. 
+
+We stopped by the Lakes Care pharmacy (chris needed to grab something) and I
+took the opportunity to grab a 400ml bottle of Neutrogena Beach Sunblock for
+$30. Hopefully should last a bit longer than the the spray bottles.
+
+This mornings music is provided by the couple Izzy and Moe
+(https://izzyandmoemusic.com)
+
+Walking
+-------
+
+Around midday, Mum and I went out for another short walk around the block. I
+think mum is starting to understand the benefits of getting out of the house.
+We passed by a box marked "FREE" on Ashley street - mum picked out four feet
+for holding pot plants.
+
+Quotes
+------
+
+"The best time to start a new year's resolution is right now."
+
+- me, yesterday
+
+Weather
+-------
+
+The morning was lovely and sunny but in the afternoon we had a crazy
+thunder-hail-storm! Fortunately we were prepared and had packed all the gear up
+outside.
+
+I spent most of the afternoon sorting out my bedroom. I've installed a new
+blind (replacing some old curtains) and further reduced the amount of
+furniture. I've also finally set up the Belkin Wemo lightbulb, it now
+automatically turns on/off in the evenings. 
+
+Evening
+-------
+
+- Sliced Ham, Beetroot and Roast Veggies for dinner
+- Custard & Steamed Christmas Pudding for dessert
+- We all enjoyed three rounds of Telestrations
+- I tried to put on the James Cagney movie "One, Two Three", but the two DVD
+  players we had were both not working. Managed to get the disc stuck in one of
+  them and then the other started working. Watched 2 episodes of Mr. Bean.
+  Rowan Atkinson is execellent at physical comedy.

@@ -1,4 +1,158 @@
 Week 3
 ======
 
+Montag 13
+---------
 
+- [x] Haircut at Wilson's, with James → Dienstag
+- James did not want to go for a bike ride today. So I went by myself.
+- Working on perplexed + prism to parse API data.
+- Started a morning bootcamp at Smallbone park (just myself).
+
+Dienstag 14
+-----------
+
+- [x] Haircut at wilsons - 2pm (with James). We cycled there, waited about half an hour. James bumped into an old school mate there; Nicholas.
+- [ ] Go for a swim at the aquatic centre... did not happen.
+- [x] Pavlova for tomorrow night. It looks amazing!
+
+Mittwoch 15
+-----------
+
+- BBQ Dinner with Sarah & her mum
+- Lots of baking: made a bavarian plum sheet cake: turns out removing the plum
+  stone is not a quick or easy process. I also whipped up a lot of cream and
+  slathered it on the pavlova. Mum brought out a bag of nectarines, so I sliced
+  them up and decorated the pav with them.
+- Had a catch-up phone call with Jacob. Discussing
+
+Donnerstag 16
+-------------
+
+- James and I went mountain biking together in the forest. James is getting
+  more confident on the bike, so I let him ride in front. He also surprised me
+  by doing several chin-ups on the exercise bars.
+- We have had the tent in the backward for a few days now, but only did something with it today.
+- Went to Bay Audiology for a hearing check. I have normal hearing. I want Dad
+  & Mum to go for a check.
+
+Freitag 17
+----------
+
+- Caught bus to Auckland (10:45 - 14:45). Working  on plextools algo for
+  finding matching tracks based on track metadata.
+- Anna picks me up from Panmure station. We purchase some old rusty tools from
+  Junk & Disorderly and a few plants from Kings Plant Barn. Anna soaks the
+  tools in a bucket of acid and I try using a weedeater (whipper snipper) for
+  the first time... Every 2 minutes I would have to pause & rethread the
+  plastic cable.
+- We had burgerfuel for dinner and then played a game of hearts, with Anna
+  having a surprise victory. With plenty of sweets to keep us going we played
+  one night ultimate werewolf until 1am - lots of fun, confusion and lies. We
+  should get more people to join us for a future game.
+
+Samstag 18
+----------
+
+- Goodall & Anna had an early start (to Anna's distress) with a morning walk up
+  Mt. Eden. I went for a run to Monte Cecilia and continued my bootcamp.
+- I continued to work on plextools and then we all headed to the fed. I
+  ordered the best ugly salmon bagel and paid with Apple pay.
+- We all helped out in the garden. The guys are moving out soon and it needed
+  weeding and tidying up all the leaves. It was very hot outside.
+- We had pizza for dinner and then embarked on a game of a Risk.
+
+Sonntag 19
+----------
+
+- Morning bootcamp in park near guys flat. Focusing on upper body. There was a
+  group of guys practicing baseball again.
+- Headed to a nearby cafe - "Just Like Martha" - for my morning reflection.
+  Chris, Chris & Anthony joined me and we enjoyed brunch together.
+- We finished off Risk together, Goodall reached 20 territories first and
+  no-one was eliminated.
+
+................................................................................
+
+Bootcamp
+--------
+
+- Push Ups           30 20 10
+- Burpees            20 10
+- Sit Ups            30 20
+- Twisties           40 30 20
+- Squats             (5, bounce) x 4
+- Star Jumps         30
+- Planking           active recovery
+- Plank-Ups          10
+- Stair Sprints      10
+- Tricep Dips        10 5
+
+Focus
+-----
+
+I accidentally wiped my beets music library DB, so I had to rebuild it. This
+caused a lot of items to be retagged and Plex needed to be cleaned up: Fixing
+missing items in playlists, removing duplicate albums and preserving track
+ratings. I used my plextools until to help make this process easier.
+
+Friends Talked To
+-----------------
+
+- Chris Goodall
+- Chris Smith
+- Anthony
+- Anna
+- Jacob
+
+Eating
+------
+
+- Hummus (carrot + kumara)
+- Nuts + Raisins
+- Popcorn
+- Lamington
+- Pumpkin Brioche
+- M&M's
+- Margharita Pizza
+- Chips & Dip
+- Salmon Bagel
+- BurgerFuel Burger
+- Apples
+- French Toast
+- BBQ Steak & Sausages
+- Pancakes
+- Home-made Garlic Bread
+
+Rules for Speedier Risk
+-----------------------
+
+- Attacker announces the total number of armies invading a territory
+- Resolve the first battle round with dice and apply the results
+- Pair off all remaining armies defending with all remaining armies attacking
+  and remove pairs
+- The side with armies remaining controls the territory. Defender wins a tie
+  (leaving 1 army to defend).
+
+Ideas for other risk variations:
+
+- CAPITALS: Each continent is assigned a random capital city. Conquering the
+  capital converts all the defending players armies on that continent to your
+  team.
+- LESS RISK CARDS: Start out with obtaining a risk card each round you conquer
+  a territory, but each time a player cashes in their stars, raise the amount
+  of territories. Required to get a card.
+
+Listening To
+------------
+
+- No Such Thing As A Fish
+- Tim Ferris interviewing Penn Gilette
+- John Finnemore's Souvenir Show
+- Marc Rebillet, Devoted, Pinc Louds
+
+Projects
+--------
+
+- Prism
+- Perplexed + Plextools
