@@ -5,23 +5,117 @@ Monday 28 Dec 2020
   and Chris want to catch up. The plan is to grab a lift with them back to
   Auckland on the 30th/31st.
   
-- working on mishguru this morning in bed. Finished the refactor of mediatools, now I just have to get receivesnap tests passing.
+- Working on mishguru this morning in bed. Finished the refactor of mediatools,
+  now I just have to get receiveSnap tests passing. Update: all the receiveSnap
+  tests are passing! Tomorrow I can start updating the API calls in SnapTurbo.
+
+- Morning walk around the block with a cup of tea.
+
+- Chris Smith is in driving into town this evening, he might be free tomorrow.
+  Chris & Anna are back in Auckland with the boat! Hannah is in Whangamata. I
+  think Anthony is around Rotorua but I haven't heard from him.
+
+- Roast Veg salad for lunch (pumpkin, onion, carrot, brocolli, kale, miso
+  paste, hummus)
+
+- Kicking a soccer ball around in the back yard, practicing how many times I
+  can kick it without it touching the ground (hacky-sack?)
+
+- Ate far too many shortbread biscuits (they are soo good though!)
+
+- Still practicing the La Bamba riff on guitar. I've got the timing sorted now,
+  just need to get good. Also could try to learn the harmonics that Justin
+  suggests.
+
+- James and I went out for a bike ride around the Redwoods (James' suggestion).
+  We followed the Mokopuna track from the info center out to Tarawera road.
+  I filmed us riding around and cut it down to 10 seconds and posted it to
+  YouTube.
+
+- Mum and I drove down to the Warehouse. I was looking to purchase a 100L of
+  bean bag beans, but they had sold out over Christmas. Mum purchased several
+  plastic food containers and a box of Turkish Delights. I bought 3x small
+  plastic Sistema containers I might be able to use when travelling. 
+
+- After dinner I brought out Exploding Kittens and explained to everyone how to
+  play. James started the game and THE VERY FIRST CARD was an EXPLODING KITTEN!
+  James defused and of course put the kitten back on top for mum to pick up.
+  Mum did the same thing to me… I put it back in the middle of the pile so we
+  actually had a chance at playing a game, but was soon knocked out a few
+  rounds latest, leaving just mum & dad to finish the game. We all enjoyed the
+  game, I'm not sure if there was something in the Stollen we were having for
+  dessert, but Mum was hilarious and there was a lot of laughter. We made it
+  all the way to the final 3 cards before Dad accidentally blew himself up and
+  Mum won the game! Definitely worth playing again.
+
+- We watched the first half of Sherlock Holmes (2009). Still one of my
+  favourite movies.
 
 Todo
 ----
 
-- Read through the NZ Tourism guide and get ideas about where to travel in January
+- [x] Read through the NZ Tourism guide and get ideas about where to travel in
+  January
 
-- I would you like to take James on a week long trip in January. I'm not sure where… Wellington is quite a cool city that I know pretty well maybe James and I can go down there for a bit?
+- [ ] I should see if I can get a dentist appointment while I am in Auckland? it's
+  been a while since my last checkup
 
-- I would like to get back to Christchurch for a week at some point in January as well
+- [x] I would like to introduce the family to a new board game, perhaps Exploding
+  Kittens?
 
-- I would like to go on a full family trip to the beach but that's probably not going to happen until mid February.
+Travel
+------
 
-- I should see if I can get a dentist appointment while I am in Auckland? it's been a while since my last checkup
+- I would you like to take James on a week long trip in January. I'm not sure
+  where… Wellington is quite a cool city that I know pretty well maybe James
+  and I can go down there for a bit?
 
-- I would like to introduce the family to a new board game, perhaps Exploding Kittens?
+- I would like to get back to Christchurch for a week at some point in January
+  as well
 
-- I have become aware that the more time I spend travelling the less time I have to work on my own projects. I need to find a way of balancing the two.
+- I would like to go on a full family trip to the beach but that's probably not
+  going to happen until mid February.
 
-- 
+- I have become aware that the more time I spend travelling the less time I
+  have to work on my own projects. I need to find a way of balancing the two.
+
+Exercise
+--------
+
+Exercising in the back yard before lunch with 15kg slam ball:
+
+- push ups
+- squats with ball
+- sit ups (regular & frog leg)
+- slams
+- russian twists with ball
+- plank w/ knees to elbows
+- leg raises
+- carry ball above head
+- burpees
+
+Trying to develop my core, the leg raises were the worst! I should practice
+those each day.
+
+
+Dinner 
+------
+
+I cooked an Chicken Korma curry for dinner
+
+Heat a frying pan with a bit of oil and fry the following:
+
+- 3 cloves of garlic (crushed)
+- 2 onions (sliced)
+- 1 carrot (sliced)
+- 1 packet of Korma paste
+- 2 chicken breasts (diced)
+- 1 can of diced tomatoes
+- 1 yellow capiscum
+- 1 can of coconut milk
+- a dash of hot sauce
+- 1 Tbsp of tomato puree
+- ½ packet of canton noodles
+- flaked almonds (for presentation)
+
+Served with basmati rice, very tasty, very good. Everybody loved it. 
