@@ -42,3 +42,5 @@ Video: https://youtu.be/Yi7D2XIQcG8
 - Still reading "Permutation City" by Greg Egan. Interesting concepts about a
   Copy trying to prove that it's living in the real world by using a
   "Garden-of-Eden" state.
+- fix up clickandcollect scraper
+- continue mish receivesnap+snapturbo
