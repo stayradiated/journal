@@ -22,4 +22,4 @@ accidentally get sucked into the internet while I trying to write.
 todo
 ----
 
-- [ ] book bus back to Rotorua for Monday night
+- [x] book bus back to Rotorua for Monday night
