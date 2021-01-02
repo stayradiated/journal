@@ -19,7 +19,106 @@ Distractionless mornings: I haven't got my chromebook with me while in
 Auckland, but I can hit Fn+F8 to toggle the wifi -- this means I can't
 accidentally get sucked into the internet while I trying to write.
 
-todo
+Exploding Kittens
+-----------------
+
+We have all expansions, this is the deck we are playing with:
+
+- all defuse cards
+- all exploding kittens
+- all plain cat cards (including feral cats)
+- all nope cards
+- all skip cards
+- 4x see the future (3x) cards
+- 2x share the future (3x) cards
+- 2x alter the future (3x) cards
+- 4x attack cards
+- 2x curse of the cat butt cards
+- 4x shuffle cards
+- 4x reverse cards
+
+Playing with the standard rules:
+
+- 2x set of cat cards: blind take a card from a player
+- 3x set of cat cards: take a chosen type of card from a player
+- 5x different cards: take a card from the discard pile
+
+Works pretty well with 6 people, could be refined further.
+
+Kite Flying
+-----------
+
+We headed over to Cornwall Park Cafe around 11am in the morning. I jogged over,
+the others drove. The cafe was pretty full, so we kicked a soccer ball while
+waiting for a table.
+
+We got a great table, sitting outside (it was so humid!) but under shelter --
+which was perfect because it started hammering down with rain. While waiting
+for our food we played a game of Exploding Kittens.
+
+For lunch, I had 2 poached eggs on sourdough bread with a date scone ($17).
+
+When it stopped raining we flew kites in the park, with some success! The kites
+cost only $3 each and rather small, but required little wind to take off.
+Unfortunately the wind was turbulent and unstable and often changed direction
+-- however, once the kites had cleared the tops of the trees, the breeze was
+more consistent and made flying much easier.
+
+When the rain returned, we took shelter beneath the park rotunda. Chris S
+continued to fly his kite between the building and the trees, eventually
+getting it stuck in the tops of the tree. After much yanking, the kite came
+free but the line was rather knotted. Anna helped him to untangle it.
+
+We kicked the soccer ball around, tossed a $1 Frisbee and continue to fly
+kites. It was a fun morning.
+
+RISK
 ----
 
-- [x] book bus back to Rotorua for Monday night
+Raining all afternoon. Hannah, Chris S, Chris G, Anthony and I all played RISK
+for several hours. We played for the first time using the "classic" rules:
+
+Players have 25 armies to place around the board on a territory of their
+choice. 
+
+1. Everyone rolls a die -- highest number goes first
+2. Each player takes turns to place a single army on an unoccupied territory
+3. Once all territories have been occupied, players take turns placing a single
+army on a territory they already control until they run out of armies.
+
+Play continues as normal, but without the "CEASE FIRE" card. The game is won
+when someone has taken over all territories. 
+
+### Our Game
+
+We played using the classic battle rules, the ones with lots of dice rolls. In
+hindsight, we should have played with the "fast" rules with less dice rolls.
+Instead of removing armies by hand we kept track of the score on paper to speed
+up the battles a little.
+
+- Chris G started in North America
+- Anthony started in South America and Australia
+- Chris S started in South Africa
+- Hannah started in Asia and Europe
+- I started spread out between South Africa, Australia and Asia
+
+By the middle of game, Chris G controlled North America and large forces across
+the border of West Europe and East Asia. Anthony had large forces in his
+control over South America and Australia, Hannah had  control of Europe and
+Chris S controlled South Africa. I had a large army in India and the Middle
+East.
+
+Chris S and Anthony agreed to attack Chris G, with Chris S attacking from Egypt
+into Southern Europe. Anthony took his time, but eventually attacked from
+Venezuela into Central America.
+
+I played diplomatic for most of the game, attacking only undefended territories
+to avoid losing too many armies.
+
+End game started with Hannah getting bored, shouted "YOLO" and started
+attacking everyone on all sides.
+
+TODO
+----
+
+- [x] book bus back to Rotorua for Monday night ($70)
