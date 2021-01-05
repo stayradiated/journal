@@ -1,0 +1,28 @@
+Tuesday 05 Jan 2021
+===================
+
+Back to work today!
+
+Woke up at 9am feeling grouchy.
+
+Went for a morning walk around the block with a cup of chai tea.
+
+Listening to first episodes of the "Learnt My Lesson" and "The Oversharers"
+podcasts.
+
+Thinking about spending a week in Taupo. Then travelling down to Wellington by
+bus. James could fly down to meet me there on the 20th, after he has done his
+driving test.
+
+Working from Zippy Central Cafe.
+
+Climing at the wall.
+
+todo:
+-----
+
+- [x] learn how to heroku pielines work
+- [x] hit the pool --> the outdoor pool at the Rotorua Aquatic Centre is closed :(
+- [ ] migrate clickandcollect to use the formspree form thing
+- [ ] read through Drew DeVault's blog posts on gemini (https://drewdevault.com/)
+- [ ] watch react data fetching talk (https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
