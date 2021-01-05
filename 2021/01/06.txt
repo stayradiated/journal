@@ -1,0 +1,13 @@
+Wednesday 06 Jan 2021
+=====================
+
+Baraitser blocked the extradition of Assange! That was a shock, media is
+focusing on the mental health aspect and ignoring the inhumane conditions of US
+Supermax prisons.
+
+todo:
+-----
+
+- [ ] migrate clickandcollect to use the formspree form thing
+- [ ] read through Drew DeVault's blog posts on gemini (https://drewdevault.com/)
+- [ ] watch react data fetching talk (https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
