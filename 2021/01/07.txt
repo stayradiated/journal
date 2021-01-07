@@ -1,2 +1,36 @@
 Thursday 07 Jan 2021
 ====================
+
+todo
+----
+
+- [ ] migrate clickandcollect to use the formspree form thing
+- [ ] watch react data fetching talk (https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+
+schedule
+--------
+
+- sleeping in til 9am
+- morning walk around the block
+- running laps at Smallbone Park
+- catching up with Jo over a quick phone call, she has arrived in Golfito :)
+- cooking another chicken veggie curry for dinner
+- evening walk to break 10k steps
+- booking flights to Wellington for the end of January
+
+work
+----
+
+Setting up Github Actions to build and delpoy docker images to Heroku.
+
+DALL-E
+------
+
+https://openai.com/blog/dall-e/
+
+This is such a powerfully awesome project.
+
+And who knew avocado chair would look so cute?
+
+Also, I didn't realise when I read the article the first time, you can
+customize the prompt for each set of images by clicking on the underlined words.

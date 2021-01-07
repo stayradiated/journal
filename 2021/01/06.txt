@@ -1,18 +1,39 @@
 Wednesday 06 Jan 2021
 =====================
 
+video: https://youtu.be/E0VhbNZPte4
+
 Baraitser blocked the extradition of Assange! That was a shock, media is
 focusing on the mental health aspect and ignoring the inhumane conditions of US
 Supermax prisons.
+
+schedule
+--------
+
+- swimming
+- lunch at Saigon 60's
+- working from the library
+- bouldering at the Wall
+- cooking chicken veggie korma curry for dinner
+- evening bike ride with James
 
 todo:
 -----
 
 - [ ] migrate clickandcollect to use the formspree form thing
-- [ ] read through Drew DeVault's blog posts on gemini (https://drewdevault.com/)
+- [x] read through Drew DeVault's blog posts on gemini (https://drewdevault.com/)
 - [ ] watch react data fetching talk (https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
-I would like to redevelop the back shed at my parents house. It would be a good project to develop skills for constructing a tiny house. 
 
-However, the shed is currently full of "stuff" - most of it hasn't been used in years. It's a sensitive topic for my mum, who puts it on herself to be in charge of sorting it out. 
+project shed
+------------
 
-I'm wondering if my parents would be onboard with the idea of turning the shed into a useable space - and if that helps make them more willing to get rid of the things we don't need. 
+I would like to redevelop the back shed at my parents house. It would be a good
+project to develop skills for constructing a tiny house. 
+
+However, the shed is currently full of "stuff" - most of it hasn't been used in
+years. It's a sensitive topic for my mum, who puts it on herself to be in
+charge of sorting it out. 
+
+I'm wondering if my parents would be onboard with the idea of turning the shed
+into a useable space - and if that helps make them more willing to get rid of
+the things we don't need. 
