@@ -1,0 +1,19 @@
+habits
+
+S = swim
+R = run
+G = guitar
+B = bouldering
+Tb = travel by bus
+
+jan f 01 R
+    s 02
+    s 03 R
+    m 04 R       Tb
+    t 05       B
+    w 06   S   B
+    t 07 R
+    f 08   S G B
+    s 09 R
+    s 10
+    m 11
