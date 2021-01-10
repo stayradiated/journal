@@ -1,15 +1,31 @@
 Sunday 10 Jan 2021
 ==================
 
+video: https://youtu.be/WXC4jOV6Cko
+
+...
+
 Still getting used to typing 2021.
 
 - Starting the day at 8am. What can I change to wake up earlier? I need more
   light in the morning.
 - Working on cleaning up the mish monorepo, all the packages now pass the
   linting rules - still a few packages that need tests fixed.
-- heading into town for the Rotorua Farmers Market at 10am
+- Heading into town for the Rotorua Farmers Market at 10am. Bought a medium
+  sized punnet of Blueberries and a flat white coffee. I brought my chromebook
+  with me to take some notes.
 - Zoe Scott is performing at the market today (@whoiszoescott).
 - Ran into Matthew G. and his mother walking through town.
+- boating adventures
+- Eating a summer salad for lunch in the backyard, reading the final chapters of
+  "Perihelion Summer".
+- Mum made pizzas for dinner, super tasty
+- Evening walk around the golf course, picking up a bunch of trash. Came across
+  a broken glass bowl sitting on the grass by a driveway -- super dangerous!
+- I made a Pavlova for desert -- there was an issue with the oven and the base
+  got rather burnt, but with a dollop of whipped cream and fresh blueberries,
+  it tasted fine!
+- Watching episode 7 of Death Note
 
 Boating
 -------
@@ -18,7 +34,47 @@ Planning to catch up with Anna and Chris G today -- aiming for sometime around
 1. It's not looking like a lot of wind today, so we will probably just use the
 motor and have an explore around one of the lakes.
 
-Going to bike over to Friskin Pl.
+Going to bike over to Friskin Pl. Arrived there around 11:30am. Chris had the
+boat ready to go and we drove out to Lake Okareka. It was just Chris and
+myself, Anna was staying home.
+
+It was a little busy at the Boat Ramp (-38.176780, 176.348228). Keith from the
+council checked our boat for any weeds, but the boat was clean. We prepped the
+mast for sailing and launched the boat into the water. There were several kids
+jumping off the wooden jetty, so we kept the boat to the right and away from
+them.
+
+We jumped onboard and Chris used the motor, a new 4-stroke 8HP Suzuki, to get
+us out past the 5 knot mark. There was a slight breeze so we hoisted the sail,
+but the wind soon disappeared so we lowered the sail and motored around the
+headland going further into the lake. Here the wind was a bit stronger and we
+were soon sailing at a whopping 6km/h over to the opposite side.
+
+We landed at small sandy bay (-38.179354, 176.371738), brought the boat up on
+the sand and  went for a swim. The water was very warm and we spent a good time
+just paddling around. After we dried ourselves off, we had some snacks and then
+prepared to sail back to the boat ramp.
+
+It was a gentle sail, but I really enjoyed it. I would like to contact the
+Rotorua Yacht Club and see what I would need to do to hire one of their Laser
+boats for an afternoon. Membership is $80 and boat hire is only $20 -- so it's
+far cheaper than buying a boat and having to sort out trailers and storage.
+
+By the time we had packed up and driven back to Lynmore, it was 3pm. I helped
+Chris put the boat away and then cycled home.
+
+Dogs
+----
+
+While cycling through the redwood forest I was passing by a group of people, so
+I slowed down and gave them a wide berth. Suddenly a black dog ran in front of
+my bike, I slammed on the brakes but collided with the dog and I went flying
+over the handlebars, rolling out of the fall to avoid hurting myself. I brushed
+myself and asked if the dog was alright, expecting it to have been injured. The
+owner said the dog was fine and that he would have yelped if he had been hurt.
+Silly dog.
+
+In the future I will be far more cautious around dogs when cycling.
 
 Travel
 ------
