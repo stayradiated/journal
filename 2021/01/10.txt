@@ -1,2 +1,40 @@
 Sunday 10 Jan 2021
 ==================
+
+Still getting used to typing 2021.
+
+- Starting the day at 8am. What can I change to wake up earlier? I need more
+  light in the morning.
+- Working on cleaning up the mish monorepo, all the packages now pass the
+  linting rules - still a few packages that need tests fixed.
+- heading into town for the Rotorua Farmers Market at 10am
+- Zoe Scott is performing at the market today (@whoiszoescott).
+- Ran into Matthew G. and his mother walking through town.
+
+Boating
+-------
+
+Planning to catch up with Anna and Chris G today -- aiming for sometime around
+1. It's not looking like a lot of wind today, so we will probably just use the
+motor and have an explore around one of the lakes.
+
+Going to bike over to Friskin Pl.
+
+Travel
+------
+
+I've got tickets for James to fly down to Wellington on the 28th Jan.
+
+I need to book my own travel route -- I'm not sure if I'm going to be taking
+the bus or flying down with him.
+
+I'd like to get my work with Mish finished before I leave Rotorua -- it's very
+tempting to head off but I know I have more time for programming when I am
+home.
+
+Music
+-----
+
+I should checkout latest Tiny Ruins album "Olympic Girls".
+
+Going to create a list of music to checkout. See [[ /lists/music_todo.txt ]]
