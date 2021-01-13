@@ -1,0 +1,65 @@
+Wednesday 13 Jan 2021
+=====================
+
+Working from Ciabatta this morning (they are open again!)
+
+Thinking about working from the Basecamp co-working space twice a week ($35 a
+day). Perhaps Wednesdays and Thursdays? Would be nice to have good internet for
+the dev meetings.
+
+I think the Lenovo Thinkpad Gen 9 is going to be my next laptop. Before I
+purchases it, I would to like to see that it supports running linux.
+
+After the design meeting, I rode over to the Aquatic Centre. Swam a few laps
+back and forth, feeling a bit more confident in the water. Focusing on getting
+two full strokes before I turn my head to breath -- the feeling of running out
+of air while swimming is tough to overcome, but I am making progress.
+
+Cycled back home for lunch, prepared another summer salad with avocado - so
+tasty! Reading the last chapters of "Permutation City". Ate the last of the
+biscuits.
+
+Visiting the climbing wall in the evening, improving my technique on the blue
+climbs. Stretching my forearms before I climb, noticing that the pain in my
+left arm is really in my bicep. Need to find a good stretch for that muscle.
+
+Mum cooked cumin potatoes, chicken, sweetcorn and brocolli for dinner. I
+defrosted turkish bread in the oven.
+
+Watching episode 10 of DeathNote - the tennis match between Light and L is well
+done, I like how they every interaction they have has a deeper meaning to it.
+
+Finished reading "Permutation City". It's a great book about living in a
+simulation and what it means to be "real". 
+
+I am going to finish Pullman's "Northern Lights" novel next, I've got half way
+to go.
+
+todo:
+-----
+
+- [x] Edit and publish short clip of yesterdays kite flying to YouTube
+- [ ] Give a Chris S a call, see how he is going.
+- [x] 1100: weekly design meeting
+- [x] Go for a midday swim at the aquatic centre
+- [x] Jot down retrospective ideas
+- [x] Visit the climbing wall in the evening
+- [ ] Digitalise week 4 of my 2020 journal [[ /2020/week/04 ]]
+
+retrospective:
+--------------
+
+We have got the first dev retrospective tomorrow, I should spend 30min today
+thinking about things to bring up.
+
+- outcome of the retrospective:
+  - 1 action/week between meetings
+
+- using Runn to track what we are working on
+- I'd like to try daily 10am standups
+  - everyone writes down what they are working on in #development 
+  - we catch up at 10am for a quick hello
+  - talk about anything blocking us
+  - max of 15 minutes
+- run a retrospective more often - once every 2 weeks?
+- demo what we are working on to the team, could be async

@@ -8,3 +8,48 @@ Taking monday off work.
 - returned "Perihelion Summer"
 - hanging out at the public library with my laptop, hoping mum will meet me for
   a coffee at Bird the Word around midday.
+- waiting for mum to arrive at the cafe, it's nearly 1pm and I still haven't
+  eaten anything. This is a great day for fasting.
+- Great catch up with mum at Bird the Word cafe. Chatting about when she used
+  to live in Sydney and her first new car. I bought a large slice of apple cake
+  and two coffees.
+- Cycling home 
+- Visiting the climbing wall in the afternoon. Completed all of the blue climbs
+  ("novice samurai" level) except for the "blue arrow" on the far left, which
+  has only 5 holds and excludes the box and arête. Attempted to try the yellow
+  routes ("samurai" level) -- they are all beyond my comprehension for now.
+
+pavlova
+-------
+
+I would like to make another Pavlova tonight, this time I will use the little
+oven. We have plenty of cream and blueberries leftover as well.
+
+Update: the pavlova turned out amazing!
+
+Notes for next time:
+
+- use the lower tray in the little oven, the crust of the pavlova will rise
+  while baking and can singe if it gets too close to the top element.
+- the thicker you can whisk the meringue the better, as it makes it easier to
+  shape on the baking tray
+- you don't need to add sugar to the whipped cream
+
+books
+-----
+
+I am  loobing at books to rent from the library, but few the books I want to
+read are available and I already have them on my kindle.
+
+I also have several physical books sitting in my room that I have yet to read,
+so I should probably start on those first.
+
+I would like to sell most of my books, I have enough stuff as it is. Most
+novels are easier to read on a kindle anyway.
+
+mish
+----
+
+- all monorepo tests are now passing, ready to create a PR
+- aim to finish developing receiveSnap and make sure the snapturbo methods
+  are working (downloadFile, updateSnaps) as expected.
