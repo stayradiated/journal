@@ -63,3 +63,7 @@ thinking about things to bring up.
   - max of 15 minutes
 - run a retrospective more often - once every 2 weeks?
 - demo what we are working on to the team, could be async
+
+- I've been working on the Hasura project -- It's a massive PR. I'd like to
+  work on it in smaller chunks. Perhaps I can try a feature branch and break up
+  my work in smaller chunks that can be reviewed.

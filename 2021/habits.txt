@@ -16,4 +16,8 @@ jan f 01 R
     f 08   S G B
     s 09 R
     s 10
-    m 11
+    m 11 R S   B
+    t 12
+    w 13   S   B
+    t 14 R
+    f 15

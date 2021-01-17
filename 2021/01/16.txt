@@ -1,0 +1,40 @@
+Saturday 16 Jan 2021
+====================
+
+morning
+-------
+
+Woke up to my alarm at 6:30am. Set another alarm for 7am and went back to
+sleep... But the 7am alarm got me out of bed.
+
+I think I need to set a hard limit for fasting in the evenings. For example, no
+food after 8pm. This is difficult around my family, but I will do my best.
+
+Went for a morning walk around the block with a cup of tea. I haven't done that
+in a while. My feet are a bit sore -- like the actual feet muscles are aching?
+Maybe I overdid the running this week? I'm not sure, just going to take it easy
+this weekend.
+
+work
+----
+
+Back to work on the mish.
+
+pflaumenkuchen
+--------------
+
+We have a bucket of plums. I want to try making a plum sheet desert again. This
+involves pitting the plums, which isn't easy -- I will ask James to help me.
+
+recipe to try: https://www.thebossykitchen.com/german-plum-kuchen-pflaumenkuchen/
+
+javascript
+----------
+
+Things worth trying out:
+
+- Svelte (frontend framework)
+- Snowpack (webpack alternative)
+- Testing Library (frontend testing library)
+- WebAssembly
+- ES Modules

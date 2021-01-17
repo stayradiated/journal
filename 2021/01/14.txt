@@ -11,8 +11,13 @@ schedule
 todo
 ----
 
-- [x] Check in with Chris S -- send him a message on Signal
+- [x] Check in with Chris S -- sent him a message on Signal, we will catch up
+  this evening
+- [x] Respond to Ivan
 - [ ] Digitalise week 4 of my 2020 journal [[ /2020/week/04 ]]
+- [x] 1100 Future work planning meeting
+- [x] Grab lunch in town, Subway is close by, eat in park
+- [ ] 1400 Dev Retrospective meeting
 
 waking Up
 ---------
@@ -36,4 +41,26 @@ cycled past at 9:15am but it didn't look very alive.
 I'm just having a coffee at the AVC, I'll head back at 10am and have another
 look. I will also need somewhere to park my bike.
 
+Contacted Digital Basecamp through their Facebook page. I will meet them at
+11am and pay in cash. I should have done this yesterday.
 
+Sitting at starbucks, probably didn't need to buy a coffee to sit outside, but
+I did anyway. They have free wifi in town, 15mbs down is pretty decent.
+
+Working from Digital Basecamp for the rest of the day. Paid $40 in cash. They
+will email an invoice.
+
+There is only one other chap in here, I think his name is Daniel. I like the
+quiet. I'm thinking of working here one or two days a week.
+
+retro
+-----
+
+ideas for running the february retrospective:
+
+- first, follow up on the previous action items
+- use figma!
+- get everyone to edit the same figma document and create sticky notes
+- we can then organise the notes into groups and discuss them
+- create several action items
+- ask if anyone would like to host the next retrospective else pick a person
