@@ -3,5 +3,33 @@ Sunday 17 Jan 2021
 
 - morning walk
 - cycle to Rotorua Farmers Market, purchase coffee and blueberries
-- working on mish -- finish porting allupdates to typescript
+- working on mish 
 - cycle up to centennial park
+- watching "Soul" (2020), fantastic film
+
+mish
+----
+
+Finished porting allupdates to typescript.
+
+Created a "system-test" package to automate testing and development.
+
+Proxying the emulated app to check that I am marking snaps as screenshotted
+correctly.
+
+Found that I had a null `addedFriendsTimestamp` which was breaking the API call.
+
+next up: 
+
+- I would like to get addSnapToStory working locally
+- Use autoforward service to test that service is working
+
+fasting
+-------
+
+Started fasting at 6:30pm. Mum made custard for dessert so I cheated and had
+a bowl of that.
+
+I would like to get back into a stricter routine with my fasting. Need to make
+sure that we have dinner earlier in the day. If this isn't possible, I should
+try having lunch as late as possible.

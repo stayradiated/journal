@@ -1,0 +1,20 @@
+Monday 18 Jan 2021
+==================
+
+- Waking up at 6:30am. Reading todayintabs in bed. In the shower before 7am.
+  Not the best morning routine but it's better than lying in bed for an extra
+  hour.
+- Shaving and trimming my beard this morning, not too shabby.
+- Just realised I haven't written goals for a long time. Created [[ /2021/01/goals ]] page.
+- Working from Grøunded cafe this morning.
+
+todo
+----
+
+- [x] Type up notes from week #4 2020.
+- [ ] book flight to Wellington
+- [ ] call Chris at 2pm
+- [ ] 1000: daily standup with team
+- [ ] 1100: cycle to aquatic centre
+- [ ] learning & development day: porting time tracking extension to firefox
+- [ ] mish: send invoice to Tom/Jacob

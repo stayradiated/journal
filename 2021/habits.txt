@@ -5,6 +5,7 @@ R = run
 G = guitar
 B = bouldering
 Tb = travel by bus
+W = workout
 
 jan f 01 R
     s 02
@@ -20,4 +21,7 @@ jan f 01 R
     t 12
     w 13   S   B
     t 14 R
-    f 15
+    f 15   S
+    s 16
+    s 17           W
+    m 18
