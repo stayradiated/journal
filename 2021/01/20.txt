@@ -1,0 +1,44 @@
+Wednesday 20 Jan 2021
+=====================
+
+catching up with Jacob this morning, debugging some mish stuff. Seems to be
+working. Demo'd what I've currently got going on.
+
+- no standup today, we have the weekly dev meeting at 10am instead.
+- working from Digital Basecamp today. There are 3 other people here today!
+- grabbing subway for lunch
+- budgeting $2k for the next 2 weeks, should be plenty for the trip to
+  Wellington with James.
+- Planning to work Monday next week, but take the 29th off -- so I get a 4 day
+  holiday to show James around Wellington.
+
+todos:
+------
+
+- [ ] create github issues for each deployable piece of work for Hasura
+
+ONE ON ONE
+----------
+
+Had an 1½ hour chat with Rowan about how I have been going at Runn. Mostly
+positive feedback.
+
+Discussed the the meetings and how we can improve the software design process.
+
+Came up with some goals:
+
+
+Short Term Goals
+----------------
+
+- Divide hasura task up to multiple github issues
+- Read the Gitlab Remote Working book
+- Read the Basecamp Re-mote  & Re-work books
+- Make sure we have a retro every month, I’m planning to host the one february
+- Ship Hasura to production
+- Help develop a plan to migrate away from Ruby
+
+Long Term Goals
+---------------
+
+- develop a long term goal

@@ -5,4 +5,5 @@ A list of albums/artists I would like to listen to.
 
 - [ ] Izzy and Moe (https://izzyandmoemusic.com) :: from the Rotorua Farmers Market @2020.12.27
 - [ ] Zoe Scott (@whoiszoescott) :: from the Rotorua Farmers Market @2021.01.10
-- [ ] Olympic Girls (Tiny Ruins) @2021.01.10
+- [x] Olympic Girls (Tiny Ruins) @2021.01.10
+- [ ] Maybe You've Been Brainwashed Too - The New Radicals :: from todayintabs @2021.01.20

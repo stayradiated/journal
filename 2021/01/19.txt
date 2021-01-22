@@ -1,0 +1,45 @@
+Tuesday 19 Jan 2021
+===================
+
+- out of bed before the 6:30 alarm even goes off! this is fantastic progress
+- working from home this morning, tempeted to leave the house but it is looking
+  so drab and grey
+- standup at 10am, wasn't looking forward to it but it went better than I
+  expected
+- work: get Hasura running on CI so we can run the cypress tests
+- I have a 1-1 with Rowan tomorrow afternoon, I should have a think about
+  anything I want to discuss
+
+todo
+----
+
+- [x] book flight to Wellington (need to check flight details for James)
+- [ ] mish: send invoice to Tom/Jacob
+- [ ] go out to lunch with family (celebrate the progress James has made with
+      his driving)
+
+james
+-----
+
+James has his restricted driving license test today. I hope he does well. The
+test is very difficult - there is an average 60% pass rate, which seems quite
+low. That's a 16% chance of failing twice in a row.
+
+Whatever happens, James has done an amazing job to make it this far. I would
+like to take everyone out for a lunch (or dinner?) 
+
+Update: He didn't pass :(
+
+I'm going to bring him a Smokie sandwhich from Ciabatta - one of his favourite
+meals. He really enjoyed it.
+
+We went out to dinner in the evening - a casual meal at CBK in town. I had the
+fish & chips and a glass of the GG Doris Plum Cider.
+
+youtube
+-------
+
+Technology Connections is one of my favourite channels,
+
+I should finish watching the video about Humidifiers:
+https://www.youtube.com/watch?v=oHeehYYgl28&t=15m43s

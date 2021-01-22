@@ -1,6 +1,35 @@
 january: goals
 --------------
 
-- [ ] Get out of bed at sunrise each day (sunrise: 0610).
-- [ ] Start fasting by 8pm each evening.
-- [ ] Run in Puarenga Park run (saturday morning @ 8am)
+personal
+--------
+
+- [x] Practice swimming on a regular schedule
+      * 2020.01.22 → I have been crushing this, visiting the Aquatic Center two
+        to three times each week.
+- [x] Get out of bed at sunrise each day (sunrise: 0610).
+      * 2020.01.22 → working on it, alarm is currently set to 6:30am
+      * 2020.01.23 → out of bed at sunrise, woo!
+- [x] Start fasting by 8pm each evening.
+      * 2020.01.22 → I have been doing pretty well this week with fasting in
+        the evenings (apart from the blueberry muffin evening…)
+- [/] Run in Puarenga Park run (saturday morning @ 8am)
+      * 2020.01.22 → not sure if I am going to be able to make this happen, my
+        feet are still aching
+- [x] Finish reading Northern Lights 
+      * 2020.01.23 → finished reading it last night! Need to start on the
+        Subtle Knife now…
+
+development
+-----------
+
+- [ ] Finish off snapchat upgrade for mish
+      * 2020.01.22 → so close to getting this sorted! Going to try to deploy to
+        internal this weekend and then catch up with Jacob next week.
+
+friends
+-------
+
+- [ ] Organise a beach weekend trip to the Coromandel
+      * 2020.01.22 → need to find a weekend that works with everyone. I will
+        text everyone tomorrow morning.

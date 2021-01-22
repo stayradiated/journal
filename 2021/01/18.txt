@@ -5,16 +5,42 @@ Monday 18 Jan 2021
   Not the best morning routine but it's better than lying in bed for an extra
   hour.
 - Shaving and trimming my beard this morning, not too shabby.
-- Just realised I haven't written goals for a long time. Created [[ /2021/01/goals ]] page.
+- Just realised I haven't written goals for a long time.
+  Created the [[ /2021/01/goals ]] page.
 - Working from Grøunded cafe this morning.
+- Swimming (feeling more confident, want to try swimming 50m lengths and start
+  counting how many laps I do each session).
+- Bouldering (mastering the blue climbs)
+- Cooking a butter chicken curry for dinner. I am definitely doing a veggie
+  month in February.
 
 todo
 ----
 
 - [x] Type up notes from week #4 2020.
-- [ ] book flight to Wellington
-- [ ] call Chris at 2pm
-- [ ] 1000: daily standup with team
-- [ ] 1100: cycle to aquatic centre
-- [ ] learning & development day: porting time tracking extension to firefox
+- [x] 1000: daily standup with team
+- [x] 1100: cycle to aquatic centre and do 30 minutes of laps
+- [/] r&d day: porting time tracking extension to firefox
+- [x] r&d day: read shape-up book
+- [x] 1400: give Chris S a call
+- [ ] book flight to Wellington (need to check flight details for James)
 - [ ] mish: send invoice to Tom/Jacob
+
+standup
+-------
+
+1. be ready and in the meeting room at 9:55am
+2. post link to #general before 10am
+3. be more assertive at the start.
+
+Tomorrow, suggest that we do standup by giving everyone an uninteruppted minute
+to say what they are up to.
+
+And then people can leave if they want, or stick around if they have questions.
+
+I've configured zoom to disable the "waiting room" feature.
+
+chris
+-----
+
+Finally 

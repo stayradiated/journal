@@ -1,0 +1,8 @@
+Saturday 23 Jan 2021
+====================
+
+- out of bed at sunrise!
+- working on @mishguru/storage - it's a light-weight wrapper around the S3 API
+  - but it also supports writing to the filesystem so you can use it locally.
+- morning walk around the block, listening to dithering
+- having a free coffee at Grøunded, typing at notes for [[ 2020/week/05 ]].

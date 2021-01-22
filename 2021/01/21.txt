@@ -1,0 +1,98 @@
+Thursday 21 Jan 2021
+====================
+
+Well, it's official, Joe Biden is the 46th president of the United States.
+
+- Up and out of bed at 6:30am. Not feeling 100% but so happy to be back in a
+  regular schedule. I should grab some more Echinacea tablets.
+- It is cold! Out for a morning walk without shoes and my feet were freezing, I
+  could even see my breath! It's warm in the sun but the breeze has a chill to
+  it.
+- Short swimming session at the Aquatic Centre. First time counting the number
+  of laps -- I did 20 in 20 minutes. I reckon I could do at least 30 next time.
+- Working from the library in the afternoon, participating in the Future Work
+  Meeting, where we go through the Producte Development Pipeline.
+- I'm sitting in the library and it's started raining outside :( 
+- It's stopped raining, going to cycle home now
+- Feeling quite tired, going to have an afternoon nap.
+- Woke up at 4pm, had a shower and a cup of tea. Feeling a bit better now. I am
+  glad I bought that Echinacea.
+
+todo:
+-----
+
+- [x] make sure mum gets home safely after her eye appointment
+- [x] 1000: standup
+- [x] 1200: future work meeting
+- [x] pick up some Echinacea tables from the pharmacy on the way home
+- [x] have an amazing lunch
+- [x] sort acommodation for wellington
+- [x] book ferry to picton for 6th feb
+- [x] work: watch Rowan's video about upcoming features that need shaping (6:47)
+
+travel:
+-------
+
+Need to start thinking ahead with my travel - which cities do I want to visit,
+where do I want to stay, how do I want to get there?
+
+I would like to stay in Wellington for the week after James leaves, and work
+with the Runn team there.
+
+Then maybe catch the ferry across to Picton? Can you ferry anywhere else? There
+is also a train I could catch.
+ 
+It's $60 to catch the ferry to Picton, that's pretty decent. Do I want to lock
+in the trip now? Yep, I can reschedule the booking later for free if I have to.
+
+There is also the Coastal Pacific train from Picton to Christchurch. I could
+stop at each place and stay a few nights.
+
+- Picton
+- Blenheim
+- Kaikoura
+- Rangiora
+- Christchurch
+
+I have spent plenty of time in Picton and Christchurch by myself. I've visited
+Blenheim with my friends on a road trip. Jo and I visited Kaikoura together
+back in 2018. I've never been to Rangiora. It could be a fun week!
+
+Also need to factor in Waitangi Day.
+
+I should really book my accomodation for Wellington now. Do I want to spend
+another week in the Wellington YHA? It would be nice to try somewhere else, but
+I don't want to spend more than $40 a night.
+
+Budget
+------
+
+Marion (28th Jan - 2nd Feb) $470
+Marion (2nd Feb - 6th Feb)  $144
+
+Wellington
+----------
+
+31st January - Swim the Lighthouse, Oriental Bay
+
+- Cable Car
+- Zealandia
+- Weta Workshop
+- Gardens Magic 
+
+duckduckgo
+----------
+
+I love the "bangs" feature of duckduckgo - it always surprises me.
+
+!kym -> knowyourmeme, fantastic resource for keeping up with the youths
+
+new features
+------------
+
+* permissions
+  - restrict editing projects to admins and selected users
+* groups
+  - replace teams, similiar to tags
+* non-billable project budgets
+  - needs speccing out
