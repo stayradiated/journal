@@ -1,0 +1,28 @@
+Monday 25 Jan 2021
+==================
+
+- Up at sunrise, but snoozing in bed until 7:45am. Feeling a lot healthier this
+  morning than I was last night.
+- Strolling around the block with a hot cup of Rooibos and listening to the Off
+  Menu podcast. Editing the Tiramisu video from yesterday while sitting on the
+  park bench near the golf course.
+- Mum is freaking out about a series of small earthquakes near Rotorua. I
+  haven't felt any of them. I suggest that it would be a good day to check our
+  emergency supplies and see if anything needs replacing or adding.
+- Working from the Coffee Collective cafe in town. Quite a popular spot, with
+  great seating and cheap coffee. However they don't have wifi.
+
+todo
+----
+
+- [ ] configure email on mum's phone
+- [x] book time at Wilson's barber shop for Tuesday arvo →they are busy, booked
+      for Wednesday@ 1400
+- [x] 1000: standup with team → we had the whole dev team here!
+- [x] 1115: head to the Aquatic Centre
+- [x] 1245: working from the library
+
+work
+----
+
+- [x] configure prettier for our cypress integration test files + our webpack config.

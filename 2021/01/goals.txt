@@ -16,9 +16,17 @@ personal
 - [/] Run in Puarenga Park run (saturday morning @ 8am)
       * 2020.01.22 → not sure if I am going to be able to make this happen, my
         feet are still aching
-- [x] Finish reading Northern Lights 
+
+books
+-----
+
+- [x] Northern Lights
       * 2020.01.23 → finished reading it last night! Need to start on the
         Subtle Knife now…
+- [ ] Shape-Up
+- [ ] Wool
+      * 2020.01.24 → started reading it last night, it's quite gripping. I've
+        had it on my bookshelf for over 3 years!
 
 development
 -----------

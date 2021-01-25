@@ -6,3 +6,12 @@ Saturday 23 Jan 2021
   - but it also supports writing to the filesystem so you can use it locally.
 - morning walk around the block, listening to dithering
 - having a free coffee at Grøunded, typing at notes for [[ 2020/week/05 ]].
+- trying to organize a weekend trip out to the Coromandel for early march.
+- the Pelican has left Golfito and is on it's way back to the Panama canal.
+
+todo
+----
+
+- [x] grocery shopping at PAK'nSAVE. Only need supplies for the next 5 days.
+- [x] return Northern Lights to the public library
+- [x] deploy allupdates, receivesnap and gatherstory data to mish internal

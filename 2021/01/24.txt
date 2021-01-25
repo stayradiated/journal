@@ -1,0 +1,79 @@
+Sunday 24 Jan 2021
+==================
+
+- Waking up at sunrise, have a slight headache.
+- Working on Mish Guru this morning, I have made great progress on migrating
+  the AddSnapToStory project to Typescript. I just have a few tests left to do.
+- Cycling to the Rotorua's Farmers Market. No blueberries today! Nearly left,
+  but I decided to grab an almond croissant and a coffee and stick around. I
+  have been working pretty hard this week, it's nice to have a short break.
+
+tiramisu
+--------
+
+- This evening I cycled to Countdown and purchased a tub of thickened cream and
+  two packets of Vittoria Biscotti Sponge Fingers.
+- I combined these two recipes:
+  - https://www.woolworths.com.au/shop/recipedetail/9445/easy-tiramisu
+  - https://urbanduniya.com/recipe-tiramisu/
+
+:: ingredients
+
+- 300mls boiling water
+- 1½ Tbsp instant coffee granules
+- 1 tsp rum essence
+- 100g icing sugar
+- 300ml tub of thickened cream
+- 500g marscapone
+- 1 pack of Vittoria Biscotti Sponge Fingers
+- cocoa powder (for dusting)
+
+:: method
+
+1. Mix instant coffee with water, leave to cool in the freezer (you don't want
+   to burn your fingers in step 3!)
+2. Combine icing sugar, thickened cream and marscapone.
+3. Quickly dunk each biscuit in the coffee than place in the bottom of a tray
+4. Repeat until the bottom of the tray is covered
+5. Take half of the marscapone mixture and smear it on top of th ebiscuits
+6. Create another layer of coffee soaked biscuits on top
+7. Cover the biscuits with the remaining marscapone  
+8. Dust with cocoa
+9. Leave in the fridge for at least an hour
+
+video: https://www.youtube.com/watch?v=JF8BFe3uTR0
+
+disc golf
+---------
+
+- Rebel Sports have a 3 pack of starter discs for $40. They are made by an NZ
+  brand (https://www.rpmdiscs.com/).
+- Might pick these up next time I am in Rotorua, not sure if I have will time
+  to try it out today -- and I don't want want to take them with me to
+  Wellington.
+
+this week
+---------
+
+- Flying to Wellington on Thursday morning with James. I should make sure we
+  have our bags packed on Wednesday evening.
+- I would like to visit the Aquatic Centre on Monday and Tuesday morning
+- I would like to work from the Digital Basecamp on Wednesday
+
+thursday in wellington
+----------------------
+
+> forecast:
+> Cloudy periods. A few spots of rain, clearing as strong northwesterlies change southerly.
+
+- catch the bus from the airport into the city center
+- check-in to the marion
+- grab lunch with James
+- I need to find a place to work for the rest of the day
+
+todo
+----
+
+- [x] finish migrating addSnapToStory to typescript
+- [ ] configure email on mum's phone
+- [x] create a tiramisu for desert (we have marscapone that needs using)
