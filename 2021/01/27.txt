@@ -1,0 +1,56 @@
+Wednesday 27 Jan 2021
+=====================
+
+- working on mish this morning, finished fixing up addsnaptostory and deployed
+  it to internal.
+
+- working from the Digital Basecamp again today
+
+- haircut @ 1400 → success
+
+bash
+----
+
+How do I pipe the output of one process into multiple places?
+
+For example, I have this command:
+
+  make | docker-prune-dangling
+
+and I would like to see the output of make.
+
+There is the `tee` command, which copies stin to a file and also to stdout. You
+can even pass multiple files to `tee`.
+
+For example:
+
+  $ echo 'hello world' | tee a b c
+  hello world
+
+  $ ls
+  a b c
+
+  $ cat a
+  hello world
+
+  $ cat b
+  hello world
+
+  $ cat c
+  hello world
+
+So that's pretty nifty, however, I don't want to just write to a file -- I want
+to spawn a process and pipe to stdin.
+
+Bash has this thing called process substitution, which is super powerful.
+
+https://wiki.bash-hackers.org/syntax/expansion/proc_subst
+
+It let's you reference the input or output of a process as a file.
+
+Anyway, you can do is this:
+
+  make | tee >(docker-prune-dangling)
+
+And the output of make is printed to the terminal and also sent to the
+docker-prune-dangling process.

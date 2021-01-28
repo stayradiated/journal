@@ -1,12 +1,64 @@
+Tuesday 26 Jan 2021
+===================
+
 8:20 at Lotus Cafe
 
-- read Nicole's notes about cost based projects
-- why is Heroku warning us about 10,000 rows on the hobby PostgreSQL server, is this a new limit?
+Sitting with a cup of Earl Grey tea at Lotus Cafe. Waiting for the MyRide
+repair shop to open up at 8:30. While cycling into town the rear tyre on my
+bike suddenly went flat -- I had to walk it the rest of the way.
 
-- bike tire puncture :(
-- repaired at 
+I took the bike into the shop and the guy there repaired it on the spot, within
+10 minutes, fantastic service. Only cost $20 as well.
 
 9:00 at Fat Dog cafe
 
-- running into mum, Sarah and Maureen
-- 
+- running into Mum, Sarah and Maureen. Mum is up early because she was dropping
+  our neighbour, Hillary, at the bus stop.
+- working from a table out the front
+
+todo
+----
+
+- [ ] configure email on mum's phone
+- [x] get bike tyre repaired at MyRide ($20)
+- [x] 1000: standup
+- [x] read Nicole's notes about cost based projects
+- [ ] why is Heroku warning us about 10,000 rows on the hobby PostgreSQL
+      server, is this a new limit?
+
+swimming
+--------
+
+Continuing to practice breathing after 3 strokes, would like to try doing 50m
+laps next time.
+
+temperature
+-----------
+
+It's so hot! Working from my office in the afternoon, the air temperature
+inside reached 33.5°!
+
+Set up the Dyson Hot+Cool fan on my desk, but it doesn't do a very good job of
+cooling, just blowing hot air at me.
+
+dinner
+------
+
+Mum cooked chicken kebabs with coconut rice. I made a salad and microwaved some
+peas and sweetcorn.
+
+We finished off the last of the Tiramisu, such a tasty dessert.
+
+bike ride
+---------
+
+After dinner, James and I went for a bike ride around town, up Old Taupo Road,
+down Lake Road across to Sulphur Point and then back home.
+
+There are a couple of trees that have toppled sideways into the bay, but are
+still living. You can stand on top of them above the water.
+
+death note
+----------
+
+watching episode 19

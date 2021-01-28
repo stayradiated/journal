@@ -1,0 +1,61 @@
+Thursday 28 Jan 2021
+====================
+
+It will be a pleasant change to get out of Rotorua.
+
+travelling
+----------
+
+Mum dropped us off at the airport this mroning. Sarah joined us at the airport
+cafe. I spent the last 15 minutes in Rotorua quickly configure james phone to
+access his zoho mail account. Then resetting the password for his google
+account, which didn't actually require email access (!) so we could purchase a
+premium subscription to YouTube -- this lets James download music to his phone
+so he has something to listen to during the flight.
+
+We boarded the plane at 1015, sitting in row 9, just behind the wing. 
+
+The plane landed with some gut tumbling turblence at 1130. I was expecting to catch the regular Airporter bus into town, but it's not running at the moment. We caught an alternative bus, the #2, which is a 7 minute walk from the bus stop. It's only $5pp which is a lot cheaper than the regular $12pp that the Airporter charges. 
+
+It's not raining in Wellington, which is a pleasant surprise, but it's windy as
+usual.
+
+We had BurgerFuel for lunch. James hadn't had BurgerFuel for years and it was
+in a convenient location.
+
+We had a quick look out over the harbour, it's a rather windy day.
+
+We visited the Te Papa museum. I sat in the cafe, working on my laptop. James
+explored the different exhibitions for 2 hours.
+
+Walking back, we stopped at New World so James could grab some granola and
+milk. I bought some rooibos tea.
+
+I wanted to get 2x CR2 batteries for my instant-film camera, but New World
+didn't have them, so we walked all the way to Jaycar. I bought the batteries,
+but we got caught in heavy rain on the way back. My bag got soaked, fortunately
+I had brought along my dry-bag, which I placed my laptop in, to keep it safe.
+
+todo
+----
+
+- [x] 1025: flight to wellington with james
+- [x] 1130: land in wellington, catch bus into cuba st
+- [x] 1230: check-in at the marion hostel
+- [x] find somewhere to have lunch → BurgerFuel
+- [x] purchase 2x CR2 batteries for the instant film camera → Jaycar
+- [x] visit supermarket, make sure James has supplies for breakfast
+- [x] grab a light dinner → slices
+
+work
+----
+
+- [x] read rowan's notes on my hasura-fundamentals PR
+- [x] update Github Actions script to only run db:seed if we've just created
+      the database, instead of after each deploy
+- [ ] manually test priscilla's branch on the trial 
+- [ ] review the phases++ pr
+
+
+
+
