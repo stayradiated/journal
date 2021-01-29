@@ -47,6 +47,8 @@ whats on
 - 0800,1900 Zealandia ($22pp). Take Cable Car up.
 - 0930,1700 Wellington Zoo
 - 1100,1700 City Gallery Wellington
+- 1000,2300 Space Place Observatory
+
 
 Wellington Stuff
 ----------------
