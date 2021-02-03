@@ -1,0 +1,112 @@
+Tuesday 02 Feb 2021
+===================
+
+todo
+----
+
+- [x] setup this months term deposit
+- [x] check-out of the twin room James and I are staying in
+- [x] check-in to my dorm room at the Marion
+- [x] make sure James is going to be all right by himself for 4 hours
+- [x] walk to the BNZ building
+- [x] call james at 1145, make sure he is doing all right by himself
+- [x] team lunch at 1200
+- [x] walk back to marion at 1300
+- [x] uber to airport with James
+- [x] make sure James gets on his plane
+- [x] catch bus back to BNZ building
+- [x] visit the local Bivouac store and try on some climbing shoes
+- [x] visit the Shoe Clinic and ask about minimalist running shoes
+
+heute
+-----
+
+Up and out of bed at 6:40. Quick shower and shave. Working from the kitchen
+this morning.
+
+I need to get James and I out of the room by 10am. I will be leaving James on
+his own for a few hours, he might get a bit bored, but I'm sure he will be
+fine. He might even enjoy the break from being around me non-stop since
+Thursday.
+
+James is flying back to Rotorua today. His flight is at 1435.
+
+I have a team lunch with the Wellington Runn crew at midday. I will need to
+leave at 1300 to hurry back to the Marion hostel, grab James, jump in an Uber
+and head to the airport. I want to be at the airport by 1410 at the latest.
+
+...
+
+We caught the uber, leaving at 1320, only cost $20.
+
+Made it there with plenty of time to spare. James bought a Reuben sandwhich for
+lunch, I picked up a PBJ bagel from Best Ugly and shared it with him.
+
+He is certainly a lot more confident getting on the plane this time.
+
+I got some cash out at the petrol station and caught the #2 bus back into town
+($5).
+
+work
+----
+
+It seems like ages since I last did any work, but it's only been 5 days. I need
+to catch up on what's been going on.
+
+- [x] Read Intercom comms email that Nicole forwarded me
+- [x] Read Nicoles report on "Setting up Runn for Runn" in #design
+- [x] Set up Github Actions for the time tracker project
+
+pull requests
+-------------
+
+- [x] https://github.com/Runn-Fast/runn/pull/5473 Add overflow scroll to graph controls
+- [ ] https://github.com/Runn-Fast/runn/pull/5471 Improve Report performance to large accounts
+- [x] https://github.com/Runn-Fast/runn/pull/5470 With large accounts change all to group by alphabet
+- [ ] https://github.com/Runn-Fast/runn/pull/5469 Hide Profits and Costs graph to improve performance
+- [ ] https://github.com/Runn-Fast/runn/pull/5429 Hasura Fundamentals
+- [x] https://github.com/Runn-Fast/runn-time-tracker/pull/18 Handle overwrite entry
+- [ ] https://github.com/Runn-Fast/runn-time-tracker/pull/21 Allow empty entries
+
+chris s
+-------
+
+It's Chris's birthday coming up soon, I need to figure out a present for him.
+
+Friends are keen to get him a Phillip Hues Play 2 pack for $200 ($40pp).
+
+Still keen to try organize a group adventure out to the Coromandel in March,
+the others are interested, I just need to keep pushing to make it happen.
+
+running
+-------
+
+I went out foa another run this afternoon. Great atmosphere, there was a
+running race on, so the streets were packed.
+
+I would like to get a pair of minimalist running shoes.
+
+lunch & dinner
+--------------
+
+I am not sure what I am going to do for lunch tomorrow. I would like to save
+some money and take a prepped lunch with me. I would also like to cook dinner
+tomorrow.
+
+I am thinking I will make a salad.
+
+- spinach/kale
+- capsicum
+- carrot
+- cucumber
+- broccoli
+- red onion
+- hummus
+- dates
+- apples
+- peanut butter
+
+travel
+------
+
+I have booked my accomdation for Picton. Now I just need to book my train out of their.

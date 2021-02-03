@@ -1,0 +1,42 @@
+Wednesday 03 Feb 2021
+=====================
+
+Up and out of bed at 0640. My feet are feeling quite sore from the run
+yesterday. I really should get myself some running shoes. I quite like the idea
+of the Softstar RunAmoc or the Sockwa x8.
+
+Working from the BNZ Partner Office again today. I've brought a packed lunch,
+which I am very much looking forward to.
+
+Going to leave the office at 4pm. I've got to work this evening -- we have a
+call with a customer at 7pm.
+
+After work, I ran down to the beach at Oriental Bay and had a refreshing swim
+in the water. 
+
+My feet and legs need a break from barefoot running.
+
+After the evening work call, I sat on the rooftop deck with a hot cocoa,
+watching Kenyen, Marcus, David, Noah and Kesh play Catan. I don't understand
+how this game got so popular, maybe the expansions are really good. 
+
+pull requests
+-------------
+
+- [ ] https://github.com/Runn-Fast/runn/pull/5471 Improve Report performance to large accounts
+- [x] https://github.com/Runn-Fast/runn/pull/5469 Hide Profits and Costs graph to improve performance
+- [ ] https://github.com/Runn-Fast/runn/pull/5545 Allow opening planner in new tabs
+- [.] https://github.com/Runn-Fast/runn/pull/5429 Hasura Fundamentals
+- [x] https://github.com/Runn-Fast/runn/pull/5474 Fix time off for demo data
+- [/] https://github.com/Runn-Fast/runn-time-tracker/pull/21 Allow empty entries
+
+yvonne
+------
+
+At 7pm I was on a call with Nicole and Ruth, discussing "cost based projects"
+with a potential customer.
+
+- already has a revenue budget that they will bill the customer
+- "resource risk" and "margin"
+- needs to know the percent of margin and the value of the margin
+- display the explicit breakdown of revenue and cost into actual/scheduled

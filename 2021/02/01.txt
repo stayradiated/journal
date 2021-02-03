@@ -16,15 +16,21 @@ https://www.youtube.com/watch?v=7GngkC43HJU
 Map:
 https://wcc.maps.arcgis.com/apps/webappviewer/index.html?id=f0f7773a02a94bea9b57e11e4341fc54&query=Parks_8687%2Cwalkway_name%2CBrooklyn%20Wind%20Turbine%20Route
 
-Todo:
-- [ ] Get the map on my phone
-- [ ] apply sunblock
-- [ ] Grab some supplies for lunch
-- [ ] Walk to the top of Aro St
+Todo
+----
 
-snacks:
-- apples
-- dates
-- muesli bars
-- sandwiches
-- lots of water
+- [x] Get the map on my phone
+- [x] apply sunblock
+- [x] Grab some supplies for lunch
+- [x] Walk to the top of Aro St
+
+snacks
+------
+
+- [x] apples
+- [x] muesli bars
+- [x] lots of water
+- [x] trail mix
+- [x] bliss balls
+- [x] pringles
+- [x] biscuits

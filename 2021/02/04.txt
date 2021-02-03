@@ -1,0 +1,65 @@
+Thursday 04 Feb 2021
+====================
+
+I haven't heard back from the Blenhleim hostel yet.
+
+Oh, haha, I paid $50 to travel 26 minutes on a train… I should have booked the
+bus…
+
+travel plan
+-----------
+
+feb 06: 0800 ferry from wellington to picton
+        1300 check-in at tombstone hostel
+feb 09: 1340 train departs picton
+        1406 train arrives blenheim
+feb 16:      train departs blenheim
+             train arrives kaikoura
+
+schedule
+--------
+
+0800 prep salad for lunch
+0815 walk to BNZ office
+0830 BNZ office opens
+
+funds
+-----
+
+Looking at transferring some cash from my N26 bank account over so I can invest
+it -- but I can't transfer any funds unless I pair my phone and that requires I
+have my physical N26 card with me (which I didn't bring).
+
+I could ask my parents, but it's probably worth just waiting until I get back
+to Rotorua.
+
+Hmm, I wonder if my old iphone is still paired with my N26 account? That could
+be worth checking…
+
+shoes
+-----
+
+I would like to make the most of my time in Wellington.
+
+- Merrel Vapor Glove
+- Softstar
+- Sockwa x8
+
+pull requests
+-------------
+
+- [.] https://github.com/Runn-Fast/runn/pull/5471 Improve Report performance to large account 
+- [ ] https://github.com/Runn-Fast/runn/pull/5545 Allow opening of planner in new tabs
+- [ ] https://github.com/Runn-Fast/runn/pull/5551 Allow search the Project and People list by external referenc
+- [ ] https://github.com/Runn-Fast/runn/pull/5553 add client_internal to me endpoint
+
+hasura
+------
+
+https://github.com/Runn-Fast/runn/pull/5429
+
+Why are my tests failing?
+
+> ActionView::Template::Error:
+> undefined method `timesheet_lock' for #<Account:0x000055b4c5c754c8>
+> Did you mean?  timesheets_enabled

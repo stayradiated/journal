@@ -1,4 +1,5 @@
 habits
+======
 
 S = swim
 R = run
@@ -35,3 +36,11 @@ jan f 01 R
     s 24 
     m 25   S
     t 26   S
+    w 27
+    t 28         Tf
+    f 29     G
+    s 30
+    s 31 R
+feb m 01    
+    t 02 R  
+    w 03 R S
