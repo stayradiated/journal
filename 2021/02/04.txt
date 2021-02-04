@@ -2,6 +2,7 @@ Thursday 04 Feb 2021
 ====================
 
 I haven't heard back from the Blenhleim hostel yet.
+Update: booked a week
 
 Oh, haha, I paid $50 to travel 26 minutes on a train… I should have booked the
 bus…
@@ -13,7 +14,9 @@ feb 06: 0800 ferry from wellington to picton
         1300 check-in at tombstone hostel
 feb 09: 1340 train departs picton
         1406 train arrives blenheim
-feb 16:      train departs blenheim
+        1430 check-in at grapevine
+feb 16: 1000 check-out at grapevine
+             train departs blenheim
              train arrives kaikoura
 
 schedule
@@ -48,9 +51,9 @@ I would like to make the most of my time in Wellington.
 pull requests
 -------------
 
-- [.] https://github.com/Runn-Fast/runn/pull/5471 Improve Report performance to large account 
+- [x] https://github.com/Runn-Fast/runn/pull/5471 Improve Report performance to large account 
+- [x] https://github.com/Runn-Fast/runn/pull/5551 Allow search the Project and People list by external referenc
 - [ ] https://github.com/Runn-Fast/runn/pull/5545 Allow opening of planner in new tabs
-- [ ] https://github.com/Runn-Fast/runn/pull/5551 Allow search the Project and People list by external referenc
 - [ ] https://github.com/Runn-Fast/runn/pull/5553 add client_internal to me endpoint
 
 hasura
@@ -61,5 +64,29 @@ https://github.com/Runn-Fast/runn/pull/5429
 Why are my tests failing?
 
 > ActionView::Template::Error:
-> undefined method `timesheet_lock' for #<Account:0x000055b4c5c754c8>
-> Did you mean?  timesheets_enabled
+>   undefined method `timesheet_lock' for #<Account:0x000055b4c5c754c8>
+>   Did you mean?  timesheets_enabled
+
+git
+---
+
+Do you want to view all the commits that changed a particular file?
+
+   git log --follow -- ./path/to/your/file
+
+It works perfectly!
+
+vim
+---
+
+Quickly sort a selction of lines in reverse order:
+
+    :'<,'>!tac
+
+income tax
+----------
+
+I need to sort out my taxes for my work with mish. I've gone to the IRD website
+and requested to declare income for "self-employment".
+
+Need to make sure I keep some money aside to pay for the GST and the income tax.
