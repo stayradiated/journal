@@ -44,3 +44,6 @@ jan f 01 R
 feb m 01    
     t 02 R  
     w 03 R S
+    t 04
+    f 05
+    s 06   S
