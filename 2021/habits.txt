@@ -47,3 +47,6 @@ feb m 01
     t 04
     f 05
     s 06   S
+    s 07 R S
+    m 08   S G
+    t 09         Tt

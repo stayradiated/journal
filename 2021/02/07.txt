@@ -1,18 +1,64 @@
+
+Sunday 07 Feb 2021
+==================
+
+todo
+----
+
+- [x] lunch at the waterfront
+- [ ] organize lunch for tomorrow
+- [ ] have dinner
+
+tomorrow
+--------
+
+- [ ] pick up some pastries from the bakerij (they open at 0600)
+- [ ] be at the adventure store at 0730)
+
+future
+------
+
+- book train to kaikoura
+- book accomodation at albatross hostel
+
 Groceries
 ---------
 
-- carrots (daucus carota subsp. sativus)
-- capsicum (capsicum annuum)
-- spinach (spinacea oleracea)
-- red onion (allium cepa)
-- cucumber (cucumis sativis)
-- raisins (vitis vinifera)
-- broccoli (brassica oleracea v. italica)
-- hummus (cicer arietinum)
+- [x] carrots (daucus carota subsp. sativus)
+- [x] capsicum (capsicum annuum)
+- [x] spinach (spinacea oleracea)
+- [x] red onion (allium cepa)
+- [x] cucumber (cucumis sativis)
+- [x] raisins (vitis vinifera)
+- [x] broccoli (brassica oleracea v. italica)
+- [x] hummus (cicer arietinum)
 
 I need to organize lunch for the mountain bike ride tomorrow.
 
 - prep a salad
 - sweet/salty trail mix
-- 2x bottles of water
 - pringles?
+- 2x bottles of water
+
+zwolf
+-----
+
+what is this, v4 now?
+
+google cloud platform is not for me.
+
+going to rebuild everything in golang and use watermill.io.
+connect services using rabbitmq and manage using docker.
+
+which database to use? something simple, sqlite?
+
+sudo
+----
+
+`sudo -v` (short for --validate) is a handy command for adding to the start of
+your bash one-liners when you want to make sure your sudo command is validated
+before you statr doing stuff.
+
+for example:
+
+  sudo -v && curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
