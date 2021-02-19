@@ -1,0 +1,31 @@
+Thursday 18 Feb 2021
+====================
+
+Rowina & Jacob leave today :(
+They are heading to Wellington on the ferry. They are there for a week to clean
+up their flat.
+
+Jo arrives in Bermuda today! :)
+
+schedule
+--------
+
+0600,1145 working from grapevine
+1000,1015 standup
+1200,1210 grocery shopping at new world
+1220,1300 salad for lunch at grapevine
+1330,1500 working from CPR cafe 
+1545,1700 kayaking on the river
+1800,1830 dinner
+1900,2100 banana cake
+
+todo
+----
+
+- [x] Go kayaking with Pia, Caio and Guilleme.
+
+kayak snacks
+------------
+
+- chips
+- popcorn

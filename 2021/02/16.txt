@@ -1,0 +1,46 @@
+Tuesday 16 Feb 2021
+===================
+
+- Alarm set for 0530. Up at 0600.
+- Ellen leaves for the Queen Charlottle Track this morning. Pia is dropping her
+  off in Picton.
+- The headphone jack in Ellen's iPhone doesn't work - I grabbed a pin and
+  cleaned out a stuck piece of lint - it works again now!
+
+todo
+----
+
+- [x] make sure that Albatross know I'm not checking in today. Perhaps give
+  them a call at 9am.
+- [ ] reply to the EPIRB beacon folks
+
+schedule
+--------
+
+0800 ellen leaves for Picton
+1000 standup
+1055 hakuna matata cafe
+1300 stuff kumara for lunch at hakuna matata
+1330 head back to hostel for second fruits
+
+work
+----
+
+- [x] debugging why the person/user avatar does not appear on production
+- [x] why aren't the developer docs loading in the docker container?
+-     → update Dockerfile.prod to include public dir
+- [x] what is causing the H13 connection closed error in production?
+-     → it's a segfault. Now how to fix it?
+- [x] how can we use artillery to stress test production
+-     → it's not causing any more H13's
+- [ ] adjusting graph height on the plnner page
+
+personal development
+--------------------
+
+You should get better at sharing.
+
+Just offer everything you have to everybody, all of the time.
+Don't be afraid of rejection.
+
+"Hey, try my pineapple, it's great"
