@@ -28,29 +28,30 @@ Can walk along the beach to get there, it's a 30 minute walk (one-way).
 
 groceries for lunch:
 
-- [ ] spinach
-- [ ] carrots
-- [ ] brocolli
-- [ ] cucumber
-- [ ] capsicum
-- [ ] red onion
-- [ ] hummus
+- [x] spinach
+- [x] carrots
+- [x] brocolli
+- [x] cucumber
+- [x] capsicum
+- [x] red onion
+- [x] hummus
 
 stir fry:
 
-- [ ] sweet corn
-- [ ] low-salt soy sauce
-- [ ] quinoa
+- [x] sweet corn
+- [x] low-salt soy sauce
+- [x] quinoa
 
 fruits:
 
-- [ ] apples
-- [ ] bananas
+- [x] apples
+- [x] bananas
 
 other:
 
-- [ ] milk for tea would be heaven, look for vegan options
-- [ ] waterproof plasters for my palms
+- [x] milk for tea would be heaven, look for vegan options
+- [x] A toothbrush
+- [x] waterproof plasters for my palms
 - [ ] do NOT buy peanut butter, you've had enough
 
 restaurants
@@ -63,3 +64,35 @@ The Black Rabbit
 BeeBox
 > great scones
 > open from 0830 to 1600, closed on sunday.
+
+Grapevine Review
+----------------
+
+- a family, welcoming into the Grapevine family
+- many events, cooking together, feasts, soccer games, kayaking to the rope swing
+- bikes available to hire
+- the managers are wonderful
+- always something happening
+- lots of amazing people
+
+I was only planning to stay here for a week, but ended up staying here an extra week. 
+
+Tucked away at the end of the industrial Park Terrace is my favourite hostel in NZ. 
+
+In 2021 while many backpacker accomodation is quiet, the Grapevine is bustling with energy. 
+
+Immediately welcomed into the family, where many stay for months
+
+Packed full of joy, laughter and comradery
+
+James' quiz night
+
+Celebrating with pot luck dinners
+
+Chips and dips night
+
+Cooking in the kitchen, it may be small but it brings people together - great music and aromas, sharing food and stories
+
+Larry the cat
+
+
