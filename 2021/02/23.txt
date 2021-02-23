@@ -1,0 +1,59 @@
+Tuesday 23 Feb 2021
+===================
+
+Up at 0630.
+The guy in my room has a earthquake of a snore.
+
+Working with Mel from the hostel lounge.
+She is from Montreal and has been living in Wanaka.
+Here in Kaikoura for a week (we both arrived on Saturday!).
+
+Thinking about heading to Cafe Encoutnter this arvo.
+0730 - 1500
+
+Would also like to go for a run along the peninsula.
+
+Rowan highly recommends the dolphin swim, I'm not keen to go by myself. I'd
+rather share the experience with James or a friend.
+
+Ellen is keen to visit Fat Eddie's in Christchurch.
+https://www.fateddiesbar.co.nz/
+
+todo
+----
+
+- [x] morning run along the peninsula
+
+schedule
+--------
+
+0630 awake
+0640 working
+0845 cycle to south bay, run along peninsula
+1000 standup
+1100 head to cafe encounter
+1200 back at the hostel
+1300 lunch
+1430 chat with rowan
+1600 go for a swim at south bay with Mel
+1900 cooking stir fry for lunch tomorrow
+1930 eating 2x amazing bahn mi made by Ben & Katie
+2030 playing Ticket to Ride Europe with Mel
+
+work
+----
+
+- [x] catching up on Monday notifications.
+- [x] getting adjustable height working
+
+prs to review:
+
+- [.] https://github.com/Runn-Fast/runn/pull/5616
+- [.] https://github.com/Runn-Fast/runn/pull/5614
+- [.] https://github.com/Runn-Fast/runn/pull/5613
+
+trails
+------
+
+Rowan & Jae did 25km of the Roxburgh Trail:
+https://www.nzcycletrail.com/find-your-ride/22-great-rides/roxburgh-gorge/

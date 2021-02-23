@@ -6,10 +6,10 @@ What to accomplish with my time?
 
 - [x] morning run → painful 3km run on gravel road
 - [x] reply to Jacob about rainbowphone
-- [ ] I would like to get the rezd app working again
-- [ ] Edit and publish video to youtube
-- [ ] Looking forward to catching up with Jo today.
+- [x] Edit and publish video to youtube
+- [x] Looking forward to catching up with Jo today.
 - [ ] Where am I going to stay in Christchurch? Not the YHA, somewhere different.
+- [ ] I would like to get the rezd app working again
 
 running
 -------
@@ -94,5 +94,3 @@ Chips and dips night
 Cooking in the kitchen, it may be small but it brings people together - great music and aromas, sharing food and stories
 
 Larry the cat
-
-
