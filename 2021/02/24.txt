@@ -1,15 +1,51 @@
 Wednesday 24 Feb 2021
 =====================
 
-Should I go to Arthurs Pass this weekend? Could hike the Avalanche
+Should I go to Arthurs Pass this weekend? Could hike Avalanche Peak, the
+weather isn't looking too promising though.
+
+Booked accomodation at Chesters in Christchurch (27th Feb to 12th March).
 
 schedule
 --------
 
 0630 wake up and start work
+0830 morning run/swim at south bay
+1000 dev meeting
+1045 head to Bean Me Up Coffee
+1100 design meeting
+1245 pick up earplugs from the pharmacy
+1300 head back to hostel for lunch
+1530 visit Kaikoura iSite to get mountain bike map
+1600 cycle along kaikoura coast on mountain bike trail
+1800 return to hostel
+1900 cook stir-fry with quinoa rice for dinner
+1930 editing videos by the sea
+2000 return to hostel
+2100 play Carcassone with Mel
+2220 bed time
 
 todo
 ----
 
-- [ ] visit kaikoura pharmacy and purchase ear plugs for sleeping
-- [ ] book hostel for Saturday night
+- [x] visit kaikoura pharmacy and purchase ear plugs for sleeping ($16)
+- [x] what is my plan for Saturday? → head to christchurch
+- [x] follow back friends on Instagram
+- [x] edit/post video for Monday
+- [ ] edit/post video for Tuesday
+- [ ] write a 5 star review for Grapevine on Google maps
+- [ ] renew clickandcollect.nz domain?
+- [ ] test snapchat upgrade with `mishgurudev` account
+
+work
+----
+
+prs:
+
+- [x] https://github.com/Runn-Fast/runn/pull/5614
+- [x] https://github.com/Runn-Fast/runn/pull/5616
+
+reading list
+------------
+
+Ivan linked https://alistapart.com/article/dao/
