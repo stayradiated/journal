@@ -1,0 +1,140 @@
+Friday 26 Feb 2021
+==================
+
+I have 23.7 hours (3 days) of leave available right now.
+I think I will work a full 5 days next week.
+How many hours of leave do I accrue in a week?
+Let's find out.
+
+Going to order Black Rabbit pizza for dinner tonight.
+
+schedule
+--------
+
+0640 wake up, working from hostel with Mel
+0815 shower + shave
+1000 standup
+1045 head into town and work from bee box
+1300 pick up some items from the kaikoura bakery
+1345 lunch
+1415 winnipeg vs montreal ice hockey game
+1600 cycling around south kaikoura trail
+1800 back at the hostel, patch up bloody palms
+1830 order vegorama pizza from black rabbit
+1900 visit new world + pick up pizza 
+1930 eat pizza by the sea side
+2000 sew patch on to backpack
+2030 
+2100 pack up gear
+
+todo
+----
+
+- [x] email chesters to let them know I will be there in the evening
+- [x] call dolphin encounter and confirm my booking for tomorrow morning
+- [x] sew patch on to my backpack
+- [ ] edit and publish video for thursday
+- [ ] write a 5 star review for Grapevine on Google maps
+- [ ] renew clickandcollect.nz domain?
+- [ ] test snapchat upgrade with `mishgurudev` account
+- [ ] continue to take in waste on board shorts
+
+work
+----
+
+prs:
+
+- [.] https://github.com/Runn-Fast/runn/pull/5627
+- [.] https://github.com/Runn-Fast/runn/pull/5631
+
+mel's camping list
+------------------
+
+- Sac à dos                               - Backpack
+- Sac à dos pliable                       - Foldable backpack
+- Rain cover                              - Rain cover
+- Passeport                               - Passport
+- Portefeuille/Clés                       - Portfolio/Keys
+- Bâtons de marche                        - Walking sticks
+- Gants/ mitaines                         - Gloves/mittens
+- Filtre eau ou aqua tabs                 - Water filter or aqua tabs
+- poche d'eau                             - Water pocket
+- Gourd d'eau                             - Bottle of water
+- Deet                                    - Deet
+- Tente                                   - Tent
+- Matelas                                 - Mattresses
+- Oreiller                                - Pillow
+- Sac couchage                            - Sleeping bag
+- Liner                                   - Liner
+- Lampe frontale + batteries              - Headlamp + batteries
+- Feu                                     - Fire
+- Jet boil                                - Jet boil
+- Ultra Light Down Jacket                 - Ultra Light Down Jacket
+- Rain jacket                             - Rain jacket
+- Gaiters                                 - Gaiters
+- Chandelles                              - Candles
+- Culottes (1 per day)                    - Panties (1 per day)
+- Bas - 2 paires                          - Stockings - 2 pairs
+- Espadrilles                             - Jandals
+- Tape pied                               - Footrest
+- Chandails (2-3)                         - Jumpers (2-3)
+- Pantalons (1-2)                         - Trousers (1-2)
+- Camisole dodo                           - Sleeping camisole
+- Crème solaire                           - Sun cream
+- Debarbouillette                         - Face cloth
+- Mouchoir                                - Handkerchief
+- Déodorant                               - Deodorant
+- Brosse/pâte à dents                     - Toothbrush/paste
+- Kit premiers soins/ pompe               - First aid kit/ pump
+- Pinces à tiques/Sac ziplock             - Tick Clips/Ziplock Bag
+- Papier Toilette                         - Toilet paper
+- Bouchons oreille                        - Ear plugs
+- Ass pad                                 - insulated seat
+- Assiettes/ ustensiles                   - Plates/ utensils
+- Collations                              - Snacks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Translated with www.DeepL.com/Translator (free version)

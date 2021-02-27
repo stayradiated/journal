@@ -21,23 +21,28 @@ schedule
 0845 morning run
 1000 standup
 1130 walking to Slam Club cafe
+1315 back to the hostel for lunch
+1615 minigolf at the Emporium with Declan and Mel
+1815 walking back in the rain
+1930 eating stir fry rice/quinoa for dinner
+2100 phone call with parents
 
 todo
 ----
 
 - [x] visit dolphin encounter and book a session for either Friday or Saturday morning
-- [ ] txt Jaime to let her know I won't be needing a lift on Saturday morning
-- [ ] edit/post video for Tuesday
-- [ ] edit/post video for Wednesday
+- [x] txt Jaime to let her know I won't be needing a lift on Saturday morning
+- [x] edit/post video for Tuesday
+- [x] edit/post video for Wednesday
 - [ ] write a 5 star review for Grapevine on Google maps
 - [ ] renew clickandcollect.nz domain?
 - [ ] test snapchat upgrade with `mishgurudev` account
-- [ ] call parents
+- [x] call parents
 
 work
 ----
 
-- [ ] Get feedback on adjustable graph height
+- [x] Get feedback on adjustable graph height
 
 prs:
 
