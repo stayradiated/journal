@@ -45,22 +45,22 @@ groceries
 
 burritos
 
-- wraps
-- cherry tomatoes
-- chilli beans
-- microwave brown rice
-- capiscum
-- cucumber
-- red onion
-- spinach/kale
-- cheese?
+- [x] wraps
+- [x] cherry tomatoes
+- [x] chilli beans
+- [x] microwave brown rice
+- [x] capiscum
+- [x] cucumber
+- [x] red onion
+- [x] spinach/kale
+- [x] cheese?
 
-- apples
-- peanut butter
-- dates
+- [x] apples
+- [ ] peanut butter
+- [ ] dates
 
 snacks for hiking
 
-- muesli bars
-- pringles
+- [x] muesli bars
+- [x] pringles
 - dark chocolate
