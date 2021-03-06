@@ -4,33 +4,162 @@ Sunday 28 Feb 2021
 NZ is back at Alert Level 2 -- there have been more cases in the community in
 Auckland. 
 
+Slowly copying video files from the GoPro camera on to my phone. I've found the
+best way is to use Air Transfer on my phone and then connect to it over a
+tethered USB connection - large file transfers are pretty quick.
+
+However, I have run out of space on my phone - I will need to edit this video
+in multiple stages as I can't fit all 12Gb of video on my phone at one time.
+
 schedule
 --------
 
 0730 waking up, showering, packing bag
 0840 cycling around christchurch
 0900 working from the library cafe (foundation)
+1200 cycling to Pak'nSave to get groceries ($44)
+1315 lunch
+1345 working on mish stuff
+1600 cycling around red zone
+1730 cooking dinner
 
 todo
 ----
 
+- [x] write a 5 star review for Grapevine on Google maps
+- [ ] test snapchat upgrade with `mishgurudev` account
+- [ ] check on all my domains
+- [ ] continue to take in waste on board shorts
+- [ ] export, backup and delete files from Reporter on my phone
+
+chores
+------
+
+- [x] grocery shopping for lunch/dinner
+- [ ] get out $300 in cash to pay for my accommodation
+
+mish guru
+---------
+
+We are getting account locks when trying to login. This is almost certainly
+because we are on a really old version of the app.
+
+I need to make sure that the new version is production ready asap.
+
+What do I need to do?
+
+- [.] test on internal-admin.mish.guru → I don't have a password…
+- [x] create an autologin docker image
 
 videos
 ------
 
-01.mp4 - a few seconds of the floor
-02.mp4 - view from inside the cabin
-03.mp4 - south bay peninsula
-04.mp4 - side the of the boat
-05.mp4 - back of the boat and out to sea
-06.mp4 - rounding the peninsula
-07.mp4 - rocks and waves
-08.mp4 - short clip of the back of the boat
-09.mp4 - dolphins swimming in front of boat
-10.mp4 - dolphins swimming behind/beside boat
-11.mp4 - dolphin swimming around boad
-12.mp4 - pod of dolphins swimming under boat + walking to front of boat
-13.mp4 - getting ready to swim
-29.mp4 - sitting at the back of the boat + initial dive into the water
-30.mp4 - first interatction with dolphins in water
-31.mp4 - dolphins at the start, but mostly just water
+01.mp4 x a few seconds of the floor
+02.mp4 x view from inside the cabin
+03.mp4 x south bay peninsula
+04.mp4 x side the of the boat
+05.mp4 x back of the boat and out to sea
+06.mp4 x rounding the peninsula
+07.mp4 x rocks and waves
+08.mp4 x short clip of the back of the boat
+09.mp4 x dolphins swimming in front of boat
+10.mp4 x dolphins swimming behind/beside boat
+11.mp4 x dolphin swimming around boad
+12.mp4 x pod of dolphins swimming under boat + walking to front of boat
+15.mp4 x getting ready to swim
+16.mp4 x
+29.mp4 x sitting at the back of the boat + initial dive into the water
+30.mp4 x first interatction with dolphins in water
+31.mp4 x dolphins at the start, but mostly just water
+32.mp4 x
+33.mp4 x
+34.mp4 x
+35.mp4 x
+36.mp4 x
+37.mp4 x
+38.mp4 x
+39.mp4 x
+40.mp4  
+41.mp4
+42.mp4
+43.mp4
+44.mp4
+45.mp4
+46.mp4 
+47.mp4
+48.mp4 
+49.mp4 
+50.mp4
+51.mp4
+52.mp4 
+53.mp4 
+54.mp4 
+55.mp4 
+56.mp4 - dolphins
+57.mp4 - selfie, getting on to boat
+58.mp4 - everyone else getting on to boat
+59.mp4
+60.mp4 - dolphins at the front of the boat
+61.mp4 
+62.mp4 
+63.mp4 
+64.mp4
+65.mp4
+66.mp4
+67.mp4 
+68.mp4
+69.mp4 - @1:26 orcas
+70.mp4 - selfie view, heading back home
+
+Grapevine Review
+----------------
+
+[5 stars]
+
+The Grapevine Backpackers is one of my favourite places in New Zealand. Quietly
+situated along the Ōpaoa River, this hostel is full to the brim with love, joy,
+laughter and comradery.
+
+Upon my arrival, I was immediately welcomed into the Grapevine family, a group
+of some of the most loving, funny and talented young travellers I've ever met.
+Initially, I had only planned to stay in Blenheim for a few days but found
+myself having such a great time I didn't want to leave!
+
+The managers here are wonderful, they'll make sure you have a comfortable stay
+and will often organize fun events, including movie nights, quizzes and potluck
+dinners. With so many people staying here, you'll never find yourself bored in
+Blenheim.
+
+While the kitchen may be on the smaller side, cooking here quickly brings
+people together - everyone sharing stories, jokes, music and recipes. There is
+a beautiful backyard where you can enjoy your meal with a stunning view of the
+river.
+
+For your convenience, there are free bikes available to get you quickly across
+town - though make sure to take a lock with you or you may be walking back!  I
+highly recommend making use of the free kayaks, on a hot day there is nothing
+better than cruising east down the river and hurling yourself into the water
+from the rope swing.
+
+In short, I had a marvellous time at the Grapevine and I'm sure you will as
+well.
+
+op shops
+--------
+
+Thinking about getting some cheap shoes.
+
+- Recycle Boutique
+  248 High Street, Christchurch CBD, Christchurch 8011
+  overpriced?
+- Thrive Op Shop
+  275 Hereford Street, Christchurch Central City, Christchurch 8011
+- SPCA Christchurch Op Shop
+  656 Ferry Road, Woolston, Christchurch 8023
+- St Vincent De Paul Society
+  265 Stanmore Road, Richmond, Christchurch 8013
+- CHC City Mission
+  275 Hereford St
+  63 Buchan St, Sydenham
+- ReLove Clothing
+  2/2 Leacroft Street, Bishopdale, Christchurch 8053

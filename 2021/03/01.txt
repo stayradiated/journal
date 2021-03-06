@@ -1,0 +1,57 @@
+Monday 01 Mar 2021
+==================
+
+How is it March already? February needs more days.
+
+schedule
+--------
+
+0555 wake up
+0625 start working
+0910 catch up with Jo :) → she is back in devon
+1000 standup
+1045 working from c1 → drinking a charcol latte
+1245 cycle to nearest ATM, get cash out
+1300 cycle back to hostel for lunch
+1345 working from the hostel
+1500 helping rowan sort out babel transforms with regenerator
+1600 heading out into town
+1700 trying to purchase shoes/jeans and not having my wallet
+1730 calling Antony to see if he has a second key
+1800 Jodie returns, get my wallet back, eat dinner
+1830 call parents
+1900
+
+todo
+----
+
+- [x] catch up with Jo
+- [x] check on all my domains, renew clickandcollect.nz
+- [ ] edit/publish video for saturday (dolphins!)
+- [ ] edit/publish video for sundary (bike ride)
+- [ ] test snapchat upgrade with `mishgurudev` account
+- [ ] continue to take in waste on board shorts
+- [ ] export, backup and delete files from Reporter on my phone
+- [ ] look for some clothes at second hand shops
+
+chores
+------
+
+- [ ] get out $300 in cash out from an ATM to pay Antony for my accommodation
+- [x] put $2k into a 6 month term deposit
+
+work
+----
+
+Oh snap, we have 79 open pull requests!? Dependabot has been busy.
+
+deploy-to-heroku-action:
+
+- [x] paginate requests when getting open pull requests
+- [x] use github deployment API to link PR with review app URL
+- [ ] handle migration race condition
+
+adjust-graph-height:
+
+- [x] smooth resizing? why are the financial charts so much better?
+   →  disabling the animation and debounce makes a huge difference

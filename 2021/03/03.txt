@@ -1,0 +1,42 @@
+Wednesday 03 Mar 2021
+=====================
+
+Ellen is busking in the city center (near riverside markets) this afternoon.
+
+I forgot my wallet (again!) - Brendon shouted me lunch. I need to pay him back
+$11 - maybe I could get his lunch next time we are out.
+
+schedule
+--------
+
+0555 wakeup
+0645 cycle to Uprising
+0700 bouldering with Pete and Ivan
+0830 cycling to saltworks
+0850 working at saltworks
+1000 dev meeting
+1100 design meeting
+1215 sichuan kitchen for lunch
+1255 back to work at the office
+     cycling back to the hostel
+     running into Ellen randomly
+     working from the hostel
+     samurai bowl with pete and ivan
+ 
+
+work
+----
+
+- [x] fix issue with top navigation floating
+- [x] fix issue with People Planner "Global Time Off"
+- [x] start hasura-ifying the reports page
+
+todo
+----
+
+- [ ] edit/publish video for saturday (dolphins!)
+- [ ] edit/publish video for sunday (bike ride)
+- [ ] edit/publish video for monday
+- [ ] edit/publish video for tuesday
+- [ ] test snapchat upgrade with `mishgurudev` account
+- [ ] continue to take in waste on board shorts
