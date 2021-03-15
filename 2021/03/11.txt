@@ -1,0 +1,24 @@
+Thursday 11 Mar 2021
+====================
+
+Surfing with Ivan out at New Brighton beach, lots of fun!
+
+work
+----
+
+1000 standup
+1100 future work meeting (might skip it today)
+
+scroll modals:
+- [x] add back in fixedToTop prop to keep small modals in the same location
+
+grouping projects:
+- [x] update people grouping code
+- [x] add unit tests
+- [x] check performance impact
+
+hasura reports:
+- [ ] catch up with Rowan and talk him through the changes
+
+deploy-to-heroku-action:
+- deploy hasura and app as close as possible together
