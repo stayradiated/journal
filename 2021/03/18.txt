@@ -1,0 +1,101 @@
+Thursday 18 Mar 2021
+====================
+
+Climbing at Uprising this morning, just by myself.
+Got the orange worm climb with the big death star hold figured out, still one
+to practice tomorrow though.
+
+rejection therapy
+good question to practice → do you have wifi here?
+
+I've nearly caught up with my daily videos, after being a week behind all
+month.
+
+todo
+----
+
+- [ ] get hem tape, turn pants into shorts
+- [x] visit the "around again cycles"
+- [ ] purchase ultalight sleeping bag
+
+I will also need a fluro bag cover
+
+- [ ] get a fabric patch for bag (+1 maybe for on my wallet?)
+- Cantebury Museum might have fabric patches?
+- Christchurch Art Gallery Design Store
+- Shopology
+
+schedule
+--------
+
+0830,1040 working from Gentle Giant cafe
+1000,1015 standup
+1040,1050 cycle to library
+...
+1100,1200 future work planning
+1430,1500 hasura intro with andria
+1500,1530 hasura intro with priscilla
+
+work
+----
+
+Tomorrow is a learning day.
+What should I learn?
+
+I would like to finish reading shape-up. I still haven't done that.
+It would be good to practice writing notes about my key takeaways.
+
+hasura intro
+............
+
+pair-programming with andria and priscilla today
+stepping them through a report migration
+
+1. start from `george/hasura-report-project-overview` branch
+2. create a new branch for the report
+3. make sure 
+   - hasura is running (restart after switching branches)
+   - database migrations have been applied (db:reset db:migrate db:seed)
+4. check that
+  - `yarn run graphql` is working
+  - `yarn run relay` is working
+5. rename report directory -- add the `_hasura` suffix
+6. Edit `src/reports/ReportContainer` → import from new path
+7. `yarn run relay:hasura` → should get errors
+8. Edit `*Report.relay.tsx`
+   - Viewer → users
+   - users.permissions → remove subfields
+   - id → id: global_id + db_id
+   - hashid → delete
+   - start_date → start_date: start_date_runn
+   - end_date → end_date: end_date_runn
+   - cost → cost_private
+   - cost_padded → cost_padded_private
+   - billable_minutes → sum_billable_minutes
+   - nonbillable_minutes → sum_nonbillable_minutes
+   - date → date_runn
+   - assignments.is_placeholder → delete
+   - schedule_totals_roles → (args: { client_date: $client_date })
+   - add from_date:
+     . actuals(where: { date_iso: { _gte: $from_date } }) {
+     . assignments(where: { end_date_iso: { _gte: $from_date } }) {
+9. Edit `*ReportContainer.tsx`
+   - store → store/hasura
+   - getClientDate
+   - replace arguments
+   - viewer → users(limit: 1)
+   - ReportRender → ReportRender_hasura
+   - remove all ReportRender props, apart from response/render
+   - replace startDate with useState
+10. `yarn run tsc`
+   - import `Permissions` from permissions-helpers
+   - viewer: { permissions, account } → 
+      const permissions = viewer.permissions as Permissions
+      const { clients, people } = viewer.account
+   - add readonly tags type
+   - know when to use LocalProjectReportData / ProjectReportData
+   - hashid → hashids.projects.encode(db_id)
+   - update tests:
+     - add db_id to anything with an id
+     - *_id → convert to number
+   - Is ProjectPeriodAssumptions used?

@@ -1,0 +1,44 @@
+Friday 19 Mar 2021
+==================
+
+schedule
+--------
+
+0740 check-out of aroundtheworld backpackers
+0750 arrive at foundation
+0850 cycle to jailhouse backpackers
+1000 standup
+
+todo
+----
+
+- [ ] purchase ultalight sleeping bag
+- [ ] visit Spotlight, get hem tape, turn pants into shorts
+- [ ] visit that gift shop next to FreshChoice (they might have fabric patches?)
+
+bike shop
+---------
+
+I do love the simplicity of having a single speed bike, but damn gears are a
+great invention.
+
+Checking out of Around the World backpackers today.
+I've got my all gear packed into my Aer bag and the Kathmandu hiking bag.
+
+I need to get a bike rack and some panniers for my bike, so I can easily carry
+a bunch of stuff with me.
+
+Gods of Thunder
+---------------
+
+Who discovered electricity? Does lightning count?
+
+https://en.wikipedia.org/wiki/List_of_thunder_gods
+What a great wikipedia page. So many Gods!
+
+shell
+-----
+
+Upgraded my version of python3-pip from v9 to v21!
+Now I can install mycli locally -- which makes connecting to MySQL databases so
+much more pleasant.
