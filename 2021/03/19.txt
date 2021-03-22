@@ -12,9 +12,24 @@ schedule
 todo
 ----
 
-- [ ] purchase ultalight sleeping bag
+- [x] purchase ultalight sleeping bag
+- [x] visit that gift shop next to FreshChoice (they might have fabric patches?)
 - [ ] visit Spotlight, get hem tape, turn pants into shorts
-- [ ] visit that gift shop next to FreshChoice (they might have fabric patches?)
+- [x] grocery shopping for lunch tomorrow
+- [/] headlight?
+- [x] pick up some cheap long johns from kathmandu (closes at 5:30pm0
+
+little river
+-----------
+
+https://www.littlerivertrail.kiwi.nz/gallery/trail%20brochure%201%20printed.pdf
+
+snacks:
+
+- [x] apples, mandarins
+- snack balls
+- biscuits
+- water
 
 bike shop
 ---------
@@ -42,3 +57,9 @@ shell
 Upgraded my version of python3-pip from v9 to v21!
 Now I can install mycli locally -- which makes connecting to MySQL databases so
 much more pleasant.
+
+sleeping bag
+------------
+
+This is the seat that Mel has:
+https://www.furtherfaster.co.nz/products/therm-a-rest-nz-z-seat-sol
