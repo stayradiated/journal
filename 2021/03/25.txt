@@ -1,0 +1,107 @@
+Thursday 25 Mar 2021
+====================
+
+- [x] rear panniers
+- [x] do I need a better rack? → probably not
+- [x] bungee coords to strap bag to rack
+
+It's cheaper to purchase a tent and stay at campgrounds than it is to book a
+[mh]otel room each night.
+
+- [x] ultra-light one person tent (waterproof) -- macpac has a solo tent
+- [x] inflatable sleeping mat →  back to furtherfaster!
+- [x] sleeping bag liner - protect the sleeping bag!
+
+- [/] pick up some hemming tape for my bluff pants
+- [x] or visit Streetwize down the road
+
+- [x] need an 8mm spanner to adjust carrier rack
+- [x] cable ties
+
+- [.] does paper bag princess have any shoes that fit me?
+
+....
+
+schedule
+--------
+
+1000 standup
+1000 future work meeting
+1600 wavemaker VC
+
+work
+----
+
+- fixing tests on Priscilla's PR for the period report
+
+wavemaker vc
+------------
+
+https://wavemaker.vc/sea/portfolio/
+
+> Wavemaker Group is a multi-faceted cross border venture capital firm founded
+> in 2003. The firm is dual headquartered in Los Angeles and Singapore and has
+> raised over $400M across multiple funds. We currently have a team of 40
+> people across both sides of our practice. Wavemaker is one of the most active
+> early stage investors in Southern California and Southeast Asia and has
+> invested in over 360 companies in the last 17 years.
+
+> Wavemaker is the regional partner for Southern California and Southeast Asia
+> of the Draper Venture Network (DVN), the world's leading VC collective
+> comprising 10 firms across 5 continents.
+
+wavemaker labs
+
+> We partner with corporations to build disruptive technology that will drive
+> future growth. We help partners think & execute like startups.
+
+- graze
+- piestro
+- miso
+- bobacino
+- future acres
+
+joel, senior associate
+
+> Joel is involved in the sourcing and evaluation of deals, due diligence, and
+> the preparation of investment proposals for the fund’s investment decisions.
+> He oversees the Deep Tech and Thailand portfolio companies for Wavemaker.
+> Prior to Wavemaker, Joel worked under the M&A Advisory team of PwC Singapore
+> and the Finance team of government venture capital firm Infocomm Investments
+> (now SG Innovate). Joel graduated Summa Cum Laude from Singapore Management
+> University with a double degree in Business Management and Accountancy.
+
+hiep, investment analyst
+
+> Hiep is involved in the evaluation of deals, due diligence, and the
+> preparation of investment proposals for the fund’s investment decisions.
+> Prior to Wavemaker, Hiep was part of Vietnam Investments Group where he spent
+> his summer assisting the due diligence and strategic support functions within
+> the F&B sector. Most recently, he was a summer analyst within the Corporate
+> Debt Capital Markets team within TD Securities in New York, helping with the
+> debt issuance process for companies within the Energy, Industrial, and REITs
+> sector. Hiep graduated magna cum laude from the University of Massachusetts
+> Amherst with a major in Finance and a minor in Sociology.
+
+"deep tech"
+
+> is a classification of a startup company, with the expressed objective of
+> providing technology solutions based on substantial scientific or engineering
+> challenges.
+
+ack3 bionetics (http://ack3bionetics.com/)
+
+> We have reinvented network security, anchored on voice biometrics as a key
+> security factor. We have developed the 3FID VICS
+> Authentication/Identification Gateway as an advanced security platform.
+
+ackcio (https://www.ackcio.com/)
+
+> Our flagship product suite, Ackcio Beam, is an end-to-end system that
+> provides complete automation of monitoring sensors in industries like
+> construction, mining and energy, making for safer, more secure outcomes.
+
+transcelestial (https://transcelestial.com/)
+
+> Transcelestial is building the world's first space laser network to usher in
+> a new generation of high speed connectivity from space. 
