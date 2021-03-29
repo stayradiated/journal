@@ -6,10 +6,13 @@ schedule
 
 0900 check-out of jailhouse
 1000 standup
-
-- call Glentunnel Holiday Park, when is the latest I can turn up?
+1200 lunch
+1500 cycling out of christchurch!
+1800 arriving in Darfield
 
 https://www.glentunnel.co.nz/
+- [x] call Glentunnel Holiday Park, when is the latest I can turn up?
+→ they are open all night
 
 work
 ----
@@ -19,8 +22,9 @@ starting early this morning, finishing early so I can head off towards Darfield
 camping gear
 ------------
 
-- sandfly repellent ➝ unichem pharmacy
-- folding hat
-- wet wipes?
-- cutlery?
-- snacks
+- [] small snaplock bags
+- [x] sandfly repellent ➝ life pharmacy → bushman gel
+- [/] folding hat (this is a splurge, you know it)
+- [x] wet wipes?
+- [.] cutlery?
+- [x] snacks
