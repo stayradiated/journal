@@ -1,0 +1,121 @@
+Friday 02 Apr 2021
+==================
+
+Waking up at Lake Alexandrina this morning, quite cloudy -- checked the sky a
+couple times during the night but no stars visible.
+
+Cycling back into Lake Tekapo, roads are still busy. Town is packed with
+people stopping for coffee.
+
+I am working today putting the time-off towards next weeks adventure.
+
+accomodation
+------------
+
+Where are we going to stay tomorrow night? I should check the Mt Cook campsite
+websites again. Only 7 spots left! Booked Saturday night at White Horse Hill
+campsite.
+
+> Your order was placed successfully.
+> Thank you for using the Reservation System!
+> Your confirmation # is 5099089.
+> Your Transaction No is 109209315053.
+> Please keep this number for your records. 
+
+jo
+--
+
+Jo's birthday is approaching! What am I going to get her?
+
+schedule
+--------
+
+0850 cycling out of Lake Alexandrina
+1055 working from the Greedy Cow
+
+food
+----
+
+- 1 short black coffee
+- 1 Fairly vegetable pie with tomato sauce
+- 2 mandarins
+- 1 cup of pot and leek soup
+
+saturday meals
+--------------
+
+Hmm, I was thinking of taking food with me, but having to carry food is a pain.
+
+That said, there aren't many options from here to Mt. Cook.
+
+:: The Old Mountaineers Cafe, Mt. Cook (3.8★) - mixed reviews, not worth relying on.
+:: Tasman Delta Cafe, Glentanner (4★) - good rest stop, probably very busy
+
+I've got:
+
+- 1 apple
+- 1 mandarin
+- ½ pack of nuts (with a handful of M&M's mixed in)
+- 2 OSM bars
+- packet of cocoa powder
+
+I should buy:
+
+- 2 apples
+- 2 mandarins
+- tub of hummus
+- pack of wraps
+- 1 capsicum, to chop up in the morning
+- 2 packets of tuna
+- 1 packet of olives?
+- 1 carrot, to grate
+
+todo
+----
+
+- [x] wash clothes in sink (free!) and dry in drying room
+- [ ] don't forget to collect clothes from drying room this evening
+- [ ] invest $x each fortnight in bitcoin
+- [ ] shop for food for lunch/dinner tomorrow (no shops on the way to Aoraki!)
+- [x] go for a run up Mt. John
+- [x] wash running clothes
+
+work
+----
+
+- [x] Implementing the `buildImageUrl` function for Cloudinary.
+- [x] Update People Explorer Report
+- [x] Update People Variance Report
+- [x] Update People Utilization Report
+- [x] Update People Timesheets Report
+- [x] Update Rowan's Client List PR
+
+plan
+----
+
+thu apr 01 :: lake alexandrina
+fri apr 02 :: lake tekapo yha
+sat apr 03 ::
+           :: tekapo → twizel           [56km] <60/310> (2h 45m)
+           :: twizel → white horse hill [66km] <523/229> (3h 25m)
+           ~~ could skip twizel, head directly to camp site
+           ~~ tekapo → white horse hill [103km] <494/456> (5h 20m)
+sun apr 04 :: 
+           :: white horse hill → twizel [66km] <215/510> (3h 05m)
+           :: twizel → lake poaka       [10km] <60/10> (0h 30m)
+           ~~ stay at Lake Poaka campsite?
+mon apr 05 ::
+           :: twizel → omarama [32km] <110m/60m> (1h 30m)
+tue apr 06 ::
+           :: omarama → lindis pass  [68km] <890m/670m> (3h)
+wed apr 07 ::
+           :: lindis pass → bendigo  [42km] <140m/330m> (1h 50m)
+           :: bendigo → cromwell     [16km]             (0h 50m)
+thu apr 08 ::
+           :: bendigo → arrowtown    [62km] <330m/130m> (3h 20m)
+           :: arrowtown → queenstown [31km] <90/180m>   (1h)
+           :: cromwell → queenstown  [59km] <423m/311m> (3h 20m)
+fri apr 09 ::
+           :: queenstown!
+sat apr 10 ::
+           :: fly to auckland 

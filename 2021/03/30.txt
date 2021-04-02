@@ -1,0 +1,76 @@
+Tuesday 30 Mar 2021
+===================
+
+No cycle touring today! Taking a day off to enjoy Lake Tekapo.
+
+Next stop is Twizel, I can follow the canal road (no cars!).  There is a bike
+repair shop there (jakes.co.nz) -- I will get the wheels checked, I think the
+rear wheel might be a bit wonky.
+
+Feeling quite sleepy this afternoon, I should have a nap.
+
+schedule
+--------
+
+1000 standup
+
+travel
+------
+
+What is my plan for this week?
+Where am I going to stay this weekend?
+It's going to be busy! Might need to book ahead…
+
+30 31 01 02 03 04 05 06 07 08 09 10
+Tu We Th Fr Sa Su Mo Tu We Th Fr Sa
+.  .  .  .  x  x  x  x  x  x  x  
+
+=========================================
+jakes hardware @ twizel -- services bikes
+=========================================
+
+Mo-Fr: 9am - 5pm
+   Sa: 9am - 4pm
+   Su: Closed
+
+wed mar 31 :: tekapo
+thu apr 01 :: tekapo
+fri apr 01 :: tekapo
+sat apr 02 ::
+           :: tekapo → twizel        [58km] <190m/440m> (2h 45m)
+           :: twizel → glentanner    [42km] <250m/160m> (2h)
+           // tekapo → glentanner    [78km] <220m/387m>
+           :: glentanner → hooker valley track [24k]  <280m/80m> (1h 20m)
+           // alternatively, there is also the white horse hill campground
+sun apr 04 :: 
+           :: hooker valley track → twizel     [66km] <280m/80m> (3h)
+           :: twizel → omarama                 [32km] <110m/60m> (1h 30m)
+mon apr 05 ::
+           :: omarama → lindis pass  [68km] <890m/670m> (3h)
+tue apr 06 ::
+           :: lindis pass → bendigo  [42km] <140m/330m> (1h 50m)
+           :: bendigo → cromwell     [16km]             (0h 50m)
+wed apr 09 ::
+           :: bendigo → arrowtown    [62km] <330m/130m> (3h 20m)
+           :: arrowtown → queenstown [31km] <90/180m>   (1h)
+           :: cromwell → queenstown  [59km] <423m/311m> (3h 20m)
+sat apr 10 ::
+           :: fly to auckland 
+
+work
+----
+
+- [ ] review https://github.com/Runn-Fast/runn/pull/5884
+
+todo
+----
+
+- [ ] I need to wash a bunch of clothes but I might wait until Friday morning
+- [.] edit/publish video for last weekend
+- [ ] explore Cowans Hill walkway on my bike
+- [/] visit bespoke cycling, get a check-up of my bike
+- [x] adjust front/rear derailleur so I can use the lowest gear of my bike (good for climbing hills!)
+- [x] purchase patches from souvenir shop
+- [x] purchase vegetables and make wraps for dinner
+
+A small rear-view mirror for the bike is still a good idea.
