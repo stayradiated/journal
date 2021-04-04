@@ -37,9 +37,21 @@ food
 ----
 
 - 1 short black coffee
+
 - 1 Fairly vegetable pie with tomato sauce
 - 2 mandarins
 - 1 cup of pot and leek soup
+
+- 2 spinach wraps
+- 1 broccoli stem
+- 1½ white buttom mushrooms
+- ½ carrot grated
+- 1 small capsicum
+- ¼ red onion chopped
+- 90g tuna in sweet chilli sauce
+- ⅚ pack of gingernut biscuits
+- 1 rooibos tea
+- 1 mandarin
 
 saturday meals
 --------------
@@ -61,24 +73,25 @@ I've got:
 
 I should buy:
 
-- 2 apples
-- 2 mandarins
-- tub of hummus
-- pack of wraps
-- 1 capsicum, to chop up in the morning
-- 2 packets of tuna
-- 1 packet of olives?
-- 1 carrot, to grate
+- [x] 2 apples
+- [x] 2 mandarins
+- [x] tub of hummus
+- [x] pack of wraps
+- [x] 1 capsicum, to chop up in the morning
+- [x] 2 packets of tuna
+- [x] 1 carrot, to grate
 
 todo
 ----
 
 - [x] wash clothes in sink (free!) and dry in drying room
-- [ ] don't forget to collect clothes from drying room this evening
-- [ ] invest $x each fortnight in bitcoin
-- [ ] shop for food for lunch/dinner tomorrow (no shops on the way to Aoraki!)
+- [x] don't forget to collect clothes from drying room this evening
+- [.] invest $x each fortnight in bitcoin → wait for april 6th
+- [x] shop for food for lunch/dinner tomorrow (no shops on the way to Aoraki!)
 - [x] go for a run up Mt. John
 - [x] wash running clothes
+- [x] iron on patches to red bag
+- [ ] secure patches with stitching
 
 work
 ----
@@ -89,6 +102,8 @@ work
 - [x] Update People Utilization Report
 - [x] Update People Timesheets Report
 - [x] Update Rowan's Client List PR
+- [x] Update Project List PR
+- [x] Refactor People Reports
 
 plan
 ----
