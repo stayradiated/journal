@@ -5,6 +5,9 @@ Last day of the trip! It's not going to be an easy win though.
 
 Stopping for coffee at Nichol's Garden Centre & Cafe
 
+Rowan recommends visiting Mt Sunday. He climbed Mt. Potts one day, ran out of
+water and had to walk back in the dark with a headlight, but he enjoyed it.
+
 plan
 ----
 
@@ -23,10 +26,18 @@ food
 ----
 
 - 1 short black coffee
-
+- 2 OSM Apricot & Manuka bars
+- 1 Carrot & Coconut Soup (with 3 cheese puffs)
+- 1 Coconut Rough slice
+- 1 handful of nuts with whittakers milk chocolate
+- ½ pint of Sled Dog beer
+- 1 vegetarian conchiglie pasta
+- ⅓ tiramisu
 
 todo
 ----
 
+- [x] make sure there is enough money in my N26 account
+- [x] pack bags for airport
 - [ ] file taxes
 - [ ] renew terminal.sexy
