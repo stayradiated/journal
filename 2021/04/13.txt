@@ -1,0 +1,356 @@
+Tuesday 13 Apr 2021
+===================
+
+I kind of want to buy a harmonica now. It seems like the best travel
+instrument.
+
+I also want to get some more bags for my bike, I'm not sure if I want to get
+front panniers or a handlebar bag.
+
+I can't believe how long these Apple Earpods have lasted me, I feel like they
+should have broken by now.
+
+They have Best Ugly Bagels at the Auckland Domestic Airport, might have to try
+them for lunch.
+
+Alan Watts is the philosopher with the great voice that keeps getting sampled
+and putting into songs.
+
+wish list
+---------
+
+- merino neck gaiter/chute/chief (what are these things called?)
+- diatonic harmonica in c
+- front bags for bike
+
+food
+----
+
+- 1 earl grey tea
+
+10 Laws
+-------
+
+> Ten fingers, ten laws that I live by.
+
+- Always see the dangers first
+- Always protect your feet
+- Always be ready for cold
+- Always be ready for heat
+- Always know where good water or source is
+- Always master the skills necessary
+- Always get the job done
+- Always know your place
+- Always disallow foolishness
+- Always rest whenever you can
+
+todo
+----
+
+- [x] get to the airport before standup
+- [ ] pay taxes ($$$$)
+- [ ] edit and publish a more of the daily videos
+- [ ] renew terminal.sexy ($62)
+
+schedule
+--------
+
+0710 wake up
+0730 finish packing bags
+0820 check out of YHA
+0830 catch Skybus to airport
+0910 arrive at airport
+0915 working from the airport cafe
+1000 standup
+…
+1430 flight to Queenstown
+
+work
+----
+
+standup: Andria, Rowan, Ruth, Shannon (5)
+
+- [x] feedback for Ruth on the "Delete Account" flow
+- [ ] fix up typescript errors on `Hasura: People Dashboard` branch
+- [ ] final review of Rowan's `Hasura: Client List` PR
+
+Movie Quotes Quiz
+-----------------
+
+// I found this quiz printed out in the YHA hostel. It seems like quite a good
+// list of quotes, so I wrote them down here.
+
+> Frankly, my dear, I don't give a damn.
+Clark Gable, Gone with the Wind, 1939
+
+> Toto, I've a feeling we're not in Kansas anymore.
+The Wizard of Oz
+
+> No. I am your father.
+Star Wars
+
+> Heeere's Johnny
+The Shining
+
+> Say hello to my little friend
+Scarface
+
+> My name is Inigo Montoya. You killed my father. Prepare to die.
+The Princess Bride
+
+> Louis, I think this is the beginning of a beautiful friendship.
+Casablanca
+
+> You're gonna need a bigger boat.
+Jaws, 1975
+
+> Magic mirror on the wall, who's the fairest of all.
+Snow White, 1939
+
+> Roads? Where we're going we don't need roads.
+Back to the Future, 1978
+
+> I'm not bad, I'm just drawn that way
+
+> Snakes. Why'd it have to be snakes?
+
+> Are you not entertained?
+
+> I feel the need. The need for speed.
+
+> Why so serious?
+The Dark Knight
+
+> Keep the change, ya filthy animal
+Home Alone
+
+> I wish I knew how to quit you
+
+> Hasta la vista, baby!
+
+> You've got to ask yourself one question. 'Do I feel lucky?' Well do ya, punk?
+Dirty Harry
+
+> I love the smell of napalm in the morning
+
+> Dead or alive, you're coming with me
+
+> You had me at 'hello'
+
+> You can't handle the truth!
+
+> Mama always said life was like a box of chocolates. You never know what you're gonna get.
+Forest Gump
+
+> I see dead people
+
+> That's not a knife. That's a knife.
+
+> Take your stinking paws off me, you damned dirty ape!
+
+> We all go a little mad sometimes.
+
+> "Surely you can't be serious?" "I am serious, and don't call me Shirley"
+Airplane
+
+> Nobody puts baby in a corner.
+
+> You shall not pass!
+Lord of the Rings
+
+> I'm gonna make him an offer he can't refuse
+
+> Zed's dead baby. Zed's dead.
+Pulp Fiction
+
+> "You expect me to talk?" "No Mr Bond, I expect you to die!"
+
+> It's alive! It's alive!
+
+> I drink your milkshake!
+
+> Wax on, wax off
+The Karate Kid
+
+> Stop trying to make 'fetch' happen. It isn't going to happen.
+Mean Girls
+
+> That's a bingo
+The Inglorious Basterds
+
+> I don't like sand. It's all course and rough, and irritating. And it gets everywhere.
+
+> Just keep swimming.
+Finding Nemo
+
+> You've got red on you
+
+> This is Sparta!
+
+> You best start believing in ghost stories Miss Turner. You're in one.
+
+> To infinity and beyond!
+Toy Story
+
+> Yo' Adrian, I did it!
+
+> They can take your lives, but they'll never take our fredom!
+
+> I'm the king of the world!
+
+> I'll have what she's having
+
+> "Do you know the Muffin Man?" "The Muffin Man?" "The Muffin Man…"
+Shrek
+
+> There are certain rules that one must abide by in order to successfully
+> survive a horror movie.
+
+> I don't eevn know if I'm black with white stripes or white with black stripes!
+Madagascar
+
+> "I didn't kill my wife!" "I don't care."
+
+> Get away from here, you bitch!
+
+> Get busy living, or get busy dying
+
+> "I'm a man!" "Well, nobody's perfect"
+
+> That'll do pig. That'll do.
+
+> If it bleeds we can kill it.
+
+> Welcome to the party, pal!
+Die Hard
+
+> The things you own, end up owning you
+
+> I'm kind of a big deal
+
+> I am Groot
+Guardians of the Galaxy
+
+> Why do I have to be Mr Pink?
+Reservoir Dogs
+
+> I'm just a girl, standing in front of a boy, asking him to love her
+
+> Wilsooooooooon!
+
+> I will look for you. I will find you. And I will kill you.
+
+> All those moments will be lost in time… like tears in rain
+
+> They're coming to get you Barbara!
+
+> Gentlemen you can't fight in here! This is the war room!
+Dr. Strangelove
+
+> On no, it wasn't the airplanes. Beauty, killed the beast.
+
+> The past can hurt. But the way I see it you can either run from it, or learn from it.
+
+> Thy're heeeeere!
+
+> There are two kinds of people in the world. Those with loaded guns and whose who dig.
+
+> It's not a tumour!
+
+> You talkin' to me? You talkin' to me?
+
+> Listen to them. Children of the night. What music they make
+
+> Elementary, my dear Watson
+
+> Houston, we have a problem
+
+> I'm too old for this shit.
+
+> I ate his liver with some fava beans and a nice Chianti
+
+> Use the force, Luke
+
+> "Sandy?!" "Tell me about it, stud"
+
+> Do you wanna build a snowman?
+
+> Welcome to Earth. Now that's what I call a close encounter.
+
+> Squirrel!
+
+> The power of Christ compels you!
+
+> I'm walking here! I'm walking here!
+
+> Mrs Robinson you're trying to seduce me. Aren't you?
+
+> Hey, you guys!
+
+> As a specimen, yes, I'm intimidating.
+
+> You get nothing, You lose! Good day sir!
+
+> If you can't say something nice, don't say nothing at all.
+
+> The greatest trick the devil ever pulled was convincing the world he didn't exist.
+The Usual Suspects
+
+> Human sacrifice, cats and dogs living together… mass hysteria!
+
+> "Remember Sully when I promised to kill you last? … I lied"
+
+> Dishonour on you. Dishonour on your cow.
+Mulan
+
+> Gentleman, you had my curiosity, now you have my attention
+Django Unchained
+
+> One, two, Freddy's coming for you
+
+> No matter how much he cries, or how much he begs, never, never feed him after midnight.
+
+> Rosebud.
+
+> Well sir, it's this rug I had. It really tied the room together.
+
+> Go ahead, make my day
+
+> What's in the box? What's in the box?
+Seven
+
+> What do you mean funny, funny how? How am I funny?
+
+> There's no place like home.
+
+> Inconceivable!
+
+> You make me want to be a better man
+
+> We rob banks
+
+> "How did you know she was a Nazi?" "She talks in her sleep."
+
+> Show me the money!
+
+> Here's looking at you kid.
+
+> I'd buy that for a dollar
+
+> I know who I am! I'm a dude playing the dude, disguised as another dude!
+Tropic Thunder
+
+> I ain't got time to bleed
+Predator
+
+> Wait a minute, wait a minute, you ain't heard nothin' yet!
+The Jazz Singer
+
+> Badges? We don't need no badges. I don't have to show you any stinking badges!
+The Treasure of the Sierra Madre
+
+> After all… tomorrow is another day.
+Gone with the Wind
+
+> Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
+Ferris Bueller's Day Off

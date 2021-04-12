@@ -1,0 +1,134 @@
+Monday 12 Apr 2021
+==================
+
+Back to work today!
+
+Automated doors that swing in/out feel more futuristic than automatic doors
+that slide left/right.
+
+Feeling quite tired this afternoon, I have been working from quite a few
+different places. Tried working from the Auckland Public Library, but they are
+having construction issues and are closed this week.
+
+Planning to have a few vegetables with hummus for dinner.
+
+wifi
+----
+
+Finally figured out what was up with my laptop not working on the YHA networks.
+
+Debugged on the Arch Linux host, using the `ip route` command which listed a
+bunch of extra IP addresses.
+
+I went through and deleted each one, e.g. `sudo ip route del 172.27.0.0/16`
+
+When listing all the networks:
+
+```
+[admin@carbon ~]$ ip route
+default via 172.20.0.1 dev wlp2s0 proto dhcp src 172.20.15.13 metric 3003
+172.20.0.0/20 dev wlp2s0 proto dhcp scope link src 172.20.15.13 metric 3003
+```
+
+Now I can visit neverssl.com and get redirected to the reivernet portal
+correctly!
+
+guitars
+-------
+
+I want to take a guitar with me travelling, but surely this conflicts with cycling?
+
+How To Carry A Guitar While Bicycle Touring?
+[[ https://www.theadventurejunkies.com/carry-guitar-bicycle-touring/ ]]
+
+> I wanted to protect it from the jarring of the road and at the same time to
+> carry it in a way that didn’t interfere with cycling. In short: if it was
+> going to be a pain, I was probably going to end up ditching it.
+
+> You might think the main problem is the weight. But I’m carrying many other
+> things on my bike that are heavier than the guitar. The real problem is the
+> size. To carry such a bulky and delicate instrument, I needed to find a good
+> way to transport it where I could cycle in a comfortable position and not
+> damage the guitar.
+
+Sounds difficult.
+
+Alternatively, there are expensive travel guitars:
+
+https://www.rockshop.co.nz/shop/traveler-guitar-ultra-light-steel-string-incl-gig-bag.html
+
+But these are not recommended for beginners…
+
+There is such a thing as a "Guitarlele", it's a 6 string ukelele. Could be
+something to look at?
+
+I could go and visit the Rockshop tomorrow (they are open from 9am).
+
+Need to keep in mind that I have a perfectly good guitar and case back in
+Rotorua, along with a great little ukelele.
+
+Now I'm thinking about getting a Harmonica, much smaller, sounds pretty cool,
+not sure if I have the guts to practice it near within earshot of anyone else.
+
+food
+----
+
+- 1 earl grey tea
+
+- 1 hand pulled noodles with vegetables
+
+- 1 short black coffee
+
+- 1 chocolate fudge cookie
+
+- 1 green tea
+
+- 1 carrot
+- 1 red capsicum
+- 1 broccoli
+- 200g sundried tomato hummus
+- 1 boysenberry greek style yoghurt
+- 1 block of dark chocolate kitkat
+
+- 1 rooibos tea
+
+
+tomorrow
+--------
+
+Get to the Auckland Airport in the morning and work from there, grab lunch and
+then fly to Queenstown at 1430 (arriving 1625).
+
+music
+-----
+
+backstreet boys - tell me why :: would be a good song to learn to play
+fingerstyle with the guitar → https://www.youtube.com/watch?v=K5MonqIM5Ik
+
+schedule
+--------
+
+0710 wake up
+0740 working from the YHA lounge
+0940 working from the Terrace Cafe
+1000 standup
+1150 lunch at the Xi'an Foodbar (#25)
+1240 working from The Store
+1440 working from Chuffed
+1556 working from Good Times
+
+todo
+----
+
+- [x] file taxes
+- [x] order lem's primal 2 shoes (14 - 28 day shipping…)
+- [ ] pay taxes
+- [ ] edit and publish a more of the daily videos
+- [ ] renew terminal.sexy
+
+work
+----
+
+- [x] Complete the `Hasura: Projects List` PR and mark it as ready for review
+- [x] Start on the `Hasura: People Dashboard` PR
+- [x] Review Rowan's `Hasura: Client List` PR
