@@ -1,0 +1,110 @@
+Wednesday 14 Apr 2021
+=====================
+
+Working from the Fluid share space.
+
+Why is my wifi cutting out? Is that my laptop?
+
+The X1 Carbon Gen 9 looks great and supports up to 32GB RAM! That will be a
+nice upgrade. I should also get the WWAN option -- I'm pretty sure I can reuse
+the chip from this laptop.
+
+Little People in the City: The Street Art of Slinkachu 
+[[ https://www.amazon.com/Little-People-City-Street-Slinkachu/dp/0752226649 ]]
+
+schedule
+--------
+
+0740 wake up
+0800 shower
+0920 working from fluid sharespace
+1000 retrospective
+1200 lunch at fergburger
+1300 security meeting
+1400 refactor database design
+
+todo
+----
+
+- [x] purchase beecard
+- [x] register beecard @ https://beecard.co.nz/Registration/LoginInfo
+- [ ] read/reply to jacob
+- [ ] read/reply to jo
+- [ ] read/reply to david
+- [ ] check that automated payments have gone out
+
+work
+----
+
+- [ ] read about relay query normalization (references to lists)
+  - [[ https://github.com/facebook/relay/issues/2237 ]]
+  - do the relay docs help here? [[ https://relay.dev/docs ]]
+- [ ] resolve: https://github.com/Runn-Fast/runn/pull/5890
+  - [ ] move mutation
+  - [ ] add comment
+  - [ ] benchmark on large account
+- [ ] wip: https://github.com/Runn-Fast/runn/pull/5985
+
+
+
+
+
+retrospective
+-------------
+
+last month
+..........
+
+- [ ] Try use phases more in some way on runn internal
+- [ ] Write up tasks in notion from future work meeting
+- [ ] Try shouting out each others work in the #show-off channel
+- [ ] Product Manager / Scrum Master / Next Hires
+- [ ] Tracking how much time we spend on bugs vs features
+- [ ] Let’s keep trying to use Runn to keep track of what we are working on.
+- [ ] Create recurring monthly meeting
+- [ ] Update the README for runn repo (Hasura)
+
+What went well?
+...............
+
+What could've gone better?
+..........................
+
+- We aren't using the #show-off channel that much, probably not very useful?
+
+What we want to try next (Ideas)
+................................
+
+- 2 week follow up about actions, reminder to follow them
+
+books
+-----
+
+https://launchdarkly.com/effective-feature-management-ebook/
+
+https://launchdarkly.com/blog/post-trajectory-reading-list/
+
+- "A Seat at the Table" - Mark Schwartz
+- "Accelerate" - Nicole Forsgren, PhD, Jez Humble, and Gene Kim
+- "Ahead in the Cloud" - Stephen Orban
+- "Chaos Engineering" - Casey Rosenthal, Lorin Hochstein, Aaron Blohowiak, Nora Jones
+- "Drift into Failure" - Sydney Dekker
+- "Hypothesis-Driven Development" - Barry O'Reilly (coming soon)
+- "Lean Customer Development" - Cindy Alvarez
+- "Lean Enterprise" - Jez Humble, Joanne Molesky, and Barry O'Reilly
+- "Powerful: Building a Culture of Freedom and Responsibility" - Patty McCord
+- "Project to Product" - Mik Kersten
+- "Release It!" - Michael Nygard
+- "The DevOps Handbook" - Gene Kim, Jez Humble, Patrick Debois, and John Willis
+- "The Principles of Product Development Flow: Second Generation Lean Product Development" - Donald G. Reinersten
+- "Turn the Ship Around! A True Story of Turning Followers into Leaders" - L. David Marquet
+- "Unlearn" - Barry O'Reilly
+- "War and Peace and IT" - Mark Schwartz
+
+food
+----
+
+- 1 falafel fergburger
+- 1 side of fries with tomato sauce
+
+- several cups of black tea with milk

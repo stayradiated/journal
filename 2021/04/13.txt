@@ -2,7 +2,7 @@ Tuesday 13 Apr 2021
 ===================
 
 I kind of want to buy a harmonica now. It seems like the best travel
-instrument.
+instrument. → update, I now own a harmonica! Hohner Silverstar.
 
 I also want to get some more bags for my bike, I'm not sure if I want to get
 front panniers or a handlebar bag.
@@ -14,7 +14,17 @@ They have Best Ugly Bagels at the Auckland Domestic Airport, might have to try
 them for lunch.
 
 Alan Watts is the philosopher with the great voice that keeps getting sampled
-and putting into songs.
+and putting into songs. Looking at reading the "The Way of Zen" but it's not
+available on Amazon until July? That's odd.
+
+Feeling quite hungry, can't wait to eat something at midday. → Feel like I've
+eaten too much, I need to find a way to be better at self moderation.
+
+Chrome has a built in remote desktop: https://remotedesktop.google.com/
+Seems like a brilliant alternative to TeamViewer
+
+Travelling, by bike, bus or plane, really wears me out. Looking forward to an
+early night and a quite sleep.
 
 wish list
 ---------
@@ -27,6 +37,10 @@ food
 ----
 
 - 1 earl grey tea
+- 2 poached eggs on toast
+- 1 peanut butter bagel
+- 1 ginger oat slice
+- 1 small flat white coffee
 
 10 Laws
 -------
@@ -62,8 +76,12 @@ schedule
 0910 arrive at airport
 0915 working from the airport cafe
 1000 standup
-…
 1430 flight to Queenstown
+1610 flight arrives
+1700 purchase harmonica
+1715 work from Ma Boulangerie
+1755 catch bus to rowan's place
+1825 bus arrives at rowan's place
 
 work
 ----
@@ -71,8 +89,12 @@ work
 standup: Andria, Rowan, Ruth, Shannon (5)
 
 - [x] feedback for Ruth on the "Delete Account" flow
-- [ ] fix up typescript errors on `Hasura: People Dashboard` branch
-- [ ] final review of Rowan's `Hasura: Client List` PR
+- [x] final review of Rowan's `Hasura: Client List` PR
+- [x] fix up typescript errors on `Hasura: People Dashboard` branch
+- [x] read Rowan's comments on https://github.com/Runn-Fast/runn/pull/5890
+- [ ] benchmark `Hasura: Project List` against a large account
+- [ ] merge `Hasura: Project List` into main
+- [ ] self-review changes in https://github.com/Runn-Fast/runn/pull/5985
 
 Movie Quotes Quiz
 -----------------
