@@ -28,7 +28,7 @@ todo
 
 - [x] purchase beecard
 - [x] register beecard @ https://beecard.co.nz/Registration/LoginInfo
-- [ ] read/reply to jacob
+- [x] read/reply to jacob
 - [ ] read/reply to jo
 - [ ] read/reply to david
 - [ ] check that automated payments have gone out
@@ -101,6 +101,8 @@ https://launchdarkly.com/blog/post-trajectory-reading-list/
 - "Unlearn" - Barry O'Reilly
 - "War and Peace and IT" - Mark Schwartz
 
+https://svpg.com/inspired-how-to-create-products-customers-love/
+
 food
 ----
 
@@ -108,3 +110,14 @@ food
 - 1 side of fries with tomato sauce
 
 - several cups of black tea with milk
+- 1 gingernut biscuit
+
+- 1 serving pasta with pomodoro sauce
+- 2 sliced white button mushrooms
+- 3 florets steamed broccoli
+- 1 royal gala apple
+
+- 4 white chocolate & craisin cookies
+
+- ⅓ jar peanut butter
+- ¾ bag dates

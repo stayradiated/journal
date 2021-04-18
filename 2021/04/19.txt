@@ -1,0 +1,53 @@
+Monday 19 Apr 2021
+==================
+
+Weather is not looking good for this weekend…
+Could take time off work and leave earlier?
+Or stay in Queenstown for a little longer (at a hostel) and leave later?
+
+Sunset is around 18:00, that gives me 5 hours of cycling time if I catch the
+noon Earnslaw. Plenty of time to travel 50km.
+
+schedule
+--------
+
+0705 wake up
+0730 out of bed
+0900 working from rowans
+1000 standup
+
+todo
+----
+
+- [x] reset pocket warmer
+- [ ] visit "NZ Post" and purchase postage box to ship excess stuff home
+- [ ] drop Brian Hammer off at Bikeaholic
+- [ ] return books to library
+- [ ] visit "Recycle Boutique"
+- [ ] visit "Walk in Wardrobe"
+- [ ] visit "Happiness House"
+- [ ] visit "Outside Sports"
+- [ ] visit "Torpedo 7"
+- [ ] visit "Mountain Warehouse"
+- [ ] visit "Kathmandu"
+- [ ] visit "Macpac"
+- [ ] purchase bike gloves with touch
+- [ ] purchase merino neck gaiter
+- [ ] purchase lightweight beanie
+- [ ] purchase first aid kit
+- [ ] purchase aquatabs (grab some from Rowan?)
+- [ ] purchase lighter
+- [ ] look for cheap footwear
+- [ ] look for Handlebar Dry Bag cradle
+
+work
+----
+
+Research & Development day at Runn.
+
+I would like to experiment with Feature Flags.
+
+- Could add a table to Hasura that we can query.
+- Able to toggle it on for different users.
+
+tables: features + features_users

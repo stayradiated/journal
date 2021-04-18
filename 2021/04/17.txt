@@ -1,0 +1,69 @@
+Saturday 17 Apr 2021
+====================
+
+Keen to go for a pre-lunch run around Queenstown this morning
+
+git
+---
+
+lots to learn from here:
+https://abhinavg.net/posts/tig-easy-fixup/
+
+TIL that you can reference a git commit by it's message with ':/message'
+
+mishguru
+--------
+
+1. make sure all local repos are up to date
+
+    » for d in */; do pushd $d; pwd; gfr; popd; done
+
+2. commit changes to resnapchat 
+
+starting docker android:
+
+» docker run --privileged -d -p 6080:6080 -p 5554:5554 -p 5555:5555 --name android-container budtmo/docker-android-x86-11.0
+» dapk get --arch arm -o /tmp/snapchat_10.72.5.0.apk --snapchat-version 10.72.5.0
+» adb install /tmp/snapchat_10.72.5.0.apk
+
+?. why are we getting 504 errors from polling lazoapi -- we should be able to
+avoid those.
+
+⇒ could be fiddleydpotatoes having an invalid password
+> Reason: Error: Could not decrypt password for fiddleydpotatos. Value: "qv8Pi0wqaDNqmDrtC2WsYg==". Error: Error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt
+
+but why is the cache upload not working? probably an API thing
+> Could not upload cache for *fullguru*! Error: Response code 504 (Gateway Time-out)
+
+docker-compose up -d mysql
+
+food
+----
+
+- 1 red capsicum
+- ⅔ broccoli
+- ½ tub hummus
+- 3 scoops smooth peanut butter (no added salt)
+- ½ bag of dates
+- 1 apple
+- 50g whittakers dark chocolate
+
+- 1 single shot espresso coffee
+
+- rest of the bag of dates :o
+- most of the jar of peanut butter :o
+
+- ½ packet of crackers
+- 1 tub of sundried tomato basil pesto
+- ⅓ broccoli
+- 2 white button mushrooms
+- ½ red capsicum
+- 1 apple
+
+todo
+----
+
+- [ ] post trip to instagram
+- [ ] donate 'A Biker's Tale' to Queenstown library
+- [x] find where rear red bike light is → tucked away in Jae's car
+- [ ] restock Sodium Bicarbonate bottle
