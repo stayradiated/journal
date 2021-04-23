@@ -1,0 +1,64 @@
+Friday 23 Apr 2021
+==================
+
+Taking today off work to cycle to Invercargill.
+
+Codecov got hacked! I found out because Wunderflats sent me an email warning
+that I had used Codecov.
+
+cycling
+-------
+
+Queenstown → Lumsden
+
+stopping at:
+
+- frankton, to check if Evo cycles have a bike mirror (out of stock)
+- kingston, margharita pizza (loaded with cheese) for lunch at the kingston flyer
+- garston, grabbing a belgium slice at The Bomb coffee cart
+
+distance: 115.64km
+moving time: 5:08:33
+elevation: 933m
+avg speed: 22.5km/h
+max speed: 56.5km/h
+
+Far more elevation gain than I had expected, I thought it was going to be more
+downhill! The first half of the ride was great, following the edge of Lake
+Wakitpu around the base of the Remarkables. The last hour was tough, it started
+it raining a little and the temperature had dropped quite a bit.
+
+I'm staying at the Lumsden Hotel -- it's $90 for a room, but it's clean, warm
+and I am not in the mood for camping this evening.
+
+For dinner I bought a scoop of chips from the local chippie and walked around
+Lumsden in the dark eating them out of the packet and dipping them in hummus.
+
+Right now, I'm siting in the bar at the hotel. I just finished a small glass of
+pilsner, which was only $4! Feeling quite tired, I think I'll call the family
+and then go to sleep.
+
+It's _only_ 80km to Invercargill tomorrow, but there is only decent hill to get
+over and the rest is smooth downhill, which should be a dream!
+
+Thinking of leaving around 9:30am again tomorrow, forecast is for some light
+showers in the afternoon, so I should be good. I'm not expecting much traffic
+either, I imagine most people are heading out of Invercargill instead of
+towards it!
+
+food
+----
+
+- 2x Almond & Vanilla OSM bars
+- 1x margharita pizza
+- 1x belgium slice
+- 1x slightly stale cookie (impulse purchase at Kingston Flyer)
+- 200g sundried tomato hummus
+- 1 scoop chips
+- 1 block kitkat
+- 1 small pilsner
+
+todo
+----
+
+- [ ] ask mum/james to restart my home media server

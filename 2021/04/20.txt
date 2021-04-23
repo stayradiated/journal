@@ -1,0 +1,90 @@
+Tuesday 20 Apr 2021
+===================
+
+Thinking about taking Friday off, zipping over to Lumsden via the Southern
+Scenic Route, making it to Invercargill by Monday.
+
+Hoping to get a call from the Bikeaholic guys to come pick up Brian.
+Probably going to have a pay a bunch.
+
+Weekly JP Services
+Tomorrow: every Wednesday after between 12:30 & 13:30
+St Johns Rooms, Douglas Street, Frankton
+
+schedule
+--------
+
+0705 awake
+0730 out of bed
+0900 working from rowans place
+1000 standup
+1200 walking into town
+1230 vegetable/hummus lunch
+1330 working from exchange cafe
+1520 pick up brian from bikeaholic
+1540 working from bathhouse cafe
+1640 cycling back up fernhill
+1710 working from rowans
+
+food
+----
+
+- 200g pumpkin hummus
+- 1 red capsicum
+- 1 orange capsicum
+- 1 carrot
+- 200g roasted unsalted peanuts and raisins
+- 50g whittakers fruit & nut bar
+- 1 espresso coffee
+- 1 slice carrot loaf
+- 1 apple
+- 1 portion pasta
+- 1 small red capsicum
+- 4 florets broccoli
+- 1 packet original tim tams
+
+work
+----
+
+standup: me, andria, rowan, shannon, priscilla
+
+- [x] Create PR for feature flags
+- [x] Removing the option to persist the Hasura JWT, this is "more secure" but
+  means we have to reques the JWT on every page load.
+- [ ] PR #6010 → experiment with duplicating CreateRoleForm
+
+todo
+----
+
+- [ ] ask Ro if he has some spare aquatabs I could use
+- [x] wash/dry my clothes this evening
+- [x] order front harness + dry bag from robo-kiwi (please ship soon!)
+- [x] visit NZ Post Office (closes 1800)
+- [x]   ↳ purchase postage box to ship excess stuff home
+- [x] visit Bikeaholic (closes at 1800)
+- [x]   ↳ wait for phone call (1330 - bike needs a new chain + cassette)
+- [x]   ↳ pick Brian up (and pay a lot of money)
+- [ ] visit op shops
+- [ ]   ↳ Recycle Boutique
+- [ ]   ↳ Walk in Wardrobe
+- [ ]   ↳ Happiness House
+- [ ] visit library
+- [ ]   ↳ return library book
+- [ ]   ↳ possibly donate "A Biker's Tale"
+
+bikeaholic invoice
+------------------
+
+2 * Cable End Ferrules                  $ 1.58
+1 * 135 or 90 deg (Brake Pipe and Boot) $ 5.95
+1 * XLC Brake Inner Cable               $ 7.90
+1 * XLC Brake Outer Cable               $ 8.90
+1 * SRAM PG820 Cassette                 $ 38.99
+1 * HG40 Chain 8SPD                     $ 22.99
+1 * Little Fix plus                     $119.00
+    ↳ Headset service
+    ↳ Wheel true and tension
+    ↳ Bolt check,
+    ↳ Drive train clean
+
+Total (including GST): $205.31

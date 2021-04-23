@@ -1,0 +1,71 @@
+Wednesday 21 Apr 2021
+=====================
+
+James has his restricted license test today (1015).
+
+Still planning to cycle out of Queenstown on Friday.
+Forecast says there might be a little rain, but nothing too serious.
+Storms are heading this way soon though… 
+If weather is really bad, I could stop at Kingston for the night, otherwise I
+would like to make it to Lumsden.  It will cost $90 for a bed at a fancy hotel.
+Or could stay at the campground, unless it's going to be cold _and_ wet?
+
+Might put off the kiwicoin withdrawal form until I get to Invercargill.
+https://www.cab.org.nz/location/cab-invercargill
+Invercargill: We have a free Justice of the Peace (JP) Service on Saturday
+morning 10am – 12 noon except at Easter Christmas and public holidays.
+
+work
+----
+
+- Hasura: Client Dashboard #5879 [ https://github.com/Runn-Fast/runn/pull/5879 ]
+- Hasura: People Dashboard #5985 [ https://github.com/Runn-Fast/runn/pull/5985 ]
+- Add createRole action to Hasura #6019 [ https://github.com/Runn-Fast/runn/pull/6019 ]
+
+schedule
+--------
+
+0705 wake up
+0735 out of bed
+0850 start work at rowans
+1000 dev weekly
+1100 design weekly
+1230 heading into town
+1320 working from the bathhouse cafe (its quite busy)
+1350 playing disc golf with Ro & Jae
+1520 working from vudu cafe
+1650 dropping off library books
+1700 cycling back to rowans place
+1930 dinner
+
+food
+----
+
+- 1 rooibos vanilla tea
+- 1 red capsicum
+- 2 carrots
+- 200g pumpkin hummus
+- 1 short black coffee
+- 200g roasted unsalted peanuts & raisins
+- 50g whittaker's fruit & nut chocolate bar
+- 1 hot chocolate with 2 marshmallows
+- 1½ veggie sausage
+- 2 slices bread with cheese and tomato sauce
+- 1 serving avocado
+- 7 florets steamed broccoli
+- 2 apple/cinnamon muffins
+
+todo
+----
+
+- [ ] ask Ro if he has some spare aquatabs I could use
+- [x] call family
+- [x] visit post office
+- [x]   ↳ ship parcel of stuff back to Rotorua ($4 no tracking)
+- [x] visit library (closes 1800)
+- [x]   ↳ return 99% Invisible City
+- [x]   ↳ donate "A Biker's Tale" → donated to lilliput library instead
+- [ ] visit op shops
+- [ ]   ↳ Recycle Boutique
+- [ ]   ↳ Walk in Wardrobe
+- [ ]   ↳ Happiness House

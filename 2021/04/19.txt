@@ -8,6 +8,9 @@ Or stay in Queenstown for a little longer (at a hostel) and leave later?
 Sunset is around 18:00, that gives me 5 hours of cycling time if I catch the
 noon Earnslaw. Plenty of time to travel 50km.
 
+My shoes are in the country, when they arrive at home I will need mum to
+forward them to the South Island. Or I could fly back to Rotorua?
+
 schedule
 --------
 
@@ -15,33 +18,59 @@ schedule
 0730 out of bed
 0900 working from rowans
 1000 standup
+1240 cycling into town
+1300 vegetable+hummus lunch at lake front
+1330 working from halo cafe
+
+food
+----
+
+- 1 orange capsicum
+- 1 red capsicum
+- 1 carrot
+- 200g chipotle & lime hummus
+- 1 packet of basic chocolate chip biscuits
+- 1 single shot espresso coffee
+- 1 "damned" pizza from Hell
 
 todo
 ----
 
 - [x] reset pocket warmer
-- [ ] visit "NZ Post" and purchase postage box to ship excess stuff home
-- [ ] drop Brian Hammer off at Bikeaholic
-- [ ] return books to library
+- [ ] visit NZ Post Office (closes 1800)
+- [ ]   ↳ purchase postage box to ship excess stuff home
+- [x] visit Kathmandu/Macpac (closes 1800)
+- [x]   ↳ purchase lighter (so I can make a campfire!)
+- [ ]   ↳ purchase lightweight beanie
+- [ ]   ↳ purchase first aid kit
+- [x] visit supermarket
+- [x]   ↳ restock toiletries bag
+- [x]     ↳ sunscreen
+- [x]     ↳ baking soda
+- [x]     ↳ toothpaste
+- [x]     ↳ floss
+- [x] visit Bikeaholic (closes at 1800)
+- [x]   ↳ drop Brian Hammer off for servicing tomorrow morning
+- [ ] visit library
+- [ ]   ↳ return library books
 - [ ] visit "Recycle Boutique"
 - [ ] visit "Walk in Wardrobe"
 - [ ] visit "Happiness House"
-- [ ] visit "Outside Sports"
-- [ ] visit "Torpedo 7"
-- [ ] visit "Mountain Warehouse"
-- [ ] visit "Kathmandu"
-- [ ] visit "Macpac"
-- [ ] purchase bike gloves with touch
-- [ ] purchase merino neck gaiter
-- [ ] purchase lightweight beanie
-- [ ] purchase first aid kit
-- [ ] purchase aquatabs (grab some from Rowan?)
-- [ ] purchase lighter
-- [ ] look for cheap footwear
-- [ ] look for Handlebar Dry Bag cradle
+- [x] visit "Outside Sports" → purchased icebreaker merino chute
+- [x] visit Torpedo 7 
+- [x]   ↳ puchased winter bike gloves
+- [x]   ↳ look at their Handlebar Dry Bag cradle 
+           - https://www.torpedo7.co.nz/products/BABGPN6HB ($189)
+           - https://www.torpedo7.co.nz/products/ABCRFNNAA ($129)
+- [x]   ↳ can chris get me a discount on T7 gear? → nope
+- [ ] visit Mountain Warehouse
+- [ ] ↳ purchase aquatabs (check if I can grab a couple off Ro first)
+- [/] look for cheap footwear (just wait for the Lems to arrive?)
 
 work
 ----
+
+standup: me, ruth
 
 Research & Development day at Runn.
 
@@ -51,3 +80,12 @@ I would like to experiment with Feature Flags.
 - Able to toggle it on for different users.
 
 tables: features + features_users
+
+This would be a Good thing to explore subscriptions with.
+
+https://hasura.io/docs/latest/graphql/core/databases/postgres/subscriptions/index.html
+
+> You can turn any query into a subscription by simply replacing query with
+> subscription as the operation type.
+
+- [ ] help priscilla with createRoleForm mutation + hasura

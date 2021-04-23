@@ -1,0 +1,65 @@
+Thursday 22 Apr 2021
+====================
+
+My new shoes are in town! But they delived them too early :(
+
+> Your item could not be delivered on April 22, 2021 at 8:01 am in NEW ZEALAND
+> due to a missed delivery. It is scheduled for another delivery attempt
+> tomorrow.
+
+Update: they delived them at 1:10pm!
+
+I would like to know how to edit bitmap fonts so I can add custom characters.
+
+interconnected
+--------------
+
+I love Matt's style of writing.
+
+> The analogy for me is that you have a swimming pool, the shape of which is
+> ingeniously and carefully constructed, such that when you throw in an object,
+> the ripples all bounce around and reflect off the edges and change in speed
+> given the depth, and all collide in such a way that the shape of the splash
+> spells a word in the air: the name of the object you threw in.
+
+from: https://interconnected.org/home/2021/04/20/computers
+
+watch later
+-----------
+
+https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
+schedule
+--------
+
+0655 wake up snooze
+0735 out of bed
+0830 start working from rowans
+1000 standup
+1230 walking into town
+1310 lunch at the water front
+1400 working from younder cafe
+1500 future works meeting
+1610 walking around queenstown
+1710 working from rowans
+
+todo
+----
+
+- [ ] ask Ro if he has some spare aquatabs I could use
+- [ ] get a spare CR2032 battery for the thermometer ($8.50 at 4-Square…)
+- [x] plan out tomorrows cycling adventure!
+- [x]   ↳ pick up snacks from supermarket for tomorrows trip
+- [x]      ↳ OSM bars
+- [ ]   ↳ could stop by the Kingston Flyer cafe tomorrow
+- [ ] call family → can they forward my shoes to Invercargill?
+
+work
+----
+
+- standup: me, rowan, nicole
+- updating the deploy-to-heroku-action script
+- adding missing env vars on heroku
+- got sidetracked and refactored permissions helper
+- [ ] People dashboard: https://github.com/Runn-Fast/runn/pull/5985
+- [ ] Roles list: https://github.com/Runn-Fast/runn/pull/6010
