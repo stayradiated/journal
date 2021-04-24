@@ -1,0 +1,136 @@
+Saturday 24 Apr 2021
+====================
+
+getting to uk
+-------------
+
+Jo is back in England on the 8th September.
+
+current rules:
+
+- flight from auckland to london (~26 hours)
+- quarantine for a week (5 days with "Test to Release")
+- tests on day 2, 5 and 8
+
+0 1 2 3 4 5 6
+m t w t f s s
+
+i.e. arrive in london on monday, test on wednesday, test on saturday, get
+negative test, leave.
+
+If I fly into London, I should probably quarantine in London.
+Lots of options on Airbnb. Could just get a 1 room apartment for 10 days.
+
+test to release: 
+https://www.gov.uk/uk-border-control/ending-self-isolation-early-through-test-to-release
+
+> If the test is negative you can stop self-isolating as soon as you get the result.
+
+One-way flight to london via singapore at @ $1.1k
+
+Prices more expensive in the next 30 days, but after that they stabilise.
+
+Singapore covid: https://www.gov.sg/features/covid-19
+
+** Essential information to enter the UK **
+
+> All persons arriving in the UK (unless exempt) must provide proof of a negative
+> Covid-19 test taken within three days of departure to the UK.
+>
+> Everyone must complete an online passenger locator form before arrival.
+> https://www.gov.uk/provide-journey-contact-details-before-travel-uk
+>
+> All arrivals must quarantine for 10 days unless exempt.
+>
+> If you have travelled through a red list country in the last 10 days, you
+> must have a valid managed quarantine facility booked prior to departure.
+>
+> Everyone is required to take a coronavirus test on days 2 and 8 of their
+> quarantine.
+> 
+> You must have this booked prior to departure.
+> https://www.gov.uk/uk-border-control/before-you-leave-for-the-uk
+>
+> Failure to comply with the above measures is a criminal offence and you could
+> be fined. For more information, https://www.gov.uk/uk-border-control
+
+Before you travel to the UK, you must:
+
+- book 2 coronavirus (COVID-19) tests for when you quarantine in the UK, unless your job means you’re exempt
+- provide your contact details by completing the online passenger locator form
+- provide proof of a negative coronavirus test before you leave for the UK
+
+If you’re travelling to England you must:
+
+- take 2 coronavirus tests when you quarantine in England, you’ll need to book
+  these before you travel
+- either quarantine in the place you’re staying or in a managed quarantine
+  hotel for 10 days when you arrive in England
+
+Travel Testing package: https://www.projectscreen.co.uk/travel-testing-package/
+
+> If there is no one in your household or bubble who can post the test for
+> processing, you may leave the premises to post your test. If you have to
+> leave the premises, please apply the guidance on the ‘How to travel to the
+> place where you’re quarantining’ section of this page.
+
+from: https://www.gov.uk/guidance/how-to-quarantine-when-you-arrive-in-england
+
+weather
+-------
+
+It would be fun to build a little weather app for the terminal.
+Metservice have a public API (see https://github.com/ZephireNZ/PyMetService/blob/master/pymetservice/__init__.py)
+
+food
+----
+
+- 1 em's "choc oat explosion cookie bar"
+- 1 serving lasagna with salad
+- 1 museli slice
+- 1 royal gala apple
+- 200g peanuts and raisins
+- 1 short black coffee
+- 175g mexicano corn chips
+- 125g "lite" sour cream 
+- 500g naked kitchen black bean chilli
+- 458ml ben & jerry's chocolate fudge brownie
+
+node v16
+--------
+
+Hell yeah for setTimeout returning a promise!
+
+    import { setTimeout } from 'timers/promises';
+    await setTimeout(5000); 
+
+rakiura
+-------
+
+weather: https://www.metservice.com/rural/regions/southland/locations/stewart-island/extended
+
+booking huts: https://bookings.doc.govt.nz/Saturn/Facilities/SearchViewGW.aspx?placeId=437
+
+ulva island ferry: https://www.stewartisland.co.nz/organisations/water-taxi/ulva-island-ferry/
+
+stewart island backpackers: https://www.stewartislandbackpackers.co.nz/
+
+sunday
+------
+
+weather:
+
+> Mostly cloudy. Showers, with hail possible, clearing evening. Northerlies
+> changing cool southwesterly.,
+
+anzac dawn server:
+
+> Dawn Service 7am, War Memorial, Dee Street.
+> Ex-service personnel to parade on Victoria Avenue at 6
+> Royal NZ Air Force to conduct a flypast at 7am in a P-3K2 Orion, en route to Mid Canterbury and Blenheim
+
+southern farmers market:
+
+> SUNDAYS 09:30 - 13:30
+> Ascot Park Racecourse
+

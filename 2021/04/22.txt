@@ -63,3 +63,23 @@ work
 - got sidetracked and refactored permissions helper
 - [ ] People dashboard: https://github.com/Runn-Fast/runn/pull/5985
 - [ ] Roles list: https://github.com/Runn-Fast/runn/pull/6010
+
+food
+----
+
+- 1 orange capsicum
+- ⅓  brococoli florets
+- 1 carrot
+- 200g spinach & feta hummus
+
+- 1 apple
+- 50g whittakers peppermint chocolate bar
+- 1 satsuma mandarin
+
+- 1 short black coffee
+- 1 date scone with butter and jam
+
+- ½ aloo ghobi curry
+- ½ serving rice
+- 1 samosa with sauce
+- ½ butter naan bread
