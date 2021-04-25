@@ -3,18 +3,45 @@ Sunday 25 Apr 2021
 
 This morning in Invercargill: the ANZAC day dawn service.
 Lots of people, lots of rain.
-
 Wearing my jeans, shoes and red raincoat.
-
 WW1-era canon was used.
+Old man having technical difficulties with the loudspeaker, warning us that at
+6:59am the cannon would fire and we should block our ears for health and
+safety. Keeps talking, suddenly cannon goes off when no one expected it to, it
+was 6:59am. Canon goes off again at 7am, again no when knew to expect it.
+Standing in the rain for 40 minutes. Canon goes off 4 more times, no warning
+each time.
 
-Feeling hungry.
-The Auction House case is open today (but not tomorrow).
-
+Feeling hungry.  The Auction House case is open today (but not tomorrow).
 Thinking about walking over there and grabbing a morning coffee.
+Updated: I did just that.
 
 Southern Farmers Market is from 1300 - 1700 today.
 Might be a good place to get lunch.
+
+jo ♥
+----
+
+Just as I was about to leave The Auction House I got a call from Jo. It was
+nearly 1am in the UK and I figured she had pocket-dialed me. The call didn't
+connect properly, so I started to write out a message asking if the call was
+intentional, when I received a message from her:
+
+> Sorry, just thought I'd call on the off chance you weren't busy doing
+> something cool to congratulate you on your arrival to Invercargill
+
+I called Jo over video and we chatted while I walked around the cold windy
+streets of Invercargill. The internet here is surprisingly awful and the
+connection kept dropping out. Jo had a good day out teaching two students how
+to sail, it was remarkably wavy - one student suffered sea-sickness - but they
+both enjoyed it and will be back tomorrow for part 2. This week she is heading
+off to sail around the UK on Pelican.
+
+cacoa powder
+------------
+
+Picked up a 250g packet of "Cacao Powder" -- seems like a better version of the
+cocoa powder that I've been enjoying -- similar taste but with more nutrients.
 
 schedule
 --------
@@ -22,8 +49,33 @@ schedule
 0630 wake up
 0650 invercargill dawn service
 0740 back at the hostel (with damp jeans/shoes)
-…
+0930 coffee at the auction house cafe
+1135 calling jo
+1300 shopping at pak'n'save
+
 1300,1500 southern farmers market
+
+food
+----
+
+- 1 short black espresso coffee
+
+todo
+----
+
+- should keep on improving the sentinel/autologin code for mish.
+- all the shops I want to visit are closed today.
+
+- [x] strava: queenstown → lumsden travel notes
+- [ ] strava: lumsden → invercargill travel notes
+  
+shops
+-----
+
+- [ ] H&J Outdoor Store
+- [ ] Southern Adventure
+- [ ] Wensley's Cycles
+- [ ] The Garage Re-Use Shop (https://www.facebook.com/TheGarageReUseShop/)
 
 clothing
 --------
@@ -39,14 +91,6 @@ clothing
   * ↳ prana zion/brion pants → $163.70
     + complaints about how baggy they are around the ankle, tailor recommended
 - when is swanndri a good choice? → when you want to look like a trendy farmer
-
-shops
------
-
-- [ ] H&J Outdoor Store
-- [ ] Southern Adventure
-- [ ] Wensley's Cycles
-- [ ] The Garage Re-Use Shop
 
 swanndri
 --------
@@ -74,4 +118,3 @@ montane terra pants
 > maneuverability. 
 
 > Whatever, you do, make sure to get them in black, all black.
-
