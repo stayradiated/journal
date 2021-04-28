@@ -18,6 +18,7 @@ Updated: I did just that.
 
 Southern Farmers Market is from 1300 - 1700 today.
 Might be a good place to get lunch.
+Updated: it's hailing outside, not a great day for cycling!
 
 jo ♥
 ----
@@ -37,6 +38,15 @@ to sail, it was remarkably wavy - one student suffered sea-sickness - but they
 both enjoyed it and will be back tomorrow for part 2. This week she is heading
 off to sail around the UK on Pelican.
 
+I should tell Jo about my plan to book a flight to London for September.
+
+music
+-----
+
+"When the world is running down, you make the best of what's still around"
+
+https://en.wikipedia.org/wiki/When_the_World_Is_Running_Down,_You_Make_the_Best_of_What%27s_Still_Around
+
 cacoa powder
 ------------
 
@@ -52,13 +62,19 @@ schedule
 0930 coffee at the auction house cafe
 1135 calling jo
 1300 shopping at pak'n'save
-
 1300,1500 southern farmers market
 
 food
 ----
 
 - 1 short black espresso coffee
+- 1 falafel kebab
+- 1 bag dates
+- ½ jar unsalted peanut button
+- 1 carrot
+- ½ head broccoli
+- ½ tub spinach and feta hummus
+- 2 apples
 
 todo
 ----
@@ -67,7 +83,7 @@ todo
 - all the shops I want to visit are closed today.
 
 - [x] strava: queenstown → lumsden travel notes
-- [ ] strava: lumsden → invercargill travel notes
+- [x] strava: lumsden → invercargill travel notes
   
 shops
 -----
@@ -118,3 +134,20 @@ montane terra pants
 > maneuverability. 
 
 > Whatever, you do, make sure to get them in black, all black.
+
+sentinel
+--------
+
+why is the android emulator not have a wifi network when you first start up?
+
+hikes
+-----
+
+Both the routebourn and the kepler sound amazing.
+
+tomorrow
+--------
+
+Weather looks pretty shite.
+Could work tomorrow, pocket the leave and take friday off again?
+Or work on mishguru tomorrow? I need to sort out the caching issue.

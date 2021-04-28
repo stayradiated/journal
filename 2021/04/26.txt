@@ -1,0 +1,81 @@
+Monday 26 Apr 2021
+==================
+
+Am I working today? Who knows.
+
+The Auction House is closed today, but Toasted is open. I think I would like to
+try one of their bagels.
+
+I have ordered a "razor comb" -- this is the analogue beard trimmer I have been
+looking for -- a comb combined with a DE razor blade. Lightweight, don't even
+need to charge it.
+
+rakiura
+--------
+
+- [ ] Walker’s wool? → try out the shoes first
+- [ ] packable day pack? → could just hike with my aer backpack
+
+- Need to wait for shoes to arrive, if they are shipped on tuesday they might
+  not arrive until saturday! I will need to play it by ear.
+
+wish list
+---------
+
+- tortuga setout packable day pack (as recommended by neverendingvoyage)
+  ↳ I don't really need this - my kånken is already a great daypack
+- usb chargeable beard trimmer
+
+schedule
+--------
+
+0700 out of bed
+0915 working from toasted cafe
+1115 having a bagel for lunch
+1230 walking over to H&J's outdoor store
+1330 working from the batch cafe
+1515 working from the mooch cafe
+1600 mooch closes
+1630 shopping at pak'n'save
+1730 dinner at the hostel
+2130 bed time
+
+work
+----
+
+- [x] continuing to refactor the permissons model, finding more circular dependencies.
+  ↳ looks like the way we do assignment phase colors is messed up
+  ↳ lets create yet another PR for this…
+- [x] Get #5985 (people dashboard) ready for review
+- [x] post notes about https://github.com/Runn-Fast/runn/issues/5815 to #design
+- [ ] look at adding a read-only user to hasura
+
+todo
+----
+
+- [ ] book dentist checkup appointment (it's been over 2 years…)
+  ↳ http://johnharrisdental.co.nz
+
+food
+----
+
+toasted cafe:
+- 1 short black coffee
+- 1 bagel with cream cheese and 2 fried eggs
+- 1 large lemon poppy muffin
+
+batch cafe:
+- 1 chai latte
+
+mooch cafe:
+- 1 large choc chip cookie
+
+dinner:
+- ½ pack of brown rice crackers
+- 60g camembert cheese
+- ¾ pack of pitted olives
+- 1 carrot
+- ½ head broccoli
+- ½ tub spinach & feta hummus
+- ¼ jar of peanut butter
+- ⅞ pack of dried apricots

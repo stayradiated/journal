@@ -1,0 +1,229 @@
+Wednesday 28 Apr 2021
+=====================
+
+☁️☁️☁️☁️ 
+Mostly cloudy. A few showers. Westerlies, fresh during the morning and afternoon.
+
+openai
+------
+
+I now have access to the OpenAI beta -- I should try it out.
+https://beta.openai.com
+
+parcels
+-------
+
+- [x] lems primal shoes (delivered today!)
+- [ ] robokiwi handlebar bag (will arrive tomorrow!)
+- [ ] razor comb (currently in shenzen!)
+
+rakiura
+-------
+
+As soon as my shoes arrive, I can fly over to Rakiura…
+I guess they will arrive on Thursday (tomorrow).
+I think I might fly over on Friday?
+
+Stewart Island Backpackers is fully booked for Thursday night! I could stay in
+a tent that evening? "Full use of Backpackers facilities included." Would get
+to have a shower! Also leave my gear there. ($23)
+
+thursday: fly to Rakiura @ 5pm -- sleep in tent at the stewart island backpackers
+friday:   hike to Port William Hut
+saturday: hike to North Arm hut
+sunday:   hike to Oban
+
+Booking for DOC huts:
+
+> Your booking is confirmed. Your confirmation number is 184117.
+> Your transaction number is 111817073909.
+> Your booking confirmation and tax invoice have been sent to the email associated with your account. 
+
+Unit: Rakiura Track - Port William Hut - Great Walk Bunk
+Stay: Fri 30/04/21 - Sat 01/05/21 (1 night)
+Comments: Web Bookings
+  	
+NZ Adult Fee - Great Walk Bunk 30/04/21 12:00 PM - 01/05/21 12:59 PM
+Unit Price: $24.00 , Qty: 1 , Total: $24.00
+
+Cart Entry Image
+
+	
+Unit: Rakiura Track - North Arm Hut - Great Walk Bunk
+Stay: Sat 01/05/21 - Sun 02/05/21 (1 night)
+Comments: Web Bookings
+  	
+NZ Adult Fee - Great Walk Bunk 01/05/21 12:00 PM - 02/05/21 12:59 PM
+Unit Price: $22.00 , Qty: 1 , Total: $22.00
+
+Just booked my flight to Rakiura!
+It leaves tomorrow afternoon at 2pm from the Invercargill airport.
+
+> IVC → SZS
+> 14:00 29 Apr | 20 minutes
+> Check-in closes 13:30
+>
+> Booking ref: 2988B19B
+>
+> CARRY ON LUGGAGE: One small carry-on item may be taken on board i.e Handbag,
+> Day bag or laptop bag
+> 
+> CHECKED LUGGAGE: All fare paying customers have a 15kg baggage limit which
+> must be checked-in 30mins prior to departure
+
+Where am I going to leave my bike? Could ask the Southern Comfort BBH if it
+would be ok to leave my bike there for a week.
+
+Update: shoes just arrived this morning! PostHaste overnight isn't joking!
+
+> If you were looking to do a multi-day hike and weren't sure about tackling a
+> mountain or extremely long trail, then the Rakiura is a good one to go for.
+> It's neither too long or too steep if done over three days.
+
+day 1:
+undulating walk, with small climbs and descents
+8.86km ∙ 331m ∙ easy
+
+day 2:
+steep start and two steepish hills to climb, otherwise flat.
+one section of mud to walk through. the hardest day.
+13.98km ∙ 650m ∙ moderate
+
+day 3:
+undulating walk, but mainly flat. one patch of mud to walk through.
+11.32km ∙ 400m ∙ easy
+
+I will need to figure out if I have everything I need for a 3 day hike. I am
+planning to take my aer backpack. How well does my sleeping bag fit in that? I
+have the rain cover, which is very handy.
+
+- [x] backpack
+- [x] sleeping bag
+- [x] drink bottle (YHA + platypus)
+- [x] firestarter
+- [x] ear plugs
+- [x] toiletries
+- [x] torch
+- [x] rubbish bag
+
+- [x] bag liner (the bin bag i have is ripped)
+- [x] first aid kit
+- [ ] survival kit
+      ↳ [x] survival blanket
+      ↳ [ ] whistle
+      ↳ [ ] paper + pencil
+      ↳ [ ] highenergy snack food
+- [ ] toilet paper
+- [ ] hikers wool
+
+I can purchase food from the 4-Square at Oban.
+> Bring food that is lightweight, fast cooking and high in energy value
+
+Great resource for packing:
+https://www.walkmyworld.com/posts/great-walks-new-zealand-packing-list
+
+There really isn't too much walking…
+
+- friday (half day) [ 2hrs walking ]
+- saturday (whole day) [ 3hrs walking ]
+- sunday (half day) [ 3hrs walking ]
+
+sunrise: 0742
+sunset:  1747
+
+wish list
+---------
+
+- injinji toe socks (recommended by Johann) (https://www.injinji.com/)
+
+first aid kit
+-------------
+
+- pharmacy has a first-aid kit
+- compare to the one at H&J outdoor store (runner/mtb)
+
+reading list
+------------
+
+- [.] https://waitbutwhy.com/2021/04/lanby.html
+
+schedule
+--------
+
+0705 out of bed
+1000 dev meeting
+1030 shoes arrive!
+1115 working from the cheeky llama cafe
+1300 lunch at pita pit
+1400 working from mooch cafe
+1530 cycling out to the estuary
+1720 working from technofix
+
+work
+----
+
+- [.] PR #6009 → add rate card update mutation as a Hasura action
+- [ ] update contracts_end_date fn to be now & 5 years
+      ↳ also add contract.permanent (https://github.com/Runn-Fast/runn/pull/5985#issuecomment-827305154)
+- [ ] look at adding a read-only user to hasura
+- [x] querying account users via hasura
+
+Getting that error on Hasura with `getent`
+
+2021-04-28T00:18:39 startup: installing cli-ext plugin
+2021-04-28T00:18:39 preparing execution context failed: setting up global config failed: cannot get home directory: exec: "getent": executable file not found in $PATH
+
+Could be related to the cli-ext plugin?
+
+https://github.com/hasura/cli-plugins-index/blob/master/plugins/cli-ext/v1.3.3/manifest.yaml
+Maybe we could bundle this within the docker image?
+
+todo
+----
+
+- [x] book flight to rakiura ($130)
+- [x] book accomodation for thursday night ($23)
+- [x] grab lunch from pita pit
+- [x] visit H&J Smith Outdoor store
+- [x] ↳ purchase first aid kit ($40, worth it for the peace of mind)
+- [x] visit pak'n'save
+      ↳ purchase large bin bag as pack liner.
+      ↳ purchase wet wipes
+- [x] how am I getting to the airport?
+      → 45 minute walk
+- [x] visit technofix or phone zone
+      ↳ can they replace a battery in an iPhone SE?
+      ↳ yes they can! Cost $125
+
+subway
+------
+
+> Enjoy a FREE cookie on us.
+> Write the offer code the top or bottom of your receipt
+
+Offer Code: 8-54402-0-0427-1219
+Expires on: 5/2/2021
+
+purchases
+---------
+
+- $130  :: flight to rakiura
+- $127  :: montane terra pants (black)
+- $36   :: bridgedale merino hiking socks
+- $42   :: 2x DOC huts on rakiura
+- $4.00 :: long black at the cheeky llama
+- $9.84 :: vegetables for dinner from pak'n'save
+
+food
+----
+
+- 1 pita pit
+- 1 long black coffee
+- 1 carrot
+- 1 courgette
+- 2 white button mushrooms
+- ½ head of broccoli
+- ½ large tub hummus
+- ½ pack of brown rice crackers
+- 1 apple
+- handful of dates

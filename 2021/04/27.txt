@@ -1,0 +1,81 @@
+Tuesday 27 Apr 2021
+===================
+
+> Cloudy. Occasional showers, but less likely from afternoon. Fresh
+> southwesterlies, turning northwest by evening.
+
+Washing/drying my clothes this morning. Cost $9, but worth it to have clean
+underwear. I am thinking about switching to merino underwear, but not being
+able to tumble dry it seems like a big disadvantage? I guess merino dries a lot
+quicker than cotton.
+
+Icebreaker also wants $60 for a single pair! Thunderpants are another option,
+I've tried them in the past but I should have gone a size or two larger.
+
+The socks I bought at the merino outlet store in Christchurch have been
+fantastic, next time I am in christchurch I will have another look in there.
+
+Need to save away nearly $4k to pay my taxes! I've set up a new "Long Term"
+account in TSB so I slowly pay that back without having to change my investment
+strategy.
+
+Found a learners drivers license and kiwibank visa card on the footpath. I
+picked it up and handed it into the local police station.
+
+shoes
+-----
+
+Mum is posting my shoes and Jo's letter down to me today, fingers crossed it
+turns up before the weekend!
+
+Tracking number is not clear: possibly ANBY0002666?
+
+schedule
+--------
+
+0830 washing clothes
+0900 drying clothes
+0940 finish drying clothes
+1000 standup
+1030 working from industry cafe
+1215 subway for lunch in the park
+1245 working from black shag cafe
+
+mothers day
+-----------
+
+9th May 2021
+
+I will still be in Te Waipounamu then, so I should organize a gift to be
+delivered.
+
+school holidays
+---------------
+
+Children are back to school on Monday 3 May, so Rakiura won't be as busy then.
+
+work
+----
+
+- [x] I can unblock the "Hasura: Person Dashboard" PR by separating it from the
+  "simplify permissions" refactor. This would be desirable.
+- [x] PR #6029 → fix merge conflicts
+- [x] merge #5985 (people hasura dashboard)
+- [x] merge #6035 (lint-staging fix)
+- [x] merge #6033 (assignment/phases color helpers)
+- [.] PR #6009 → add rate card update mutation as a Hasura action
+- [ ] look at adding a read-only user to hasura
+- [ ] tomorrow: update contracts_end_date fn to be now + 5 years.
+- [ ] tomorrow: add contract.permanent (https://github.com/Runn-Fast/runn/pull/5985#issuecomment-827305154)
+
+food
+----
+
+industry cafe:
+
+- 1 short black espresso coffee
+- 1 footlong subway: rye/falafel/smoked cheese/all salads/mayo/s&p 
+- 1 apple
+- 7 dried apricots (I ate waaay too many yesterday…)
+- 1 fancy tea "crimson no. 5"
+- 1 coffee slice
