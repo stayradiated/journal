@@ -158,15 +158,21 @@ schedule
 1400 working from mooch cafe
 1530 cycling out to the estuary
 1720 working from technofix
+1730 pick up repaired iphone
+1740 dinner at southern comfort
+1900 video chat with jo :)
+2000 video with with parents
+2130 bed time
 
 work
 ----
 
-- [.] PR #6009 → add rate card update mutation as a Hasura action
+- [ ] PR #6009 → add rate card update mutation as a Hasura action
 - [ ] update contracts_end_date fn to be now & 5 years
       ↳ also add contract.permanent (https://github.com/Runn-Fast/runn/pull/5985#issuecomment-827305154)
 - [ ] look at adding a read-only user to hasura
 - [x] querying account users via hasura
+- [.] fix issue issue with Hasura not running on heroku
 
 Getting that error on Hasura with `getent`
 
@@ -207,18 +213,20 @@ Expires on: 5/2/2021
 purchases
 ---------
 
-- $130  :: flight to rakiura
-- $127  :: montane terra pants (black)
-- $36   :: bridgedale merino hiking socks
-- $42   :: 2x DOC huts on rakiura
-- $4.00 :: long black at the cheeky llama
-- $9.84 :: vegetables for dinner from pak'n'save
+- $130.00  :: flight to rakiura
+- $127.00  :: montane terra pants (black)
+- $125.00  :: new screen and battery for old iphone SE 
+- $36.00   :: bridgedale merino hiking socks
+- $42.00   :: 2x DOC huts on rakiura
+- $4.00    :: long black at the cheeky llama
+- $9.84    :: vegetables for dinner from pak'n'save
 
 food
 ----
 
-- 1 pita pit
+- 1 regular pita pit (falafel/all salads/hummus/s&p)
 - 1 long black coffee
+- 1 large chocolate oat cookie
 - 1 carrot
 - 1 courgette
 - 2 white button mushrooms

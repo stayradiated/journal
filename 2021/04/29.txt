@@ -1,44 +1,154 @@
 Thursday 29 Apr 2021
 =====================
 
+🌧️🌧️🌧️🌧️
+A mostly cloudy day with occasional drizzle, more persistent from evening.
+Westerlies, fresh at times.
+
+travels
+-------
+
+I'm on Rakiura (Stewart Island)! It's raining and I'm sleeping in my tent
+tonight. Great time to learn how to set up a tent in the rain!
+
+Update: I checked into the Stewart Island Backpackers and thank heavens they
+have a spare bed for me inside! No camping in the rain for this boy!  I still
+have my tent though, so maybe I'll do some camping next week if it's drier?
+I'm sharing the room with two women.
+
+tomorrow
+--------
+
+I am not working tomorrow.
+I will be walking to Port William hut.
+If I walk from here to Lee Bay (instead of getting a taxi) it will be 13.0km
+and take around 3 hours. So plenty of time.
+
+I could check-out of here tomorrow morning at 10am, walk to the hut and be there by 1pm!
+So it's really not a long walk. I plan to take it easy and take lots of photos.
+
+I will not be taking my laptop with me. But I will have my phone which I can
+take notes on.
+
+I haven't got too much to do tomorrow morning.
+It's mainly just a matter of how much food I can fit in my bag. I will likely
+need to chop up the broccoli and capsicum into small chunks.
+
+I'm pretty confident this is going to be a great weekend.
+
+Is there anything I can do this evening to help prepare? I can't think of
+anything.
+
+Forecast
+--------
+
+metvuw looks very promising, not a drop of rain until Monday!
+
+Friday: (14/8°c) Period of morning rain, then isolated showers and increasing
+fine breaks. Fresh southwesterlies, strong at times about the coast and Stewart
+Island, easing in the evening.
+
+Saturday: (14/10°c) Areas of morning cloud, then fine, but remaining partly
+cloudy about the coast. Westerlies, becoming strong about the coast and Stewart
+Island in the evening.
+
+Sunday: (16/11°c) Mostly cloudy. A few showers about the coast and Stewart
+Island, clearing later. Brisk westerlies easing late.
+
+
 todo
 ----
 
-- [ ] check-out of southern comfort bbh
-- [ ] get to airport
-- [ ] fly to stewart island
-- [ ] check-in to stewart island backpackers
+- [x] transfer euros from n26 to wise
+- [x] check-out of southern comfort bbh
+- [x] drop off shoebox at nz post, send to rotorua, untracked ($9)
+- [x] eat lunch → mevlana kebab
+- [x] walk to airport
+- [x] fly to stewart island
+- [x] check-in to stewart island backpackers
+- [ ] call dad, organise prezzie for mothers day (possibly slippers?)
 
 schedule
 --------
 
+0705 out of bed
+0950 start working
 1000 daily standup
 1100 future work meeting
-1230 walk to airport
-1320 arrive at airport
-1330 check-in to flight
+1200 shopping at pak'n'save
+1220 walk to airport
+1305 arrive at airport
+1315 check-in to flight
 1400 flight to rakiura
 1420 arrive at rakiura
+1440 working from "just cafe"
+1520 check-in to backpackers
+1530 working from backpackers
+1730 trip to the supermarket
+1800 ordering a ½ scoop of chips
+1830 dinner
+1900 sitting in the kitchen
 
-budget
-------
+expenses
+--------
 
-- $64 :: rent owed to southern comfort bbh
-- $23 :: thursday night at stewart island backpackers
-
-todo
-----
-
-- [ ] call dad, organise prezzie for mothers day (thinking a comfy pair of
-  slippers?)
+- $16.00 :: muzver & falafel kebab @ mevlana kebab
+- $16.72 :: supermarket shopping @ pak'n'save
+- $39.00 :: 1 night at the stewart island backpackers
+- $4.00  :: ½ scoop of chips @ kai kart
+- $45.95 :: supermarket shopping @ 4 square
+- $5.00  :: coffee @ just cafe
+- $64.00 :: 2 extra nights at southern comfort bbh
+- $9.50  :: postage for shoes @ paper plus
+= $200.17
 
 food shop
 ---------
 
-- [ ] pack of nuts
-- [ ] 6x protein bars
-- [ ] 500g hummus
-- [ ] 200g dates
-- [ ] pack of bliss balls
+- [x] pack of nuts
+- [x] pack of bliss balls
+- [x] packets of tuna
 
 Can purchase vegetables at 4-square on stewart island.
+
+- [x] 6x protein bars → they didn't have OSM bars!
+- [x] 2x 200g hummus
+
+work
+----
+
+- [x] fix issue issue with Hasura not running on heroku
+- [x] investigate regeneratoRuntime issue
+- [ ] PR #6009 → add rate card update mutation as a Hasura action
+- [ ] update contracts_end_date fn to be now & 5 years
+      ↳ also add contract.permanent (https://github.com/Runn-Fast/runn/pull/5985#issuecomment-827305154)
+- [ ] look at adding a read-only user to hasura
+
+Giving a demo to the team about how to set up a mutation action with Hasura.
+
+You could write a blog post about this…
+
+For example: how to create a note.
+Easy, could show how to implement custom logic.
+Add caveat that this is something we could also do with Hasura actions.
+
+1. create endpoint in ruby
+2. create action in hasura
+3. test action.
+
+food
+----
+
+lunch:
+↳ 1 large falafel & muzver kebab (delicious)
+↳ 1 apple
+↳ 1 subway cookie (white choc & macadamia)
+↳ ¼ pack of dates
+ 
+dinner:
+↳ ½ scoop of chips
+↳ 200g of hummus
+↳ ½ pack of brown rice crackers
+↳ 100g camembert cheese
+↳ 1 apple
+↳ ¼ pack of dates
