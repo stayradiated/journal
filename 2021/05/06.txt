@@ -1,4 +1,4 @@
-Thursday 06 May 2021
+Thursday 07 May 2021
 ====================
 
 invercargill
@@ -13,6 +13,28 @@ travel
 Friday & Saturday are looking like good cycling days.
 Looking a bit wet on Sunday.
 
+Johann went from Invercargil:
+→ Curio Bay (80km)
+→ Kaka Point (88km)
+→ Lawrence (73km)
+
+I think I will aim to get to Curio Bay tomorrow.
+
+There are no shops out there, so I should grab some food at the supermarket
+tomorrow morning.
+
+Can stop at Fortrose Cafe (9am - 4pm)
+There is a restaurant/cafe at Curio Bay campground as well.
+
+Saturday: there is the Niagara Falls cafe
+
+grocery shopping:
+
+- [x] anti septic cream (is this in my first aid kit? → no)
+- [x] CR2032 battery
+- [/] Pack of OSM bars → pak'n'save doesn't have them, remember?
+- [x] Unsalted Nuts + M&M's
+
 todo
 ----
 
@@ -22,8 +44,8 @@ todo
       ↳ ModernMens Barber, near Batch cafe
 - [x] charge all my bike lights + batteries
 - [x] visit gift store, look for invercargill patch → no luck
-- [ ] visit postie plus → ship discs to Rowan → 54b wynward crescent, fernhill
-- [ ] pick up a CR2032 battery for the thermometer
+- [/] visit postie plus → ship discs to Rowan → 54b wynward crescent, fernhill
+- [x] pick up a CR2032 battery for the thermometer
 
 retrospective
 -------------
@@ -57,3 +79,24 @@ youtube
 
 Started watching Lex Fridman interview David Fravor last night:
 https://www.youtube.com/watch?v=aB8zcAttP1E&t=48m33s
+
+food
+----
+
+- 1 espresso coffee
+
+lunch:
+- 1 toasted "veged out" bagel 
+- 1 subway choc-chip cookie
+- most of pack of dates
+- ¼ jar of peanut butter
+- 1 apple
+
+dinner:
+- ½ head of broccoli
+- 4 small white button mushrooms
+- 1 carrot
+- 1 small capsicum
+- ½ large tub of hummus
+- 1 apple
+- more peanut butter
