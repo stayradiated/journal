@@ -1,0 +1,92 @@
+Tuesday 04 May 2021
+===================
+
+jo :)
+-----
+
+Catching up with Jo this morning. She is onboard Pelican (has a whole cabin to
+herself!), she will be in Bristol harbour for at least another week before they
+set sail.
+
+stewart island
+--------------
+
+> Rain about Stewart Island, spreading to the mainland this morning, with heavy
+> falls possible, clearing in the evening. Strong northwesterlies, gale about
+> Stewart Island, briefly turning lighter southwest in the afternoon.
+
+pool
+----
+
+There is a pool table in the lounge at the backpackers.
+Lucas & Claire are playing a game together.
+They have a house rule: when someone is shooting to hit the black 8 ball, they
+must look directly at their opponents eyes when they strike.
+
+travel
+------
+
+- working from stewart island backpackers
+- ferry to bluff
+- find that Claire's car has been broken into!
+- driving to invercargil
+- checking into southern comfort for 3 nights
+
+plans
+-----
+
+Looking at cycling to dunedin this weekend.
+Start on Friday.
+
+schedule
+--------
+
+0615 out of bed
+0700 chatting with jo :)
+0850 working from the backpackers
+1000 standup
+…
+1430 check-in to ferry
+1500 ferry
+
+work
+----
+
+chores:
+
+- [.] Finish RateCard List Container PR (https://github.com/Runn-Fast/runn/pull/6009)
+- [ ] ↳ fix cypress tests
+
+goals:
+
+- [ ] write a technical blog post: "getting started with the Runn API"
+- [ ] watch the frontend masters course on web assembly
+
+todo
+----
+
+- [x] Book stewart island ferry over to bluff for 3pm ($79)
+- [x] Book accomodation at Southern Comfort backpackers for this week ($96)
+- [ ] Book leave off work for Friday
+
+food
+----
+
+lunch:
+- 3 poached eggs
+- 3 crupmets
+- 1 tomato
+- 6 toffee pops
+- 2 apples
+
+dinner:
+- 1 packet naked kitchen mexican chilli
+- small tub of lite sour cream
+- 1 packet of mexicano corn chips "tasty cheese"
+- 1 block of whittakers rum & raisin chocolate
+
+razor comb
+----------
+
+My razor comb was waiting for me at the Southern Comfort backpackers when I
+arrived this evening.

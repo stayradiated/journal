@@ -1,0 +1,90 @@
+Wednesday 05 May 2021
+=====================
+
+invercargil
+------------
+
+> Fine. Westerlies, fresh this afternoon.
+
+Working from the Black Shag cafe this morning.
+It's a lovely cafe, but quite noisy out the front: cars & construction.
+
+schedule
+--------
+
+0536 out of bed
+0600 editing/publish daily videos from mid april
+0745 chatting with jo, playing board games
+0950 working from the black shag cafe
+1100 design meeting
+1330 subway for lunch in the park
+1340 working from the batch cafe
+1500 dev meeting
+1545 purchase disc golf disc from rebel sports
+1615 practicing disc golf in the park
+
+todo
+----
+
+- [x] order mum a pair of AllBirds Skippers shoes (+2 pair of socks) ($208)
+- [x] Book leave off work for Friday
+- [x] visit rebel sport shop, puchase disc ($20)
+- [ ] return kea disc, do they have a piwakwaka?
+
+wish list
+---------
+
+A dual USB Wall Charger [[https://www.noelleeming.co.nz/shop/computers-tablets/accessories/cables-chargers-and-adapters/moyork-watt-dual-30w-2-4a-qc-wall-charger-textured-stone/prod187691.html]]
+
+work
+----
+
+- [x] Finish RateCard List Container PR (https://github.com/Runn-Fast/runn/pull/6009)
+- [.] Start People List Migration (https://github.com/Runn-Fast/runn/issues/5878)
+
+goals:
+
+- [ ] write a technical blog post: "getting started with the Runn API"
+- [ ] watch the frontend masters course on web assembly
+
+design meeting:
+
+- discussion of weekends → how do we handle multi-week assingnments without
+  splitting them between weekends?
+
+razor comb
+----------
+
+I tried out my razor comb this morning. It's not particularly high quality, but
+it cuts well enough. I would like to try it with decent Feather blades. It
+seems like it will be decent for keeping my beard from being too scruffy,
+though I'm not sure how good it will be for my lower neck.  It's certainly
+ultra-light and doesn't take up much space in bag, so it's great for travel.
+
+travel
+------
+
+Could cycle to Curio Bay this Friday? How crazy would that be?
+
+I've attached the Robo-Kiwi handlebar bag to my bag. It was a little trickier
+than I expected to attach, but it's quite secure. I hope the front brake cable
+won't be in the way. I will try putting carrying some gear in it tomorrow. Not
+quite sure what I'll put in the front bag.
+
+food
+----
+
+- 1 espresso coffee
+- 1 cheese scone
+- 1 subway (footlong/rye/falafel/smoked cheese/all salads/sweet onion sauce/s&p)
+- 1 date and orange scone
+
+- ½ broccoli
+- 1 carrot
+- 4 white button mushrooms
+- 200g hummus
+- 1 small capsicum
+- 1 apple
+- a few dates
+- some peanut butter
+- 125g whittakers chocolate

@@ -1,0 +1,59 @@
+Thursday 06 May 2021
+====================
+
+invercargill
+------------
+
+> Becoming cloudy during the morning. A few showers, clearing at night.
+> Westerlies dying out in the afternoon.
+
+travel
+------
+
+Friday & Saturday are looking like good cycling days.
+Looking a bit wet on Sunday.
+
+todo
+----
+
+- [x] return kea disc, do they have a piwakwaka?
+      → bought starter kit, will send extra discs to Rowan & Jae
+- [x] visit barber, purchase decent DE blades 
+      ↳ ModernMens Barber, near Batch cafe
+- [x] charge all my bike lights + batteries
+- [x] visit gift store, look for invercargill patch → no luck
+- [ ] visit postie plus → ship discs to Rowan → 54b wynward crescent, fernhill
+- [ ] pick up a CR2032 battery for the thermometer
+
+retrospective
+-------------
+
+We should keep notes of what we talk about in the dev/design/roadmap meetings.
+
+schedule
+--------
+
+0615 out of bed
+0820 working from southern comfort
+0925 visiting rebel sports
+0940 working from batch cafe
+1000 standup
+1100 future works meeting
+1200 lunch at toasted
+1250 working from southern comfort
+
+work
+----
+
+- [x] fix cypress tests on Rate Cards PR
+- [x] get Rate Cards PR merged (finally!)
+
+sprint tech demo: building out an experimental planner that has advanced editing support for large amounts of data.
+
+
+
+youtube
+-------
+
+Started watching Lex Fridman interview David Fravor last night:
+https://www.youtube.com/watch?v=aB8zcAttP1E&t=48m33s

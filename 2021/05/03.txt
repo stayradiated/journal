@@ -1,0 +1,101 @@
+Monday 03 May 2021
+==================
+
+Ferry over to Ulva island this morning.
+
+Saw my first kiwi in the wild!
+
+Working all afternoon and evening.
+
+covid
+-----
+
+UK & US vaccination numbers are looking great.
+https://ourworldindata.org/covid-vaccinations
+
+UK: 50%
+US: 44%
+DE: 27%
+FR: 23%
+NZ:  4%
+
+Looking forward to NZ rolling out vaccinations to the general public.
+
+travel
+------
+
+> You can stay in the UK as a tourist for up to 6 months without a visa.
+-- https://www.gov.uk/check-uk-visa/y/new-zealand/tourism
+
+That's pretty sweet.
+
+annual leave
+------------
+
+I have 4 days available of paid leave available.
+I will take either this friday or next monday off.
+Where I am headed to next? Eventually, Dunedin.
+
+mothers day
+-----------
+
+I nearly forgot about Mother's Day… thankfully it's in my calendar.
+
+These look decent:
+https://www.allbirds.co.nz/products/womens-tree-loungers-aspen
+
+I've left dad a message, hopefully he calls me back and we can sort something
+out for Sunday.
+
+schedule
+--------
+
+0730 out of bed
+0800 climbing up observation rock
+0900 ferry across to ulva island
+1215 ferry back to golden bay
+1240 lunch by the bay
+1310 working from the lake front
+1410 working from "just cafe"
+1620 working from the lake front again
+1700 laptop runs out of power
+1720 working from the backpackers
+1600 eggs on crumpets for dinner
+
+food
+----
+
+lunch:
+- 1 head of broccoli
+- 200g hummus
+- 1 apple
+- 50g dark chocolate
+- a few tablespoons of peanut butter
+
+dinner:
+- 3 poached eggs
+- 3 crumpets
+- 1 tomato
+- 25g dark chocolate
+- a few more tablespoons of peanut butter
+
+work
+----
+
+chores:
+
+- [x] Fix merge conflicts in "Simplify Permissions Helper" PR (https://github.com/Runn-Fast/runn/pull/6029)
+- [x] Review Rowan's PR for created_at/updated_at (https://github.com/Runn-Fast/runn/pull/6047)
+- [.] Finish RateCard List Container PR (https://github.com/Runn-Fast/runn/pull/6009)
+
+goals:
+
+- [ ] write a technical blog post: "getting started with the Runn API"
+- [ ] watch the frontend masters course on web assembly
+
+todo
+----
+
+- [ ] Book stewart island ferry over to bluff, will probably catch the 3pm
+  ferry tomorrow arvo.
+- [ ] Book leave off work for Friday
