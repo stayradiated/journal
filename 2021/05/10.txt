@@ -1,4 +1,67 @@
 Monday 10 May 2021
 ==================
 
+I am sick.
 
+But I have to get myself to Mosgiel.
+Staying at the Bella Vista Motel ($134).
+
+health
+------
+
+Throat is sore, nose is running.
+
+Tendon in left heel is swollen.
+Right knee hurts when cycling.
+
+I think I have overdone it this weekend.
+
+cycling
+-------
+
+Distance: 37.33km
+Elevation: 79m
+
+Avg Speed: 16.2km/h
+Max Speed: 43.2km/h
+
+Moving Time:  2:17:51
+Elapsed Time: 2:53:57 
+
+food
+----
+
+- 1 flat white
+- 2 poached eggs on toast
+
+- 1 orange juice
+- 1 rocky road slice
+- ¼ packet of dates
+
+- ½ head broccoli
+- 1 carrot
+- 1 red capsicum
+- 2 white button mushrooms
+- 200g chipotle and lime hummus
+- 2 apples
+- 2 motel hot chocolates with little motel biscuits
+
+handshake aidrop
+----------------
+
+from ivan:
+> apparently if you have 15 followers or more on github, you got some cryptocurrency
+> that’s worth ~3.3k
+
+I thought he wask joking, but it's legit.
+That said, it seems like a great way to get popular software developers to run
+untrusted code on their laptop…
+
+mxc address: <redacted> 
+
+I followed these instructions: https://gist.github.com/KoryNunn/7d94d7e630881f99e02626b527e6fe15
+
+The transaction worked! Just waiting for the exchange to update.
+
+Price of HNS/USDT has dropped recently, might as well hold on to the coins
+until I can get the most out of them and then convert them to bitcoin.
