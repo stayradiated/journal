@@ -1,0 +1,86 @@
+Wednesday 12 May 2021
+=====================
+
+dunedin
+-------
+
+Working from Wolf at the Door cafe all morning. I love this cafe and am glad to
+see it's still operating. I told this to the owners and they said they only
+bought it last year because they love the cafe as well.
+
+The coffee is great, the food is great, the view is great.
+It's just a neat little cafe and it's quite close to the hostel.
+
+travel
+------
+
+If I don't feel like cycling (and right now I don't feel like cycling) I could
+always catch the Intercity bus to Christchurch.
+Or at least bus to Oamaru to get over the worst of the hills.
+
+I should get in touch with Andrew while I'm in town and see if he's keen to
+catch up.
+
+jo
+--
+
+She is still onboard Pelican, in Bristol harbour. She has been promoted to
+Bosun! Tomorrow she wakes up at 5:45am! Sailing to Folkestone to pick up a
+documentary film crew on Saturday.
+
+schedule
+--------
+
+0700 out of bed
+0730 lock myself out of room
+0745 catching up with jo :)
+0900 working from the Wolf at the Door cafe
+0945 retrospective
+1100 design meeting
+1300 walking to pak'n'save
+1400 working from aroma cafe
+1530 chatting with rowan
+1630 walking back to chalet
+1720 working from chalet
+
+work
+----
+
+retrospective this morning:
+
+- invite Shannon to next weeks retro
+- we should document the decisions made in our weekly meetings
+- switch to using whereby for a week
+
+goals:
+
+- feature flag tool
+- get feature flags PR merged
+
+food
+----
+
+- 1 short black coffee
+- 1 italian almond biscuit
+- 1 lemon, ginger & honey tea
+- 1 beetroot & feta savoury muffin
+
+- 1 carrot
+- 1 zuchini
+- 2 large white button mushrooms
+- 200g pumpkin hummus
+- ¼ bag peanuts & raisins
+- 50g whittakers creamy milk chocolate
+
+- ½ half head broccoli
+- 3 white button mushrooms
+- 2 cream of chicken cup-a-soups
+- 1 apple
+- ½ jar peanut butter
+- a handful of dates
+
+todo
+----
+
+- [x] how far north do the dunedin buses go? Can I get over the big hill north
+      of Waitati? → Would need to catch the Intercity bus
