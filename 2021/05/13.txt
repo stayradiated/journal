@@ -9,13 +9,20 @@ dunedin
 
 Have a bit of a headache this morning.
 
+email
+-----
+
+migadu looks pretty sweet and affordable.
+I would like to get all my domains on a single host.
+
 schedule
 --------
 
 0700 out of bed
-…
+0830 working from vogel st kitchen
 1000 standup
-1100 future work planning & customer feedback
+1100 future work planning & customer feedback → cancelled
+1345 working from morning magpie
 
 work
 ----
@@ -32,3 +39,23 @@ travel
 ------
 
 - next 40 km to Waikouaiti -- 2hr 45min
+
+Chatting to a guy at the dunedin hostel who has cycled over 5,000km around NZ!
+He highly recommends getting clip pedals with shoes -- makes it a lot easier
+going uphill because you can pull the pedal up, use different muscles, etc.
+
+It would be neat to cycle out along the peninsula.
+Would be a great ride on a clear day.
+
+wish list
+---------
+
+- https://satechi.net/products/75w-dual-type-c-pd-travel-charger?variant=19492503781464
+- https://www.myfreedy.com/collections/usb-pd/products/freedy-90w-usb-c-travel-wall-charger-power-station-adapter-with-2-usb-c-pd-2-qc-3-0-usb-if-certified-compatible-with-macbook-pro-air-ipad-pro-iphone-xs-max-xs-xr-nintendo-switch-and-more
+- https://us.anker.com/collections/chargers/products/powerport-atom-iii-slim-four-ports (order through myanker.co.nz for $109.99)
+
+todo
+----
+
+- [x] fix up -3 EUR fee on N26 (silly Hetzner and SEPA cost me an extra 8 EUR!)
+- [ ] visit a few of the local bike shops and pick up some SPD pedals + shoes for brian

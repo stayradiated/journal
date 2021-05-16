@@ -1,0 +1,154 @@
+Friday 14 May 2021
+==================
+
+dunedin
+-------
+
+> Fine with morning frosts inland, high cloud increasing this afternoon, and
+> some rain this evening. Northeasterlies, strong in exposed places.
+
+hostel
+------
+
+Need to extend my stay.
+Apparently the hostel is full tonight! Another group is coming to stay.
+The other backpackers are full as well.
+Looks like it will be an average night.
+
+schedule
+--------
+
+0700 out of bed
+0910 working from wolf at the door
+1000 standup
+1200 show & tell
+
+show & tell
+-----------
+
+What I can share with the team?
+
+How about the feature flag manager…
+
+email
+-----
+
+migrating from fastmail to migadu using imapsync
+cheaper, incourages me to delete email I don't need
+supports multiple domains, so I can use it to host czabania.com as well
+
+imapsync config:
+
+  docker run gilleslamiral/imapsync imapsync \
+    --host1='imap.fastmail.com' \
+    --user1='myusername@fastmail.com' \
+    --password1='xxx' \
+    --ssl1 \
+    --sep1='.' \
+    --prefix1='""' \
+    --host2='imap.migadu.com' \
+    --user2='myusername@stayradiated.com' \
+    --password2='xxx' \
+    --ssl2 \
+    --maxage=500 \
+    --folderfirst='INBOX'
+
+discover weekly (music)
+-----------------------
+
+- The Cave//Wexas ∙ Abe M Beats
+- Ero.S ∙ S I M
+- Deep Sleeper ∙ Fla.mingo
+
+work
+----
+
+performance testing:
+automated github action for seeding a database with a tonne of data and then
+running production GraphQL queries against hasura and seeing how long they take
+to execute.
+
+- [x] demo feature flag dashboard at show & tell
+- [x] review rowan's group by pr
+- [.] continue on with people list
+- [ ] checkout tim's canvas experiment (https://codesandbox.io/s/phases-2-18koq?file=/index.js)
+
+dunedin → christchurch
+----------------------
+
+5 days of cycling @ ~80km a day
+
+day 1:
+- might be a little bit of rain? looks like I am lucky though
+- over MT CARGILL (400m up/down)
+- can avoid the KILMOG (225m up/down) by going along KARITANE COAST
+- places to stay include WARRINGTON RESERVE
+  ↳ freedom camping, so it's free
+  ↳ probably not drinking water?
+  ↳ quite close to dunedin
+- or stay in PALMESTON
+  ↳ there is the waihemo lodge motel
+- or go north from PALMESTON along HORSE RANGE ROAD
+  ↳ can stay at the TROTTER'S GORGE campsite
+  ↳ need to pay for a spot online ($10)
+  ↳ https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/moeraki-area/things-to-do/trotters-gorge-campsite/
+  ↳ great reviews, hopefully not too cold in the tent?
+  ↳ " Beautiful peaceful spot to spend a night. Toilets were in good condition.
+    " Nothing else there. Walks from the site were a good start to the day. 
+
+day 2:
+- continue through MOERAKI
+  ↳ there is a neat backpackers here, but it looks like they might be busy all weekend?
+  ↳ they are closed until the 17th may :(
+- stay a night at OAMARU?
+  ↳ Mel recommends checking out the whiskey here
+  ↳ can stay at the oamaru backpackers ($39 a night for a dorm room)
+    ↳ https://oamarubackpackers.co.nz/availability-booking/
+
+day 3:
+- waimate
+  ↳ disc golf course
+- timaru
+  ↳ disc golf course
+
+day 4:
+- temuka
+  ↳ disc golf course
+- ashburton
+  ↳
+
+day 5:
+- chertsey
+  ↳ book barn
+- rakaia
+  ↳ 2km shoulderless bridge
+  ↳ giant salmon
+- christchurch
+
+notebook
+--------
+
+I bought a neat little notepag from Dutybound yesterday ($10).
+I don't like storing notes on paper, but I love using pen/paper for jotting
+down ideas and doodles.
+
+IDEA:
+
+1. jot down ideas on page 1 of notepad (including reverse side)
+2. type up anything useful in my git journal
+3. discard page 1 from notepad
+4. page 2 becomes page 1
+5. goto 1
+
+bitcoin fees
+------------
+
+0.4% of each trade
+doesn't matter if you do one big trade or lots of little trades
+
+todo
+----
+
+- [ ] Check out of the Chalet backpackers
+- [ ] Visit MyRide at 10:00 tomorrow, replace pedals (they can keep the old ones…)
+- [ ] ↳ Do all the PD-EH500 come with the SH-56 clips?

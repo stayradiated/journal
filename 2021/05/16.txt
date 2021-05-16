@@ -1,0 +1,87 @@
+Sunday 16 May 2021
+==================
+
+Otago
+-----
+
+> Fine weather. Winds mainly light.
+
+Waking up Warrington Reserve. It rained a little overnight, I was worried it
+might rain again while I was packing up my gear, but thankfully it didn't.
+
+I got very lucky with the weather, not a drop all day!
+
+cycling
+------
+
+Distance:  96.67km
+Elevation: 995m
+
+Avg Speed: 16.1km/h
+Max Speed: 61.6km/h
+
+Moving Time:  6:01:18
+Elapsed Time: 8:07:28 
+
+From Dunedin → Oamaru, following the coast as much as I can. It's a slower ride
+than usual, with light headwinds and tired legs, but I enjoy the extra time
+taking in the beach views.
+
+Stopping at The Outpost cafe in Waikouaiti for a coffee and planning out the
+rest of my day.
+
+Checking in on the Moeraki Boulders, running along the beach barefoot. I think
+I injurned my left ankle while running last weekend, because it really hurts to
+run now…
+
+Grabbing a tea at Vanessa's Cottage Cafe near Moeraki before heading along the
+coastal roads to Oamaru.
+
+Checking in at the Oamaru Backpackers, it's pretty quiet here. $35 a night.
+
+Grabbing a scoop of chips ($2.60) for dinner, dipping them in a fancy hummus
+while sitting in the dark park listening to Dan Carlin talk about Alexander.
+
+travel
+------
+
+Staying at the Oamaru Backpackers -- booked until Wednesday morning.
+
+Next destination ideas:
+
+- 22.8km @ 1h  7min :: Glenavy
+  ↳ Glenavy Motor Camp http://www.waitakimotorcamp.co.nz/
+- 46.3km @ 2h 18min :: Waimate
+- 85.8km @ 4h 14min :: Timaru
+
+kiwi-coin
+---------
+
+I'd be keen to build a better UI
+Someone has already put together a simple Node API
+https://github.com/wcomnisky/node-kiwicoin
+
+food
+----
+
+- 1 long black coffee
+- 1x OSM Bar
+- 1x slice of lolly cake
+- 100g of peanuts & raisins
+- 1 earl grey tea
+- 2x OSM Bar
+- 1 scoop chips
+- 1 packet of obela hummus with pine nuts
+- 1 apple
+- 50g whittakers peppermint chocolate bar
+- 1 hot cocoa
+
+todo
+----
+
+(for tomorrow, really)
+
+- [ ] dry tent out on clothes line
+- [ ] wash all my clothes
+- [ ] replace white laces in shimano shoes with black laces
+- [ ] return extra set of SPD clips to T7
