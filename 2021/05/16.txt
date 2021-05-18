@@ -82,6 +82,7 @@ todo
 (for tomorrow, really)
 
 - [ ] dry tent out on clothes line
-- [ ] wash all my clothes
+- [ ] wash all my clothes in the laundry
 - [ ] replace white laces in shimano shoes with black laces
 - [ ] return extra set of SPD clips to T7
+- [ ] wealth report

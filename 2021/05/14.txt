@@ -149,6 +149,6 @@ doesn't matter if you do one big trade or lots of little trades
 todo
 ----
 
-- [ ] Check out of the Chalet backpackers
+- [x] Check out of the Chalet backpackers
 - [ ] Visit MyRide at 10:00 tomorrow, replace pedals (they can keep the old ones…)
 - [ ] ↳ Do all the PD-EH500 come with the SH-56 clips?

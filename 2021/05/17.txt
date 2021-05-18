@@ -1,0 +1,62 @@
+Monday 17 May 2021
+==================
+
+Oamaru
+------
+
+> A fine morning, though frosty at first. Light rain afternoon and evening.
+> Northerlies , changing southwest at night.
+> High: 15°c Low: 4°c
+> 7:16am/7:48am → 5:17pm/5:49pm
+
+schedule
+--------
+
+0700 waking up
+0720 morning walk out to the wharf
+0830 hanging my tent up to dry on the line
+0900 working from the Oamaru Backpackers
+1000 standup
+1150 having lunch at Badger & Mackerel
+1410 working from short black cafe
+
+todo
+----
+
+- [x] dry tent out on clothes line
+- [x] wash all my clothes in the laundry
+- [x] update wealth report
+- [x] hand wash shoes and dry on line
+- [x] replace white laces in shimano shoes with black laces
+- [ ] return extra set of SPD clips to T7
+
+work
+----
+
+- [x] responding to tim about the persondashboard insights
+- [.] continue on with people list
+- [ ] checkout tim's canvas experiment (https://codesandbox.io/s/phases-2-18koq?file=/index.js)
+
+journal tool
+------------
+
+It would be handy to have a tool that could understand my journal and print out
+all the list items that I haven't completed yet, along with the title of each
+list.
+
+food
+----
+
+- 1 black tea with milk
+- 3 small shortbread biscuits
+- 1 pumpkin thai curry soup
+- 2 smal slices of bread with butter
+- 1 OMG Slice
+- 1 short black coffee
+
+travel
+------
+
+Thinking about flying back to Rotorua for a weekend.
+It would be nice to have an event planned first - could we organize a weekend
+trip somewhere?
