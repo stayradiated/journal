@@ -1,0 +1,55 @@
+Wednesday 19 May 2021
+=====================
+
+oamaru
+------
+
+> Fine with high cloud at times. Westerlies.
+High: 15°c Low: 5°c
+7:18am/7:51am → 5:15pm/5:47pm
+
+Feeling low.
+
+Thing I can do to improve the situation.
+
+- Go for a run.
+- Read David's text and send a reply.
+- Not eat any sweet foods.
+- Figure out what I am doing with the rest of my week.
+- Take Friday off work and not do anything.
+- Delete old emails.
+
+Phone call from Jo ♥
+
+I think I'm going to have a nap this afternoon, I am so tired.
+
+friday
+------
+
+- watch for penguins at bushy beach
+- whiskey
+- public gardens
+- whitestone city (only open on weekends)
+- steampunk hq
+- grainstore gallery
+
+mbsync
+------
+
+I have configured mbsync to store all my mail locally for stayradiated.com.
+
+I have also gone through my INBOX and deleted nearly everything.
+
+schedule
+--------
+
+1500 catch up with Brendon
+
+work
+----
+
+- [ ] fix cypress tests
+
+Watching "Adam Savage and Vsauce's Michael Stevens Build a Kendama!"
+so much fun
+https://www.youtube.com/watch?v=i8GD33DsRw8&t=34m53s

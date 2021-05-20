@@ -1,0 +1,70 @@
+Thursday 20 May 2021
+====================
+
+Oamaru
+------
+
+Fine. Northwesterlies.
+High: 17°c Low: 6°c
+7:19am/7:52am → 5:14pm/5:46pm
+
+docker-compose
+--------------
+
+v1.28+ finally fixes the relative .env issue
+Now I can run docker-compose commands from a project subdir and they will still work 
+
+shell
+-----
+
+there is a new verison of the phusion base image based on focal fossaI should 
+try and update to it
+
+laptop
+------
+
+my new laptop should arrive by the end of May!
+It's going to be so nice have >8GB of RAM.
+
+food
+----
+
+- 2 cups of tea
+- several small shortbread biscuits
+- 3 pieces of toast with margerine and raspberry jam
+- 4 weetbix (with sugar)
+
+- 1 macchiato coffee
+- 1 small portion of spinach, bacon and feta ravioli
+
+- 1 oat and raisin cookie
+
+mail
+----
+
+- find a way to run mbsync in the background on a regular schedule
+- cache mbsync files in src folder
+
+work
+----
+
+get cypress tests passing please;
+- [x] archive project
+- [x] project phases
+- [x] project rates
+- [x] updates project total budget
+
+baking
+------
+
+There are a bunch of garden grown green apples at the backpackers.
+I would like to bake an apple crumble for desert.
+
+
+- half a cup of flour
+- half a teaspoon cinnamon
+- half a teaspoon mixed spice
+- three quarters cup sugar
+- 75g butter
+- half a cup rolled oats
+- 4 medium-sized apples
