@@ -1,0 +1,82 @@
+Monday 24 May 2021
+==================
+
+Ashburton
+---------
+
+> Mostly cloudy. Occasional showers. Southerlies.
+
+High: 11°c Low: 3°c
+7:16am/7:48am → 5:11pm/5:43pm
+
+Hanging my clothes out to dry, I think it will rain this morning though.
+
+todo
+----
+
+- [x] wash all my clothes
+- [ ] hang tent out to dry
+- [ ] get $20 cash out
+- [x] check Brian into bike shop
+
+schedule
+--------
+
+0715 out of bed
+0910 checking in brian at stoked cycles
+0930 working from violet cafe
+1050 working from the reflections cafe
+1200 grabbing lunch at subway and heading to the park
+1245 working from taste cafe
+1330 virtual coffee with pete
+1410 chatting with rowan about runn-hasura-production-2 and on-delete-set-null constraints
+
+money
+-----
+
+I really like Wise but it has a couple of downsides.
+
+- The VISA card doesn't work at places that don't take credit cards. This means
+  I have to use my TSB card and should always keep some money on it.
+- Some places only take cash and to get cash out I need to use my TSB card.
+- While it is free to transfer from TSB → Wise, transferring NZD from Wise →
+  TSB incurs a $0.76 fee -- I should avoid doing this if possible.
+
+brian
+-----
+
+I have checked Brian into the Stoked Cycles bicycle shop in Ashburton.
+Hopefully they can get the highest gear working correctly -- might be time for
+a new chain again?
+
+Higher
+2/1 2.0   1 rotation of wheel requires 0.5 rotations of crankshaft
+1/1 1.0   1 rotation of wheel requires 1 rotation of crankshaft
+1/2 0.5   1 rotation of wheel requires 2 rotations of crankshaft
+1/3 0.33  1 rotation of wheel requires 3 rotations of crankshaft
+1/4 0.25  1 rotation of wheel requires 4 rotations of crankshaft
+1/5 0.2   1 rotation of wheel requires 5 rotations of crankshaft
+Lower
+
+food
+----
+
+- 1 long black coffee @ violet cafe
+- 1 Subway (regular, but this time with accidental avocado)
+- 1 "magic" slice
+- 1 can of chickpeas
+- 1 carrot
+- 1 small head of broccoli
+- 200g dates
+- ½ tub of no-added-salt smooth peanut butter
+
+work
+----
+
+- [x] Respond to Heroku Support inquiry about why some Apps mysteriously won't
+     start, they haven't been very helpful so far…
+- [.] Review Priscilla's Project Dashboard Migration
+      ↳ https://github.com/Runn-Fast/runn/pull/6057#issuecomment-845585344
+- [ ] https://github.com/Runn-Fast/runn/pull/6116#issuecomment-845612906
+
+

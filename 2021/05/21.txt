@@ -29,3 +29,25 @@ Watching a lot of Michael Stevens videos.
 Baking a chocolate pudding for desert. Only small butter I could get from
 Countdown was garlic butter -- pudding tasted fine but you definitely added a
 herb flavour.
+
+notes
+-----
+
+- 9:10m catch up with Ivan
+  ↳ is it too noisy here? yes
+
+REACT NATIVE → requires expo to run on iOS
+would need to either:
+- build web app that looks 
+- buy a macbook
+
+WALLET
+- form v function
+- goal: get something functional working first
+
+GET EXPO RUNNING
+
+- enter item
+- manage wallets
+- view transactions
+- edit transactions
