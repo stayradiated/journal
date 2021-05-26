@@ -1,0 +1,38 @@
+Thursday 27 May 2021
+====================
+
+Rolleston
+---------
+
+> Fine with morning frost, but some cloud over Banks Peninsula. High cloud
+> increasing towards evening. Northeasterlies, strong for Banks Peninsula.
+
+High: 14°c Low: 2°c
+7:16am/7:47am → 5:07pm/5:39pm
+
+schedule
+--------
+
+0720 roll out of bed
+0840 check-out of the airbnb
+0900 start working from the black & white cafe
+1000 standup
+1020 chatting with dev team around relay IDs & hasura security
+1200 lunch
+
+travel
+------
+
+Today I will be cycling from Rolleston into central Christchurch.
+Planning to stay at the Jailhouse backpackers again.
+
+It's about a 24km cycle (~1h 15min).
+Fortunately this is a more urban area and there are plenty of roads I can use
+so I can avoid the busy highways.
+
+
+work
+----
+
+- standup
+- -
