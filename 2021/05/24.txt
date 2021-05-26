@@ -15,8 +15,8 @@ todo
 ----
 
 - [x] wash all my clothes
-- [ ] hang tent out to dry
-- [ ] get $20 cash out
+- [x] hang tent out to dry
+- [x] get $20 cash out
 - [x] check Brian into bike shop
 
 schedule

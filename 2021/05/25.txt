@@ -1,7 +1,52 @@
 Tuesday 25 May 2021
 ===================
 
+Ashburton
+---------
+
+Checking out of the Ramblers Rest backpackers.
+
+Working from Triangle Espresso this morning, perhaps the best cafe in Ashburton.
+
+Cycling to Rakaia at midday.
+
 food
 ----
 
 - 1 short black coffee @ triangle espresso
+- 2 poached eggs on foacaccia bread with spinach and hollandaise sauce
+- 1 slice of bacon & egg pie
+- 1 date scone, toasted with butter
+- 1 can chickpeas, roasted
+- 1 small red kumara, roasted
+- 1 head of brocolli, roasted
+- 200g garlic/lemon hummus
+- 1 block of cadbury milk chocolate
+- 2 small apples
+- ½ tub no-salt-added smooth peanut butter
+
+todo
+----
+
+- [x] book accomodation for Rolleston on Airbnb ($70)
+
+work
+----
+
+learning & development day, writing a blog post about the Runn API
+
+- [x] check if heroku support have got back to us
+- [ ] create github repo with demo code for synching toggl with runn
+
+Found this thread discussing the `getent` error we have been getting on Heroku.
+
+https://github.com/Runn-Fast/runn/pull/6130
+
+Turns out the fix is to run as a non-root user, so odd.
+
+tomorrow
+--------
+
+Cycling to Rolleston, about 35km ~ 1h 45min.
+Worst bit is going to be to crossing the Rakaia River, a 2km long bridge with
+no shoulders and lots of traffic. Hopefully the drivers are patient with me…

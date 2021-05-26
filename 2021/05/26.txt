@@ -1,0 +1,17 @@
+Wednesday 26 May 2021
+=====================
+
+Rakaia
+------
+
+> Fine. Light winds.
+High: 12°c Low: 6°c
+
+Cycling into light headwinds again.
+
+Staying at an Airbnb in Rolleston.
+
+work
+----
+
+- Created a new github repo: https://github.com/Runn-Fast/runn-api-tutorial
