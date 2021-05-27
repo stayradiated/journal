@@ -86,3 +86,38 @@ youtube
 -------
 
 https://www.youtube.com/watch?v=3x1b_S6Qp2Q&t=23m36s
+- [ ] half a cup of flour
+- [ ] half a teaspoon cinnamon
+- [ ] half a teaspoon mixed spice
+- [ ] three quarters cup sugar
+- [ ] 75g butter
+- [ ] half a cup rolled oats
+- [ ] 4 medium-sized apples
+
+
+Need to check that we have a cake baking tin first. Also considering doing a cake mix hack so I don't have to waste unused flour/sugar/butter etc
+
+rules for moderated eating
+---------------------------
+
+So you've got a packet of biscuits, nice one - but you know shouldn't eat them all in one sitting. How do you make i last a whole week?Same goes for dates, peanut butter, hummus, etc. 
+
+two simple rules:
+
+- You can only open a packet once  per day.
+- You cannot eat anything from within a packet while it is open.
+
+ideas:
+
+- Forces you to choose out how much you want to eat upfront. Doesn't limit how much you eat, I could still eat a whole packet of biscuits, but I would have to want to do that. Prevents the "just one more" issue. 
+- Forced scarcity induces rationing, once the biscuits are on the plate you know that is all you getting today.
+
+Will this work? I think it will, it depends on me being able to follow the two rules. 
+
+Loop holes:
+
+- Doesn't limit how many packets you can have. I could own multiple packets of biscuits for eating during different times of the day. 
+
+Flaws:
+
+- Requires that a packet has open/closed states: a packet of biscuits requires a food peg to properly close. 
