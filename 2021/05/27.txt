@@ -19,6 +19,9 @@ schedule
 1000 standup
 1020 chatting with dev team around relay IDs & hasura security
 1200 lunch
+1310 cycle into central christchurch
+1500 check-in to jailhouse hostel
+1520 working from coffee culture cafe
 
 travel
 ------
@@ -35,4 +38,24 @@ work
 ----
 
 - standup
-- -
+- no future work meeting this week
+
+bitcoin
+-------
+
+experimenting with several floating orders:
+
+-0.1% 
+-0.5%
+-1.0%
+-2.0%
+-3.0%
+
+food
+----
+
+- 1 short macchiato coffee
+- 1 pumpkin & kumara soup
+- 1 vegetable fritata
+- 1 sundried tomato flat bread
+- 1 dominoes veg trio pizza large
