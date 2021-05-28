@@ -54,6 +54,8 @@ work
 
 - standup
 - no future work meeting this week
+- should look into multi-tenancy libraries for Node.JS
+- add @account.contract with :through
 
 bitcoin
 -------
@@ -74,3 +76,4 @@ food
 - 1 vegetable fritata
 - 1 sundried tomato flat bread
 - 1 dominoes veg trio pizza large
+
