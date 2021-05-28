@@ -1,0 +1,14 @@
+Saturday 29 May 2021
+====================
+
+benji
+-----
+
+With a little bit more of mum's help I've got Benji back up and running.
+Just needed to manually restart the box.
+
+I'm going to upgrade Benji's packages and make sure it's healthy.
+It would be great to run Benji in the cloud so it's easier to debug, but that's
+expensive.
+
+Anyway, it's great to have my music server back.
