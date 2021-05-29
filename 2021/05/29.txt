@@ -1,6 +1,66 @@
 Saturday 29 May 2021
 ====================
 
+christchurch
+------------
+
+> Rain setting in and becoming heavier this afternoon. Southwesterlies
+> gradually turning easterly and becoming strong.
+
+High: 13°c Low: 9°c
+7:17am/7:49am → 5:06pm/5:38pm
+
+schedule
+--------
+
+0730 waking up, getting dressed and heading to ParkRun
+0800 running around hagley park
+0900 back at the jailhouse
+1000 hanging out at the Coffee Culture cafe
+1115 chatting to mum, restarting benji
+1215 phone call from Jaime
+
+todo
+----
+
+- [ ] book flight ROT→CHC
+
+travel
+------
+
+How long do spend in Christchurch?
+I would like to cycle to Nelson, via the west coast.
+What do I need to be prepared for?
+Do not want to rush… maybe hang around in chch for a bit?
+I would like to be able to enjoy my trip.
+I need to be in Wellington on the 23rd though.
+
+parkrun
+-------
+
+Haven't been for a 5km race in a while, did pretty well considering.
+
+> Hagley parkrun results for event #332. Your time was 00:19:45.
+> Congratulations on completing your 7th parkrun and your 1st at Hagley parkrun
+> today.
+> You finished in 25th place and were the 19th Male out of a field of 314
+> parkrunners and you came 6th in your age category SM25-29
+> You achieved an age-graded score of 65.32%
+ 
+I have got a gnarly blister on toe 0, from rubbing against the sandal strap.
+
+jaime
+-----
+
+Got a call from Jaime this morning, asking if I'd be keen to come to a gig this
+evening.
+We are going to see a local band, The Butlers at 20:00.
+Booked a ticket, $47.
+
+Bus will take ~50 minutes to get to Blue Smoke.
+
+
+
 benji
 -----
 
@@ -12,3 +72,38 @@ It would be great to run Benji in the cloud so it's easier to debug, but that's
 expensive.
 
 Anyway, it's great to have my music server back.
+
+…
+
+So I rebooted the server and it hasn't come back online :(
+Poor benji.
+
+arch-linux
+----------
+
+Having issues with not being able to install packages.
+
+> error: key XYZ could not be looked up remotely
+
+Had to update /etc/pacman.d/gnupg/gpg.conf to read:
+
+    no-greeting
+    no-permission-warning
+    lock-never
+
+    keyserver pool.sks-keyservers.net
+    keyserver-options timeout=10
+    keyserver-options import-clean
+    keyserver-options no-self-sigs-only
+
+And then running `pacman-key --refresh-keys`
+
+
+
+food
+----
+
+- 1 short espresso coffee $4
+- 1 veggie bagel $9
+- 1 ristretto coffee $4
+- 1 piece of biscotti $1
