@@ -23,7 +23,7 @@ schedule
 todo
 ----
 
-- [ ] book flight ROT→CHC
+- [x] book flight ROT→CHC (flying back on Wednesday)
 
 travel
 ------
@@ -107,3 +107,7 @@ food
 - 1 veggie bagel $9
 - 1 ristretto coffee $4
 - 1 piece of biscotti $1
+- 1 california wellness bowl soup
+- 2 fried eggs
+- 3 pieces of turkish bread
+- 1 royal gala apple

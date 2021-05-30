@@ -1,0 +1,116 @@
+Sunday 30 May 2021
+==================
+
+christchurch
+------------
+ 
+> Persistent rain with heavy falls. Strong or gale southeasterlies, severe
+> gusting 120 km/h in exposed places.
+
+High: 14°c Low: 10°c
+7:18am/7:50am → 5:05pm/5:37pm
+
+early morning
+-------------
+
+It's midnight and the gig is over.
+Buses are no longer raining and rideshare services are at exorbitant prices due
+to high demand.
+So I'm walking back from Blue Smoke in the pouring rain, it takes 80 minutes.
+I have my raincoat with me, which keeps my upper body dry, but my shoes, socks
+and pants soak through.
+
+I listen to Lex Fridman discuss conciousness with Sam Harris, it's fascinating.
+I got Sam Harris mixed up with Sam Altman and was wondering why they hadn't
+even mentioned Y Combinator…
+
+Anyway, made it back to the Jailhouse hostel. Had a hot shower and went to
+sleep reading "The Systems Bible".
+
+…
+
+Waking up to messages from Jo.
+I put on some dry clothes and head downstairs.
+We have a short conversation but the connection is poor quality, frequently
+cutting out. Hopefully she finds some wifi this week.
+Jo is currently in the Isles of Scilly (pronouced "silly") -- the weather is
+lovely and she had a whole day off to go visit the islands.
+
+…
+
+My clothes didn't dry.
+
+My pants are still damp.
+My socks are soaking.
+My shoes are wet.
+
+ios development
+---------------
+
+Purchased an Apple Developer Membership this morning.
+
+> Your Apple Developer Program membership has been renewed for another year and
+> your membership details are below. We look forward to the innovative new apps
+> you'll bring to Apple platforms.
+
+I hope so too Apple.
+
+Following these instructions to generate certificates, super useful.
+
+https://medium.com/ynap-tech/using-apples-itms-transporter-api-to-upload-builds-to-testflight-60dba18b07bc
+
+Tried to understand how to configure CodeMagic to build my expo app.
+Found this very confusing.
+
+Also discovered that `expo` can build iOS apps as well, without having to be on a mac.
+Very nice.
+Took a few goes to get the certificates working properly.
+Now I have a .ipa file.
+
+Didn't expect uploading the file to be a challenge, but it is.
+Apple doesn't have an easy way to upload files if you are not on a mac.
+Best bet so far is to use `fastlane deliver`.
+Wish me luck.
+
+…
+
+Doesn't look like fastlane supports linux.
+
+https://github.com/fastlane/fastlane/issues/17762
+https://github.com/fastlane/fastlane/issues/14349
+
+…
+
+back to codemagic...
+
+trying to get it to to build…
+
+michel gondry
+-------------
+
+from https://interconnected.org/home/2008/05/26/the_geometry_of_music
+
+https://en.wikipedia.org/wiki/Michel_Gondry
+
+has directed some of my favourite movies and tv shows
+
+also has done some amazing work with music videos:
+
+- daft punk: around the world
+- lucas: lucas with the lid off
+
+food
+----
+
+- 1 earl grey tea $4.70
+- 1 date scone $4
+- 1 small portion of kumara salad (cold) $8
+- 1 whole AFG meal $20
+
+todo
+----
+
+- [ ] Reply to david
+- [ ] Organize time to catch up with Chris
+- [ ] Ask mum to restart benji one more time
+- [ ] visit the Spreydon Library on Tuesday with kiwi-coin documents

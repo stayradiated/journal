@@ -36,9 +36,9 @@ so I can avoid the busy highways.
 todo
 ----
 
-- [ ] work from saltworks tomorrow
-- [ ] take monday off work
-- [ ] book flights to rotorua for queens birthday
+- [x] work from saltworks tomorrow
+- [/] take monday off work
+- [x] book flights to rotorua for queens birthday
 - [ ] Organize time to catch up with Chris
 
 Reasons to go back to Rotorua:
