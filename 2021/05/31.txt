@@ -19,6 +19,11 @@ Or I could hang out at Addington Coffee Co-Op again all day.
 I feel a cold coming on.
 I should put some warmer clothes on.
 
+todo
+----
+
+- [x] wash & dry clothes at addington coffee co-op
+
 schedule
 --------
 
@@ -55,3 +60,11 @@ https://idlewords.com/about.htm
 https://en.wikipedia.org/wiki/Maciej_Ceg%C5%82owski
 
 He has a blog: https://idlewords.com/
+
+todo
+----
+
+- [ ] Reply to david
+- [ ] Organize time to catch up with Chris
+- [ ] Ask mum to restart benji one more time
+- [ ] visit the Spreydon Library on Tuesday with kiwi-coin documents
