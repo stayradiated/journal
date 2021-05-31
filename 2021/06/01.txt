@@ -22,3 +22,34 @@ schedule
 1000 standup
 1030 visit spreydon library, get documents signed by JP
 1130 bouldering at uprising with Jaime
+
+todo
+----
+
+- [ ] Reply to david
+- [ ] Reply to chris
+- [ ] get kiwi-coin documents signed off by JP 
+- [ ] ↳ how do I post a letter?
+- [ ] meet Jaime at uprising
+- [x] organize time/place to meet up with Andria → tomorrow @ saltworks
+
+work
+----
+
+Taking half days on thursday/friday this week.
+
+- [ ] order runn merch
+- [ ] ↳ design my own runn merch
+- [ ] work on blog post
+
+firefox
+-------
+
+It would be _nice_ to manage my firefox profile as plaintext.
+
+Stuff I care about:
+
+- bookmarks
+- container tabs
+- mapping of sites to containers
+- syncing bookmarks with iOS
