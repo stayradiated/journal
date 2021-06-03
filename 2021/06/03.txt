@@ -19,6 +19,7 @@ todo
 ----
 
 - [ ] update sharesight account
+- [ ] tomorrow: visit Rotorua CAB @ 11am and sign documents
 
 carbon gen 9
 ------------
@@ -29,5 +30,13 @@ I want to see if I can get the WWAN working…
 Start by loading in the card from my old laptop into the new one,
 see if that works with windows.
 
+update: that didn't work
+The Sierra chip I have in my gen 6 isn't supported by the gen 9.
+It will literally refuse to boot!
+
+Might have to order one of these guys:
+https://www.lenovo.com/us/en/accessories-and-monitors/mobile-broadband/4g-lte/NET-BO-TS-Fibocom-L860-WWAN/p/4XC1B83610
+
 Also, do I want to try keeping arch linux as the host OS?
 Info at https://wiki.archlinux.org/title/Lenovo_ThinkPad_X1_Carbon_(Gen_9)
+
