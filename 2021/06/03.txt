@@ -1,0 +1,33 @@
+Thursday 03 Jun 2021
+====================
+
+christchurch
+------------
+
+> Fine, apart from areas of fog and frosts in the early morning. Light winds.
+
+High: 13°c Low: 2°c
+7:21am/7:53am → 5:03pm/5:35pm
+
+schedule
+--------
+
+0600 waking up
+0930 flight to rotorua
+
+todo
+----
+
+- [ ] update sharesight account
+
+carbon gen 9
+------------
+
+Runn has bought me a new laptop.
+
+I want to see if I can get the WWAN working…
+Start by loading in the card from my old laptop into the new one,
+see if that works with windows.
+
+Also, do I want to try keeping arch linux as the host OS?
+Info at https://wiki.archlinux.org/title/Lenovo_ThinkPad_X1_Carbon_(Gen_9)

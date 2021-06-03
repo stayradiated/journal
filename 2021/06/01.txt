@@ -28,19 +28,21 @@ todo
 
 - [ ] Reply to david
 - [ ] Reply to chris
-- [ ] get kiwi-coin documents signed off by JP 
-- [ ] ↳ how do I post a letter?
-- [ ] meet Jaime at uprising
+- [.] get kiwi-coin documents signed off by JP 
+-     ↳ spreydon library doesn't have a JP on tuesdays…
+-     ↳ I will get this done in Rotorua I guess
+- [x] meet Jaime at uprising
 - [x] organize time/place to meet up with Andria → tomorrow @ saltworks
+- [ ] go for an afternoon run around hagley park
 
 work
 ----
 
 Taking half days on thursday/friday this week.
 
+- [.] work on blog post
 - [ ] order runn merch
 - [ ] ↳ design my own runn merch
-- [ ] work on blog post
 
 firefox
 -------
@@ -53,3 +55,17 @@ Stuff I care about:
 - container tabs
 - mapping of sites to containers
 - syncing bookmarks with iOS
+
+food
+----
+
+- 1 ristretto coffee
+- several slices of pizza
+- 1 chocolate brownie
+
+hackintosh laptop?
+------------------
+
+Would make iOS app development a lot easier...
+
+https://github.com/tylernguyen/x1c6-hackintosh
