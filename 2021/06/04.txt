@@ -15,19 +15,58 @@ schedule
 0800 rolling out of bed
 1000 standup
 1100 JP at the CAB
+1150 working from artisan cafe
 
 todo
 ----
 
-- [ ] Visit the CAB at 11:00 to sign documents
+- [x] send documents to kiwicoin
+  - [x] visit the CAB at 11:00 to sign documents
+  - [x] take documents to post office
 - [ ] update sharesight account
+- [ ] send some photos through to jo!
+- [ ] book tickets for James to fly to Wellington for Thursday 17th
+- [ ] look into accomodation for christchurch next week
+- [ ] setup new laptop with full disk encryption
+      ↳ still not sure which host OS to use
+      ↳ it would be great to have something that is a little more stable than
+        arch
+- [ ] Plan out goals for 1-1 meeting with Rowan on Tuesday
 
 work
 ----
 
-- [ ] hasura migration favourites
-- [ ] discuss validate fn
-- [ ] can we use Hasura to filter items by JSON key/value pairs?
+- [x] reply to rowan about `validate_email("")`
+- [x] reply to priscilla about validate fn
+- [x] can we use Hasura to filter items by JSON key/value pairs? → yes
+
+      query getProjectsWithReference($reference: jsonb!) {
+        projects(where: {references: {_contains: $reference}}) {
+          db_id
+          references
+        }
+      }
+
+      const variables = {
+        "reference": { "Custom1": { "external_id":"123"  } }
+      }
+
+vim
+---
+
+TIL that bullets.vim lets you use <leader>x to toggle checkboxes.
+It's a game changer.
+
+tomorrow
+--------
+
+- [ ] go to park run tomorrow
+
+journal-utils
+-------------
+
+Should be able to check for "tomorrow" and automatically copy that into the
+next entry?
 
 full disk ecryption
 --------------------
@@ -45,3 +84,41 @@ most important thing:
 > #55093. Make sure to specify --type luks1 when creating the encrypted boot
 > partition using cryptsetup luksFormat. grub-gitAUR has gained limited LUKS2
 > support but does not support Argon2i or Argon2id PBKDFs.
+
+new laptop
+----------
+
+The host user should NOT have the same name as the docker user.
+
+It's currently quite confusing on my current setup when I am prompted with:
+
+    [sudo] password for admin:
+
+And I don't know if I am authenticating to the host or vm.
+
+Maybe the host user should be called 'host' so its obvious.
+
+Q1 goals
+--------
+
+short term:
+
+- [x] Divide hasura task up to multiple github issues
+- [x] Make sure we have a retro every month, I’m planning to host the one february
+- [x] Ship Hasura to production
+- [ ] Read the Gitlab Remote Working book
+- [ ] Read the Basecamp Re-mote & Re-work books
+- [ ] Help develop a plan to migrate away from Ruby
+
+Q1 goals
+--------
+
+short term:
+
+- [ ] Build Node.js server to execute actions
+- [ ] Release a non-free app to the App Store
+- [ ] Publish >=3 blog post to the Runn website
+
+long term:
+
+- [ ] Travel to Europe in September
