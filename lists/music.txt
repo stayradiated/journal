@@ -3,6 +3,9 @@ Music (todo)
 
 A list of albums/artists I would like to listen to.
 
+format with
+:'<,'>Tabularize /\v(∙|⠶|\@)
+
 - [ ] Izzy and Moe (https://izzyandmoemusic.com) ⠶ from the Rotorua Farmers Market @2020.12.27
 - [ ] Zoe Scott (@whoiszoescott) ⠶ from the Rotorua Farmers Market @2021.01.10
 - [x] Olympic Girls (Tiny Ruins) @2021.01.10
@@ -12,22 +15,30 @@ A list of albums/artists I would like to listen to.
 John Butler - Motion
 Gerry Cinnamon - Cantor
 
-- [ ] Tim Minchin - Apart Together ⠶ from Penn's Sunday School @ 2021.05.18
+May 2021
+--------
 
-- [ ] Sam Roberts Band ∙ Shapeshifters ⠶ from Spotify DW @2021.05.23
-- [ ] Menomena ∙ Plumage ⠶ from Spotify DW @2021.05.23
-- [ ] Astronauts, etc ∙ I Know ⠶ from Spotify DW @2021.05.23
-- [ ] Active Bird Community ∙ Pick Me Apart ⠶ from Spotify DW @2021.05.23
-- [ ] Janne Schra ∙ Everything I Do Ooh Ooh ⠶ from Spotify DW @2021.05.22
-- [ ] Destroyer ∙ Times Square ⠶ from Spotify DW @2021.05.22
-- [ ] I'm From Barcelona ∙ Always Spring ⠶ from Spotify DW @2021.05.22
-- [ ] Robert Francis ∙ Baby Was the Devil ⠶ from Spotify DW @2021.05.22
-- [ ] Snowmine ∙ Columbus ⠶ from Spotify DW @2021.05.22
-- [ ] The Paper Kites ∙ Electric Indigo ⠶ from Spotify DW @2021.05.24
-- [ ] Little May ∙ Boardwalks ⠶ from Spotify DW @2021.05.27
-- [ ] Vista Kicks ∙ Make It Real ⠶ from Spotify DW @2021.05.28
-- [ ] Raury ∙ Friends ⠶ from Spotify DW @2021.05.28
+- [ ] Tim Minchin           ∙ Apart Together          ⠶ Penn's Sunday School       @ 2021.05.18
+- [ ] Sam Roberts Band      ∙ Shapeshifters           ⠶ Spotify DW                 @ 2021.05.23
+- [ ] Menomena              ∙ Plumage                 ⠶ Spotify DW                 @ 2021.05.23
+- [ ] Astronauts, etc       ∙ I Know                  ⠶ Spotify DW                 @ 2021.05.23
+- [ ] Active Bird Community ∙ Pick Me Apart           ⠶ Spotify DW                 @ 2021.05.23
+- [ ] Janne Schra           ∙ Everything I Do Ooh Ooh ⠶ Spotify DW                 @ 2021.05.22
+- [ ] Destroyer             ∙ Times Square            ⠶ Spotify DW                 @ 2021.05.22
+- [ ] I'm From Barcelona    ∙ Always Spring           ⠶ Spotify DW                 @ 2021.05.22
+- [ ] Robert Francis        ∙ Baby Was the Devil      ⠶ Spotify DW                 @ 2021.05.22
+- [ ] Snowmine              ∙ Columbus                ⠶ Spotify DW                 @ 2021.05.22
+- [ ] The Paper Kites       ∙ Electric Indigo         ⠶ Spotify DW                 @ 2021.05.24
+- [ ] Little May            ∙ Boardwalks              ⠶ Spotify DW                 @ 2021.05.27
+- [ ] Vista Kicks           ∙ Make It Real            ⠶ Spotify DW                 @ 2021.05.28
+- [ ] Raury                 ∙ Friends                 ⠶ Spotify DW                 @ 2021.05.28
+- [ ] The Butlers           ∙ -                       ⠶ live gig at the Blue Smoke @ 2021.05.31
+- [ ] Hannah Everingham     ∙ -                       ⠶ live gig at the Blue Smoke @ 2021.05.31
 
-- [ ] The Butlers ⠶ from live gig at the Blue Smoke @2021.05.31
+June 2021
+---------
 
-- [ ] The Cat Empire ∙ No Longer There ⠶ from Spotify DW @2021.06.03
+- [ ] The Cat Empire    ∙ No Longer There   ⠶ Spotify DW @ 2021.06.03
+- [ ] The Lake Poets    ∙ Edinburgh         ⠶ Spotify DW @ 2021.06.04
+- [ ] The Spiritual     ∙ Jukebox The Ghost ⠶ Spotify DW @ 2021.06.04
+- [ ] Nick J.D. Hodgson ∙ Suitable          ⠶ Spotify DW @ 2021.06.04

@@ -1,0 +1,47 @@
+Friday 04 Jun 2021
+==================
+
+Rotorua
+-------
+
+> Fine, apart from cloud and fog this morning and tonight. Light winds.
+
+High: 14°c Low: 5°c
+6:51am/7:21am → 5:06pm/5:35pm
+
+schedule
+--------
+
+0800 rolling out of bed
+1000 standup
+1100 JP at the CAB
+
+todo
+----
+
+- [ ] Visit the CAB at 11:00 to sign documents
+- [ ] update sharesight account
+
+work
+----
+
+- [ ] hasura migration favourites
+- [ ] discuss validate fn
+- [ ] can we use Hasura to filter items by JSON key/value pairs?
+
+full disk ecryption
+--------------------
+
+resources:
+
+- https://docs.voidlinux.org/installation/guides/fde.html
+- https://www.daveeddy.com/2018/09/05/encrypted-void-linux-install-on-my-thinkpad-x1-carbon/
+- https://wiki.archlinux.org/title/GRUB#Encrypted_/boot
+- https://battlepenguin.com/tech/alpine-linux-with-full-disk-encryption/
+
+most important thing:
+
+> Warning: As of version 2.0.4 GRUB does not support LUKS2 headers; see GRUB bug
+> #55093. Make sure to specify --type luks1 when creating the encrypted boot
+> partition using cryptsetup luksFormat. grub-gitAUR has gained limited LUKS2
+> support but does not support Argon2i or Argon2id PBKDFs.
