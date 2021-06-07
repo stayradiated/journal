@@ -86,3 +86,34 @@ Boot from an arch linux live USB
     exit
     umount -R /mnt
     reboot
+
+virtual console
+---------------
+
+I don't always need to ./startx to use linux.
+I could just work from the virtual console.
+
+How do I remap the capslock key in colemak to control?
+
+    /etc/default/keyboard
+    XKBOPTIONS=ctrl:nocaps
+
+How do I configure colors?
+
+    echo -en "\e]P0001b22"
+    echo -en "\e]P1dd4050"
+    echo -en "\e]P224ce7a"
+    echo -en "\e]P386ea5c"
+    echo -en "\e]P438c2e8"
+    echo -en "\e]P5697fb1"
+    echo -en "\e]P6619e94"
+    echo -en "\e]P7ace2f1"
+    echo -en "\e]P8174954"
+    echo -en "\e]P9e9b3bf"
+    echo -en "\e]PAade1b6"
+    echo -en "\e]PBfbf1cf"
+    echo -en "\e]PCb5dbe4"
+    echo -en "\e]PDb6cbfa"
+    echo -en "\e]PEa3d0c8"
+    echo -en "\e]PFf7f8f8"
+    clear
