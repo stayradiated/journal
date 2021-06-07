@@ -3,10 +3,14 @@ YouTube
 
 > List of YouTube videos I'd like to watch but haven't had time to just yet.
 
-- [ ] CGP Grey ∙ The Battle of SHARKS!
-@ https://www.youtube.com/watch?v=_8xhdL8BPvU
-⠶ Added 2021.05.24 from seeing it appear in my inbox from Patreon
+- [x] https://www.youtube.com/watch?v=_8xhdL8BPvU
+> CGP Grey ∙ The Battle of SHARKS!
+@ Added 2021.05.24 from seeing it appear in my inbox from Patreon
 
-- [ ] Cracking the Cryptic ∙ The Miracle Sudoku
-@ https://www.youtube.com/watch?time_continue=233&v=yKf9aUIxdb4
+- [ ] https://www.youtube.com/watch?time_continue=233&v=yKf9aUIxdb4
+> Cracking the Cryptic ∙ The Miracle Sudoku
 ⠶ from https://interconnected.org/home/2020/05/20/cyborgs_and_emotions
+
+- [ ] https://www.youtube.com/watch?v=1SWJaiY-8Y0
+> George Hotz coding Bitcoin client from scratch
+@2021.06.07

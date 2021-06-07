@@ -1,0 +1,88 @@
+Sunday 06 Jun 2021
+==================
+
+rotorua
+-------
+
+> Periods of rain. Northeasterlies.
+High: 13°c Low: 11°c
+6:52am/7:22am → 5:05pm/5:35pm
+
+comms
+-----
+
+- [ ] reply to chris
+- [ ] reply to jo
+
+travel
+------
+
+ - [ ] accomodation in christchurch (10 nights)
+   - urbanz looks decent ($211)
+ - [.] return flights to wellington for James
+   - [x] book flights ($327.90)
+   - [ ] add flights to calendra
+   - where to go on the weekend?
+
+work
+----
+
+- [ ] 1-1 planning for tuesday morning
+
+todo
+----
+
+- [ ] pick up brian from Andria
+  - [ ] what would be a suitable thank you gift?
+- [ ] reminder to check that kiwi-coin.com receive my letter
+- [ ] dial back automatic payments, 250/250/1400?
+- [ ] edit/publish as many videos as possible for may
+
+distractions
+------------
+
+- [ ] app for kiwi-coin.com
+  - It would be nice if I could create floating orders via the API
+  - I would need to run code off a server to manage my own floating orders
+- [ ] journal-utils
+  - parse daily journal entries, understand todo lists
+
+
+invoicinator
+------------
+
+- edit line about checks
+- add current email address
+- when exporting to a word document bug with missing filename
+
+fixing benji
+------------
+
+problem:
+
+Grub would display error about "boot/vmlinuz-linux not found" and "you need to
+load the kernal first".
+
+Everyone on the internet is just saying to reinstall the "linux" package, but I
+still couldn't get it to boot until I rebuilt the grub config.
+
+solution:
+
+Boot from an arch linux live USB
+
+    mount /dev/sda2 /mnt
+    mount /dev/sda1 /mnt/boot
+    arch-chroot /mnt
+
+    ping google.com # you will need to internet for this next bit
+    pacman -Syu
+    pacman -S linux
+    pacman -S mkinitcpio
+
+    rm -r /boot/EFI
+    grub-install --target=x86_64-efi  --bootloader-id=grub_uefi --recheck --efi-directory=/boot
+    grub-mkconfig -o /boot/grub/grub.cfg
+
+    exit
+    umount -R /mnt
+    reboot
