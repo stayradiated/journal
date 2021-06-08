@@ -13,12 +13,15 @@ schedule
 1330 cycling home
 1400 lunch time
 1450 working from home
+1540 cycling to the forest with james
+1710 working from home agan
 
 work
 ----
 
-- standup with Rowan and Priscilla
-- Q2 1-1 on with Rowan
+- [x] standup with Rowan and Priscilla
+- [x] Q2 1-1 on with Rowan
+- [ ] migrating the Favourites mutation to Hasura
 
 videos
 ------
@@ -30,13 +33,23 @@ How about pick a time in the evening to work on them?
 desktop
 -------
 
-- [ ] fix watson
-- [ ] fix firefox mounting as root
-- [ ] move home directory to match vm (/home/admin in both...)
+- [ ] fix alsamixer not working
+- [x] fix watson
+- [x] fix firefox mounting as root
+- [x] move home directory to match vm (/home/admin in both...)
+
+- [ ] dunst (https://github.com/dunst-project/dunst)
 
 food
 ----
 
 - 1 short black ($4.50)
+- 1 can of chickpeas (roasted)
+- 1 can of red kidney beans 
+- generous spoonful of hummus
+- 2 hard-boiled eggs
+- handful of dates
+- scoop of LSA peanut butter
+- 2 frozen brioche hot cross buns
 
 

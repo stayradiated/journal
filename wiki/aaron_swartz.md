@@ -24,3 +24,9 @@ His plan for RSS v3 sounds great, a very lightweight pliantext
 1. Remove XML
 2. Remove namespaces
 3. Remove HTML
+
+## Trivia
+
+His RSS feed for paulgraham.com is still running fine.
+
+http://paulgraham.com/rss.html
