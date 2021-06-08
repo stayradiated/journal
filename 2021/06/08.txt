@@ -1,0 +1,42 @@
+Tuesday 08 Jun 2021
+===================
+
+schedule
+--------
+
+0700 wake up
+0800 roll out of bed
+0900 working from the interval cafe
+1000 standup
+1030 1-1 with rowan
+1240 visit rotorua bouldering wall
+1330 cycling home
+1400 lunch time
+1450 working from home
+
+work
+----
+
+- standup with Rowan and Priscilla
+- Q2 1-1 on with Rowan
+
+videos
+------
+
+Waaaay behind, need to get better at publishing.
+How about pick a time in the evening to work on them?
+.ie. after 20:00, put the laptop down and work on videos for an hour?
+
+desktop
+-------
+
+- [ ] fix watson
+- [ ] fix firefox mounting as root
+- [ ] move home directory to match vm (/home/admin in both...)
+
+food
+----
+
+- 1 short black ($4.50)
+
+
