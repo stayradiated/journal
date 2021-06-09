@@ -1,0 +1,86 @@
+Thursday 10 Jun 2021
+====================
+
+christchurch
+------------
+
+> Foggy this morning, clearing after sunrise, then fine with light winds.
+> Southerlies later in the evening, bringing cloud and drizzle.
+
+High: 16°c Low: 5°c
+7:25am/7:58am → 5:01pm/5:34pm
+
+schedule
+--------
+
+0700 wake up
+0900 working from saltworks
+1000 standup
+
+todo
+----
+
+- [ ] shut down my Google Cloud project (no longer using it anyway)
+- [ ] fill out Google Doc for polaron
+
+wpa_cli
+-------
+
+Note: You must use DOUBLE QUOTES!
+
+$ wpa_cli
+
+> list_networks
+network id / ssid / bssid / flags
+
+> add_network
+0
+
+> list_networks
+network id / ssid / bssid / flags
+0                   any     [DISABLED]
+
+> set_network 0 ssid "SPOT"
+OK
+
+> set_network 0 psk "password"
+OK
+
+# alternative for open networks
+> set_network 0 key_mgmt NONE
+OK
+
+> list_networks
+network id / ssid / bssid / flags
+0            SPOT any     [DISABLED]
+
+> enable_network 0
+OK
+
+> list_networks
+network id / ssid / bssid / flags
+0            SPOT   any
+
+> select_network 0
+OK
+<3>CTRL-EVENT-CONNECTED - Connection to e4:8d:8c:16:06:e3 completed [id=0 id_str=]
+
+> reconnect
+OK
+
+> status
+bssid=e4:8d:8c:16:06:e3
+freq=2427
+ssid=SPOT
+id=0
+mode=station
+wifi_generation=4
+pairwise_cipher=NONE
+group_cipher=NONE
+key_mgmt=NONE
+wpa_state=COMPLETED
+address=80:45:dd:35:54:f3
+uuid=49c3d68c-3c25-57bc-a9be-40777e34a09e
+
+> save_config
+OK

@@ -11,3 +11,36 @@ High: 16°c Low: 9°c
 
 schedule
 --------
+
+0700 waking up
+0730 rolling out of bed
+0920 working from Cafe le Paris
+0945 team retrospective
+1145 meeting mum and james at the cake gallery cafe
+1230 cycling home
+1430 . driving to airport with family
+
+retrospective
+-------------
+
+- try using donut to schedule virtual coffees with team members
+- consider using feature flagging for our next feature
+- new feature development process:
+  - shaping features in small groups (one/two people)
+  - sharing feature ideas with the team
+  - developing the idea into a high fidelity mockup
+
+todo
+----
+
+- [x] book a week stay at urbanz chch ($188, $23 a night)
+- [ ] sign James up for TripleA driving lessons
+
+expenses
+--------
+
+move services to wise.com account (save on fees!)
+
+- [ ] boardgamearena
+- [ ] patreon
+- [ ] amazon/aws
