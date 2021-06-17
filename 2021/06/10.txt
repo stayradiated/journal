@@ -10,12 +10,46 @@ christchurch
 High: 16°c Low: 5°c
 7:25am/7:58am → 5:01pm/5:34pm
 
+james
+-----
+
+James sat his 4th test for his restricted driving license today and he passed
+without a single error! What a legend!
+
+Mum & Dad are taking him out for dinner tonight to celebrate.
+
 schedule
 --------
 
 0700 wake up
 0900 working from saltworks
 1000 standup
+1015 ride a lime scooter over to andrias place
+1130 cycling with ivan to uprising
+1220 rice ball for lunch with ivan
+
+food
+----
+
+- ¼ office muffin
+- 1 veggie rice ball
+- 1 chicken soup
+- 3 turkish rolls
+- ⅓ packet of dates
+- ⅕ jar of peanut butter
+- 2 apples
+
+health
+------
+
+Not feeling so flash today.
+I hope I'm not getting another cold…
+
+crontab
+-------
+
+  */5 * * * * admin chronic mbsync --config ~/src/mail/czabania.com.config primary
+  */5 * * * * admin chronic mbsync --config ~/src/mail/stayradiated.com.config primary
 
 todo
 ----

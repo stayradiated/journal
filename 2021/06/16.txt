@@ -1,0 +1,53 @@
+Wednesday 16 Jun 2021
+=====================
+
+christchurch
+------------
+
+> Cloudy and foggy this morning and evening with patchy drizzle. Fine breaks
+> during the day. Southwest breezes.
+
+High: 12°c Low: 5°c
+7:28am/8:00am → 5:01pm/5:34pm
+
+schedule
+--------
+
+0630 wake up and out of bed
+0800 sitting in c1 cafe updating wealth.txt
+0900 working from c1
+0955 working from community101
+1000 dev meeting
+1100 design meeting
+1245 lunch with friends @ Hang Send Food Bar
+…
+1715 dice & slice for board games and pizza?
+
+todo
+----
+
+- [ ] find a place to leave my bike/gear for 10 days while I am in wellington
+
+work
+----
+
+- dev meeting are going to start covering what's on the project board
+- plus we are going to start recording them so they can be watched later if
+  team members can't make the meeting.
+- hasura subscriptions: how do we subscribe to just what's changed?
+- cloudinary: how do we upload images without using Rails?
+
+clipboard
+---------
+
+https://github.com/erebe/greenclip
+
+I've installed greenclip, it integrates nicely with rofi.
+Now I can cycle through my clipboard history, how good!
+
+hostel
+------
+
+Sharing the dorm room with a cute swedish girl, Susannnah. She has been living
+in the Gold Coast, Australia and recently flew over to Wellington. Tomorrow she
+is catching catching the alpine train to greymouth and back again.

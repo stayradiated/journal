@@ -34,7 +34,7 @@ todo
 ----
 
 - [x] book a week stay at urbanz chch ($188, $23 a night)
-- [ ] sign James up for TripleA driving lessons
+- [/] sign James up for TripleA driving lessons
 
 expenses
 --------

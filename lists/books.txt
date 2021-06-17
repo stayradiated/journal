@@ -21,3 +21,6 @@ Books (todo)
 - [ ] Ashley Dunn's column (including two articles about cyborgs)
 ↳ https://archive.nytimes.com/www.nytimes.com/library/cyber/surf/indexsurf-97.html
 ⠶ https://interconnected.org/home/2020/05/20/cyborgs_and_emotions
+
+- [ ] Nate Liason's book notes
+⠶ https://www.nateliason.com/notes

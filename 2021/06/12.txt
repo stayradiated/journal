@@ -1,0 +1,57 @@
+Saturday 12 Jun 2021
+====================
+
+christchurch
+------------
+
+> Areas of low cloud or fog, clearing later this morning. A brief period of
+> afternoon sun before becoming cloudy again this evening. Northeasterlies.
+
+High: 13°c Low: 7°c
+7:26am/7:59am → 5:01pm/5:34pm
+
+schedule
+--------
+
+0800 getting out of bed
+0820 hanging out at Child Sister cafe (next door to Urbanz hostel)
+1400 go for a run around hagley park
+
+kiwi-coin
+---------
+
+Basically spent all day working on my kiwi-coin project.
+Added a bunch of features.
+
+- order-book now shows relative price to "worldwide" price
+- trades how include calculated fields
+- watch-price now prints out the current price every 5 seconds
+
+wifi.txt
+--------
+
+I've re-formatted my list of wifi passwords to use a markdown table, it's a lot
+easier to read now.
+
+I found this neat plugin to make managing the table easy-peasy as well:
+
+vim-table-mode
+--------------
+
+https://github.com/dhruvasagar/vim-table-mode
+
+This plugin changes the game when working with tables in Vim.
+I'm so keen to try out the spreadsheeting mode as well!
+
+Tried buying the developer a coffee through buymeacoffee.com, but his Paypal
+account is restricted?
+
+Sponsored the project through this page instead:
+https://opencollective.com/vim-table-mode
+
+travel
+------
+
+I've booked James and I a room at the U Boutique Hotel Wellington.
+The Marion and Dwellington were both booked out, this place looks pretty cool
+though -- and only $93 a night for two people, it's not tooo expensive.

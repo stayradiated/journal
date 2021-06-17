@@ -1,0 +1,20 @@
+Friday 18 Jun 2021
+==================
+
+wellington
+----------
+
+> Mostly cloudy. A few showers. Southerlies.
+
+High: 10°c Low: 8°c
+7:13am/7:44am → 5:00pm/5:32pm
+
+spreadsheets
+------------
+
+I need a great spreadsheet that I can edit in the terminal.
+vim-table-mode is pretty good, but it's formulas are limited.
+
+- sc (https://www.linuxjournal.com/article/10699)
+- oleo (https://www.gnu.org/software/oleo/)
+

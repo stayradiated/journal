@@ -1,0 +1,112 @@
+Friday 11 Jun 2021
+==================
+
+christchurch
+------------
+
+> Mostly cloudy. Light winds.
+
+High: 13°c Low: 4°c
+7:26am/7:58am → 5:01pm/5:34pm
+
+evening
+-------
+
+Ivan is such a great guy, he invited me out to join him and his mates to Smash
+Palace where they played a few games of speed chess. I played two games but
+wasn't feeling very well and got destroyed very quickly.
+
+Vanessa joined us and we walked to Urbanz so I could pick up my bike and drop
+off my bag. We cycled to COCA (Center of Contemporary Art), a local art gallery
+where there was an exhibition on (with free drinks).
+
+- The Near Future by Hannah Watkinson (https://coca.org.nz/exhibitions/the-near-future)
+  * "I began photographing the coastline of the Buller region with the knowledge
+    that at some point, in the near future, the topography would change; rising
+    sea levels, coastal erosion, the winding Coast Road slipping towards the deep
+    blue. In 2015 I was unaware that, like most of the timeframes in Buller, the
+    near future would come a lot sooner than I expected and would unfold before
+    my eyes.
+- Mark Work by Raukura Turei, Julian Hooper & Krystina Kaza, Areta Wilkinson,
+  Warwick Freeman, Hannah Beehre (https://coca.org.nz/exhibitions/mark-work)
+  * This was my favourite piece, a new collection of alphabet letters recreated
+    using rules and symbols, i.e. the uppercase letters drawn using lowercase
+    letters, or letters drawn using numbers. It was really fun trying to figure
+    out the rules.
+- The Mist and the Horizon by Nathan Pōhio and Luke Shaw
+  (https://coca.org.nz/exhibitions/the-mist-and-the-horizon)
+  * I didn't really get this piece, but it looked cool. There was an area where
+    a droning sound was played out of two speakers and depending on where you
+    stood the volume would change due to wave interference, so that was fun to
+    play with.
+
+Vanessa thought I was vegan and had suggested we have dinner at BirdWood pizza,
+but after learning I'm not vegan suggested we grab fried chicken instead. So we
+cycled to Monster Chicken in Riccarton. I haven't had fried chicken in ages and
+it was very delicious.
+
+I sneakily shouted dinner, because Ivan and Vanessa are awesome friends. Hoping
+to catch up with them again on Sunday for a chill day walk up a mountain.
+
+community101
+------------
+
+Working from the BNZ Community101 co-working space on Cashel St today.
+I can't believe they don't charge people to work here!
+
+There are some downsides though:
+- no free tea/coffee
+- no bathroom
+
+winter/august
+-------------
+
+I really want to get into snowboarding this year.
+It would be neat to fly Dad & James down to the slopes as well and spend a
+weekend out there.
+
+I think getting out there at least 10 time would be good.
+
+https://shop.mthutt.co.nz/season-passes-mh
+Mt Hutt Season Pass - $799.00
+Afternoon Pass - $102.00
+
+Need to check with Ivan to see where he is planning to go.
+- Broken River as the default
+- Mt Hutt/Coronet/Remarkable for 5 days
+- Porters for something close/easy/cheap
+
+schedule
+---------
+1000,1045: Hasura Naming Conventions
+1200,1400: Monthly Lunch + Show & Tell
+1430,1630: Hasura - Planner Testing
+
+work
+----
+
+- [x] review Rowan's PR for migrating the archive code 
+- [x] request review for planner search fixes
+
+food
+----
+
+- 1 short black coffee
+- 1 mushroom soup
+- 1 feta & spinach muffin
+- 2 choccy bikkies
+- Monster Chicken
+  * Crispy Tender Chicken
+  * Galbi Tender Chicken
+  * Potato Fries
+  * Kimchi
+
+todo
+----
+
+- [ ] shut down my Google Cloud project (no longer using it anyway)
+- [ ] fill out Google Doc for polaron
+- [ ] move services to wise.com card
+  - [ ] boardgamearena
+  - [ ] patreon
+  - [ ] amazon/aws

@@ -1,0 +1,63 @@
+Sunday 13 Jun 2021
+==================
+
+christchurch
+------------
+
+> Early morning fog, then cloudy. Occasional rain developing in the afternoon.
+> Northeasterlies.
+
+High: 16°c Low: 7°c
+7:27am/7:59am → 5:01pm/5:34pm
+
+- cycling to South Christchurch Library where I met up with Ivan and Vanessa at
+  9:30am.
+- we cycled to Mount Vernon carpark, locked our bikes up and walked up to the
+  summit, arriving there around 11am.
+- I brought my discgolf disc with me and we threw it around a bit. I nearly
+  lost it in the tussock grass.
+
+tmux
+----
+
+If you ever want to dump the entire scrollback buffer of a pane, use this
+command:
+
+  tmux capture-pane -pS - > file
+
+bitcoin
+-------
+
+I implemented the first version of my "auto-buy" kiwi-coin code.  It's super
+basic -- every 5 minutes it cancels any open orders and then creates a new
+order at 1.5% below the current price reported on Binance. I let it run all
+night and managed to spend $400 on bitcoin before my account run out of funds.
+
+I think there a lot of things I could do better.
+
+- Check on the date of the last order, use this to dynamically set the amount.
+  It should gradually increase until someone buys and then drop down again.
+  Start by targeting an average of $5 an hour.
+- Take the lowest ask into account. If we create an order that is greater or
+  equal to the top ask, we pay an extra 0.4% fee to kiwi-coin.com. If the top
+  ask is 0.4% lower than our desired price, take it, otherwise drop to a cent
+  below the top ask price so we pay less in fees. 
+  * Better idea, assume that the lowest ask is price is sensible and never go
+    above it.
+- Could try maintaining multiple orders at different rates
+- Could try checking the open orders and adjust my price to be a cent above the
+  next highest order. This seems a bit cheeky though.
+
+benji
+-----
+
+Benji is behaving oddly. I changed the system timezon to Pacific/Auckland and
+now I can't use `sudo` anymore… I also don't know the root password so I can't
+easily fix it - I can't even reboot!
+
+I think if it doesn't fix itself I will have to get mum to do a manual reboot
+via the power button. If I can `sudo` back into root afterwards, I should reset
+the root password and add it to my password manager.
+
+At least in the meantime I can live inside my docker shell and build the latest
+version of my image.

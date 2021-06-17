@@ -1,0 +1,137 @@
+Monday 14 Jun 2021
+==================
+
+christchurch
+------------
+
+> Low cloud and fog, but some fine breaks possible this afternoon. Light winds.
+
+High: 14°c Low: 5°c
+7:27am/8:00am → 5:01pm/5:34pm
+
+Woke up with a roaring headache.
+I had two drinks yesterday, not if sure that is enough for a hangover.
+I also ate an entire loaf of banana bread, which certainly didn't help.
+
+I woke up, tidied up my gear, let the team know I was taking a sick day and
+then went back to bed.
+
+I lay in bed all morning, waking up again at 11:00. I cycled to the Uprising
+gym and went bouldering for an hour. I should try and do this each day.
+Managed to complete a few yellow climbs and make decent progress on orange.
+
+Cycled back into the city centre, picked up a salmon rice ball and ate at
+Saltworks. James received an email last week saying that the Department of
+Internal Affairs couldn't find his citizenship information. I need to call them
+and find out if we can get a refund on the application while we sort out the
+citizenship details.
+
+old written notes
+-----------------
+
+ROTORUA
+- setup new laptop
+  * I don't want to travel with 2 laptops. Only reason to take old laptop is
+    data access.
+- Backup old laptop onto SSD. Bring SSD with me.
+- Fix Benji - fried the bootloader. Why don't I back it up and install
+  Voidlinux instead?
+  * How do I restart on power failure?
+    + Might be a BIOS option?
+- Visit The Wall, try out climbing shoes…
+
+EMAIL
+- Would be a good time to get the family moved to Migadu while I am here.
+  * Export mail from Fastmail
+  * Pretty sure I don't need it, but nice to have
+  * Can I kill dev@stayradiated.com from Google?
+- Start syncing with imapsync…
+
+COMMS
+- reply to chris (top)
+- reply to jo
+
+TRAVEL
+- accomodation in Christchurch (10 nights) → URBANZ ($211)
+- flights to Wellington for James
+  * where to go on the weekend? Kapiti Island by Train
+  * 17th June to 20th June
+  * stay at the Marion, make cookies
+
+WORK
+- 1-1 planning fo tuesday morning
+- Review documents
+
+TODO
+- pick up brian from Andria
+  * what would be a suitable gift as a thank you?
+- really hope that kiwi-coin.com allow me to withdraw bitcoins 
+  * find a "cold wallet" solution, i.e. paper?
+- backup old laptop
+- invoicinator
+- iMac for Mum (12 August)
+- Setup laptop for James?
+
+DISTRACTIONS
+- App for kiwi-coin
+  * It would be nice if I could create floating orders via the app
+  * Would need my own server to manage floating orders
+- Journal → blog
+- Rarotonga
+  * 1 week
+  * Flights for 3 (James, Dad, Me)
+  * Best time of year?
+
+DEVELOP A PLAN
+- write down a plan
+- share with team
+
+BLOG POST
+- putting time into it
+- track hours
+
+TECHNICAL LEAD
+- what are good resources to read about?
+
+RUNN in Wellington
+- Activities → #general
+  * Masterchef
+  * Hike
+  * Disc Golf?
+
+TIMEZONE
+- Reading sections about timezone dev
+- Async? Document options
+
+AUDIO
+- Best microphone setup for noisy cafes?
+
+PEER PROGRAMMING
+- During code review
+- Good time to bring people in
+- Document the outcomes
+
+JUNE
+- Customer Privacy as a core value
+
+ZERO
+- plaintext file, csv
+  * sync via dropbox?
+  * save/manage in working copy
+  * can sync with web, linux, anything
+- How can an iOS app utilise external data storage that isn't iCloud, i.e.
+  integrate with other apps
+- Minimal Zero Clone
+  * performance
+  * easy to export data
+  * no account required
+  * import/export plaintext files
+    + should support zero format
+  * notifications @ 18:00 hours
+  * custom fast length
+  * easy to edit past entries
+  * usable on iPhone SE
+- custom expo.app
+  * including my own selection of libraries
+  * alternately, remote debugging of xcode? Could use colud hosted mac mini
+    server?
