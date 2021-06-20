@@ -9,6 +9,12 @@ wellington
 High: 10°c Low: 8°c
 7:13am/7:44am → 5:00pm/5:32pm
 
+todo
+----
+
+- [ ] book a haircut for Wednesday morning
+- [ ] go for a park run
+
 spreadsheets
 ------------
 
