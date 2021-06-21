@@ -1,0 +1,65 @@
+nz.js(con);
+-----------
+
+I should get back on the js nz slack group. 
+
+# When do you stop starting again
+Stevie Mayhew @ Actionstep
+Opportunity cost of new technology
+
+# Metrics
+Ashkay & Monica @ Xero
+- Deployment Lead Time
+- Avg Commit to Prod
+- Measuring the time from PR merge to Prod deploy finish
+- Using Google Forms as a data input
+
+Qs
+- When is avg commit time? ➝ just middle of start and end
+- When are you querying info from user? ➝ done automatically through CI server
+
+# Sudoku w. SVG
+Grant McLean @ Catalyst
+- Problem build a better sudoku app with support for pencil marking
+- Inspired by Cracking the Cryptic app
+- Features:
+    - Pencil markings
+    - undo/redo
+    - Keyboard shortcuts
+    - Cell highlighting
+    - Dark mode
+    - Lots of settings
+    - Create your own puzzle
+    - Share puzzle as a link
+    - Mobile and touch support
+- Using SVG to create UI
+- Write your own SVG by hand
+- Styling SVG with CSS and adding interactions with JS
+- Rendering SVG with React
+- Use translate transform to simplify layout math
+
+Qs
+- Why use SVG over HTML elements? ➝ layout challenges with HTML
+
+# The Art of Maps
+Kim Fitter @ Xero
+slides: artofmaps.netlify.com
+Taught herself R and organised a meetup for people interested in R.
+Making art maps with open source tools:
+- Streets of Auckland (openstreetmaps)
+- Stamen watercolour tiles (leaflet)
+- Observable
+
+# A fresh take on JSX
+Fabian Cook @ clearpoint, contact
+"JSX as a value"
+
+lightning talk
+--------------
+
+Node.js, secrets in-memory aren't that safe
+
+Proof of concept
+- Input on the website that takes a password
+
+
