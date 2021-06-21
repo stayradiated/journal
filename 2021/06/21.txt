@@ -1,3 +1,25 @@
+Monday 21 Jun 2021
+==================
+
+wellington
+----------
+
+> Periods of rain, with some heavy falls. Gale south to southeasterlies,
+> gusting 120 km/h in exposed places.
+
+High: 12°c Low: 9°c
+7:13am/7:45am → 5:01pm/5:32pm
+
+nz.js(con);
+-----------
+
+Helping out with registration this morning.
+
+familiar faces:
+
+- tristan & allie
+- sera
+
 nz.js(con);
 -----------
 
@@ -61,5 +83,3 @@ Node.js, secrets in-memory aren't that safe
 
 Proof of concept
 - Input on the website that takes a password
-
-

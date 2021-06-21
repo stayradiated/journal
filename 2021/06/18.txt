@@ -24,3 +24,57 @@ vim-table-mode is pretty good, but it's formulas are limited.
 - sc (https://www.linuxjournal.com/article/10699)
 - oleo (https://www.gnu.org/software/oleo/)
 
+I haven't tried oleo yet, but `sc` is amazing.
+I've started tracking my spending using it.
+
+I really like how it uses a plaintext file format + it automatically exports as
+a text file.
+
+work
+----
+
+Taking another half day today.
+
+schedule
+--------
+
+0630 wake up
+0700 working from Cafe L'affare
+0930 head back to the hotel
+1000 standup
+1145 lunch at Cafe L'affare with James
+
+todo
+----
+
+- [.] wash/dry my clothes
+
+tailscale
+---------
+
+https://github.com/tailscale/tailscale
+
+Brendon has alerted me to Tailscale. I've used WireGuard in the past, but it
+can be a little tricky to configure.
+
+It would be good to get Benji setup with WireGuard again, instead of having to
+keep an SSH port exposed on the internet.
+
+supabase
+--------
+
+https://supabase.io/
+
+Looks pretty cool, could be a good backend for KC?
+I wonder if I can use zapatos/pg with it though?
+
+food
+----
+
+- 1 short black coffee 
+- 1 tomato and chorizo soup
+
+cycling
+-------
+
+https://switchedonbikes.co.nz/wellington-bays-and-maupuia-lookout/

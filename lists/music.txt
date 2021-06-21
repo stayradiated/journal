@@ -45,21 +45,22 @@ May 2021
 June 2021
 ---------
 
-- [ ] The Cat Empire                   ∙ No Longer There       ⠶ Spotify DW @ 2021.06.03
-- [ ] Montaigne                        ∙ I'm a Fantastic Wreck ⠶ Spotify DW @ 2021.06.03
-- [ ] Autoheart                        ∙ Agoraphobia           ⠶ Spotify DW @ 2021.06.03
-- [ ] Winterbourne                     ∙ Cold                  ⠶ Spotify DW @ 2021.06.03
-- [ ] Honeybee                         ∙ Sideways              ⠶ Spotify DW @ 2021.06.03
-- [ ] The Lake Poets                   ∙ Edinburgh             ⠶ Spotify DW @ 2021.06.04
-- [ ] The Spiritual                    ∙ Jukebox The Ghost     ⠶ Spotify DW @ 2021.06.04
-- [ ] Nick J.D. Hodgson                ∙ Suitable              ⠶ Spotify DW @ 2021.06.04
-- [ ] Great Gable                      ∙ Punga                 ⠶ Spotify DW @ 2021.06.06
-- [ ] Paul Williams                    ∙ Euroleague            ⠶ Spotify DW @ 2021.06.08
-- [ ] Cousin Tony's Brand New Firebird ∙ Melbourne Bitter      ⠶ Spotify DW @ 2021.06.08
-- [x] San Fermin                       ∙ Cairo                 ⠶ Spotify DW @ 2021.06.08
-- [ ] Haley Blais                      ∙ Late Bloomer          ⠶ Spotify DW @ 2021.06.08
-- [ ] Orla Gartland                    ∙ More Like You         ⠶ Spotify DW @ 2021.06.08
-- [ ] Middle Kids                      ∙ Never Start           ⠶ Spotify DW @ 2021.06.08
-- [ ] Mama Kin                         ∙ Air Between Us        ⠶ Spotify DW @ 2021.06.08
-- [ ] Jack River                       ∙ Palo Alto             ⠶ Spotify DW @ 2021.06.08
-- [ ] The Magic Gang                   ∙ Believe in Yourself   ⠶ Spotify DW @ 2021.06.08
+- [ ] The Cat Empire                   ∙ No Longer There         ⠶ Spotify DW @ 2021.06.03
+- [ ] Montaigne                        ∙ I'm a Fantastic Wreck   ⠶ Spotify DW @ 2021.06.03
+- [ ] Autoheart                        ∙ Agoraphobia             ⠶ Spotify DW @ 2021.06.03
+- [ ] Winterbourne                     ∙ Cold                    ⠶ Spotify DW @ 2021.06.03
+- [ ] Honeybee                         ∙ Sideways                ⠶ Spotify DW @ 2021.06.03
+- [ ] The Lake Poets                   ∙ Edinburgh               ⠶ Spotify DW @ 2021.06.04
+- [ ] The Spiritual                    ∙ Jukebox The Ghost       ⠶ Spotify DW @ 2021.06.04
+- [ ] Nick J.D. Hodgson                ∙ Suitable                ⠶ Spotify DW @ 2021.06.04
+- [ ] Great Gable                      ∙ Punga                   ⠶ Spotify DW @ 2021.06.06
+- [ ] Paul Williams                    ∙ Euroleague              ⠶ Spotify DW @ 2021.06.08
+- [ ] Cousin Tony's Brand New Firebird ∙ Melbourne Bitter        ⠶ Spotify DW @ 2021.06.08
+- [x] San Fermin                       ∙ Cairo                   ⠶ Spotify DW @ 2021.06.08
+- [ ] Haley Blais                      ∙ Late Bloomer            ⠶ Spotify DW @ 2021.06.08
+- [ ] Orla Gartland                    ∙ More Like You           ⠶ Spotify DW @ 2021.06.08
+- [ ] Middle Kids                      ∙ Never Start             ⠶ Spotify DW @ 2021.06.08
+- [ ] Mama Kin                         ∙ Air Between Us          ⠶ Spotify DW @ 2021.06.08
+- [ ] Jack River                       ∙ Palo Alto               ⠶ Spotify DW @ 2021.06.08
+- [ ] The Magic Gang                   ∙ Believe in Yourself     ⠶ Spotify DW @ 2021.06.08
+- [ ] Ellen Rose                       ∙ Black and White         ⠶ Ellen      @ 2021.06.19

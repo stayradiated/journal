@@ -1,7 +1,20 @@
+Tuesday 22 Jun 2021
+===================
+
+deno
+
+npm install --ignore-scripts
+yarn add --ignore-scripts
+
+npm config set ignore-scripts true
+yarn config set ignore-scripts true
+
+enable 2fa
+
+npm audit
+
 nz.js(con);
 -----------
 
-
 # Keynote
 Ross Jourdon
-
