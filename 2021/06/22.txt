@@ -1,17 +1,22 @@
 Tuesday 22 Jun 2021
 ===================
 
-deno
+lightning talk
+--------------
 
-npm install --ignore-scripts
-yarn add --ignore-scripts
+things to prodect against yourself from NPM
 
-npm config set ignore-scripts true
-yarn config set ignore-scripts true
+- use deno
+- use --ignore-scripts
 
-enable 2fa
+    npm install --ignore-scripts
+    yarn add --ignore-scripts
 
-npm audit
+    npm config set ignore-scripts true
+    yarn config set ignore-scripts true
+
+- make sure you have 2fa for your NPM account
+- npm audit
 
 nz.js(con);
 -----------
