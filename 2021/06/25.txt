@@ -1,0 +1,107 @@
+Friday 25 Jun 2021
+==================
+
+christchurch
+------------
+
+> Cloudy. Light rain possible. Northerlies dying out overnight.
+
+High: 15°c Low: 7°c
+7:30am/8:03am → 5:03pm/5:35pm
+
+todo
+----
+
+# work
+- [ ] zoom zoom zoom
+- [ ] get that tutorial published
+  - [ ] read dan's overview and get back to him
+- [ ] write notes about subscripitons and audit log
+  - [ ] https://www.notion.so/runn/GraphQL-Subscriptions-81e406432d7b47b2aacebfe7750266ab
+
+# personal
+- [ ] get my bike back
+- [ ] watch those JS Con talks
+- [ ] publish YT videos
+- [ ] submit family tree to polaron
+  - [ ] get as much info from ancestry.com as i can
+  - [ ] cancel subscription (pay fee!)
+
+# email
+- [ ] catalyst cloud
+  - [ ] why haven't they called me yet → follow up
+- [ ] dassetx.com 
+  - [ ] why haven't I heard back about verification?
+  - [ ] sounds like a pretty dodgy website anyway
+- [ ] mxc.com
+  - [ ] continue trying to get HNS coins deposit?
+- [ ] rabobank
+  - [ ] update info (low priority)
+
+# oikos
+- [ ] set aside dedicated time each week to catch up with friends
+- [ ] reply to friends
+
+old notes
+---------
+
+NZ DAILY
+
+How do we make this into a secure service
+- Easy to dollar cost average
+- Open source, encourage people to host themselves
+- Charge $5NZD to host for them
+  * API Key, for Kiwi-Coin
+  * Charge via Stripe?
+
+FEATURES
+
+More control of "floating" orders
+- Transparency over where price is calculated
+- always buy below that 0.4% FEE
+
+SIGNUP FOR ACCOUNT?
+
+Could be rolled into app store purchase
+Does Apple dive me an ID I can use?
+- prolly not
+Need something to track config
+- Sign in with Apple
+
+Things you can do _without_ credentials:
+- view order book
+- view ticker
+- view past price of bitcoin
+  * price compared to current easycrypto offer
+
+Things you can do once you have added your credentials:
+- View open orders
+- View past trades
+- Create buy order
+  * Limit, Market, Floating
+- Creat sell order
+  * Limit, Market, Floating
+- Cancel open orders
+
+Need to make sure it works well on the latest iPhones?
+- Android support?
+
+- Can we get notifications on a successful buy?
+- Track data over time.
+
+Bitcoin. NZ. Kiwi-Coin.
+KiwiCrypto?
+
+Easy crypto API → Display price in order-book.
+
+Need an online service to manage floating orders.
+Provide a GraphQL API on Top of the Core Data.
+Could we use Hasura? + PostgreSQL?
+
+SERVER
+
+Node.JS.  Minimal dependencies.
+Could we use ncc?
+Server that queries order book every 5 seconds.  UPdates PostgreSQL.
+
+

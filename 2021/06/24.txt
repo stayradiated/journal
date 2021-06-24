@@ -1,0 +1,82 @@
+Thursday 24 Jun 2021
+====================
+
+wellington → christchurch
+-------------------------
+
+> Fine with some high cloud. Northerlies.
+
+High: 12°c Low: 4°c
+7:30am/8:02am → 5:02pm/5:35pm
+
+- Flying back to Christchurch today, flight at 11:15.
+- Catching an uber to the airport with Priscilla and Andria.
+- Working with Andria in the afternoon from the Belle cafe
+
+food
+----
+
+- 2 short black coffees
+- 1 soba noodle salad
+- 1 lentil soup
+- decent amount of dates
+- scoop of peanut butter
+- 1 apple
+
+todo
+----
+
+so. many. todos. in. my. head.
+
+# work
+- [ ] get that tutorial published
+  - [ ] read dan's overview and get back to him
+- [ ] write notes about subscripitons and audit log
+  - [x] reply to rowan's questions
+  - [ ] https://www.notion.so/runn/GraphQL-Subscriptions-81e406432d7b47b2aacebfe7750266ab
+
+# personal
+- [ ] get my bike back
+- [ ] submit family tree to polaron
+  - [ ] get as much info from ancestry.com as i can
+  - [ ] cancel subscription (pay fee!)
+- [x] update expenses
+- [ ] watch those JS Con talks
+- [ ] publish YT videos
+
+# email
+- [ ] catalyst cloud
+  - [ ] why haven't they called me yet → follow up
+- [ ] dassetx.com 
+  - [ ] why haven't I heard back about verification?
+  - [ ] sounds like a pretty dodgy website anyway
+- [ ] mxc.com
+  - [ ] continue trying to get HNS coins deposit?
+- [ ] rabobank
+  - [ ] update info (low priority)
+
+# oikos
+- [x] phone jo :)
+- [ ] set aside dedicated time each week to catch up with friends
+- [ ] reply to friends
+
+tomorrow
+--------
+
+Runn has an online session tomorrow, starting at 9am.
+Andria has invited me over to her place tomorrow.
+
+- Our target markets and ideal customer & acquisition strategy 
+- Chapter 2: The next 18 months for Runn
+- Re-evaluating past decisions based on our values
+- EOS introduction - a planning and management strategy for growing businesses
+- Runn as a Product lead business and our product development process
+
+ancestry.com
+------------
+
+Great collection of data, but I hate the way they handle subscriptions -- very
+dark, feels like a scam.
+
+Costs over $60 USD if you just want a month (1 month + cancel fee).
+
