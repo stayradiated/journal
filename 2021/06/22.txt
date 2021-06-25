@@ -1,5 +1,10 @@
 Tuesday 22 Jun 2021
 ===================
+schedule
+--------
+
+- 1000 morning tea
+- 1600 lightning talks
 
 lightning talk
 --------------
@@ -17,9 +22,79 @@ things to prodect against yourself from NPM
 
 - make sure you have 2fa for your NPM account
 - npm audit
+- Make 5 slides (runn)
+- Practice talk, time how long it takes
+- Focus on conveying ideas
+- Live demo
+- 
 
 nz.js(con);
 -----------
 
 # Keynote
 Ross Jourdon
+
+# Keynote: Teams, Coding and the Perfect Cup of Coffee
+Ross Jourdon @ Enspiral Dev Academy
+- Aristotle's Metaphysics: "The whole is greater than the sum of its parts"
+
+
+# Tips for getting Hires
+Johnathan Hollingsworth @ Media Suite
+- Be a "low risk" candidate, a safe bet, a trustworthy individual.
+- Cover letter: A written introduction. Research the company beforehand, explain why you want to work for them. 
+- CV: short paragraph to explain your strengths, list major projects and what you did, aim for 2-3 pages, don't include photo
+- Coding Exercise: write code designed to be read by the interviewer. Write unit tests. Include readme showing how to run the program. Be prepared to explain your implementation decisions. 
+- Technical Interview: be able to explain large projects you've worked on at a high level. 
+- Communicate bad news early. 
+- Understanding how to communicate with customers. 
+- Answer questions: prepare for these online, use "funnelling" technique. Avoid sneezing out many examples, focus on clearly giving one example. 
+- Asking questions: asks lots of questions that aren't on the company website: onboarding process, company turnover, upcoming projects
+- Rejection: ask if you can re-apply in the future. 
+- One weird trick: understand the interview process from the companies point of view. 
+
+Qs.
+
+- Pay negotiation: know your value, understand the local market. 
+- How to reject a company: politely give reasons why, feedback about the process
+- Technical interviews: having objective measure of candidates skill
+- Disabilities: look for roles that align well with your strengths, present how you can problem solve
+- Clothing choice: ideally doesn't matter, but realistically use common sense
+
+# Offline-first data sharing with peer-to-peer data sharing 
+Robbie McKay
+github.com/
+
+Building blocks:
+- Hypercore/Hyperswarm/Hyperdrive: Data is stored in an Append-only Log
+- Kappa DB: event sourcing, similar to redux store with actions
+- multifeed on top of hypercore
+
+npm install kappa-core kappa-view
+
+Storing mapped event data in leveldb.
+
+HyperSwarm
+DHT for peer discovery
+mDNS for local network peer discovery
+
+Kademlia DHT
+to find peers
+
+> Local apps are a distributed system
+
+Distributed systems have hard problems:
+- Unreliable ordering
+
+Add a timestamp to each action (using HLC)
+
+Last-Write-Wins Map: CRDT
+
+Qs
+- Have you used beaker-browser?
+- What is "workbox"?
+- How long data does data persist for? Does the append-only log just keep growing?
+
+Examples of production use:
+- Mapeo
+- CoBox
