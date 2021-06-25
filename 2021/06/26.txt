@@ -1,8 +1,18 @@
-SATURDAY
+2021.06.26
 
-I want to have more fun. 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+██░▄▄▄░█░▄▄▀█▄░▄█░██░█░▄▄▀█░▄▀█░▄▄▀█░██░██
+██▄▄▄▀▀█░▀▀░██░██░██░█░▀▀▄█░█░█░▀▀░█░▀▀░██
+██░▀▀▀░█▄██▄██▄███▄▄▄█▄█▄▄█▄▄██▄██▄█▀▀▀▄██
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-Laptops in Cafes
+I want to have more fun with my journal.
+Is there a CLI version of textfancy.com?
+
+░█▒░▒▄▀▄▒█▀▄░▀█▀░▄▀▄▒█▀▄░▄▀▀░░░█░█▄░█░░░▄▀▀▒▄▀▄▒█▀▒██▀░▄▀▀
+▒█▄▄░█▀█░█▀▒░▒█▒░▀▄▀░█▀▒▒▄██▒░░█░█▒▀█▒░░▀▄▄░█▀█░█▀░█▄▄▒▄██
+
+I want to start recording
 
 - Foundation
 : no power outlets
@@ -11,6 +21,40 @@ Laptops in Cafes
 : a few outlets available, but only for a few tables which fill up quickly. 
 
 - Bunsen
-: More seating than you would expect upstairs, but no power outlets
+: More seating than you would expect upstairs, but no power outlets :(:w
 
--
+░▀█▀░▄▀▄░█▀▄░▄▀▄
+░▒█▒░▀▄▀▒█▄▀░▀▄▀
+
+- [ ] accomodation
+  - [ ] book another few nights at urbanz
+
+- [ ] dithering.fm
+  - [ ] still hasn't charged me properly
+
+
+░██▄▒█▀▄▒██▀░█▄░█░█▀▄░▄▀▄░█▄░█
+▒█▄█░█▀▄░█▄▄░█▒▀█▒█▄▀░▀▄▀░█▒▀█
+
+> @GeorgeCzabania
+> I've encrypted you a message with this function
+>
+> var cipher = crypto.createCipher('aes-256-ctr', secret)
+>
+> e28b55a7db583de7376575a4494550f46a79ee4ed9a1e24d32638f33c4e6c0eff9f7
+>
+> To create the secret, I used the diffie-hellman key exchange with one of your
+> public keys (it was created with an elliptic curve). I assume the prime for
+> creating the diffie-hellman key-pair was modp14Find the secret to decrypt the
+> message 
+> 
+> ah shit, lol I was supposed to give you my public key
+> 
+> I've created a new message:
+> 
+> c3d3fcd2676bc4995480b2f1e94cea942ec386b60c5ee17317a99bbc5f2cdf70a352
+> 
+> My public key (hex) is:
+> b824b1c5c08a0feb74ec50d737a7098174c1e2f6ce339146b8e33ae1c1cc75f3d59cd787576883368fb613679c02913368fd457d5ebbc93b0c59943b17f564da456969c1211f0fe9943d73cc45ae1dd75f9267aaa47eb9e952576fb3eb6922f29ca36f1e6a56e53e82bd91e7793ac9b965e6ca1626ac187f3b50607298ce777192bf25203986b6f3c9ff804c7836de9d8ad368d37e19100e3b66ee86266461fbd00fc52b9ded33e502081951e9b84fd0aa0bfb48cba9f0b3a4af05b85a90c788aaa39bd635a00e1911531076fc13c822de74b275b5a9ac56eef447e97d2ff9e7f58cbc54ce3fa56e5fc883707bf764245d0394ceec2286c67a9a4774692c49be
+
+Let's crack Brendon's secret message!

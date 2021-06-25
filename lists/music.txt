@@ -3,66 +3,57 @@ Music (todo)
 
 > A list of albums/artists I would like to listen to.
 
-format with
-\v(∙|⠶|\@)
-
-January 2021
-------------
-
-- [ ] Izzy and Moe (https://izzyandmoemusic.com) ⠶ from the Rotorua Farmers Market @2020.12.27
-- [ ] Zoe Scott (@whoiszoescott) ⠶ from the Rotorua Farmers Market @2021.01.10
-- [x] Olympic Girls (Tiny Ruins) @2021.01.10
-- [x] Maybe You've Been Brainwashed Too - The New Radicals ⠶ from todayintabs @2021.01.20
-- [ ] Hidden (These New Puritans) @2021.01.28
-
-February 2021
--------------
-
-- [ ] John Butler ∙ Motion
-- [ ] Gerry Cinnamon ∙ Cantor
-
-May 2021
---------
-
-- [ ] Tim Minchin           ∙ Apart Together          ⠶ Penn's Sunday School       @ 2021.05.18
-- [ ] Sam Roberts Band      ∙ Shapeshifters           ⠶ Spotify DW                 @ 2021.05.23
-- [ ] Menomena              ∙ Plumage                 ⠶ Spotify DW                 @ 2021.05.23
-- [ ] Astronauts, etc       ∙ I Know                  ⠶ Spotify DW                 @ 2021.05.23
-- [ ] Active Bird Community ∙ Pick Me Apart           ⠶ Spotify DW                 @ 2021.05.23
-- [ ] Janne Schra           ∙ Everything I Do Ooh Ooh ⠶ Spotify DW                 @ 2021.05.22
-- [ ] Destroyer             ∙ Times Square            ⠶ Spotify DW                 @ 2021.05.22
-- [ ] I'm From Barcelona    ∙ Always Spring           ⠶ Spotify DW                 @ 2021.05.22
-- [ ] Robert Francis        ∙ Baby Was the Devil      ⠶ Spotify DW                 @ 2021.05.22
-- [ ] Snowmine              ∙ Columbus                ⠶ Spotify DW                 @ 2021.05.22
-- [ ] The Paper Kites       ∙ Electric Indigo         ⠶ Spotify DW                 @ 2021.05.24
-- [ ] Little May            ∙ Boardwalks              ⠶ Spotify DW                 @ 2021.05.27
-- [ ] Vista Kicks           ∙ Make It Real            ⠶ Spotify DW                 @ 2021.05.28
-- [ ] Raury                 ∙ Friends                 ⠶ Spotify DW                 @ 2021.05.28
-- [ ] Hannah Everingham     ∙ -                       ⠶ live gig at the Blue Smoke @ 2021.05.31
-- [ ] Muroki                ∙ -                       ⠶ live gig at the Blue Smoke @ 2021.05.31
-- [ ] The Butlers           ∙ -                       ⠶ live gig at the Blue Smoke @ 2021.05.31
-
-June 2021
----------
-
-- [ ] The Cat Empire                   ∙ No Longer There               ⠶ Spotify DW   @ 2021.06.03
-- [ ] Montaigne                        ∙ I'm a Fantastic Wreck         ⠶ Spotify DW   @ 2021.06.03
-- [ ] Autoheart                        ∙ Agoraphobia                   ⠶ Spotify DW   @ 2021.06.03
-- [ ] Winterbourne                     ∙ Cold                          ⠶ Spotify DW   @ 2021.06.03
-- [ ] Honeybee                         ∙ Sideways                      ⠶ Spotify DW   @ 2021.06.03
-- [ ] The Lake Poets                   ∙ Edinburgh                     ⠶ Spotify DW   @ 2021.06.04
-- [ ] The Spiritual                    ∙ Jukebox The Ghost             ⠶ Spotify DW   @ 2021.06.04
-- [ ] Nick J.D. Hodgson                ∙ Suitable                      ⠶ Spotify DW   @ 2021.06.04
-- [ ] Great Gable                      ∙ Punga                         ⠶ Spotify DW   @ 2021.06.06
-- [ ] Paul Williams                    ∙ Euroleague                    ⠶ Spotify DW   @ 2021.06.08
-- [ ] Cousin Tony's Brand New Firebird ∙ Melbourne Bitter              ⠶ Spotify DW   @ 2021.06.08
-- [x] San Fermin                       ∙ Cairo                         ⠶ Spotify DW   @ 2021.06.08
-- [ ] Haley Blais                      ∙ Late Bloomer                  ⠶ Spotify DW   @ 2021.06.08
-- [ ] Orla Gartland                    ∙ More Like You                 ⠶ Spotify DW   @ 2021.06.08
-- [ ] Middle Kids                      ∙ Never Start                   ⠶ Spotify DW   @ 2021.06.08
-- [ ] Mama Kin                         ∙ Air Between Us                ⠶ Spotify DW   @ 2021.06.08
-- [ ] Jack River                       ∙ Palo Alto                     ⠶ Spotify DW   @ 2021.06.08
-- [ ] The Magic Gang                   ∙ Believe in Yourself           ⠶ Spotify DW   @ 2021.06.08
-- [ ] Tom Rosenthal                    ∙ I went to bed and I loved you ⠶ Mailing list @ 2021.06.17
-- [ ] Ellen Rose                       ∙ Black and White               ⠶ Ellen        @ 2021.06.19
-- [ ] Broke For Free                   ∙ YEKOMS                        ⠶ Bandcamp     @ 2021.06.24
+|------------+---+----------------------------------+-----------------------------------+----------------------------|
+| Date Added |   |                           Artist | Song/Album/Whatever               | Source                     |
+|------------+---+---------------------------------:+-----------------------------------+----------------------------|
+| 2020.21.27 |   |                     Izzy and Moe | izzyandmoemusic.com               | Rotorua Farmer's Market    |
+| 2021.01.10 |   |                        Zoe Scott | @whoiszoescott                    | Rotorua Farmer's Market    |
+| 2021.01.10 | ✓ |                       Tiny Ruins | Olympic Girls                     |                            |
+| 2021.01.20 | ✓ |                 The New Radicals | Maybe You've Been Brainwashed Too | TodayInTabs                |
+| 2021.01.28 |   |               These New Puritans | Hidden                            | TodayInTabs                |
+| 2021.02.01 |   |                      John Butler | Motion                            | Garoid                     |
+| 2021.02.01 |   |                   Gerry Cinnamon | Cantor                            | Garoid                     |
+| 2021.05.18 |   |                      Tim Minchin | Apart Together                    | Penn's Sunday School       |
+| 2021.05.22 |   |                        Destroyer | Times Square                      | Spotify DW                 |
+| 2021.05.22 |   |               I'm From Barcelona | Always Spring                     | Spotify DW                 |
+| 2021.05.22 |   |                      Janne Schra | Everything I Do Ooh Ooh           | Spotify DW                 |
+| 2021.05.22 |   |                   Robert Francis | Baby Was the Devil                | Spotify DW                 |
+| 2021.05.22 |   |                         Snowmine | Columbus                          | Spotify DW                 |
+| 2021.05.23 |   |            Active Bird Community | Pick Me Apart                     | Spotify DW                 |
+| 2021.05.23 |   |                  Astronauts, etc | I Know                            | Spotify DW                 |
+| 2021.05.23 |   |                         Menomena | Plumage                           | Spotify DW                 |
+| 2021.05.23 |   |                 Sam Roberts Band | Shapeshifters                     | Spotify DW                 |
+| 2021.05.24 |   |                  The Paper Kites | Electric Indigo                   | Spotify DW                 |
+| 2021.05.27 |   |                       Little May | Boardwalks                        | Spotify DW                 |
+| 2021.05.28 |   |                            Raury | Friends                           | Spotify DW                 |
+| 2021.05.28 |   |                      Vista Kicks | Make It Real                      | Spotify DW                 |
+| 2021.05.31 |   |                Hannah Everingham | -                                 | Live gig at the Blue Smoke |
+| 2021.05.31 |   |                           Muroki | -                                 | Live gig at the Blue Smoke |
+| 2021.05.31 |   |                      The Butlers | -                                 | Live gig at the Blue Smoke |
+| 2021.06.03 |   |                        Autoheart | Agoraphobia                       | Spotify DW                 |
+| 2021.06.03 |   |                         Honeybee | Sideways                          | Spotify DW                 |
+| 2021.06.03 |   |                        Montaigne | I'm a Fantastic Wreck             | Spotify DW                 |
+| 2021.06.03 |   |                   The Cat Empire | No Longer There                   | Spotify DW                 |
+| 2021.06.03 |   |                     Winterbourne | Cold                              | Spotify DW                 |
+| 2021.06.04 |   |                Nick J.D. Hodgson | Suitable                          | Spotify DW                 |
+| 2021.06.04 |   |                   The Lake Poets | Edinburgh                         | Spotify DW                 |
+| 2021.06.04 |   |                    The Spiritual | Jukebox The Ghost                 | Spotify DW                 |
+| 2021.06.06 |   |                      Great Gable | Punga                             | Spotify DW                 |
+| 2021.06.08 |   | Cousin Tony's Brand New Firebird | Melbourne Bitter                  | Spotify DW                 |
+| 2021.06.08 |   |                      Haley Blais | Late Bloomer                      | Spotify DW                 |
+| 2021.06.08 |   |                       Jack River | Palo Alto                         | Spotify DW                 |
+| 2021.06.08 |   |                         Mama Kin | Air Between Us                    | Spotify DW                 |
+| 2021.06.08 |   |                      Middle Kids | Never Start                       | Spotify DW                 |
+| 2021.06.08 |   |                    Orla Gartland | More Like You                     | Spotify DW                 |
+| 2021.06.08 |   |                    Paul Williams | Euroleague                        | Spotify DW                 |
+| 2021.06.08 |   |                   The Magic Gang | Believe in Yourself               | Spotify DW                 |
+| 2021.06.08 | ✓ |                       San Fermin | Cairo                             | Spotify DW                 |
+| 2021.06.17 |   |                    Tom Rosenthal | I went to bed and I loved you     | Mailing list               |
+| 2021.06.19 |   |                       Ellen Rose | Black and White                   | Ellen                      |
+| 2021.06.24 |   |                   Broke For Free | YEKOMS                            | Bandcamp                   |
+| 2021.06.24 |   |                Marlin's Dreaming | Danish Girl                       | Spotify DW                 |
+| 2021.06.24 |   |                      RAT!hammock | Love You Til I Die                | Spotify DW                 |
+| 2021.06.24 |   |                          Didirri | Sold for Sale                     | Spotify DW                 |
+| 2021.06.24 |   |                        Daffodils | Why Don't You Hold Me?            | Spotify DW                 |
+| 2021.06.25 |   |                       SUGARTHIEF | Joy Affair                        | Spotify DW                 |
+|------------+---+----------------------------------+-----------------------------------+----------------------------|
