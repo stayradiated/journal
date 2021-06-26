@@ -26,12 +26,44 @@ I want to start recording
 ░▀█▀░▄▀▄░█▀▄░▄▀▄
 ░▒█▒░▀▄▀▒█▄▀░▀▄▀
 
-- [ ] accomodation
-  - [ ] book another few nights at urbanz
 
-- [ ] dithering.fm
-  - [ ] still hasn't charged me properly
-
+- [ ] learnings
+  - [x] cryptography
+    - [x] send messages using ECDH keys
+    - [x] send messages using RSA keys
+  - [ ] QR codes
+    - [ ] Read NZ Govt docs on QR codes
+      ↳ https://www.health.govt.nz/system/files/documents/publications/covid-19_contact_tracing_qr_code_specification_25_may_2020.pdf
+- [ ] personal
+  - [ ] purchase aloe vera gel for skin
+  - [ ] get my bike back
+  - [x] play carcassone with jo :)
+  - [ ] watch those JS Con talks
+  - [ ] publish YT videos
+  - [ ] submit family tree to polaron
+    - [ ] get as much info from ancestry.com as i can
+    - [ ] cancel subscription (pay fee!)
+- [x] accomodation
+  - [x] book another few nights at urbanz → booked til Friday morning
+- [o] email
+  - [x] dassetx.com 
+    - [x] why haven't I heard back about verification?
+    - [x] sounds like a pretty dodgy website anyway?
+    - [ ] need to show them my passport or drivers license
+  - [x] mxc.com
+    - [x] continue trying to get HNS coins deposit?
+    - [x] I have submitted a new request through their support website:
+      - [x] https://support.mexc.com/hc/en-001/requests/73576
+  - [x] dithering.fm
+    - [x] still hasn't charged me properly
+    - [x] update credit card detials
+  - [ ] rabobank
+    - [ ] update info (low priority)
+  - [ ] catalyst cloud
+    - [ ] why haven't they called me yet → follow up
+- [ ] oikos
+  - [ ] set aside dedicated time each week to catch up with friends
+  - [ ] reply to friends
 
 ░██▄▒█▀▄▒██▀░█▄░█░█▀▄░▄▀▄░█▄░█
 ▒█▄█░█▀▄░█▄▄░█▒▀█▒█▄▀░▀▄▀░█▒▀█
@@ -58,3 +90,7 @@ I want to start recording
 > b824b1c5c08a0feb74ec50d737a7098174c1e2f6ce339146b8e33ae1c1cc75f3d59cd787576883368fb613679c02913368fd457d5ebbc93b0c59943b17f564da456969c1211f0fe9943d73cc45ae1dd75f9267aaa47eb9e952576fb3eb6922f29ca36f1e6a56e53e82bd91e7793ac9b965e6ca1626ac187f3b50607298ce777192bf25203986b6f3c9ff804c7836de9d8ad368d37e19100e3b66ee86266461fbd00fc52b9ded33e502081951e9b84fd0aa0bfb48cba9f0b3a4af05b85a90c788aaa39bd635a00e1911531076fc13c822de74b275b5a9ac56eef447e97d2ff9e7f58cbc54ce3fa56e5fc883707bf764245d0394ceec2286c67a9a4774692c49be
 
 Let's crack Brendon's secret message!
+
+This turned out to be a lot trickier than we both expected.
+You can't use RSA keys with DiffieHellman. We had to generate new keys.
+I've got some notes over at https://github.com/stayradiated/cryptography

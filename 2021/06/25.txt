@@ -20,7 +20,7 @@ todo
 ----
 
 # work
-- [ ] zoom zoom zoom
+- [x] zoom zoom zoom
 - [ ] get that tutorial published
   - [ ] read dan's overview and get back to him
 - [ ] write notes about subscripitons and audit log
@@ -28,6 +28,7 @@ todo
 
 # personal
 - [ ] get my bike back
+- [x] play carcassone with jo :)
 - [ ] watch those JS Con talks
 - [ ] publish YT videos
 - [ ] submit family tree to polaron
