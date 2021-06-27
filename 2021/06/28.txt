@@ -1,0 +1,97 @@
+
+    ░░░    ░░░  ░░░░░░  ░░░    ░░ ░░░░░░   ░░░░░  ░░    ░░     
+    ▒▒▒▒  ▒▒▒▒ ▒▒    ▒▒ ▒▒▒▒   ▒▒ ▒▒   ▒▒ ▒▒   ▒▒  ▒▒  ▒▒      
+    ▒▒ ▒▒▒▒ ▒▒ ▒▒    ▒▒ ▒▒ ▒▒  ▒▒ ▒▒   ▒▒ ▒▒▒▒▒▒▒   ▒▒▒▒       
+    ▓▓  ▓▓  ▓▓ ▓▓    ▓▓ ▓▓  ▓▓ ▓▓ ▓▓   ▓▓ ▓▓   ▓▓    ▓▓        
+    ██      ██  ██████  ██   ████ ██████  ██   ██    ██        
+
+                          28 Jun 2021
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] mish guru invoice
+  - [x] reply to tom, he couldn't open the first invoice
+  - [x] send him a link to view a published version of the invoice
+
+⠶ schedule
+────────────────────────────────────────────────────────────────────────────────
+
+1000 standup
+
+⠶ work
+────────────────────────────────────────────────────────────────────────────────
+
+- [ ] 
+
+⠶ ascii drawing characters
+────────────────────────────────────────────────────────────────────────────────
+
+from https://texteditor.com/characters/drawing/
+
+ ░ ▒ ▓ ┃ ┣ ━ ┳ ┓ ┗ ┏ ┛ ╻ ╺ ┻ ╸ ┫ ╔ ═ ╦ ╗ ╠ ║ ╚ ╬ ╣ ╝ ╩ ┌ ┮ ┭ ┬ ┲ ┱ ┐ ┟ ┼ ╄ ╃ ┧
+ ┞ ┦ ┢ ╅ ╆ ┪ ┡ ┩ ├ ╈ ╁ ┤ ╊ ╋ ╉ ┾ ┽ ╇ ╀ └ ┶ ┵ ┴ ┺ ┹ ┘ ─ │ ╒ ╤ ╕ ╞ ╪ ╡ ╘ ╧ ╛ ╓ ╥
+ ╖ ╟ ╫ ╢ ╙ ╨ ╜ ┍ ┯ ┑ ┝ ┿ ┥ ┕ ┷ ┙ ┎ ┰ ┒ ┠ ╂ ┨ ┖ ┸ ┚ ╌ ╎ ╍ ╏ ┄ ┆ ┊ ┈ ┅ ┇ ┉ ┋ ╭ ╮
+ ╰ ╯ ╱ ╲ ╳ ╴ ╶ ╵ ╷ ╹ ╼ ╾ ╽ ╿ ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▊ ▋ ▌ ▍ ▎ ▏ ▐ ▕ ▔ ▀ ▖ ▗ ▘ ▝ ▚ ▞
+ ▙ ▟ ▛ ▜ ⦀ ⦙ ⦚ ⧘ ⧙ ⧚ ⧛
+
+⠶ Product Led Growth
+────────────────────────────────────────────────────────────────────────────────
+
+OpenViewPartners have a short PDF around Product Led growth: 
+https://offers.openviewpartners.com/hubfs/OpenView-Product-Led-Growth-Playbook.pdf
+
+See my notes in wiki/book_product_led_growth_playbook.md
+
+⠶ Laptop Audio
+────────────────────────────────────────────────────────────────────────────────
+
+I can listen to what my microphone is picking up with this command:
+
+    arecord --format cd - | aplay -
+
+⠶ Why Nassim Taleb thingks Bitcoin will go to zero
+────────────────────────────────────────────────────────────────────────────────
+
+https://www.youtube.com/watch?v=qV2lXw7GWno&t=179s
+
+> Bitcoin depends on miners to validate transactions. Without miners and
+> transaction validation, Bitcoin is worthless.
+
+Trading in gold works is "maintenance free" because we can trust in physics to
+prevent double-spend.  Is it possible for a cryptocurrency to work without a
+network of computers validating transactions?  It just seems like as long as
+Bitcoin is worth something, there will be an incentive to mine it.
+
+> The technology becoming obsolete as a result of a better/more efficient means
+> of transaction or store of value.
+
+Bitcoin's source code isn't set in stone.
+It seems unlikely we will see a new technology emerge that is better than
+Bitcoin that can't (or won't) be added to Bitcoin itself.
+
+> "If any non-dividend yielding asset has the tiniest probability of hitting an
+> absorbing barrier than it's present value must be zero."
+
+I'm not sure what this means
+
+> Gold failed as a currency, because of it's periods of bubble-like speculation in different points of history.
+I think gold failed as a currency because trading with physical materials has a
+lot of drawbacks.  It's great if both parties are in the same palce, but
+trading across continents is super risky.
+
+> Won't protect you from tyrannical government. Documented cases of tracking
+> and recovering stolen bitcoin.
+
+Bitcoin transactions can't be blocked or reversed by any government. But that
+doesn't necessarily help if you've got the NSA trying to hack your computer and
+steal your private keys.
+
+> It will not democratize finance as hoped, most of bitcoin in circulation is
+> being hoarded by a small minority.
+
+Bitcoin brings equality, no one can print Bitcoin for free. You either mine
+transactions and compete with everyone else or you trade it on the market.
+
+I'm going to read the paper he references:
+https://www.fooledbyrandomness.com/BTC-QF.pdf

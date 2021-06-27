@@ -1,0 +1,31 @@
+
+     .▄▄ · ▄• ▄▌ ▐ ▄ ·▄▄▄▄   ▄▄▄·  ▄· ▄▌
+     ▐█ ▀. █▪██▌•█▌▐███· ██ ▐█ ▀█ ▐█▪██▌
+     ▄▀▀▀█▄█▌▐█▌▐█▐▐▌▐█▪ ▐█▌▄█▀▀█ ▐█▌▐█▪
+     ▐█▄▪▐█▐█▄█▌██▐█▌██. ██ ▐█▪ ▐▌ ▐█▀·.
+      ▀▀▀▀  ▀▀▀ ▀▀ █▪▀▀▀▀▀•  ▀  ▀   ▀ •   2021.06.27
+
+it's a good morning to read/reply to text messages
+i'm not sure why I get so anxious about it
+friends are great
+
+⠶ todo
+- [ ] catch up with pete + get bike off him
+  - [ ] meet at antigua boat club at 1430
+- [ ] catch up with brendon
+- [x] send mish invoice to tom
+  - [x] oh lord, there is a bunch of work from march I forgot about
+  - [x] send invoice to billing@mish.guru
+- [ ] does watson have a way to add notes? that would make life so much easier
+  - [ ] There is a branch here: https://github.com/TailorDev/Watson/pull/383
+- [x] why does xournapp crash when I try to change the background?
+  - [x] no idea
+  - [x] but I can edit the defaults, so that is good enough
+
+⠶ firefox
+I swear I have lost some bookmarks :(
+I need to find a better way to manage bookmarks.
+I have them backed up in pinboard at least
+
+⠶ PGP
+- What encryption algorithms does it use?
