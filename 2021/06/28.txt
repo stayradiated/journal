@@ -17,12 +17,23 @@
 ⠶ schedule
 ────────────────────────────────────────────────────────────────────────────────
 
+0900 working from residency cafe
 1000 standup
+1045 working from community101
+1200 lunch at saltworks with peter and ivan
+1300 working from saltworks
+1430 cycling to uprising with ivan
+1550 working from community101/riverside markets
+1840 working from urbanz
+2000 stop working
 
 ⠶ work
 ────────────────────────────────────────────────────────────────────────────────
 
-- [ ] 
+- [x] check that Hasura is running before running unit tests
+- [x] helping andria with timesheets
+- [.] implement audit subscriptions for assignments and timeOffs
+- [.] read "Product Led Growth Playbook"
 
 ⠶ ascii drawing characters
 ────────────────────────────────────────────────────────────────────────────────
