@@ -1,0 +1,78 @@
+                                                      29 Jun 2021
+
+     ▄▄▄█████▓ █    ██ ▓█████  ██████  ▓█████▄  ▄▄▄     ▓██   ██▓
+     ▓  ██▒ ▓▒ ██  ▓██▒▓█   ▀▒██    ▒  ▒██▀ ██▌▒████▄    ▒██  ██▒
+     ▒ ▓██░ ▒░▓██  ▒██░▒███  ░ ▓██▄    ░██   █▌▒██  ▀█▄   ▒██ ██░
+     ░ ▓██▓ ░ ▓▓█  ░██░▒▓█  ▄  ▒   ██▒▒░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░
+       ▒██▒ ░ ▒▒█████▓ ░▒████▒██████▒▒░░▒████▓  ▓█   ▓██  ░ ██▒▓░
+       ▒ ░░    ▒▓▒ ▒ ▒ ░░ ▒░ ▒ ▒▓▒ ▒ ░░ ▒▒▓  ▒  ▒▒   ▓▒█   ██▒▒▒ 
+         ░     ░▒░ ░ ░  ░ ░  ░ ░▒  ░    ░ ▒  ▒   ░   ▒▒  ▓██ ░▒░ 
+       ░ ░      ░░ ░ ░    ░  ░  ░  ░    ░ ░  ░   ░   ▒   ▒ ▒ ░░  
+                 ░        ░        ░      ░          ░   ░ ░     
+
+⠶ christchurch (nasty weather)
+────────────────────────────────────────────────────────────────────────────────
+
+> Showers, squally and thundery about Banks Peninsula this morning, clearing
+> about the City through the afternoon. Snow to near sea level at first,
+> lifting to 500m by afternoon. Strong cold southwesterlies, gale gusting
+> 110km/h in exposed places till evening.
+
+High: 8°c Low: 2°c
+7:30am/8:03am → 5:04pm/5:37pm
+
+Lots of HAIL this morning.
+I'm quite happy to be sitting in a warm cafe and not outside on a bike.
+
+⠶ schedule
+────────────────────────────────────────────────────────────────────────────────
+
+0900 working from Child Sister cafe
+1000 standup
+1050 working from Saltworks
+
+⠶ work
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] add a timeout to Github Actions when waiting for Hasura to start
+- [.] implement audit subscriptions for assignments and timeOffs
+- [.] read "Product Led Growth Playbook"
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [ ] what am I going to do with my Runn merch?
+  - [ ] post it to Rotorua? 
+  - [ ] visit NZ Post in city centre mall
+- [x] have lunch at the saltworks
+
+⠶ covid vaccination in NZ
+────────────────────────────────────────────────────────────────────────────────
+
+I want to get vaccinated, but it looks like I will have to wait until October!
+
+> Walks-ins have so far been permitted to get vaccinated in order to avoid
+> wastage, but he said that was no longer needed because the vaccine can now be
+> safely stored at 2-8 degrees for up to 31 days.
+
+https://www.nzherald.co.nz/nz/politics/vaccine-rollout-scale-down-prisoners-and-defence-force-to-wait-longer-no-more-walk-ins/REFULQ4F6USM3DKBP35T2FETRQ/
+
+|---------+-------------------------------------------------------------------+-----------------------|
+| Group   | Who this includes                                                 | Bookings open         |
+|---------+-------------------------------------------------------------------+-----------------------|
+| Group 1 | Border and managed isolation and quarantine (MIQ) workers         | Now                   |
+| Group 2 | High-risk frontline workers and people living in high-risk places | Now                   |
+| Group 3 | People who are at risk of getting very sick from COVID-19         | Now                   |
+| Group 4 | People aged 60 and over                                           | 28 July               |
+| Group 4 | People aged 55 and over                                           | 11 August             |
+| Group 4 | People aged 45 and over                                           | Mid to late August    |
+| Group 4 | People aged 35 and over                                           | Mid to late September |
+| Group 4 | People aged 16 and over                                           | October               |
+|---------+-------------------------------------------------------------------+-----------------------|
+
+> These dates are estimates
+> The actual start times will depend on when vaccines are delivered. Changes
+> may also happen if we get new information that affects how the rollout will
+> work.
+
+https://covid19.govt.nz/covid-19-vaccines/our-covid-19-vaccination-plan/covid-19-vaccine-rollout-groups/

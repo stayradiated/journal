@@ -1,0 +1,79 @@
+
+           ▄▄                                         ▄▄                    
+      ██  ███                                       ▀███                    
+      ██   ██                                         ██                    
+    ██████ ███████▄ ▀███  ▀███ ▀███▄███ ▄██▀███  ▄█▀▀███  ▄█▀██▄ ▀██▀   ▀██▀
+      ██   ██    ██   ██    ██   ██▀ ▀▀ ██   ▀▀▄██    ██ ██   ██   ██   ▄█  
+      ██   ██    ██   ██    ██   ██     ▀█████▄███    ██  ▄█████    ██ ▄█   
+      ██   ██    ██   ██    ██   ██     █▄   ██▀██    ██ ██   ██     ███    
+      ▀███████  ████▄ ▀████▀███▄████▄   ██████▀ ▀████▀███▄████▀██▄   ▄█     
+                                                                   ▄█       
+                                               01 Jul 2021       ██▀        
+                                              
+⠶ christchurch
+────────────────────────────────────────────────────────────────────────────────
+
+> Fine. Frosty tonight. Light winds.
+> High: 11°c Low: -2°c
+> 7:30am/8:02am → 5:05pm/5:38pm
+
+Feeling quite sleep deprived. Taking sick leave off work.  Why?
+
+Woken up at 1am this morning to the fire alarm going off in the hostel. Put on
+a shirt and pants, grabbed my jumpers, beanie and shoes and calmly made my way
+out of the building with the other 2 guys in my room.
+
+While passing reception there was a manager shouting at us to evacuate the
+building, that this was an emergency and that there was a fire.
+
+We stood outside in the cold, I was happy to have my warm clothes with me. Soon
+firetrucks arrived and the fire service entered the building. We saw them drag
+out an unconcious man and hurriedly get him to an ambulance.
+
+We couldn't see any fire from where we were. The fire was contained to a few
+rooms in the downstairs area. Eventually we were let back into the lounge area
+while the fire service checked the rest of the hostel for carbon monoxide.
+Around 4am we were allowed back upstairs, anyone who was staying in the
+downstairs rooms were relocated upstairs.
+
+I woke up at 9am with a headache. I checked on Brian (my bike), he was
+downstairs in the garage, completely fine. I had assumed in a fire that all the
+sprinklers would go off, but they only went off in the rooms around the fire,
+so all our stuff was dry.
+
+⠶ kc (from notebook)
+────────────────────────────────────────────────────────────────────────────────
+
+split orders:
+bids = [
+  { avg: $100 per day @ -1.5% },
+  { avg: $50 per day @ -0.5% },
+]
+
+For each order, keep track of the ID in the database.
+Next tick, cancel the order and create a new order, replace order ID in database.
+Issue: persist database.
+
+goal:
+Get kc-server running a docker image?
+Node.js + postgresql.
+↳ mount volumes for postgres data + config.json
+Support config files in yaml, json and toml
+
+⠶ sc-im
+────────────────────────────────────────────────────────────────────────────────
+
+I would like to use sc-im, but I am having trouble getting it to build on 20.04
+https://github.com/andmarti1424/sc-im
+
+⠶ chilling at saltworks
+────────────────────────────────────────────────────────────────────────────────
+
+- helping Bleu with the cryptic crossword. She is pretty cool, works as an
+  administrator for an insurance company, but spends most of her day cracking
+  the cryptic.
+- trying to find an 11 letter word anagram for "misses class?" in the form
+  "_c_______l_". Going to write an anagram solver that doesn't use any external
+  sources. 
+- I don't think it's an anagram, or if it is - it's got at least one letter
+  swapped out.

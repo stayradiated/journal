@@ -1,0 +1,67 @@
+───────────────────────────────── 30 Jun 2021 ──────────────────────────────────
+
+  ♥♥     ♥♥ ♥♥♥♥♥♥♥ ♥♥♥♥♥♥  ♥♥♥    ♥♥ ♥♥♥♥♥♥♥ ♥♥♥♥♥♥♥ ♥♥♥♥♥♥   ♥♥♥♥♥  ♥♥    ♥♥ 
+  ♥♥     ♥♥ ♥♥      ♥♥   ♥♥ ♥♥♥♥   ♥♥ ♥♥      ♥♥      ♥♥   ♥♥ ♥♥   ♥♥  ♥♥  ♥♥  
+  ♥♥  ♥  ♥♥ ♥♥♥♥♥   ♥♥   ♥♥ ♥♥ ♥♥  ♥♥ ♥♥♥♥♥   ♥♥♥♥♥♥♥ ♥♥   ♥♥ ♥♥♥♥♥♥♥   ♥♥♥♥   
+  ♥♥ ♥♥♥ ♥♥ ♥♥      ♥♥   ♥♥ ♥♥  ♥♥ ♥♥ ♥♥           ♥♥ ♥♥   ♥♥ ♥♥   ♥♥    ♥♥    
+   ♥♥♥ ♥♥♥  ♥♥♥♥♥♥♥ ♥♥♥♥♥♥  ♥♥   ♥♥♥♥ ♥♥♥♥♥♥♥ ♥♥♥♥♥♥♥ ♥♥♥♥♥♥  ♥♥   ♥♥    ♥♥    
+
+⠶ christchurch
+────────────────────────────────────────────────────────────────────────────────
+
+> Cloudy periods. A few showers about Banks Peninsula, spreading elsewhere from
+> late afternoon. Fresh southwesterlies, but strong about the Peninsula.
+
+High: 12°c Low: 0°c
+7:30am/8:03am → 5:05pm/5:37pm
+
+⠶ schedule
+────────────────────────────────────────────────────────────────────────────────
+
+0810 planning short term future from foundation cafe
+0930 working from the community101 office
+1000 dev meeting
+1220 working from the saltworks
+…
+1930 ice skating with andria ($16)
+
+⠶ work
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] dev meeting
+- [.] implement audit subscriptions for assignments and timeOffs
+- [.] read "Product Led Growth Playbook"
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [ ] what am I going to do with my Runn merch?
+  - [ ] post it to Rotorua? 
+  - [ ] visit NZ Post in city centre mall
+- [ ] read
+  - [ ] https://offers.openviewpartners.com/hubfs/OpenView-Product-Led-Growth-Playbook.pdf
+  - [ ] https://levels.io/async/
+  - [ ] https://rbtcollins.wordpress.com/2019/12/21/a-cachecash-retrospective/
+
+⠶ neovim-remote
+────────────────────────────────────────────────────────────────────────────────
+
+This is a game changer. I can now remotely open files in an existing vim session.
+
+https://github.com/mhinz/neovim-remote
+
+⠶ travel
+────────────────────────────────────────────────────────────────────────────────
+
+Thinking about cycling to Hanmer Springs this weekend.
+The weather is looking good.
+Could stop over at Waipara and stay at the https://www.waiparasleepers.co.nz.
+
+⠶ food
+────────────────────────────────────────────────────────────────────────────────
+
+- roast vegetables for lunch
+  * ½ head of cauliflower
+  * 1 can of chickpeas
+  * 1 carrot
+- snack: 50g bar of whittakers milk chocolate
