@@ -1,0 +1,48 @@
+
+        .▄▄ · ▄• ▄▌ ▐ ▄ ·▄▄▄▄   ▄▄▄·  ▄· ▄▌
+        ▐█ ▀. █▪██▌•█▌▐███▪ ██ ▐█ ▀█ ▐█▪██▌
+        ▄▀▀▀█▄█▌▐█▌▐█▐▐▌▐█· ▐█▌▄█▀▀█ ▐█▌▐█▪
+        ▐█▄▪▐█▐█▄█▌██▐█▌██. ██ ▐█ ▪▐▌ ▐█▀·.
+         ▀▀▀▀  ▀▀▀ ▀▀ █▪▀▀▀▀▀•  ▀  ▀   ▀ •  04 Jul 2021
+
+⠶ hanmer springs
+────────────────────────────────────────────────────────────────────────────────
+
+> Mainly fine, but areas of fog persisting in some valleys. Morning frosts,
+> severe in sheltered areas. Wind at 1000 metres: Light. Wind at 2000 metres:
+> Light at first, northwest 40 km/h developing late evening. Free air freezing
+> level: Above 3000 metres.
+> High: 10°C Low: -3°C
+
+Severe frost this morning, very glad I am not in a tent.
+
+I had the entire dorm room to myself last night. Kakapo Lodge is quite a nice
+hostel.
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [o] get some chain lube
+    - [ ] is the hanmer springs bike shop open today?
+    - [x] I can see a bike hire place on gmaps, I will have to work there
+- [x] beat jo at Carcassonne :)
+    - [x] read up on tips/tricks
+    - [x] https://elusivemeeple.com/2018/07/08/carcassonne-strategy-tips/
+    - [ ] find a time to play board games with jo
+
+⠶ kc-server
+────────────────────────────────────────────────────────────────────────────────
+
+- added auto-buy component, now reads binance price from database
+- deployed v1.5.0 to merrytired
+- configured persistant volume for postgres
+- learned that ufw doesn't protect against exposed docker ports
+  * fixed this by setting "127.0.0.1:5432:5432" in docker-compose.yml
+
+⠶ figlet
+────────────────────────────────────────────────────────────────────────────────
+
+Installed figlet, I would like to be able to generate similar fonts that
+texteditor.com has. I may need to create these myself.
+
+There doesn't seem to be a decent figlet font editor, what are people using?

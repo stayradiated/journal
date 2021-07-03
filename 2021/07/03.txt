@@ -12,9 +12,29 @@
 > Wind at 2000 metres: Light. Free air freezing level: 2600 metres, rising to
 > 3000 metres this evening.
 
-schedule:
+⠶ schedule
+────────────────────────────────────────────────────────────────────────────────
 
-0900 set off from waipara
-1030 coffee at waikari kitchen
-     lunch at culverden
-     arrive at hanmer springs
+0730,0900 waking up, packing bags
+    ,0930 set off from waipara
+          ⠶ waipara → waikari (~50m)
+1030,1100 coffee at waikari kitchen ($4.50)
+          ⠶ waikari → culverden (~1h 20m)
+1230,1330 lunch at culverden
+          ⠶ culverden → hanmer springs(~2h)
+    ,1530 arrive at hanmer springs
+1630,1730 hanmer spring therman hot pools!
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] book bed in dorm room at YHA Hanmer Springs ($30)
+
+
+⠶ food
+────────────────────────────────────────────────────────────────────────────────
+
+- long black coffee ($4.50)
+- ham sandwhich ($5.50)
+- mince and cheese pie ($4.80)
+- raspberry and white choc muffin ($4.80)
