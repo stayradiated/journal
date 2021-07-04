@@ -22,13 +22,25 @@ hostel.
 ⠶ todo
 ────────────────────────────────────────────────────────────────────────────────
 
-- [o] get some chain lube
-    - [ ] is the hanmer springs bike shop open today?
+- [x] get some chain lube
+    - [x] is the hanmer springs bike shop open today?
     - [x] I can see a bike hire place on gmaps, I will have to work there
+    - [x] Yes! There is a bike store, they have lube
 - [x] beat jo at Carcassonne :)
     - [x] read up on tips/tricks
     - [x] https://elusivemeeple.com/2018/07/08/carcassonne-strategy-tips/
     - [ ] find a time to play board games with jo
+- [ ] what am I doing this week?
+    - [x] check the weather forecast on metvuw
+    - [x] looks like rain from tuesday evening all through wednesday
+    - [ ] where do I go from here
+- [x] track expenses
+    - [x] can I get sc-im working? Yes!
+    - [x] update expenses/21_07.sc
+    - [x] configure basic theme for sc-im (https://github.com/stayradiated/dotfiles/blob/master/apps/sc-im/scimrc)
+- [x] pick up some good hair conditioner
+- [ ] expense skinny data invoice
+- [ ] future cycle touring trips: could be worth getting a trailer
 
 ⠶ kc-server
 ────────────────────────────────────────────────────────────────────────────────
@@ -39,6 +51,64 @@ hostel.
 - learned that ufw doesn't protect against exposed docker ports
   * fixed this by setting "127.0.0.1:5432:5432" in docker-compose.yml
 
+next up:
+- [ ] create tables:
+    - user
+        * uid
+        * email_encrypted
+        * email_hash
+        * password_hash
+        * created_at
+        * updated_at
+    - exchange:
+        * uid
+        * id
+        * name
+        * created_at
+        * updated_at
+    - user_exchange_keys:
+        * user_uid
+        * exchange_uid
+        * keys_encrypted
+        * description
+        * created_at
+        * updated_at
+        * invalidated_at?
+    - dca_order
+        * uid
+        * user_uid
+        * exchange_uid
+        * start_at
+        * market_uid
+        * market_offset
+        * daily_average
+        * min_price?
+        * max_price?
+        * min_amount?
+        * max_amount?
+        * created_at
+        * updated_at
+    - order
+        * uid
+        * exchange_uid
+        * user_uid
+        * id
+        * symbol
+        * price
+        * amount
+        * type
+        * created_at
+        * updated_at
+        * opened_at
+        * closed_at
+    - dca_order_history
+        * dca_order_uid
+        * order_uid
+        * market_price
+        * market_offset
+        * created_at
+        * updated_at
+
 ⠶ figlet
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -46,3 +116,32 @@ Installed figlet, I would like to be able to generate similar fonts that
 texteditor.com has. I may need to create these myself.
 
 There doesn't seem to be a decent figlet font editor, what are people using?
+
+⠶ how to ask good questions
+────────────────────────────────────────────────────────────────────────────────
+
+From https://marginalrevolution.com/marginalrevolution/2021/06/how-do-you-ask-good-questions.html
+
+It's in regard to interviewing, but I think this is good for conversations in
+general:
+
+1. Highly specific questions are better on average.
+
+2. It is often better to preface a question with a confession of some sort, or
+with information from yourself. That sets a standard for the respondent. Set
+that standard high!
+
+3. Demonstrate credibly that you are truly listening and that you care about
+the answer.
+
+4. With any possible question, ask yourself in advance: can the person being
+asked the question respond too easily in a vague and not very useful way? “Why
+did you write a book about Napoleon? Well, let me tell you, French history
+always fascinated me.” etc. If that is the kind of slop you might get back in
+response, try making the question more pointed or more specific.
+
+⠶ functional programming
+────────────────────────────────────────────────────────────────────────────────
+
+I found this guide: https://github.com/MostlyAdequate/mostly-adequate-guide
+I like the name and the artwork.
