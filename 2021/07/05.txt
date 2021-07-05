@@ -18,8 +18,21 @@
 
 - [x] extend stay at kakapo lodge one more night
 - [x] wash/dry my clothes
-- [x] top up funds on wise card
+- [x] top up NZD funds on wise card
 - [ ] how to remove stains from merino?
+
+⠶ schedule
+────────────────────────────────────────────────────────────────────────────────
+
+0730      out of bed
+0850,1040 working from kakapo lodge
+1000      catching up with andria
+1045,1215 working from the 'the roasted bean'
+1220      chips and hummus for lunch
+1245,1455 working from mumbles cafe
+1515,1620 working from kakapo lodge
+1645      heading to the hot pools
+1845      roasting veggies for dinner
 
 ⠶ getting over the lewis pass
 ────────────────────────────────────────────────────────────────────────────────
@@ -32,3 +45,53 @@ I need somewhere to stay.
 - mairua hot pools ($65 to stay in a tent)
 - deer valley campsite ($8, would be freezing)
 - lewis pass motel (unknown cost, guessing $120 a night?) http://lewis-pass.co.nz
+
+⠶ last weeks written notes
+────────────────────────────────────────────────────────────────────────────────
+
+CHRISTCHURCH___ sick leave → 1st july
+
+- [x] post excess gear to Rotorua
+   - Runn merch
+- [x] Email Waipara Sleepers
+   - Can I get a room for tomorrow?
+   - $60 for my own room
+- [x] 1700: catch up with Jacob
+   - find out what needs work on at mish
+
+- AMBERLEY: I love small town people
+
+CHORES
+
+- Send through balance to broken river
+   * Student?
+- Have a nap, zzzzzzz
+- Wash clothes? …another day
+- Organize accomodation for Saturday night
+- Purchase dinner from Countdown
+   * Something that doesn't require a stove
+
+BRIAN
+
+- [x] Make sure tyres are pumped up
+- [x] charge bike lights
+
+vegetables are so expensive in winter
+
+⠶ working async
+────────────────────────────────────────────────────────────────────────────────
+
+https://levels.io/async/
+
+> it means being able to work without having to wait for someone else to answer. 
+
+> you decide when you work, 
+> you're autonomous and the only thing that matters is if you get your work done.
+
+Sounds great, how do we work async?
+
+reading list:
+
+- [ ] https://twist.com/remote-work-guides/remote-team-communication
+- [ ] https://www.loom.com/blog/asynchronous-design-critique
+- [ ] https://creately.com/blog/diagrams/guide-to-asynchronous-communication/
