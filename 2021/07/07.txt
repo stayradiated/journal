@@ -1,0 +1,109 @@
+
+  07 Jul 2021
+  
+  ██╗    ██╗███████╗██████╗ ███╗   ██╗███████╗███████╗██████╗  █████╗ ██╗   ██╗
+  ██║    ██║██╔════╝██╔══██╗████╗  ██║██╔════╝██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝
+  ██║ █╗ ██║█████╗  ██║  ██║██╔██╗ ██║█████╗  ███████╗██║  ██║███████║ ╚████╔╝ 
+  ██║███╗██║██╔══╝  ██║  ██║██║╚██╗██║██╔══╝  ╚════██║██║  ██║██╔══██║  ╚██╔╝  
+  ╚███╔███╔╝███████╗██████╔╝██║ ╚████║███████╗███████║██████╔╝██║  ██║   ██║   
+   ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+
+⠶ hanmer springs
+────────────────────────────────────────────────────────────────────────────────
+
+> Periods of rain, with snow to 700 metres, easing to isolated showers in the
+> afternoon.
+> Wind at 1000 metres: Gale westerlies 75 km/h, easing to southwest 30 km/h by
+> midday, rising to 55 km/h tonight south of Mt Hutt. 
+
+It was insanely windy in town last night, the noise of the wind against the
+windows was keeping me awake. I didn't get to sleep until I was sure that there
+weren't any large trees around that could fall onto the building and put my
+earplugs in.
+
+I was expecting it to be raining, but it's quite a still morning now.
+
+Barney and Hazel are returning to Dunedin this morning. They don't think it's a
+good idea to cycle across the Lewis Pass. I think it will be fine as long as
+it's a clear day and not too windy.
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [o] check on flights to london
+    - [x] register with safetravel.govt.nz
+    - [ ] book pre-departure covid test for end of august
+- [x] travel to westport
+    - [x] book leave for friday
+    - [x] extend stay at kakapo lodge for 2 more nights
+    - [ ] tentatively book accomdation for saturday/sunday/monday nights?
+    - [x] is there a bus I can catch from here to westport?
+      - [x] intercity only covers hanmer springs to christchurch
+      - [x] EastWestCoaches will do the journey (https://www.eastwestcoaches.co.nz)
+- [.] Runn
+    - [x] watch Ruth reply to my design suggestions
+    - [ ] read Rowan's notes on my subscriptions PR
+    - [ ] add more tests for AuditLogSubscription
+
+⠶ schedule
+────────────────────────────────────────────────────────────────────────────────
+
+0800      Get out of bed
+0925      Working from the Kakapo Lodge
+1000,1030 Dev Weekly
+1100,1210 Design Meeting (improved search functionality with Ruth/Rowan)
+1215      Lunch in town (still not raining!)
+
+⠶ Async Team
+────────────────────────────────────────────────────────────────────────────────
+
+What did we do at Mish?
+
+- Handovers on slack
+    * Write down what you were working on that day
+    * + any important notes that you think the rest of the team should know
+    * Each morning read through the handover from other team
+- Single project board shared by all team members
+- Weekly dev meeting with one EU member talking to NZ team
+
+What do Gitlab do?
+
+- https://about.gitlab.com/handbook/engineering/development/dev/create/ecosystem/
+
+⠶ UK Covid Day 2 Test
+────────────────────────────────────────────────────────────────────────────────
+
+> Before you arrive in England, you must book a travel test that takes place on
+> or before day 2 after your arrival. (The day you arrive is day 0.) 
+
+Both NZ and Singapore are on the "green list".
+
+https://www.find-travel-test-provider.service.gov.uk/test-type/green
+
+⠶ Steps to get a pre-departure test
+────────────────────────────────────────────────────────────────────────────────
+
+https://covid19.govt.nz/travel/international-travel-and-transit/leaving-new-zealand/#pre-departure-covid-19-test
+
+1. As soon as your travel plans are confirmed, contact Healthline or your GP.
+2. Find out when you can go in for a COVID-19 test. The test needs to be
+  taken as close as possible to your date of travel — check the timing that
+  applies to your country.
+3. You may need to pay for the test yourself, at the time.
+4. Your test will be sent to a local laboratory, which will provide a result
+  to your GP or you directly. 
+5. A health provider will let you know the result of the test. It can take
+  several days for test results to be available, so make sure you do not leave
+  it too late.
+6. Assuming the test is negative, you will be given a hard-copy document with
+  the results to take to the airport. In the unlikely event the test is
+  positive, your health provider will talk with you about what happens next.
+7. Take your negative test results with you to airport check-in. You may need
+  to show your results to customs or immigration on arrival at your
+  destination.
+
+> Entry requirements may differ between countries, but you will probably need a
+> hard-copy of your negative COVID-19 test result to present to check-in before
+> boarding the plane. Your general practice or GP will be able to give this to
+> you. You will also probably need to show the result to Customs/Immigration on
+> arrival at your destination. 

@@ -12,10 +12,32 @@
 > afternoon and evening. Snow lowering to 1200 metres in the evening.
 
 I have a splitting headache.
+update: still have a headache. It's the smoke.
 
 Barney and Hazel are staying another night at Hanmer Springs.
+
+Power outage.
 
 ⠶ todo
 ────────────────────────────────────────────────────────────────────────────────
 
-- [ ] call Lewis Pass motel (+64 3 523 8863), do they have any rooms free on friday?
+- [x] call Lewis Pass motel (+64 3 523 8863), do they have any rooms free on friday?
+  - there website only works in chrome
+  - they are fully booked out this weekend
+- [x] book flights to get back to Rotorua by the 15th July (getting vaccinated, woohoo!)
+
+⠶ hanmer springs -> rotorua
+────────────────────────────────────────────────────────────────────────────────
+
+FRIDAY:
+- hanmer springs to magdalen valley airbnb (55km, 1000m elevation gain, 3hr 20)
+
+SATURDAY:
+- magdalen valley to buller gorge (92km, 4hr 36m)
+
+SUNDAY:
+- berlins to westport (34km, 1h 40m)
+
+- THURSDAY 15 JULY
+  * 0610,0700 fly from westport to wellington ($169)
+  * 0845,0955 fly wellington to rotorua ($136)
