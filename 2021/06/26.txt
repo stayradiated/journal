@@ -94,3 +94,7 @@ Let's crack Brendon's secret message!
 This turned out to be a lot trickier than we both expected.
 You can't use RSA keys with DiffieHellman. We had to generate new keys.
 I've got some notes over at https://github.com/stayradiated/cryptography
+...
+
+I know how to make a product that people love to use. 
+I have no idea how to build a social network that grows itself.  
