@@ -32,17 +32,18 @@ it's a clear day and not too windy.
 
 - [o] check on flights to london
     - [x] register with safetravel.govt.nz
-    - [ ] book pre-departure covid test for end of august
+    - [ ] call GP and book pre-departure covid test for end of august
 - [x] travel to westport
     - [x] book leave for friday
     - [x] extend stay at kakapo lodge for 2 more nights
-    - [ ] tentatively book accomdation for saturday/sunday/monday nights?
+    - [ ] tentatively book accomodation for saturday/sunday/monday nights?
     - [x] is there a bus I can catch from here to westport?
       - [x] intercity only covers hanmer springs to christchurch
       - [x] EastWestCoaches will do the journey (https://www.eastwestcoaches.co.nz)
-- [.] Runn
+- [o] Runn
     - [x] watch Ruth reply to my design suggestions
-    - [ ] read Rowan's notes on my subscriptions PR
+    - [x] read Rowan's notes on my subscriptions PR
+    - [ ] refactor AuditLogSubscription into pure functions
     - [ ] add more tests for AuditLogSubscription
 
 ⠶ schedule
@@ -53,6 +54,8 @@ it's a clear day and not too windy.
 1000,1030 Dev Weekly
 1100,1210 Design Meeting (improved search functionality with Ruth/Rowan)
 1215      Lunch in town (still not raining!)
+1305,1500 Working from Mumbles cafe
+1520,1650 Working from the Kakapo Lodge
 
 ⠶ Async Team
 ────────────────────────────────────────────────────────────────────────────────

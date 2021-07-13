@@ -1,0 +1,39 @@
+──── 09 Jul 2021 ───────────────────────────────────────────────────────────────
+
+       ·▄▄▄▄▄▄  ▄▄▄ .▪  ▄▄▄▄▄ ▄▄▄·  ▄▄ • 
+       ▐▄▄ ▀▄ █·▀▄.▀·██ •██  ▐█ ▀█ ▐█ ▀ ▪
+       █  ▪▐▀▀▄ ▐▀▀▪▄▐█· ▐█.▪▄█▀▀█ ▄█ ▀█▄
+       ██ .▐█•█▌▐█▄▄▌▐█▌ ▐█▌·▐█▪ ▐▌▐█▄▪▐█
+       ▀▀▀ .▀  ▀ ▀▀▀ ▀▀▀ ▀▀▀  ▀  ▀ ·▀▀▀▀ 
+
+──── hanmer springs ────────────────────────────────────────────────────────────
+
+> Fine.
+
+Today, cycling from Hanmer Springs to Magdalen Valley Airbnb.
+
+Distance: 55km
+Elevation gain: ~1000m
+Duration: ~3hr 20
+
+Waiting for the ice to melt.
+
+──── cycling to lewis pass ──────────────────────────────────────────────────────
+
+> 1°c
+> Light winds 6km/h E. Gusts 15km/h
+
+Lies. Strong head winds most of the way, a real struggle. Mostly unenjoyable.
+There were a few short stints where the road was sheltered from the wind and I
+was starting to think that everything would be ok - but then the wind would
+return and I would grit my teeth and cycle on.
+
+──── todo ──────────────────────────────────────────────────────────────────────
+
+- [x] charge bike lights
+- [x] apply chain lubricant
+- [x] change bandages on knees
+- [x] investigate mish autologin issues
+
+
+
