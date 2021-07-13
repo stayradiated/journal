@@ -1,0 +1,83 @@
+
+
+     ██████                           ███
+   ███    ███                         ███
+    ███       ███  ███ ███ ███        ███    ███     ███   ███
+      ███     ███  ███  ███  ███  ███ ███  ███  ███   ███ ███
+         ███  ███  ███  ███  ███ ██   ███ ███   ███     ████
+   ███    ███ ███  ███  ███  ███ ██   ███ ███   ███      ███
+     ██████     ██████ ████  ███  ███ ███   ███ ████    ███
+                                                       ███
+                                           11 Jul 2021
+
+
+⠶ Reefton
+────────────────────────────────────────────────────────────────────────────────
+
+> Fog clearing to fine around midday. Frosty this morning and tonight. Light
+> winds.
+> High: 9°c Low: -1°c
+> 7:25am/7:56am → 5:20pm/5:52pm
+
+Hanging out in the Broadway Tearooms + Bakery.
+They have a chubby black and white cat here.
+
+Going to cycle to Inangahua today, probably leave around midday. It's very
+foggy this morning, going to wait for the fog to clear before setting off.
+
+Planning to cycle to Westport on Monday.
+It's 33.7km, should take around 1h 40m.
+
+Eesh, looking like it will rain on Thursday morning.
+I need to be at the airport by 6am!
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] check weather
+   - [x] reefton:
+      - [x] today: foggy, clearing up around midday
+      - [x] tomorrow: morning fronst, clear skies
+   - [x] westport:
+      - [x] today: freezing, but sunny
+      - [x] tomorrow: cloudy, light showers
+- [x] check brian's front tyre -- has it deflated overnight? → yep
+- [x] pack gear back into brian
+- [x] shop for groceries (no supermarkets in Inangahua)
+- [ ] could work for a couple hours work on Runn this evening
+- [x] cycle to Berlins (~2h)
+
+⠶ pnpm + docker + monorepos
+────────────────────────────────────────────────────────────────────────────────
+
+Interesting info here:
+https://github.com/pnpm/pnpm/issues/1637
+
+⠶ wpa_cli → getting the exact ssid
+────────────────────────────────────────────────────────────────────────────────
+
+Sometimes wifi networks will have a silly amount of spaces in them.
+wpa_cli doesn't make it see these spaces.
+
+> wpa_cli scan
+Selected interface 'wlp0s20f3'
+OK
+
+> wpa_cli scan_results
+24:2e:02:98:be:89       5180    -54     [WPA2-PSK-CCMP][WPS][ESS]       HUAWEI-B525-5G-BE87
+24:2e:02:98:be:87       2432    -38     [WPA2-PSK-CCMP][WPS][ESS]       HUAWEI-B525-BE87
+02:0c:42:8d:04:90       2412    -38     [WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]  Berlins Wifi
+00:0c:42:8d:04:90       2412    -38     [WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS] Man.WiFi
+
+> wpa_cli bss 02:0c:42:8d:04:90 | grep '^ssid=' | cut -d= -f2-
+ Berlins Wifi       
+
+> wpa_cli bss 02:0c:42:8d:04:90 | grep '^ssid=' | cut -d= -f2- | sed 's/\s/./g'
+.Berlins.Wifi.......
+
+Alternative:
+
+> wpa_cli scan_results | sed -s 's/\s/./g'
+Selected.interface.'wlp0s20f3'
+bssid./.frequency./.signal.level./.flags./.ssid
+02:0c:42:8d:04:90.2412.-38.[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]..Berlins.Wifi.......

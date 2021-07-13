@@ -1,0 +1,89 @@
+───────────────────────────────── 13 Jul 2021 ──────────────────────────────────
+
+          ▄▄▄▄▄▄  ▄▄▄ ▄▄▄▄▄▄▄ ▄▄    ▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄▄▄ 
+         █      ██   █       █  █  █ █       █       █      █       █
+         █  ▄    █   █    ▄▄▄█   █▄█ █  ▄▄▄▄▄█▄     ▄█  ▄   █   ▄▄▄▄█
+         █ █ █   █   █   █▄▄▄█       █ █▄▄▄▄▄  █   █ █ █▄█  █  █  ▄▄ 
+         █ █▄█   █   █    ▄▄▄█  ▄    █▄▄▄▄▄  █ █   █ █      █  █ █  █
+         █       █   █   █▄▄▄█ █ █   █▄▄▄▄▄█ █ █   █ █  ▄   █  █▄▄█ █
+         █▄▄▄▄▄▄██▄▄▄█▄▄▄▄▄▄▄█▄█  █▄▄█▄▄▄▄▄▄▄█ █▄▄▄█ █▄█ █▄▄█▄▄▄▄▄▄▄█
+
+⠶ westport
+────────────────────────────────────────────────────────────────────────────────
+
+> Fine with possible morning frost. Southeasterlies dying out this afternoon.
+> High: 13°c Low: 3°c
+> 7:27am/7:58am → 5:22pm/5:53pm
+
+⠶ schedule
+────────────────────────────────────────────────────────────────────────────────
+
+1000 standup
+1400 working async, part 1
+
+⠶ async
+────────────────────────────────────────────────────────────────────────────────
+
+It would be cool to try out the mish handover bot with the Runn team.
+I need to check with Jacob if I can open source the project first.
+https://github.com/mishguruorg/handover
+
+⠶ walking the heaphy track
+────────────────────────────────────────────────────────────────────────────────
+
+I'd like to walk the heaphy track.
+Take a week off work to do it, it's at least 4 days of walking.
+Going to be freezing at the summit.
+
+https://www.doc.govt.nz/globalassets/documents/parks-and-recreation/tracks-and-walks/nelson-marlborough/heaphy-track-brochure.pdf
+
+Huts are very available:
+https://bookings.doc.govt.nz/Saturn/Facilities/SearchViewGW.aspx?placeId=430
+
+Be aware that they are air dropping poison at the end of July.
+
+Questions:
+- How can I get my bike/bags transferred?
+
+Hmm, taking the bike across would be pretty cool.
+Just need to find a way to transfer my gear -- I don't want to take a tent/laptop/etc.
+https://www.pushbikes.co.nz/blogs/news/mountain-biking-the-heaphy-track
+
+I will need to get a little gas cooking set.
+I think rain pants would be a good idea.
+Talk to Nicole, she has done the Heaphy track recently.
+
+Arnica & her sister, road tripping around the south island.
+
+⠶ todo
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] bike maintenance
+  - [x] apply chainlube to brian
+  - [x] replace tube in front tyre
+  - [x] purchase new tube ($12)
+- [x] wash clothes
+  - [x] get cash out of atm
+  - [x] convert cash to coins
+  - [x] wash clothes at YHA
+  - [x] dry clothes in sunlight
+- [x] book taxi to westport airport on thursday morning
+  - [x] pickup at 5:25 with Westport Taxi Cabs
+- [ ] call dentist → book dentist appointment
+- [ ] call gp → book pre-flight covid test
+  - > Travellers will contact their medical practice to arrange testing.
+    > Payment must be made directly to the medical practice for all associated
+    > costs of testing, including the laboratory analysis. ($141)
+- [x] visit supermarket, get bikkies, eat bikkies
+- [x] can I bike/walk the heaphy track?
+  - [x] catch up with Nicole → friday morning at 9am
+- [x] book return flight from rotorua to westport ($250 + $160)
+
+
+⠶ flight to the UK
+────────────────────────────────────────────────────────────────────────────────
+
+
+
+Can reschedule to a later date in September for free.
+Thanks Singapore Airlines!
