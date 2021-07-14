@@ -1,0 +1,32 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15 Jul 2021 ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  █▀▄ ▄▀▄ █▄ █ █▄ █ ██▀ █▀▄ ▄▀▀ ▀█▀ ▄▀▄ ▄▀  ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  █▄▀ ▀▄▀ █ ▀█ █ ▀█ █▄▄ █▀▄ ▄██  █  █▀█ ▀▄█ ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ WESTPORT → WELLINGTON → ROTORUA ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ ROTORUA                                                                    ~~
+~~ Fine, some morning cloud. Frosty at first. Light winds, then northwest     ~~
+~~ breezes from afternoon.                                                    ~~
+~~ High: 13°c Low: 4°c                                                        ~~
+~~ 6:56am/7:25am → 5:17pm/5:46pm                                              ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ FLYING HOME ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Waking up at 5am. Had my alarm set, but Lendell is up at 4:59am, crazy dude.
+~~ He was telling me how he owns land at Inangahua Junction, often sleeps in a
+~~ tent on the beach and loves walking around at night.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TODO
+
+- [x] get back to Rotorua
+  - [x] catch flight from WSZ to WLG
+  - [x] catch flight from WLG to ROT
+- [.] finances
+  - [x] update july expenses
+  - [ ] switch patreon to wise card (save on FX fee)
+  - [ ] switch boardgamearena to wise card (save on FX fee)
+- [ ] it's wealth summary day!
+  - [ ] update wealth/*.csv files
+  - [ ] update wealth.txt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
