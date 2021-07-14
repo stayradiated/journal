@@ -79,4 +79,5 @@ Music (todo)
 | 2021.07.05 |   |                   Art vs Science | Enter Sandman                     | Spotify DW                 |
 | 2021.07.05 |   |                             Bugs | Charlie                           | Spotify DW                 |
 | 2021.07.05 |   |                      Thelma Plum | Homecoming Queen                  | Spotify DW                 |
+| 2021.07.05 |   |                        Sea Girls | Daisy Daisy                       | Spotify DW                 |
 |------------+---+----------------------------------+-----------------------------------+----------------------------|

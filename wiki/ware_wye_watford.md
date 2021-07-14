@@ -1,0 +1,39 @@
+WARE, WYE, WATFORD
+by Paul Jennings
+
+I NEVER know whether to be surprised or not when I am told that foreigners find English extraordinarly difficult. On the one hand it is less rational, more ‘given’, than, say, French or Spanish, which have the air of being mental constructions; and it is more manifold, more European, than, say, German. On the other hand there is, surely, about most English words an ultimate rightness which ought to strike everyone, including foreigners, as the final perfection reached in man’s art of naming. I don’t mean in the obvious onomatopoeia of words such as bang, dribble, snivel, splotch (all my French dictionary can do for splotch is grosse tache – I ask you!); for there is a more subtle, allusive onomatopoeia in words which have nothing to do with actual sound: sausage, elation, leaf, humdrum; if boredom made an actual noise that’s what it would sound like: hum, drum, hum, drum.
+
+Our island is the home of a magical aptness, the ancient tussocky fields are the nearest approach, so far, to that ever-new Garden of Eden in which, as Mr W.H. Auden recently reminded us, Adam’s first task was to give names to the creatures. If anyone doubts this, let him consider the very names of our towns.  For they not only describe places. They carry wonderful overtones, they seem to have been drawn from some huge, carelessly profuse stock of primal meaning, to have come out of the very bag from which Adam got his names. Let me illustrate with a few examples from this vast English treasury of subconscious meaning 
+
+- babbacombe n. An idle or nonsensical rumour. ‘It’s just a lot of b.’
+- barnstaple n. Mainstay, keystone. ‘Mrs Thomas is the b. of our committee.’
+- bawtry adj. Used of windy and rainy weather. ‘A b. day.’
+- beccles n. Ailment of sheep, c.f., the Staggers, the Twitches, Quarter ill, the Jumps.
+- bovey tracey adj. Headstrong, wilful. ‘None of your b. ways here, Miss!’
+- brasted adj. (colloq.) Term of humorous abuse. ‘The b. thing’s come unstuck.’
+- buckfastleigh adv. (arch. and poet.) Manfully. ‘Aye, and right buckfastleigh, lad.’ (Hardy).
+- cromer n. A mistake, bungle. ‘You made a c. there.’
+- dunstable adj. (arch.) Possible. ‘If ‘tis dunstable, he’ll do it, my lord.’ (Shak.)
+- dungeness n. Uninterestingness. ‘A suburb of extraordinary d.’
+- erith v. (obsol.) Only in third pers., in old proverb ‘Man erith, woman morpeth.’
+- glossop n. Dolt, clot. ‘Put it down, you silly g.!’
+- holyhead n. Hangover.
+- ilkley adj. Having large elbows.
+- kenilworth n. A trifling or beggarly amount. ‘He left her nobbut a kenilworth in his will.’
+- kettering adj. from v. ketter (obsol.) Like the flight of a butterfly.
+- leek adj. Very cold.
+- lostwithiel n. Ne’er-do-well.
+- lowestoft n. A subterranean granary.
+- lydd adj. Useless, defunct, inactive.
+- maesteg adv. (Welsh). Musical direction to Welsh choirs to sing maestoso but at the same time brightly.
+- manningtree n. A gallows.
+- midhurst n. Maturity, fruition. ‘His career was in its m.’
+- morpeth see erith.
+- pershore adv. (arch.) Certainly, for sure. ‘Pershore thou’st damn’d.’ (Webster)
+- priddy adj. Next.
+- rickmansworth n. (legal). Ancient nominal rent paid to lord of manor for hay. Always paired, in mortgage documents, with …
+- stevenage n. (legal). Ancient nominal rent paid to lord of manor for stones.
+- thirsk n. A desire for vodka.
+- uttoxeter n. A charlatan, usually a quack doctor.
+- wembley adj. Suffering from a vague malaise. ‘I feel a bit w. this morning.’
+- woking pres. part. of v. to woke (obsol.) Day-dreaming.
