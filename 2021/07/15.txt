@@ -17,16 +17,36 @@
 ~~ He was telling me how he owns land at Inangahua Junction, often sleeps in a
 ~~ tent on the beach and loves walking around at night.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-TODO
-
-- [x] get back to Rotorua
-  - [x] catch flight from WSZ to WLG
-  - [x] catch flight from WLG to ROT
-- [.] finances
-  - [x] update july expenses
-  - [ ] switch patreon to wise card (save on FX fee)
-  - [ ] switch boardgamearena to wise card (save on FX fee)
-- [ ] it's wealth summary day!
-  - [ ] update wealth/*.csv files
-  - [ ] update wealth.txt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ TODO
+~~ - [x] get back to Rotorua
+~~   - [x] catch flight from WSZ to WLG
+~~   - [x] catch flight from WLG to ROT
+~~ - [x] it's wealth summary day!
+~~   - [x] update wealth/*.csv files
+~~   - [x] update wealth.txt
+~~ - [.] finances
+~~   - [x] update july expenses
+~~   - [ ] switch patreon to wise card (save on FX fee)
+~~   - [ ] switch boardgamearena to wise card (save on FX fee)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ WORK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Trying out async life, no 1.5 hour sync meetings today. Instead get access
+~~ to recording, watch at 2x speed, take notes. Ask questions. Make suggestions.
+~~ Just need to get the recording first…
+~~ 
+~~ Continuing to investigate the issue with Heroku not deploying Hasura
+~~ correctly. Turns out the bug fix from May was never merged, doh!
+~~ I also found another bug with creating new apps not always working, so I
+~~ fixed that as well.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ HEAPHY TRACK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Weather isn't looking good for next week, but it's still 10 days away…
+~~ https://www.metvuw.com/forecast/forecast.php?type=rain&region=nzsi&noofdays=10
+~~ 
+~~ Found this cool project: http://metvuw.spork.in/main.html?region=nzsi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
