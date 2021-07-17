@@ -1,0 +1,40 @@
+
+          ▄▄▄▄                ▄▄
+        ▄█▀ ▀▀                ██   ██
+        ██▀                        ██
+       █████ ▀███▄███ ▄▄█▀██▀███ ██████ ▄█▀██▄  ▄█▀█████ 16 Jul 2021
+        ██     ██▀ ▀▀▄█▀   ██ ██   ██  ██   ██ ▄██  ██
+        ██     ██    ██▀▀▀▀▀▀ ██   ██   ▄█████ ▀█████▀
+        ██     ██    ██▄    ▄ ██   ██  ██   ██ ██
+      ▄████▄ ▄████▄   ▀█████▀████▄ ▀████████▀██▄███████
+                                               █▀     ██
+                                                ██████▀
+
+────────────────────────────────────────────────────────────────────────────────
+
+- getting my first Pfizer vaccine shot this morning!
+
+> For the best protection, it's important to get your second dose of the
+> COVID-19 vaccine at least 3 weeks after your first dose – even if you get
+> side effects after the first dose.
+https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-effectiveness-and-protection
+
+⠶ TODO (Rotorua)
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] get first vaccine shot
+- [x] get watch battery replaced
+- [x] sign up for Dasset with passport
+- [ ] login to rabobank, check message
+- [ ] seriously consider a haircut
+- [ ] purchase new 8 speed cassette for bike
+- [ ] fix benji server (install void linux?)
+
+⠶ WORK
+────────────────────────────────────────────────────────────────────────────────
+
+- [ ] working on bug fixes
+- [ ] future works meeting
+  - [ ] watch 2nd half of video
+  - [ ] post loom video with my suggestions
+- [ ] deep dive on Hasura's reference app: https://hasura.io/reference-app/
