@@ -87,4 +87,11 @@ Music (todo)
 | 2021.07.15 |   |                   Toby Sebastian | Train to Mexico                   | Spotify DW                 |
 | 2021.07.15 |   |              Bombay Bicycle Club | Good Day                          | Spotify DW                 |
 | 2021.07.15 |   |                    Reina del Cid | Bernadette                        | Spotify DW                 |
+| 2021.07.15 |   |                        The Rions | Sadie                             | Spotify DW                 |
+| 2021.07.15 |   |                       Halloweens | Hannah, You're Amazing            | Spotify DW                 |
+| 2021.07.16 |   |                       Paul Kelly | Deeper Water                      | Spotify DW                 |
+| 2021.07.16 |   |                         Flipturn | Something You Needed              | Spotify DW                 |
+| 2021.07.16 |   |                     Johnny Flynn | Tickle Me Pink                    | Spotify                    |
+| 2021.07.16 |   |                          Dr. Dog | Nellie                            | Spotify                    |
+| 2021.07.16 |   |                        Foy Vance | She Burns                         | Spotify                    |
 |------------+---+----------------------------------+-----------------------------------+----------------------------|
