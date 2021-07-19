@@ -52,6 +52,14 @@ Other options:
 - take bus to Nelson
 - take bus to Greymouth and then train to Christchurch?
 
+⠶ LAPTOP
+────────────────────────────────────────────────────────────────────────────────
+
+I think I fixed my audio driver issues…
+
+> cat /etc/modprobe.d/dsp-fix.conf
+options snd_intel_dspcfg dsp_driver=1
+
 ⠶ WORK
 ────────────────────────────────────────────────────────────────────────────────
 
