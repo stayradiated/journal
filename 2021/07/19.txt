@@ -1,0 +1,85 @@
+────────────────────────────────────────────────────────────────────────────────
+        __ __                                      
+       |  |  |                        |            
+       |  |  |   __    __    _  _   __|   __   __  
+       |  |  |  /  |  /  |  / |/ | /  |  /  | /  | 
+       |  |  |_/\_/|_/\_/|_/  |  |_\_/|_/\_/|_\_/|/
+                                                /| 
+                                    19 Jul 2021 \| afrikaans
+
+⠶ ROTORUA
+────────────────────────────────────────────────────────────────────────────────
+> Cloudy periods. A few light showers until afternoon. Westerlies
+> High: 13°c Low: 5°c
+> 6:54am/7:23am → 5:20pm/5:49pm
+
+⠶ SCHEDULE
+────────────────────────────────────────────────────────────────────────────────
+
+0630 waking up
+0800 out of bed
+0900 working from Interval Cafe
+0930 debugging DNS records with Rowan and Tim
+1000 standup with Nicole, Shannon and Priscilla
+1030 1-1 goal review with Rowan
+1215 subway for lunch in park
+1245 working from avc cafe
+1400 coffee with james/mum
+
+⠶ WEEK GOALS
+────────────────────────────────────────────────────────────────────────────────
+
+- [ ] wake up + out of bed at 06:30 each morning
+  - [ ] woke up at 06:30, but lay in bed until 08:00…
+- [ ] go for a run twice
+  - [ ] let's go for a run today
+- [ ] send a postcard to Jo
+  - [ ] need to purchase a postcard… does Rotorua even have postcards?
+
+⠶ TRAVEL
+────────────────────────────────────────────────────────────────────────────────
+
+> 18 July 2021: Heaphy Track closed due to slips
+> As a result of the recent severe weather event, the Heaphy Track is closed
+> due to slips and mudslides along the coastal section.
+
+It may not be open in time for this weekend…
+
+I have made the call to stay in Rotorua for an extra week, I will fly down next
+wednesday (28th July). Hopefully things have cleared up by then.
+
+Other options:
+- take bus to Nelson
+- take bus to Greymouth and then train to Christchurch?
+
+⠶ WORK
+────────────────────────────────────────────────────────────────────────────────
+
+- [x] move 1-1 google docs to notion
+- [x] check-in on the search improvements 
+  - [x] create Github issue: investigating how to implement searching
+
+⠶ TODO
+────────────────────────────────────────────────────────────────────────────────
+
+- [ ] friends
+  - [ ] check-in with jacob
+  - [ ] catch up with chris
+- [x] 1-1 Runn Goals
+  - [x] Meeting with Rowan tomorrow at 10:30
+  - [x] Prepare notes for meeting
+- [ ] book flight to get to rotorua before August 6th
+  - [ ] I am thinking Nelson → Rotorua
+- [ ] travel to europe
+  - [ ] have a chat with parents
+  - [ ] lock in date for september flight
+  - [ ] call dentist → book dentist appointment
+  - [ ] call gp → book pre-flight covid test
+- [ ] rotorua
+  - [ ] login to rabobank, check message
+  - [ ] purchase new 8 speed cassette for bike
+  - [ ] seriously consider a haircut
+- [x] finances
+  - [x] update expenses
+  - [x] switch patreon to wise card (save on FX fee)
+  - [x] cancel boardgamearena account
