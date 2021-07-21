@@ -1,0 +1,82 @@
+================================================================================
+
+                ____                                       
+               (|   \  o                |                  
+                |    |     _  _       __|   __    __   __  
+               _|    | |  / |/ |  / \/  |  /  |  /  | /  | 
+              (/\___/ /|_/  |  |_/ \/\_/|_/\_/|_/\_/|_\_/|/
+                                                        /| 
+                                                        \| 
+20 Jul 2021
+================================================================================
+
+schedule
+--------
+
+0630 wake up
+0720 out of bed
+1200 lunch
+1230 working from artisan
+
+stayradiated/desktop
+--------------------
+
+Trying to install `xcape` - not sure why it's not working.
+
+    » xcape -e 'Control_L=Escape'
+    Xtst extension missing
+
+Never did figure that out.
+Found and installed interception-tools along with caps2esc.
+See https://gitlab.com/interception/linux/plugins/caps2esc.
+This is installed on the host (not inside docker)
+
+Going to take a day to get used to this new layout.
+
+self
+----
+
+Feeling a bit irritable today.
+
+Things to try:
+- Get out of bed as soon as I wake up.
+- Going for a run
+
+firefox
+-------
+
+ctrl-shift-c should copy and now it does!
+https://addons.mozilla.org/en-US/firefox/addon/ctrl-shift-c-should-copy/
+
+work
+----
+
+Experiment with using Hasura to create complex filter queries.
+
+weekly goals
+------------
+
+- [ ] wake up + out of bed at 06:30 each morning
+    - force yourself out of bed tomorrow
+- [ ] go for a run twice
+    - today would be a good day
+- [ ] send a postcard to Jo
+  - [ ] need to purchase a postcard… does Rotorua even have postcards?
+
+todo
+-----
+
+- [ ] friends
+  - [ ] check-in with jacob
+  - [ ] catch up with chris
+- [ ] book flight to get to rotorua before August 6th
+  - [ ] I am thinking Nelson → Rotorua
+- [ ] travel to europe
+  - [ ] have a chat with parents
+  - [ ] lock in date for september flight
+  - [ ] call dentist → book dentist appointment
+  - [ ] call gp → book pre-flight covid test
+- [ ] rotorua
+  - [ ] login to rabobank, check message
+  - [ ] purchase new 8 speed cassette for bike
+  - [ ] seriously consider a haircut
