@@ -1,0 +1,16 @@
+Friday 23 Jul 2021
+==================
+
+Guess who is up early? This guy!
+
+tmux has a read-only mode, super nice
+> tmux attach -r
+> tmux switch-client -r
+
+I submitted an issue to @vercel/ncc before going to bed and woke up and now
+it's fixed, love those guys.
+
+My favourite Tom has a new song out and it's a great one.
+I hope he's doing alright.
+
+Watching Steve Mould and Mehdi talk about the physics behind chain fountains.
