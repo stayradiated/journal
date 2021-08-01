@@ -1,0 +1,10 @@
+Monday 26 Jul 2021
+==================
+
+work
+
+- [x] graphl database 
+- [ ] review rowan's api changes
+- [ ] search phase 1
+- [ ] kpi suggestions
+- [ ] monitoring postgres performance

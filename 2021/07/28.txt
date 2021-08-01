@@ -1,0 +1,34 @@
+Wednesday 28 Jul 2021
+=====================
+
+Pick a date to fly to London.
+Would prefer a wednesday? Why?
+Leave on September 15th.
+
+TODO
+
+- [x] fly to welly
+- [x] book taxi to pick me up from the airport (from 16:15)
+- [x] fly to westport
+- [x] taxi to YHA (fingers crossed my bike is stil there)
+- [x] quickly get to the Cycle Work Shop and replace cassette and chain
+      - they are closed until August 4th!
+- [x] catching up with Jo ♥
+- [ ] plan out where I am riding to tomorrow (berlins, murchison?)
+  - murchison is 100km away, that's quite a long day of cycling!
+  - there is also Lyall's campsite, halfway between berlins and murchison
+
+RUNN
+
+- [x] respond to async dev meeting notes
+- [x] continue work on filter engine
+
+TOMORROW
+
+- [ ] purchase Apple earpod replacements?
+  - I thought that Westport had a Noel Leemings… it doesn't.
+  - It has a small tech store (100% Ellerys), they must have something
+    * https://www.100percent.co.nz/tv-and-audio/audio/portable-and-personal/TAUE101WT/Philips-Earphones.html
+    * they open at 9am
+  - alternatively: try cycling with noise-cancelling headphones, but only the
+    left ear.

@@ -10,13 +10,13 @@ Music (todo)
 | 2021.01.10 |   |                        Zoe Scott | @whoiszoescott                    | Rotorua Farmer's Market    |
 | 2021.01.10 | ✓ |                       Tiny Ruins | Olympic Girls                     |                            |
 | 2021.01.20 | ✓ |                 The New Radicals | Maybe You've Been Brainwashed Too | TodayInTabs                |
-| 2021.01.28 |   |               These New Puritans | Hidden                            | TodayInTabs                |
-| 2021.02.01 |   |                      John Butler | Motion                            | Garoid                     |
-| 2021.02.01 |   |                   Gerry Cinnamon | Cantor                            | Garoid                     |
+| 2021.01.28 | ✓ |               These New Puritans | Hidden                            | TodayInTabs                |
+| 2021.02.01 | ✓ |                      John Butler | Motion                            | Garoid                     |
+| 2021.02.01 | ✓ |                   Gerry Cinnamon | Cantor                            | Garoid                     |
 | 2021.05.18 | ✓ |                      Tim Minchin | Apart Together                    | Penn's Sunday School       |
-| 2021.05.22 |   |                        Destroyer | Times Square                      | Spotify DW                 |
-| 2021.05.22 |   |               I'm From Barcelona | Always Spring                     | Spotify DW                 |
-| 2021.05.22 |   |                      Janne Schra | Everything I Do Ooh Ooh           | Spotify DW                 |
+| 2021.05.22 | ✓ |                        Destroyer | Times Square                      | Spotify DW                 |
+| 2021.05.22 | ✓ |               I'm From Barcelona | Always Spring                     | Spotify DW                 |
+| 2021.05.22 | ✓ |                      Janne Schra | Everything I Do Ooh Ooh           | Spotify DW                 |
 | 2021.05.22 |   |                   Robert Francis | Baby Was the Devil                | Spotify DW                 |
 | 2021.05.22 |   |                         Snowmine | Columbus                          | Spotify DW                 |
 | 2021.05.23 |   |            Active Bird Community | Pick Me Apart                     | Spotify DW                 |
@@ -94,12 +94,17 @@ Music (todo)
 | 2021.07.16 | ✓ |                     Johnny Flynn | Tickle Me Pink                    | Spotify                    |
 | 2021.07.16 | ✓ |                          Dr. Dog | Nellie                            | Spotify                    |
 | 2021.07.16 | ✓ |                        Foy Vance | She Burns                         | Spotify                    |
-| 2021.07.23 |   |                             Hope | Swim                              | Spotify DW                 |
-| 2021.07.23 |   |                        Grouplove | Wildflowers                       | Spotify DW                 |
-| 2021.07.23 |   |                     Tia Gosetlow | Giants                            | Spotify DW                 |
-| 2021.07.23 |   |                      Red Red Rum | Eleanor                           | Spotify DW                 |
+| 2021.07.23 | . |                        Grouplove | Wildflowers                       | Spotify DW                 |
+| 2021.07.23 | . |                     Tia Gostelow | Giants                            | Spotify DW                 |
+| 2021.07.23 | . |                      Red Red Rum | Eleanor                           | Spotify DW                 |
 | 2021.07.23 | ✓ |        Pirates (Band of Misfits) | Sound Track                       | Movie Night                |
-| 2021.07.24 |   |                        Unwritten | Maddy Jane                        | Spotify DW                 |
-| 2021.07.24 |   |                           Hope D | Swim                              | Spotify DW                 |
-| 2021.07.24 |   |                   Up On The Moon | Sunship Balloon                   | Spotify DW                 |
+| 2021.07.24 | . |                        Unwritten | Maddy Jane                        | Spotify DW                 |
+| 2021.07.24 | . |                           Hope D | Swim                              | Spotify DW                 |
+| 2021.07.24 | . |                   Up On The Moon | Sunship Balloon                   | Spotify DW                 |
+| 2021.07.30 | . |                        Cory Wong | Meditation                        | Spotify DW                 |
+| 2021.07.30 | ✓ |                 The Technicolors | Space Cadet                       | Spotify DW                 |
+| 2021.08.02 |   |                        Peach Pit | Shampoo Bottles                   | Spotify DW                 |
+| 2021.08.02 |   |                 Woody and Jeremy | Be There                          | Spotify DW                 |
+| 2021.08.02 |   |                           TOLEDO | Crane Song                        | Spotify DW                 |
+| 2021.08.02 |   |           Good Luck Finding Iris | Christopher Robin                 | Spotify DW                 |
 |------------+---+----------------------------------+-----------------------------------+----------------------------|

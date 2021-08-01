@@ -1,0 +1,44 @@
+Saturday 31 Jul 2021
+====================
+
+Plan:
+
+- Make sure Alpine Lodge knows I am staying another night (should be able to
+  visit reception around 8am)
+- Hitch to the Rainbow Ski Fields, standing on the road out of St Arnaud around
+  8:30am. It's about 70 minutes drive from here. There is a shuttle from the
+  base car park to the ski area.
+- Purchase a lift gear and rent snowboard, clothing and helmet ($135 - $185)
+- Hitch a ride back to St Arnaud
+
+- Things to take with me:
+  - Gloves
+  - Warm Clothes
+  - Towel
+  - Snacks. NPD opens at 8am.
+
+|--------------------+-------|
+| Helmet             | 10    |
+| Clothing           | 26    |
+| Snowboard & Boots  | 59    |
+| Full Pass          | 90    |
+|--------------------+-------|
+| Total              | 185.0 |
+|--------------------+-------|
+| Lift Pass + Rental | 135.0 |
+|--------------------+-------|
+/* tmf: $5,2=Sum(1:-1) */
+
+Solstice: Longest day and shortest day
+Equinox: days are equal in length
+
+Reality:
+
+It went really well.
+Successfully hitch-hiked my way out to Rainbow Ski Field.
+One lift to the junction and another to the base carpark.
+$28 for a return shuttle up/down the mountain.
+
+It was a lot warmer out there then I expected.
+
+Met Shannon & Henri. 
