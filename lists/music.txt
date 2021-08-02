@@ -107,4 +107,5 @@ Music (todo)
 | 2021.08.02 |   |                 Woody and Jeremy | Be There                          | Spotify DW                 |
 | 2021.08.02 |   |                           TOLEDO | Crane Song                        | Spotify DW                 |
 | 2021.08.02 |   |           Good Luck Finding Iris | Christopher Robin                 | Spotify DW                 |
+| 2021.08.02 |   |                        Ezra Bell | May the Road                      | Spotify DW                 |
 |------------+---+----------------------------------+-----------------------------------+----------------------------|

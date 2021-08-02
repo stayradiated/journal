@@ -3,14 +3,27 @@ Monday 02 Aug 2021
 
 Waking up in Nelson!
 I'm staying at the YHA here.
-It's what you woud expect.
+It's what you would expect.
 
 > Cloudy, a few showers developing this morning. Northerlies developing around midday.
 > High: 14°c Low: 7°c
 > 7:04am/7:34am → 5:34pm/6:03pm
 
+Catching up with Jo this morning :)
+She has just arrived in Edinburgh, sailing to London in 2 days.
+
+SCHEDULE
+
+- 0730 out of bed
+- 0910 catching up with Jo
+- 0950 working from Zumo cafe
+- 1200 lunch at subway
+- 1400 virtual coffee with andria
+
 TODO
 
+- [x] let Mack know I'm in town
+- [ ] check-in with chris goodall
 - [x] update expenses
   - [x] complete spreadsheet for July
   - [x] start new expenses spreadsheet for August
@@ -20,7 +33,24 @@ TODO
   - Well that rules that out, James would not enjoy transiting through
     Wellington by himself.
 - [ ] send Jo a postcard ♥
-- [ ] Cancel Ancestry.com
-- [ ] Expense skinny data
+- [ ] Cancel Ancestry.com subscription, ugh
+- [x] Expense skinny data to Runn (june, july, august)
+- [ ] move flight to london to September 16th (thursday)
+- [ ] book a pre-flight covid test
+  - https://www.healthpoint.co.nz/covid-19/central-auckland/auckland-central/
+    * Queen St Doctors
+    * Auckland City Doctors
+- [x] Pay off the last of the IRD tax
 
 RUNN
+
+- [x] catch up on thursday/friday events
+- [x] functional testing of Priscilla's weekends PR
+  * https://runn-pr-6402-app.herokuapp.com
+- [x] Update george/hasura-metadata-v3 branch
+  - tests are not passing
+    * try running them again
+- [ ] Review rowan's API PR:
+  - https://github.com/Runn-Fast/runn/pull/6470#issuecomment-890316245
+- [ ] raise PR to change font to roboto
+- [ ] continue work on filter engine
