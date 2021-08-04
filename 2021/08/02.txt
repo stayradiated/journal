@@ -19,6 +19,9 @@ SCHEDULE
 - 0950 working from Zumo cafe
 - 1230 lunch (subway in the park)
 - 1400 virtual coffee with andria
+- 1630 12km run to the beach and back
+- 1730 roast veggies for dinner
+- 1930 working from the hostel lounge
 
 TODO
 
@@ -50,14 +53,19 @@ RUNN
 - [x] Update george/hasura-metadata-v3 branch
   - tests are not passing
     * try running them again
-- [ ] Review rowan's API PR:
+- [x] Review rowan's API PR:
   - https://github.com/Runn-Fast/runn/pull/6470#issuecomment-890316245
 - [x] raise PR to change font to roboto
 - [ ] continue work on filter engine
-- [ ] fix bug with deploy-to-heroku-action
+- [x] fix bug with deploy-to-heroku-action
+- [x] explain font issue to ruth and rowan
 
 RETRO NOTES
 
 - Rowan should avoid merging PRs without anyone approving them first
   * If necessary, at least request a post-merge review just so people are aware
     of what has changed.
+- Rowan: With PRs, lets try keep them in “Draft” state until we want someone to
+  review them.This will both let people know when something is ready to be
+  reviewed, but also help us in keeping track of the “how long to review” KPI
+  for developers.
