@@ -1,0 +1,30 @@
+Friday 06 Aug 2021
+==================
+
+Catching a bus!
+
+--- SCHEDULE--------------------------------------------------------------------
+
+0700 out of bed
+0925 leave Nelson on bus
+1200 arrive in Picton
+1400 catch up with Ivan
+
+--- TODO -----------------------------------------------------------------------
+
+- [ ] Get to Picton
+  - [ ] Get Brian out of storage @ 0830
+  - [ ] Pack Brian into a cardboard box
+  - [ ] Get bags and Brian to the bus stop
+- [ ] Email Broken River, request full refund
+  - [ ] https://www.brokenriver.co.nz/about-br/mountain/snow-report-and-webcam/
+- [ ] friends:
+  - [ ] Catch up with Ivan, plan road trip to the snow
+  - [ ] Give James a call. Where should we go this month?
+  - [ ] Catch up with Chris Goodall
+  - [ ] Find time to catch up with Jacob
+- [ ] Cancel Ancestry.com subscription, ugh
+- [ ] Start learning Haskell:
+    - https://exercism.io/tracks/haskell
+    - https://exercism.io/my/solutions/f1c8609627fd437f92180cf1fb13af18
+

@@ -76,3 +76,18 @@ Total flight duration is 26 hours.
 9. Josephine ∙ Stornoway
 10. Belong ∙ San Fermin
 11. The Things Above ∙ CooBee Coo
+
+=== ALSA CONFIG ================================================================
+
+For when you want to record from one input and playback on another.
+
+    pcm.!default {
+      type asym
+      playback.pcm "plughw:0,0"
+      capture.pcm "plughw:1,0"
+    }
+
+    ctl.!default {
+      type hw
+      card 1
+    }
