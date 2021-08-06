@@ -1,0 +1,24 @@
+Saturday 07 Aug 2021
+====================
+
+PICTON
+
+Should be a nice day.
+
+METSERVICE
+
+This is the best description of their API I've found:
+https://github.com/ZephireNZ/PyMetService/blob/master/pymetservice/__init__.py
+
+But it only works with places that fall unde "towns-cities"
+I don't know how to fetch data about rual regions from metservice.
+
+MORNING
+
+Ski patrol young woman, no name
+Noah
+
+Chilling at Le Cafe
+
+Putting brian back together
+Going to cycle to Havelock FOR FUN

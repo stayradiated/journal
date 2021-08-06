@@ -9,22 +9,59 @@ Catching a bus!
 0925 leave Nelson on bus
 1200 arrive in Picton
 1400 catch up with Ivan
+1600 afternoon 5km run
+1700 soaking in hot tub
+1820 dinner
 
 --- TODO -----------------------------------------------------------------------
 
-- [ ] Get to Picton
-  - [ ] Get Brian out of storage @ 0830
-  - [ ] Pack Brian into a cardboard box
-  - [ ] Get bags and Brian to the bus stop
+- [x] Get to Picton
+  - [x] Get Brian out of storage @ 0830
+  - [x] Pack Brian into a cardboard box
+  - [x] Get bags and Brian to the bus stop
 - [ ] Email Broken River, request full refund
   - [ ] https://www.brokenriver.co.nz/about-br/mountain/snow-report-and-webcam/
-- [ ] friends:
-  - [ ] Catch up with Ivan, plan road trip to the snow
-  - [ ] Give James a call. Where should we go this month?
+- [x] friends:
+  - [x] Catch up with Ivan, plan road trip to the snow
+  - [x] Give James a call. Where should we go this month?
   - [ ] Catch up with Chris Goodall
-  - [ ] Find time to catch up with Jacob
+  - [x] Find time to catch up with Jacob
 - [ ] Cancel Ancestry.com subscription, ugh
 - [ ] Start learning Haskell:
     - https://exercism.io/tracks/haskell
     - https://exercism.io/my/solutions/f1c8609627fd437f92180cf1fb13af18
 
+--- EXPERIMENTS IN AUDIO
+
+- does local /etc/asound.conf affect firefox?
+  - yes. it will change audio behaviour.
+    1 no config file: audio plays through PCH
+    2 with config: audio through PCH
+        defaults.ctl.card 0
+        defaults.pcm.card 0
+    3 with config: audio through USB
+        defaults.ctl.card 1
+        defaults.pcm.card 1
+    4 with config: no sound
+        pcm.!default { type hw; card 1 }
+    5 with config: audio through USB
+        pcm.azalia { type hw; card 1 }
+        pcm.!default { type plug; slave.pcm "azalia" }
+    6 with config: input on left, output on right
+        pcm.laptop { type hw; card 0 }
+        pcm.usb { type hw; card 1 }
+
+        pcm.!default {
+          type asym
+          playback.pcm { type plug; slave.pcm "laptop" }
+          capture.pcm { type plug; slave.pcm "usb" }
+        }
+    7 with config: same as 6, but with card names
+        pcm.laptop { type hw; card PCH }
+        pcm.usbaudio { type hw; card Audio }
+
+        pcm.!default {
+          type asym
+          playback.pcm { type plug; slave.pcm "laptop" }
+          capture.pcm { type plug; slave.pcm "usbaudio" }
+        }

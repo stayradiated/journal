@@ -19,5 +19,6 @@ YouTube
 > George Hotz | minikeyvalue: a sub 1000 line key value store
 @2021.07.17
 
-- [ ] https://www.youtube.com/watch?v=0FH9cgRhQ-k
+- [ ] https://www.youtube.com/watch?v=0FH9cgRhQ-k&t=8m16s
+> Kurzgesagt ∙ The Largest Black Hole in the Universe - Size Comparison
 @2021.08.04
