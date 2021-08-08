@@ -1,0 +1,26 @@
+Monday 09 Aug 2021
+==================
+
+PICTON
+------
+
+I will be here another night.
+Would be a good day to get some washing out.
+
+RUNN
+----
+
+Open PRs:
+
+- george/woah-no-shadows
+- george/one-font
+- george/search-phase-2
+- george/feature-flags
+
+TODO
+----
+
+- [ ] Do I need to move the Retrospective meeting? Yes. 10am - 11am?
+- [ ] Review Priscilla's Weekend's PR
+  https://github.com/Runn-Fast/runn/pull/6402
+- [ ] Implement placeholder search for filter-engine
