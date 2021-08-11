@@ -6,16 +6,43 @@ PICTON
 
 I will be here another night.
 Would be a good day to get some washing out.
+Update: did that, fresh clean clothes are so good.
+
+Went for a midday run up to the Tirohanga track. Slippery with mud, I did very
+well not to fall over. The view from the top is fantastic, there is even a
+thoughtfully placed bench. I continued along the track to Garden Terrace, where
+one must cross a shallow river to get back into town. With all the rain
+yesterday the river was probably a bit more full than usual, but it was all
+good - and quite refreshing!
+
+Having a great time chatting to the other guests here:
+- Annabelle: a woman from the UK (30ish?) experienced sailor, living on a
+  sailboat, thinking of moving to Picton, works odd jobs she can find, likes
+  working as a sailmaker. Lived in Greece for 2 years on a boat, recommends
+  Sailing Holidays. Has done a lot of hiking, including alpine hikes. She has
+  met many inspiring people, a few of who live in the Bay of Islands, including
+  Annie Hill (https://anniehill.blogspot.com/). She recommends her book
+  "Voyaing on a Small Income". I would love to read it.
+- Ruth: a woman from Germany (late 30s?) who I find quite intimidating, she is
+  quite friendly though and has a funny sense of humour. She also works on her
+  laptop from Le Cafe, plus she recommended trying out the tree house at the
+  back of the hostel. She wears this beautiful steampunk compass on here wrist,
+  similar to how one wears a watch. She said that she is a retired pilot and
+  loves hiking through the backcountry.
+- Mike: a kiwi guy (40) who is moving vans between christchurch/auckland as a
+  side-gig. His passion is to produce music and we had a great chat about
+  music, DJing and technology. Cool dude. He recommends I checkout Serato -
+  which is world class DJ software built in NZ!
 
 RUNN
 ----
 
 Open PRs:
 
-- george/woah-no-shadows
-- george/one-font
-- george/search-phase-2
-- george/feature-flags
+- [x] george/woah-no-shadows
+- [ ] george/one-font
+- [ ] george/search-phase-2
+- [ ] george/feature-flags
 
 TODO
 ----
@@ -24,3 +51,34 @@ TODO
 - [ ] Review Priscilla's Weekend's PR
   https://github.com/Runn-Fast/runn/pull/6402
 - [ ] Implement placeholder search for filter-engine
+- [x] Go for a pre-lunch midday run up the Tirohanga track
+
+SOUND
+-----
+
+https://gist.github.com/RobGries/4feead6eaa1f679581c25d49431e3e47
+
+XI RETROSPECTIVE
+----------------
+
+Stumbled across this fantastic article about the Xi editor.
+
+https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html
+
+> Looking back, I see much of the promise of modular software as addressing
+> goals related to project management, not technical excellence.
+> Ideally, once you’ve defined an inter-module architecture, then smaller teams
+> can be responsible for their own module, and the cost of coordination goes
+> down.
+> I think this type of project management structure is especially appealing to
+ large companies, who otherwise find it difficult to manage larger projects.
+> And the tax of greater overall complexity is often manageable, as these big
+> companies tend to have more resources.
+
+DISK SPACE
+----------
+
+Benji has out of disk space.
+I will need to do some cleaning up.
+How do you sort directories by file size?
+Might try re-encoding music to a different format?
