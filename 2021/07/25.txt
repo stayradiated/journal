@@ -1,0 +1,40 @@
+Need to think of a name for the KC project. Purchase a domain name? Register with stripe. 
+
+Env vars should only be available to the services that use them. Keep ing all vars in a single .env file is a bad idea, now the database server has access to the encryption keys!
+
+Services should really be in docker containers. We will need to bundle nginx inside docker, so that we can expose a single port that manages hasura and webhooks. 
+
+It would be nice to just have hasura route webhooks to us, but it mangles the bytes in the process so we can't do Signature Verification with Stripe. 
+
+kc-web is going well
+
+We will need to add some way of enabling/disabling a DCA order, such as an enabled_at column
+
+We should implement custom timers for DCA orders, i.e run every minute, or every day
+
+We should implement limits, we could use these to implement two tiers of plans:
+- how many DCA orders an account can have running at once?
+- how many DCA orders can an account have, including disabled orders?
+- how many exchanges can a user have configured?
+- how frequently can a DCA order be executed?
+- how many days do we keep a users order history around for?
+
+More market data?
+Could track more US exchanges?
+
+More exchanges?
+Is it possible to integrate with EasyCrypto (unlikely, they don't hold cash deposits, right?) or BitPrime (unknown). 
+
+Are there any other exchanges in NZ?
+
+What about AUD exchanges? Independebt Reserve charges $20 per deposit! They do have their own autotrader system, that is worth investigating:
+
+https://blog.independentreserve.com/knowledge-base/how-does-the-autobuy-strategy-work
+
+Swyftx? Haven't heard of them before:
+https://swyftx.com/nz/fees/
+
+https://blog.independentreserve.com/knowledge-base/how-does-the-autoschedule-strategy-work
+
+
+A new entry to DCA History should be created on each execution, even if no order is created. The order_uid field will be null, but we could also add explicit new columns, such as "order_created" and "description", maybe even calculated values? Basically everything useful we get from the logs should be teacked in that table
