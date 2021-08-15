@@ -47,8 +47,8 @@ Open PRs:
 TODO
 ----
 
-- [ ] Do I need to move the Retrospective meeting? Yes. 10am - 11am?
-- [ ] Review Priscilla's Weekend's PR
+- [x] Do I need to move the Retrospective meeting? Yes. 10am - 11am?
+- [x] Review Priscilla's Weekend's PR
   https://github.com/Runn-Fast/runn/pull/6402
 - [ ] Implement placeholder search for filter-engine
 - [x] Go for a pre-lunch midday run up the Tirohanga track

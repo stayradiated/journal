@@ -3,13 +3,14 @@ YouTube
 
 > List of YouTube videos I'd like to watch but haven't had time to just yet.
 
-|------------+---+-------------------------------------------------------+----------------------+----------------------------------------------------------+-----------------------------------------------------------------|
-| Date       | ✓ | URL                                                   | Channel              | Title                                                    | Source                                                          |
-|------------+---+-------------------------------------------------------+----------------------+----------------------------------------------------------+-----------------------------------------------------------------|
-| 2021.05.24 | ✓ | https://www.youtube.com/watch?v=_8xhdL8BPvU           | CGP Grey             | The Battle of SHARKS!                                    | Patreon                                                         |
-| 2021.05.29 | ✓ | https://www.youtube.com/watchv=yKf9aUIxdb4            | Cracking the Cryptic | The Miracle Sudoku                                       | https://interconnected.org/home/2020/05/20/cyborgs_and_emotions |
-| 2021.06.07 |   | https://www.youtube.com/watch?v=1SWJaiY-8Y0&t=5h17m7s | George Hotz          | Coding Bitcoin client from scratch                       |                                                                 |
-| 2021.07.17 |   | https://www.youtube.com/watch?v=cAFjZ1gXBxc&t=7m35s   | George Hotz          | minikeyvalue: a sub 1000 line key value store            |                                                                 |
-| 2021.08.04 | ✓ | https://www.youtube.com/watch?v=0FH9cgRhQ-k           | Kurzgesagt           | The Largest Black Hole in the Universe - Size Comparison | YouTube Subscriptions                                           |
-| 2021.08.07 | ✓ | https://www.youtube.com/watch?v=jJn2OzOLIzo           | George Hotz          | Introducing the Comma 3                                  | YouTube Subscriptions                                           |
-|------------+---+-------------------------------------------------------+----------------------+----------------------------------------------------------+-----------------------------------------------------------------|
+|------------+---+-------------------------------------------------------+----------------------+------------------------------------------------------------+-----------------------------------------------------------------|
+| Date       | ✓ | URL                                                   | Channel              | Title                                                      | Source                                                          |
+|------------+---+-------------------------------------------------------+----------------------+------------------------------------------------------------+-----------------------------------------------------------------|
+| 2021.05.24 | ✓ | https://www.youtube.com/watch?v=_8xhdL8BPvU           | CGP Grey             | The Battle of SHARKS!                                      | Patreon                                                         |
+| 2021.05.29 | ✓ | https://www.youtube.com/watchv=yKf9aUIxdb4            | Cracking the Cryptic | The Miracle Sudoku                                         | https://interconnected.org/home/2020/05/20/cyborgs_and_emotions |
+| 2021.06.07 |   | https://www.youtube.com/watch?v=1SWJaiY-8Y0&t=5h17m7s | George Hotz          | Coding Bitcoin client from scratch                         |                                                                 |
+| 2021.07.17 |   | https://www.youtube.com/watch?v=cAFjZ1gXBxc&t=7m35s   | George Hotz          | minikeyvalue: a sub 1000 line key value store              |                                                                 |
+| 2021.08.04 | ✓ | https://www.youtube.com/watch?v=0FH9cgRhQ-k           | Kurzgesagt           | The Largest Black Hole in the Universe - Size Comparison   | YouTube Subscriptions                                           |
+| 2021.08.07 | ✓ | https://www.youtube.com/watch?v=jJn2OzOLIzo           | George Hotz          | Introducing the Comma 3                                    | YouTube Subscriptions                                           |
+| 2021.08.13 |   | https://www.youtube.com/watch?v=1klFXM4-_oA&t=1h44m1s | COVID-19 NZ          | Reconnecting New Zealanders to the World forum livestreama |                                                                 |
+|------------+---+-------------------------------------------------------+----------------------+------------------------------------------------------------+-----------------------------------------------------------------|

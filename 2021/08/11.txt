@@ -1,20 +1,58 @@
-What went well.
+Wednesday 10 Aug 2021
+===================
 
-What could be better.
+Schedule
+--------
+
+0600 wake up
+0645 cycle to the welly airport
+0720 arrive at airport, purchase bike box
+0815 check-in closes for flight
+0830 boarding flight
+0945 arrive in Rotorua
+0955 runn monthly retorespective
+1100 dad arrives to pick me up
+1140 vaccine shot pt. 2
+1230 lunch
+1300 finish re-assembling brian
+1320 working from the interval eatery
+1600 virtual coffee with nicole
+
+Todo
+----
+
+- [x] get fully vaccinated
+- [x] run retro 
+- [ ] when am I leaving rotorua?
+- [ ] catch up with jo ♥
+
+Runn Retrospective
+------------------
+
+What went well?
+What could be better?
 
 Testing on different browsers.
-- Different fonts on different platforms. We use Roboto on Windows/Linux and Helvetica on MacOS. These fonts can affect the layout of the app if an elements width is dependent on its text contents. 
+- Different fonts on different platforms. We use Roboto on Windows/Linux and
+  Helvetica on MacOS. These fonts can affect the layout of the app if an
+  elements width is dependent on its text contents. 
 - CSS glitches, like how the app was broken on Safari 14. 
-- It would be good to set up an automated visual diff using Percy as part of our CI/CD process, which can test on multiple browsers and highlight what changes. 
+- It would be good to set up an automated visual diff using Percy as part of
+  our CI/CD process, which can test on multiple browsers and highlight what
+  changes. 
 
-I think all PRs should be reviewed/approved. I guess this is just Rowan who can merge anything. I think there are times when that is called for, but then we should do a post-merge review. 
+I think all PRs should be reviewed/approved. I guess this is just Rowan who can
+merge anything. I think there are times when that is called for, but then we
+should do a post-merge review. 
 
 I love when PRs have a good description:
 - Link to an issue
 - Explain how the issue was solved
 - Note any unrelated changes or refactors that are included in the PR
 
-How do get the team to use Google Meet with tiqtaq - having recorded meetings with transcripts would be a big help. 
+How do get the team to use Google Meet with tiqtaq - having recorded meetings
+with transcripts would be a big help. 
+
 Keeping PRs in Draft until ready to review. 
 
 Using short videos to help explain ideas
@@ -22,7 +60,9 @@ Using short videos to help explain ideas
 Tracking current work in the Github Project board. 
 
 Async dev meetings:
-I'd like to have a way for anyone to raise questions instead of just Rowan. Maybe nobody else asks questions but still worth having that place. Maybe we could post questions there for discussion during the week. 
+I'd like to have a way for anyone to raise questions instead of just Rowan.
+Maybe nobody else asks questions but still worth having that place. Maybe we
+could post questions there for discussion during the week. 
 Could just have rolling dev meetings, post question anytime get a response.  
 
 Shout outs. 
@@ -30,19 +70,13 @@ Shout outs.
 - Rowan has done a great job on the API improvements. 
 - Andria taking the time to fix up the skipped/broken tests.
 
+Runn: Search
+------------
 
----
+Rename Magic Search to Wildcard Search. It's not magic, it's just matching
+against multiple fields. 
 
-Search
+How do we track the usefulness of search? But also respecting our customers
+privacy.
 
-Rename Magic Search to Wildcard Search. It's not magic, it's just matching against multiple fields. 
-
-How do we track the usefulness of search? But also respect privacy. We don't want to store search queries. 
-
-- Count how often a search is performed
-- Count what type of searches are made
-    - We can do this now that we convert searches into filter sets. 
-- Count number of results returned?
-- What is the most popular filter?
-
-Count how many users have saved filter sets. 
+Every time a search is performed, can we track which filters were used?

@@ -1,0 +1,58 @@
+Thursday 12 Aug 2021
+====================
+
+https://covid19.govt.nz/reconnecting-new-zealand-to-the-world/
+
+todo
+----
+
+- [ ] get a better face mask
+  - https://www.untouchedworld.com/ecoprotect-face-masks/shop-ecoprotect-face-masks/UWM006-UW-NZ/nanoknit-face-mask.html ($69)
+  - https://hillshats.co.nz/masks/
+  - https://littleyellowbird.com/collections/masks
+  - https://www.mountaincountry.co.nz/product/face-mask/
+- [ ] get a suitcase for travelling to the uk (max 25kg)
+  - [ ] https://www.briscoes.co.nz/bags-and-luggage/trolley-cases/
+- [x] make a list of items I am taking with me → lists/posessions.txt
+- [ ] watch design meeting (00:55:37)
+
+September
+---------
+
+ 8 : fly to Queenstown
+ 9 : runn team day
+10 : runn snow day
+11 : fly to Rotorua
+12 : fly to Auckland
+13 : pre-flight covid-test
+14 : get covid test results
+15 : flight to uk
+
+/etc/asound.conf
+----------------
+
+pcm.laptop { type hw; card PCH }
+pcm.usbaudio { type hw; card Audio }
+
+pcm.speakers {
+  type dmix
+  ipc_key 1024
+  slave { pcm "hw:0,0"; rate 48000 }
+  bindings { 0 0; 1 1 }
+}
+
+pcm.microphones {
+  type dsnoop
+  ipc_key 1024
+  slave { pcm "hw:1,0"; rate 48000 }
+  bindings { 0 0; 1 1 }
+}
+
+
+pcm.!default {
+  type asym
+  # playback.pcm { type plug slave { pcm "speakers" } }
+  # capture.pcm { type plug slave { pcm "microphones" } }
+  playback.pcm { type plug; slave.pcm "laptop" }
+  capture.pcm { type plug; slave.pcm "usbaudio" }
+}
