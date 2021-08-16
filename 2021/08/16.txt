@@ -1,0 +1,83 @@
+Monday 16 Aug 2021
+==================
+
+
+
+TODAYS GOAL: spend an hour cleaning up my room and sorting out what I'm taking
+             with me overseas.
+
+             I have a lot of gear I want to take to the opshop.
+
+Todo
+----
+
+- [ ] Purchase holdall luggage bag.
+- [x] Book flight to Christchurch.
+- [ ] Complete verificaton at independent reserve
+
+Travel Insurance:
+https://safetywing.com/nomad-insurance
+
+Singapore Baggage
+-----------------
+
+Isn't baggage a fun word to say? Baggage, baggage, baggage. BAGGAGE!
+
+Cabin Baggage:
+
+- Main bag:
+  * weight <= 7kg
+  * sum(length, width, height) <= 115cm
+- Laptop in bag:
+  * max dimensions = 40cm x 30cm x 10cm
+
+https://www.singaporeair.com/en_UK/sg/travel-info/baggage/cabin-baggage/
+
+Checked Baggage:
+
+> You are strongly advised against packing valuable and fragile items in your
+> checked baggage, such as Laptop, Important Documents, etc.
+
+- Baggage:
+  * 1 piece
+  * weight <= 25kg
+  * size <= 200cm (length) x 75cm (width) x 80cm (height)
+
+HOLDALL
+-------
+
+- Light weight (so it doesn't eat into my 25kg)
+- Collapses down for easy storage when not being used
+- Has wheels (to make it easier to transport)
+- Not too expensive (don't plan to use it too much)
+
+Kmart ($35)
+https://www.kmart.co.nz/product/duffle-bag-with-wheels---black/102554
+
+Briscoes ($150)
+https://www.briscoes.co.nz/product/1070826/flight-rolling-duffle-black-76cm/
+
+Pre-requisities:
+- Get all the stuff together that I am taking with me.
+- Figure out how much space it is going to take up + weight.
+
+Also worth checking TradeMe and second hand shops.
+People who recently arrived and don't need their bag anymore?
+Also check with parents first, mum might have something stashed away.
+
+
+
+RUNN
+----
+
+Migrating the front-end away from Rails.
+
+Use Next.js to build out the front-end.
+
+What do we about auth?
+We will need to add a mutation action Hasura that can generate auth tokens.
+Ideally pass the username/password to Hasura which calls our Ruby server.
+
+Front-end should only talk to Hasura?
+How does it get the Hasura endpoint?
+Need to load it from /user/current_session.
