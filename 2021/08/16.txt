@@ -11,9 +11,9 @@ TODAYS GOAL: spend an hour cleaning up my room and sorting out what I'm taking
 Todo
 ----
 
-- [ ] Purchase holdall luggage bag.
+- [/] Purchase holdall luggage bag. → mum found me a bag in the spare room
 - [x] Book flight to Christchurch.
-- [ ] Complete verificaton at independent reserve
+- [x] Complete verificaton at independent reserve
 
 Travel Insurance:
 https://safetywing.com/nomad-insurance
