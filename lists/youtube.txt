@@ -19,4 +19,5 @@ YouTube
 | 2021.08.18 |   | https://www.youtube.com/watch?v=lXfEK8G8CUI           | Kurzgesagt           | How The Immune System ACTUALLY Works – IMMUNE              |                                                                 |
 | 2021.08.18 |   | https://www.youtube.com/watch?v=EezdinoG4mk           | Boston Dynamics      | Inside the lab: How does Atlas work?                       |                                                                 |
 | 2021.08.18 | ✓ | https://www.youtube.com/watch?v=tF4DML7FIWk           | Boston Dynamics      | Atlas, Partners in Parkour                                 |                                                                 |
+| 2021.08.19 |   | https://www.youtube.com/watch?v=Cg73j3QYRJc           | Steve Mould          | The Spring Paradox                                         |                                                                 |
 |------------+---+-------------------------------------------------------+----------------------+------------------------------------------------------------+-----------------------------------------------------------------|

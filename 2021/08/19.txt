@@ -1,0 +1,40 @@
+Thursday 19 Aug 2021
+====================
+
+i have already lost track of time.
+we are probably going to be in level 4 for for the next 4 weeks.
+
+# update xbps
+xbps-install -Su xbps
+
+# install utils
+xbps-install -S parted partclone rsync ranger
+
+# edit disk
+fdisk /dev/nvme0n1
+
+# create backup
+partclone.ext4 -c -s /dev/sdb1 -o /mnt/backup.plc
+
+# restore backup
+partclone.ext4 -r -s /mnt/backup.plc -o /dev/nvme0n1p2
+
+# check disk
+e2fsck /dev/nvme0n1p2
+
+# resize disk to use available space
+resize2fs -f /dev/nvme0n1p2
+
+# copying lots of files between two local disks.
+rsync  --archive --human-readable --no-compress --info=progress2 /mnt/usb/config/ /mnt/nvme/config
+
+how to compare two directories with rsync:
+from https://unix.stackexchange.com/a/351112
+  
+  rsync -rvnc --delete ${SOURCE}/ ${DEST}
+
+  -n : most important bit -- do not change anything ;
+  -rc : compare only the contents (otherwise use -ac) ;
+  -v : list the files )
+  --delete : look for a symmetrical, not a uni-directional difference.
+  Finally, / means "look inside the directory, and compare its contents to the destination".

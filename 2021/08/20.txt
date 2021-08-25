@@ -1,0 +1,27 @@
+Friday 20 Aug 2021
+==================
+
+...
+
+todo.
+_ order best mask I can find.
+_ read a book.
+_ go for a run.
+_ get family out for a walk.
+_ send chris a text.
+
+debugging frequen internet issues today.
+
+- we have multiple devices
+- track ping over time
+- remove devices from the network
+
+|----------+----------------|
+| fritzbox | 192.168.178.1  |
+| tp-link  | 192.168.178.25 |
+| dlinkap  | 192.168.178.33 |
+|----------+----------------|
+
+would wireshark be useful here?
+
+making any-berry buckle for desert.

@@ -1,0 +1,10 @@
+Tuesday 24 Aug 2021
+===================
+
+todo.
+- [x] add timeout to clickandcollect scraper
+- [x] contact 2degrees about landline not working
+- [ ] login as sharkgoggles on benji
+
+@stayradiated/eslint-plugin-prefer-arrow-functions
+always use arrow functions when possible.
