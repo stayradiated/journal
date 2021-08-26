@@ -1,9 +1,27 @@
 Thursday 26 Aug 2021
 ====================
 
-ordered the anker atom iii.
+Rotorua. 
+Still at Level 4 lockdown. 
+68 cases today. Growth seems to be slowing down...
+Still hoping I can visit my friends before Sep 15.
+
 
 picking up clickandcollect order from supermarket this morning.
+I accidentally placed the order using my countdown account (from when I was rev-eng'ing the api for clickandcollect). I had to explain to the checkout woman why the order was for Mr. FirstName LastName. I had the email with the order number so it wasn't a problem, but I would avoid doing that again. 
+We arrived at 10am for pickup. That was too early. Next time we should aim to arrive around 10:40am. 
 
 todo.
-add supervalue.co.nz to clickandcollect.nz
+- [ ] add supervalue.co.nz to clickandcollect.nz
+- [ ] scan pages from 2020 notebook
+- [ ] Book airbnb for london (where?)
+- [x] order the anker atom iii.
+- [x] pick up groceries from countdown at 10am
+- [ ] Look into the coursera deutsch course
+- [ ] Remind mum about madbutcher online order for delivery tomorrow
+
+Go for a 5km run every day. 
+
+kc.
+- [ ] Add option to force a resync of all trades on dasset
+- [ ] Finish implementing open order sync (need to upsert rows in db)
