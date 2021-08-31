@@ -17,8 +17,8 @@ Music (todo)
 | 2021.05.22 | ✓ |                                Destroyer | Times Square                      | Spotify DW                 |
 | 2021.05.22 | ✓ |                       I'm From Barcelona | Always Spring                     | Spotify DW                 |
 | 2021.05.22 | ✓ |                              Janne Schra | Everything I Do Ooh Ooh           | Spotify DW                 |
-| 2021.05.22 |   |                           Robert Francis | Baby Was the Devil                | Spotify DW                 |
-| 2021.05.22 |   |                                 Snowmine | Columbus                          | Spotify DW                 |
+| 2021.05.22 | ✓ |                           Robert Francis | Baby Was the Devil                | Spotify DW                 |
+| 2021.05.22 | ✓ |                                 Snowmine | Columbus                          | Spotify DW                 |
 | 2021.05.23 |   |                    Active Bird Community | Pick Me Apart                     | Spotify DW                 |
 | 2021.05.23 |   |                          Astronauts, etc | I Know                            | Spotify DW                 |
 | 2021.05.23 |   |                                 Menomena | Plumage                           | Spotify DW                 |
@@ -124,4 +124,12 @@ Music (todo)
 | 2021.08.13 |   |                       Shaky in the Knees | Grizfolk                          | Spotify DW                 |
 | 2021.08.13 |   |                        Take Me Down Easy | James Henry Jr                    | Spotify DW                 |
 | 2021.08.13 |   |                            Stelth Ulvang | Denim                             | Spotify DW                 |
+| 2021.08.28 |   |                           Private Island | Dissolve                          | Spotify DW                 |
+| 2021.08.28 | ✓ |                            Harry Nilsson | The Point                         | Mr. Corman                 |
+| 2021.08.30 |   |                   Circles Around The Sun | Money's No Option                 | Spotify DW                 |
+| 2021.08.30 |   |                                  The Dip | Angel de los Muertos              | Spotify DW                 |
+| 2021.08.30 |   |                                  Parcels | Bemyself                          | Spotify DW                 |
+| 2021.08.30 |   |                            Arc De Soleil | Got Caught in Amsterdam           | Spotify DW                 |
+| 2021.08.30 |   |                       Kenni and the Jets | The Fearless Flyers               | Spotify DW                 |
+| 2021.08.30 |   |                                Shoos Off | Song for Radio                    | Spotify DW                 |
 |------------+---+------------------------------------------+-----------------------------------+----------------------------|
