@@ -1,0 +1,5 @@
+Sunday 05 Sep 2021
+==================
+
+When syncing time with void linux, the `chronyd` service seems to do the trick,
+while the `ntpd` service doesn't seem to work at all.

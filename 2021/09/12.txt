@@ -1,0 +1,25 @@
+Sunday 12 Sep 2021
+==================
+
+Morning tea walk, bumped into dad walking murphy, walked around the block
+again.
+
+Where do the windows go when you switch from two monitors to one?
+
+Spotlight → purchasing polar fleece material and web fuse tape
+
+Dinner, shouting thai for the family
+
+|-----------------------+-------|
+| Item                  |  Cost |
+|-----------------------+------:|
+| Green Curry Tofu      | 17.50 |
+| Pad Thai Tofu         | 17.50 |
+| Tofu and Peanut Sauce | 18.50 |
+| Red Curry - Chicken   | 17.50 |
+| Thai Jasmine Rice     |  7.00 |
+| Home Made Roti Bread  | 10.00 |
+|-----------------------+-------|
+| Total                 |  88.0 |
+|-----------------------+-------|
+ tmf: $7,2=Sum(1:-1) 
