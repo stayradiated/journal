@@ -1,0 +1,17 @@
+Plymouth:
+
+- Chess and drinks in the garden
+- Swimming in the sea
+    - Hire a SUP board and plhave a paddle around
+- Sunset on the grass in the Hoe
+
+
+Todo:
+
+- [x] Check-in to Plymouth AirBnB
+- [x] Purchase toothpaste
+- [ ] Purchase immunity tablets (e.g. echinacea, olive leaf)
+- [ ] Gift Jo the little mug
+- [ ] Take more polaroid photos
+- [ ] Find a way to SSH into benji
+    - Possibly create ad hoc network using phone?
