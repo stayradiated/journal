@@ -1,7 +1,78 @@
+Monday 20 Sep 2021
+==================
+
+Thoughts:
+---------
+
+- Speak a bit louder, making yourself heard and understood is important
+- Tempted to go skateboarding -- ideal hire one for a bit. 
+  
+Plan:
+-----
+
+- Plan to wake up at 05:55 and work from 06:00
+- First day working async from the UK
+- I need to get out for a run
+    * Try this route: https://www.plotaroute.com/route/656179
+- Work from a cafe
+
+Standup:
+--------
+
+Woo! First day working from the other side of Earth!
+
+- Remember to keep an eye on the #intercom channel
+- Exctited to have Steven on the team!
+- Thinking about how to do deal with feature branch history in git
+  * I think I would usually squash+rebase in this case?
+- Feature idea, give customers access to the "Blur" button so they can take
+  their own screenshots
+  * + Privacy conscious
+  * - Unlikely to be used often or even realise that the feature exists
+- Plan a virtual coffee with Rowan/Priscilla (might be easier to do two vcs
+  instead of having to find a time that works with everyone?)
+
+Intercom:
+
+- What happens when a user with a linked person is deleted from an account?
+  * the user is deleted, but the person remains
+
+
+
+Todo:
+-----
+
+- [x] Work work work
+  - [x] Work from bed
+  - [x] Work from a cafe
+  - [x] Work near the sea
+- [ ] Wash my clothes
+- [ ] Visit clothing stores, purchase a summer shirt
+- [ ] Patch small hole in crotch of shorts
+- [x] Go for a run (6.7km around Devonport)
+- [x] Supermarket
+  - [x] Grab some Lunch
+  - [x] Purchase immunity tablets (e.g. echinacea, olive leaf)
+- [ ] 
+- [ ] Draft article about using git rebase and squash
+- [ ] Write handover in Threads
+
 Tomorrow:
+---------
+
 - [ ] Haircut: Rogers Barber Shop, take in the sides, halve the top, show barber photo of what I am looking for
 - [ ] Keep looking for a light summer shirt (check 2 Seasons)
 - [ ] Go for a swim (see if Jo is keen to come along)
+- [ ] Meet up with Jo tomorrow afternoon
+  - [ ] Mini retro about how we are doing
+  - [ ] Gift Jo the little mug
+  - [ ] Take more polaroid photos
+  - [ ] Ask Jo to take a very british photo of me (new profile photo)
+  - [ ] Where should I go next week?
+    - Someway easy for Jo to visit me
+  - [ ] Play a board game or two
+  - [ ] Go for a swim in the sea
 
 
-Tempted to go skateboarding -- ideal hire one for a bit. 
+
+
