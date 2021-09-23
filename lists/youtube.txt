@@ -21,4 +21,5 @@ YouTube
 | 2021.08.18 | ✓ | https://www.youtube.com/watch?v=tF4DML7FIWk           | Boston Dynamics      | Atlas, Partners in Parkour                                 |                                                                 |
 | 2021.08.19 |   | https://www.youtube.com/watch?v=Cg73j3QYRJc           | Steve Mould          | The Spring Paradox                                         |                                                                 |
 | 2021.08.29 |   | https://www.youtube.com/watch?v=Ja9D0kpksxw&t=10m16s  | Charles H.           | Cardano Whiteboard Vid                                     |                                                                 |
+| 2021.09.23 |   | https://www.youtube.com/watch?v=hCc0OsyMbQk           | Map Men              | English Counties Explained                                 |                                                                 |
 |------------+---+-------------------------------------------------------+----------------------+------------------------------------------------------------+-----------------------------------------------------------------|

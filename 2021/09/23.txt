@@ -1,0 +1,18 @@
+Thursday 23 Sep 2021
+====================
+
+One more night in this Plymouth AirBnB.
+Looking at places to stay next week.
+Ideally with a kitchen, I want to do some cooking!
+
+This place could be good: https://www.airbnb.co.uk/rooms/12694520
+
+- Discussion with Rowan about phase colors
+  * https://github.com/Runn-Fast/runn/pull/6810
+  * MERGED
+- Review Rowan's comments on Search Phase 2 PR
+  * https://github.com/Runn-Fast/runn/pull/6495
+
+Should I cycle the dartmoor?
+
+

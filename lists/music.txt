@@ -145,4 +145,5 @@ Music (todo)
 | 2021.09.19 |   |                               Jaguar Sun | For What It's Worth                   | Spotify DW                 |
 | 2021.09.20 |   |                                 Bon Iver | AUATC                                 | Spotify DW                 |
 | 2021.09.20 |   |                                Wilderado | Take Some Time                        | Spotify DW                 |
+| 2021.09.22 |   |                         Camel Power Club | Alf                                   | Spotify DW                 |
 |------------+---+------------------------------------------+---------------------------------------+----------------------------|
