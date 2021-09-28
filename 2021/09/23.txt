@@ -28,14 +28,14 @@ TOMORROW
 
 - drop luggage off at Jack and Mols
 - Pick up supplies for weekend
-    - Stir fry vegetables: Carrots, peppers, mushrooms, broccoli, two onions
-    - 2x Asian Stir Fry sauce
-    - Pasta sauce: tomato and basil
-    - Bread rolls
-    - Cheese: for both sandwiches and for pasta
-    - tub of Hummus
-    - Salad: a bag of salad greens fir rolls
-    - Egg Noodles (pack of 6, asian area) Dried
-    - Pain au Chocolat, wrapped, 4 in a packet
-    - Boat snacks: a pack of biscuits (can get more in Salcombe)
-    - Bottle of washing up liquid
+    - [x] Stir fry vegetables: Carrots, peppers, mushrooms, broccoli, two onions
+    - [x] 2x Asian Stir Fry sauce
+    - [x] Pasta sauce: tomato and basil
+    - [x] Bread rolls
+    - [x] Cheese: for both sandwiches and for pasta
+    - [x] tub of Hummus
+    - [x] Salad: a bag of salad greens fir rolls
+    - [x] Egg Noodles (pack of 6, asian area) Dried
+    - [x] Pain au Chocolat, wrapped, 4 in a packet
+    - [x] Boat snacks: a pack of biscuits (can get more in Salcombe)
+    - [x] Bottle of washing up liquid
