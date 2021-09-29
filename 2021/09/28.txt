@@ -22,11 +22,11 @@ SHOPPING LIST:
 
 - [ ] washing powder (for handwashing)
   - https://www.wilko.com/en-uk/surf-washing-powder-tropical-45-washes/p/0507757
-- [ ] cheap tea towel
+- [x] cheap tea towel
   - https://www.wilko.com/en-uk/wilko-grey-white-terry-towel-large/p/0489066
-- [ ] travel towel
+- [x] travel towel
   - https://www.cotswoldoutdoor.com/p/lifeventure-soft-fibre-advance-extra-large-E7414093.html?colour=108
-- [ ] groceries for dinner
+- [x] groceries for dinner
   - onion
   - ginger
   - garlic
