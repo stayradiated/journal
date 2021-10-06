@@ -148,4 +148,5 @@ Music (todo)
 | 2021.09.22 | . |                         Camel Power Club | Alf                                   | Spotify DW                 |
 | 2021.09.29 |   |                          Silvana Estrada | Tiny Desk (Home) Concert              | Andria                     |
 | 2021.09.30 |   |                           Leif Vollebekk | Blood Brother                         | Spotify DW                 |
+| 2021.10.04 |   |                                  Dr. Dog | Here Comes the Hotstepper             | Spotify DW                 |
 |------------+---+------------------------------------------+---------------------------------------+----------------------------|

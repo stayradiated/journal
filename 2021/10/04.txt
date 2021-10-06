@@ -1,0 +1,35 @@
+Monday 04 Oct 2021
+==================
+
+Quiet morning walk along the Exeter riverside.
+
+Checking in with the family back home.
+
+Working from the Coffee Cellar, sitting outside, enjoying the day.
+
+TODO:
+
+- [x] Book a haircut (Wednesday afternoon)
+- [x] Review Mo's airbnb 
+- [x] Sign new work contract
+- [x] Inktober Sketch: Sluggalope! (thinking antelope head on a slug)
+
+WORK:
+
+- [ ] Watch friday meeting 
+- [ ] Record a 2-3 minute recording of how I am progressing against my rocks
+- [o] Update my Pull Requests
+  - [x] https://github.com/Runn-Fast/runn/pull/6495
+    - [x] Reply to Rowan's comments
+  - [x] https://github.com/Runn-Fast/runn/pull/6849
+  - [ ] https://github.com/Runn-Fast/runn/pull/6867
+    - [ ] Fix up minicharts + graphs + assignment booking lines
+  - [ ] https://github.com/Runn-Fast/runn/pull/6868
+  - [ ] https://github.com/Runn-Fast/runn/pull/6869
+- [x] Learn about the DB issue Rowan has found with reports
+  - [x] https://github.com/Runn-Fast/runn/pull/6875
+  - failed to get pg_bulkload working :(
+  - COPY actuals from '/app/runn_millions_actuals.csv' WITH csv NULL '<null>'
+  - how do we generate a really big csv file?
+    * 
+    * pretty fast, 5 minutes to generate and then copy into postgres

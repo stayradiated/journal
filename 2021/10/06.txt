@@ -1,0 +1,28 @@
+Wednesday 06 Oct 2021
+=====================
+
+Must not forget my watch from underneath bed.
+Got it.
+
+Still have a sore throat (first noticed on Monday afternoon).
+I haven't got covid symptoms (no fever, no cough, can still smell/taste)
+
+Inktober: "Fricken WHALE".
+
+Catching up on Runn meetings today.
+
+- [x] Q3 review
+- [x] Andria's Q3 rocks review
+- [x] Design meeting (56:15)
+
+WORK:
+
+- [ ] Record a 3 minute loom reviewing my Q3 rocks
+  - Decided these on 30th June
+    * Feature: **Super Search**
+    * Codebase: **Create plan for Node migrations + Start implementing**
+    * Learning: **How to measure performance + maintaining performance with large amounts of data**
+
+SCHEDULE:
+
+- 1525: Haircut…
