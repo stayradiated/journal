@@ -17,7 +17,7 @@ Catching up on Runn meetings today.
 
 WORK:
 
-- [ ] Record a 3 minute loom reviewing my Q3 rocks
+- [x] Record a 3 minute loom reviewing my Q3 rocks
   - Decided these on 30th June
     * Feature: **Super Search**
     * Codebase: **Create plan for Node migrations + Start implementing**
@@ -25,4 +25,6 @@ WORK:
 
 SCHEDULE:
 
-- 1525: Haircut…
+- 1525: Haircut at North Barbers
+
+Pack my bags, I am heading ot the train station in the morning.
