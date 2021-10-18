@@ -1,0 +1,13 @@
+Thursday 14 Oct 2021
+====================
+
+PENZANCE
+
+TODO
+
+- [x] Virtual coffee with Andria
+- [x] Review https://github.com/Runn-Fast/runn/pull/6957
+- [x] Review https://github.com/Runn-Fast/runn/pull/6964
+- [x] Request review for https://github.com/Runn-Fast/runn/pull/6965
+
+- [ ] Set up Click & Collect to run on a VPS
