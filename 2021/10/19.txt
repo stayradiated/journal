@@ -4,6 +4,11 @@ Tuesday 19 Oct 2021
 Forecast is for 30mm of rain today.
 That seems like a lot.
 
+NEW RULE FOR OCTOBER
+No caffeine after midday, it messes with my sleep too much
+Have as much tea & coffee in the morning, but after 12:00 it's caffeine-free
+drinks only.
+
 
 
 FRIDAY
@@ -24,8 +29,11 @@ Wild Camping in the Dartmoor on Friday night
 How am I getting there?
 Should be able to catch a bus, just depends on where I want to start walking from.
 
+IMPORTANT: How can I get more water?
+Should I buy a gas stove
+
 Camping Map
-https://www.gov.uk/government/publications/dartmoor-firing-programme
+https://www.dartmoor.gov.uk/about-us/about-us-maps/camping-map
 
 Firing Range
 https://www.gov.uk/government/publications/dartmoor-firing-programme
@@ -51,12 +59,12 @@ TODO
 WORK
 ----
 
-- [ ] Playground: learn how Relay Hooks work
-- [ ] Learning: What is React Suspense?
-- [ ] PR: Add rule to prefer arrow functions
+- [x] Playground: learn how Relay Hooks work
+- [x] Learning: What is React Suspense?
+- [x] PR: Add rule to prefer arrow functions
   - https://github.com/Runn-Fast/runn/pull/6638
   - 5 Failing Cypress Tests
-    ✖ project-phases.spec.ts
+    ✓ project-phases.spec.ts
     ✖ archive-person.spec.ts
     ✖ archive-project.spec.ts
     ✖ basic_functionality.spec.ts

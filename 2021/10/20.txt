@@ -1,6 +1,183 @@
-Waking up next to the best Jo
+Wednesday 20 Oct 2021
+=====================
 
-Check the Cawsands ferry timetable
-Check the Edgecumbe bus timetable
-Is Samphire doing table service on Thursday?
 
+
+It's 5:14pm.
+I'm working from the Coffee #1 cafe in Plymouth.
+It's raining outside, a full 4 on the George scale, I'm not in a hurry to leave.
+
+================================================================================
+DESIGN MEETING NOTES
+================================================================================
+
+Non-labour costs
+----------------
+
+What problem are we solving here?
+I think we need to set a firm boundary on what Runn will support, it is very
+easy to keep adding feature after feature.
+
+How are customers tracking these costs at the moment? Is there a popular
+service we can integrate with to sync this data into Runn?
+
+Sharing Projects and Plans
+--------------------------
+
+Can we do an MVP?
+
+- Share all or nothing, (i.e. Can see all blocks, same as account user)
+- Can toggle salary on/off (same permission setting we already have)
+- Only available via a public shareable link (which can be enabled/disabled)
+
+Re: "Shared Product Dashboard" & Hasura Auth
+
+Hasura has experimental support for "Inherited Roles".
+https://hasura.io/docs/latest/graphql/core/auth/authorization/inherited-roles.html
+ 
+This means we could create separate roles for each piece of data that can be accessed.
+But then we would need to create inherited roles for each possible set of permissions.
+
+For example:
+
+We create four roles. Each of these roles allows reading a certain piece of data in Hasura.
+
+- "insights"
+- "timesheets'
+- "phases"
+- "notes"
+
+Then we create inherited roles for each of the possible combinations
+
+- in   = "insights + notes"
+- inp  = "insights + notes + phases"
+- inpt = "insights + notes + phases + timesheets"
+- int  = "insights + notes + timesheets"
+- ip   = "insights + phases"
+- ipt  = "insights + phases + timesheets"
+- it   = "insights + timesheets"
+- np   = "notes + phases"
+- npt  = "notes + phases + timesheets"
+- nt   = "notes + timesheets"
+- pt   = "phases + timesheets"
+
+When viewing a shared page the client would authenticate to Hasura using one of these inherited roles.
+
+================================================================================
+TODO
+================================================================================
+
+- Plan ahead for Thursday with Jo
+  * [x] Check the Cawsands ferry timetable
+  * [ ] Check the Edgcumbe bus timetable
+  * [x] Is Samphire doing table service on Thursday?
+    + Yes, and they might have been yesterday as well??
+- Prepping to go hiking & camping on Friday
+  * [ ] Purchase OS Map of Dartmoor (OL28, get the waterproof version)
+  * [x] Purchase a compass (Silva Starter Compass £12)
+  * [/] Purchase another Platypus bottle? (Not in stock)
+  * [ ] Purchase a large water from the supermarket
+  * [x] Pick up camping gear from Big Yellow
+- [ ] Pick up lateral flow covid tests from Boots
+- [x] Purchase a pilling machine (should arrive on Sunday)
+
+--------------------------------------------------------------------------------
+                            Cawsand Ferry Timetable
+--------------------------------------------------------------------------------
+
+This service operates DAILY during the summer months:
+Commencing Thursday 1st April to Sunday 31st October 2021 (inclusive).
+Weather, tide & circumstances permitting.
+
+2021 SUMMER TIMETABLE
+
+Departs Barbican Landing Stage   Departs Cawsand Beach
+09:00                            09:30
+10:30                            11:00
+12:00                            12:30
+13:30                            14:00
+15:00                            15:30
+16:30                            17:00
+
+--------------------------------------------------------------------------------
+                            Cremyll Ferry Timetable
+--------------------------------------------------------------------------------
+
+2021 WINTER TIMETABLE
+
+Departs Cremyll, Cornwall
+06:45
+07:30
+08:15
+09:00 09:30
+10:00 10:30
+11:00 11:30
+12:00 12:30
+13:00 13:30
+14:00 14:30
+15:00 15:30
+16:00 16:30
+17:00 17:30
+18:00 18:30
+
+--------------------------------------------------------------------------------
+DARTMOOR
+--------------------------------------------------------------------------------
+
+Two Moors Way
+https://www.google.com/maps/d/viewer?mid=1wmHAghGZp3e-j_oFsl-zKXG9Ct4&ll=50.56851985170866%2C-3.769093512528851&z=11
+
+|---------------------------+-------+------------|
+| Section                   | Miles | Kilometers |
+|---------------------------+-------+------------|
+| Ivybridge to Holne        | 15    | 24.15      |
+| Holne to Hameldown        | 7     | 11.27      |
+| Hameldown to Chagford     | 9.5   | 15.295     |
+| Chagford to Drewsteignton | 4     | 6.44       |
+|---------------------------+-------+------------|
+|                           | 35.5  | 57.155     |
+|---------------------------+-------+------------|
+ tmf: $-1,2=Sum(1:-1); $3=$2*1.61;
+
+ 60km in 3 days is pretty hefty.
+ I could do that, but it wouldn't be very comfortable.
+
+ Why not pick a shorter walk?
+
+ I am thinking that for my first trip out there, I should just do one night.
+
+I could leave my spare posessions in storage in Plymouth, BUT will not be
+available until Monday morning. Hmmm. (storage place is painting the floors
+this weekend).
+
+Could pay £5/day to leave a bag using RadicalStorage app. That would work.
+
+Ok, what would be a good overnight trip?
+
+Leaving on Friday around midday.
+Catch a bus out to Dartmoor.
+Walk around
+Set up camp by 18:00 (sunset starts at 18:10)
+Read
+Sleep
+Wake up
+Pack up tent
+Sunrise at 07:45
+Walk walk walk
+Get to a bus stop
+Get back to plymouth
+Pick up gear
+
+IMPORTANT
+Anything I leave in Big Yellow storage can't be accessed on Saturday or Sunday.
+
+QUESTION: Where do I want to be on Monday?
+ANSWER:   Well, I _have_ to be in Plymouth.
+          Why?
+          Because I need to put my tent & sleeping bag back into storage
+          But I could travel somewhere else on Monday 
+
+FRIDAY:   bus out to dartmoor, walk, camp in tent
+SATURDAY: bus back into plymouth, pick up laptop bag, stay at airbnb
+SUNDAY:   chill
+MONDAY:   put tent into storage, travel to totnes
