@@ -1,0 +1,47 @@
+Wednesday 27 Oct 2021
+=====================
+
+- [x] call parents
+- [ ] text friends
+- [x] book accomodation for weekend
+  - could stay in charmouth for the weekend (https://www.airbnb.co.uk/rooms/21168328)
+  - look for fossils, walk up coast path
+  - should stop by Exeter, pick up my YHA card
+  - let's do it
+
+work
+----
+
+- [ ] work on hasura blog post
+- [x] watch design meeting
+
+cafes
+-----
+
+- the wild fig
+- mangetout
+
+germany
+-------
+
+UK is on the high-risk list
+But if I submit proof of vaccination, I don't need to quarantine
+That is good news
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/Archiv_Risikogebiete/Risikogebiete_aktuell_en.pdf?__blob=publicationFile
+
+> Ending quarantine:
+> Quarantine at home may be ended early if proof of recovery, proof of
+> vaccination or a negative test result is submitted via upload portal of the
+> digital registration on entry at https://www.einreiseanmeldung.de. The
+> individual link on the registration confirmation (PDF document) should be
+> used to upload the proof of recovery, proof of vaccination or a negative test
+> result. Quarantine can be ended in each case from the time the negative test
+> result is submitted. If you spent time in a high-risk areaprior to entry, the
+> relevant test may not be conducted earlier than five days after entry (test
+> to release possible from day five following entry). Vaccinated and recovered
+> persons can end the quarantine from the time when the proof of vaccination or
+> recovery is transmitted via the entry portal.
+>
+> If the transmission takes place before entry (strongly recommended), no
+> quarantine is needed.
+  

@@ -12,10 +12,10 @@ TODO
 ----
 
 - Sunday Plan: breathe
-  - [ ] Go for a walk
-  - [ ] Collect fabric shaver from Amazon lockbox
+  - [x] Go for a walk
+  - [x] Collect fabric shaver from Amazon lockbox
   - [ ] Sit at a cafe
-  - [ ] Read more of "Sea Fever"
+  - [x] Read more of "Sea Fever"
   - [ ] Sketch and draw
   - [ ] Text 3 different friends, ask how they've been, would they be keen to
         catch up sometime this week?

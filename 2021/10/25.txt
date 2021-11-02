@@ -1,0 +1,54 @@
+Monday 25 Oct 2021
+==================
+
+PLYMOUTH → TOTNES
+-----------------
+
+Catching a train out to Totnes this afternoon.
+
+Trying to use cash/coins as much as possible today.
+
+It would be great to schedule virtual coffees with both Iryna and Dan this
+week.
+
+I should really order the hip belt for my backpack ($25 USD)
+https://www.aersf.com/hip-belt-xpac-black
+
+TODO
+----
+
+- [x] drop gear off at Big Yellow tomorrow morning 
+- [x] catch train to Totnes (£4.65 in cash, but only £3 on thetrainline.com)
+- [x] work from a cafe (→ Mangetout)
+- [x] check in to airbnb at 3pm
+- [x] extend totnes stay until Saturday morning (2 extra nights, £44)
+- [ ] leave review purdy on airbnb
+
+WORK
+----
+
+_FOCUS_
+
+Continue writing Hasura blog post.
+
+_OTHER_
+
+- SUPER SEARCH
+  - [ ] implement feedback from ruth
+- GITHUB
+  - [x] Reply with thoughts about page loading errors (https://github.com/Runn-Fast/runn/issues/7011#issuecomment-9489319110
+  - [ ] Review Priscilla's API PR: https://github.com/Runn-Fast/runn/pull/7004
+  - [ ] Review Chloe's Team PR: https://github.com/Runn-Fast/runn/pull/7008/files/42842afd4edd71cbbb10055c66dfe58cb6a941f7..ee7e09d7a0cafd2a37b4cf92811adf521890c5db
+
+TOTNES
+------
+
+Pleasant 5 min walk from train station into the town center.
+They get bonus points for sign posting the way.
+
+Stopping at the first cafe I see, Mangetout.
+It's got a cute little street path eating area, there is a busker playing some
+soothing instrumental guitar music and a book shop alternative.
+This cafe does a Roobois Latte, I think it's the first time I've seen this on
+the menu?
+It's been 10 minutes and so far I am liking totnes.
