@@ -1,0 +1,86 @@
+Wednesday 03 Nov 2021
+=====================
+
+
+
+=== FOCUS ======================================================================
+
+Prepping for Hasura live stream next week
+
+- [ ] Send email to Vishwa, check what the agenda of the meeting will be
+- [ ] Read feedback on blog post :O
+- [ ] Continue polishing up blog post
+- [ ] Update my LinkedIn profile (you know, show that I actually work at Runn)
+- [ ] Read Notion documents on Runn positioning & messaging
+
+=== TODO =======================================================================
+
+
+- [ ] Catch up with Nicole, discuss Runn Positioning
+
+- [x] Leave review for Totnes Airbnb 
+- [ ] Leave review for Charmouth Airbnb 
+
+- [x] Book accomodation for Bristol next week (monday - thursday)
+  - Reserved 
+  - Maybe stay in Exeter on Sunday night? Will leave unscheduled 
+
+- [ ] Continue Developing Super Search
+  - https://github.com/Runn-Fast/runn/pull/6868
+
+- [ ] https://github.com/Runn-Fast/runn/pull/7092
+- [ ] https://github.com/Runn-Fast/runn/pull/7113
+- [ ] https://github.com/Runn-Fast/runn/pull/7075#discussion_r741568589
+
+=== TRAVEL =====================================================================
+
+FRIDAY
+
+- Catch train to Bristol on Friday morning
+- Catch train to Weston-super-Mare in the afternoon
+- Followed by a bus to Cheddar
+
+SATURDAY
+
+- Explore Cheddar Gorge
+
+SUNDAY
+
+- Bus/Train to Plymouth, exchange gear at Armadillo, back to Exeter
+- Submit https://www.einreiseanmeldung.de
+
+MONDAY
+
+- Train to Bristol
+
+THURSDAY
+
+- Bus to Bristol Airport, flight to Berlin
+
+=== RUNN POSITIONING ===========================================================
+
+- Solves the Utilisation visibility problem
+
+- notion
+  * marketing → research & documentation
+    + positioning
+      + key pain points
+    + messaging
+    
+- resource management app
+- schedule their projects and their people
+and then we take those schedules and translate those into forecasts
+- capacity forecasts and financial forecasts
+- what is your revenue going to be in the next 6 months, what is your profitability goin
+
+benefits:
+  - instant feedback
+    * insights, rolled up views, charts
+
+competitors:
+  - Harvest Forecast
+  - Forecast.app
+  - Float
+
+- resource management, not project management
+  * thinking about how we spend time not tasks
