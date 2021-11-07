@@ -1,36 +1,49 @@
 Wednesday 03 Nov 2021
 =====================
 
-
-
 === FOCUS ======================================================================
 
 Prepping for Hasura live stream next week
 
-- [ ] Send email to Vishwa, check what the agenda of the meeting will be
-- [ ] Read feedback on blog post :O
+- [x] Send email to Vishwa, confirm the agenda of the meeting will be
+- [x] Update my LinkedIn profile (you know, show that I actually work at Runn)
+  - [ ] Flesh out LinkedIn profle?
+- [x] Read Notion documents on Runn positioning & messaging
 - [ ] Continue polishing up blog post
-- [ ] Update my LinkedIn profile (you know, show that I actually work at Runn)
-- [ ] Read Notion documents on Runn positioning & messaging
+
+
+
+=== STANDUP ====================================================================
+
+Catching up with Nicole this morning. Prepping for the livestream with Hasura
+next week.
+
+I've been reading through the Positioning and Messaging docs in Notion, shout
+out to Shannon for putting that all together! I've found it very useful to get
+better at being able to explain to people what Runn is.
+
+- https://www.notion.so/runn/Messaging-b52a9859d0d741cebfa725f1f4e1c38a
+- https://www.notion.so/runn/Positioning-4c561fba43494aed9caca23b3d19f0f6
 
 === TODO =======================================================================
 
-
-- [ ] Catch up with Nicole, discuss Runn Positioning
-
 - [x] Leave review for Totnes Airbnb 
-- [ ] Leave review for Charmouth Airbnb 
+- [x] Leave review for Charmouth Airbnb 
 
 - [x] Book accomodation for Bristol next week (monday - thursday)
-  - Reserved 
+  - Booked! 
   - Maybe stay in Exeter on Sunday night? Will leave unscheduled 
 
-- [ ] Continue Developing Super Search
-  - https://github.com/Runn-Fast/runn/pull/6868
+---
 
-- [ ] https://github.com/Runn-Fast/runn/pull/7092
-- [ ] https://github.com/Runn-Fast/runn/pull/7113
-- [ ] https://github.com/Runn-Fast/runn/pull/7075#discussion_r741568589
+- [x] Catch up with Nicole, discuss Runn Positioning
+
+- [x] Reply to rowan about the changes to filter-engine  (https://github.com/Runn-Fast/runn/pull/7092)
+- [ ] Reply to priscilla about classnames in CSS modules (https://github.com/Runn-Fast/runn/pull/7075#discussion_r741568589)
+- [ ] Review priscilla's PR to always show phases https://github.com/Runn-Fast/runn/pull/7113
+
+- [ ] Continue Developing Super Search (https://github.com/Runn-Fast/runn/pull/6868)
+- [ ] Anymore ideas about Actuals on the Planner?
 
 === TRAVEL =====================================================================
 
