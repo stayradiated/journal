@@ -1,0 +1,28 @@
+Wednesday 10 Nov 2021
+=====================
+
+07:58 Train from Bristol to Plymouth
+12:27 Train from Plymouth to Bristol
+
+FOCUS: Get Search Over The Line
+
+STACK
+
+- [x] Update `user.person` to return a list of people
+https://github.com/Runn-Fast/runn/pull/7120
+
+- [x] Review "remember open state in planner"
+https://github.com/Runn-Fast/runn/pull/7129
+
+- [x] Review "convert Delete / Cancel forms to react"
+https://github.com/Runn-Fast/runn/pull/7140
+
+- [x] Share handover on threads.com
+
+- [x] Reply to Vishwa about Hasura Swag Form
+
+- [x] Get back to Rowan about sorting logic:
+https://github.com/Runn-Fast/runn/pull/7144#discussion_r745409252
+
+- [ ] Continue to review Rowan's Bug Fix Frenzy
+https://github.com/Runn-Fast/runn/pull/7144/files

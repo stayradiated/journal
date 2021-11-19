@@ -1,0 +1,30 @@
+Tuesday 09 Nov 2021
+===================
+
+FOCUS: Hasura interview at 4:30pm (going live at 5pm)
+
+STACK
+
+- [ ] Update `user.person` to return a list of people
+https://github.com/Runn-Fast/runn/pull/7120
+
+- [ ] Get back to Rowan about sorting logic:
+https://github.com/Runn-Fast/runn/pull/7144#discussion_r745409252
+
+- [ ] Continue to review Rowan's Bug Fix Frenzy
+https://github.com/Runn-Fast/runn/pull/7144/files
+
+- [ ] Update `user.person` to be `relatedPeople`
+https://github.com/Runn-Fast/runn/pull/7120
+
+- [ ] Review "remember open state in planner"
+https://github.com/Runn-Fast/runn/pull/7129
+
+- [ ] Review "convert Delete / Cancel forms to react"
+https://github.com/Runn-Fast/runn/pull/7140
+
+- [ ] Share handover on threads.com
+
+https://soundcloud.com/acunixx-1/netsky-essential-mix-09-10-2010
+
+
