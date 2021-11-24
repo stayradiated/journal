@@ -8,3 +8,4 @@ Perfect Pizza Dough ratios
 | Oil   | 3.00% | 7g   | 3.6g |
 | Sugar | 1.00% | 3g   | 1.2g |
 |-------+-------+------+------|
+
