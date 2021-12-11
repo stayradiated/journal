@@ -5,7 +5,7 @@ Movies (todo)
 - [ ] Popstar: Never Stop Never Stopping (2016) ⠶ referenced by Patrick H.
       Willems in Patrick Explains The O.C. (And Why It's Great)
 - [ ] Wild (2014) ⠶ recommended by Mel @24.02.21
-- [ ] The Wedding Singer (1998) ⠶  recommended by Mel @25.02.21
+- [x] The Wedding Singer (1998) ⠶  recommended by Mel @25.02.21
 - [ ] Britain's Treasure Islands (2016) ⠶ Jo is sailing on the boat they are filming on!
 - [x] Days of the Bagnold Summer (2019) @ 2021.06.18
 - [x] Real Life (1979) @ 2021.07.18
@@ -15,15 +15,18 @@ Movies (todo)
 - [ ] Luca (2021) @ 2021.08.22 ⠶ looks a fun pixar movie
 - [ ] Twin Peaks (1990) @ 2021.09.14
 - [ ] American Psycho (2000) @ 2021.09.20
-- [ ] Squid Game (2021) @ 2021.09.28 ⠶ from priscilla on slack
-- [ ] Chonicle (2012) @ 2021.10.10 ⠶ Max Landis
+- [x] Squid Game (2021) @ 2021.09.28 ⠶ from priscilla on slack
+- [ ] Chronicle (2012) @ 2021.10.10 ⠶ Max Landis
 - [ ] Dune (2021) @ 2021.10.10 ⠶ Jacob, Rowan
 - [ ] The Billion Dollar Code (2021) @ 2021.10.11 ⠶ Reccomended by parents
 - [ ] Human (2015) @ 2021.10.18 ⠶ Reccomended by Chloe
-- [ ] Wild Palms (1993) @ 2021.10.19 ⠶ Reccomended by Matt Webb (https://interconnected.org/home/2021/10/18/genre)
+- [x] Wild Palms (1993) @ 2021.10.19 ⠶ Reccomended by Matt Webb (https://interconnected.org/home/2021/10/18/genre)
 
 - [ ] Mother (2009)
 - [ ] The Bad Sleep Well (1960)
 - [ ] Wolf Children (2012)
 - [ ] The Imposter (2012)
 - [ ] Memories of Murder (2003)
+
+- [ ] The Founder (2015) ⠶ Reccomended by Jacob, good train movie
+- [ ] The Gentleman (2019) ⠶ Reccomended by Sven from Frankfurt cafe

@@ -1,0 +1,24 @@
+Thursday 25 Nov 2021
+====================
+
+Saving Spec
+===========
+
+Save button states
+------------------
+
+DISABLED, NORMAL, SAVED
+
+Are there any filters or search query?
+↳ no → [ DISABLED ]
+↳ yes 
+  ↳ Has the filter been saved? 
+    ↳ no 
+      ↳ Are all filters components valid
+        ↳ no → [ DISABLED ]
+        ↳ yes → [ NORMAL ]
+    ↳ yes → [ SAVED ]
+
+Click to expand a Saved Search
+
+Rule: Filter name must be unique

@@ -1,0 +1,28 @@
+Wednesday 08 Dec 2021
+=====================
+
+Catching the train to Leipzig today.
+
+I'm sitting on the train.
+There is a man talking on the phone next to me.
+A woman approaches and tells him he is too loud.
+We are in a regular carriage, not the specially marked "quiet" carriage.
+The man continues talking on the phone, but a little quieter.
+
+An hour later, a woman nearby is talking on the phone.
+Guy next to me gets up and tells her that she is too loud.
+She ends the phone call.
+
+Damn.
+
+WIFI ON THE DB TRAINS
+---------------------
+
+DNSSEC issue seems quite common with linux laptops.
+Not sure how to confirm that is the case in void linux -- or how to disable
+DNSSEC.
+
+TODO
+----
+
+https://github.com/Runn-Fast/runn/pull/7396

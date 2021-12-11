@@ -1,0 +1,19 @@
+Friday 03 Dec 2021
+==================
+
+FRANKFURT
+
+TODO
+
+- [x] Extend stay in Frankfurt until Wednesday
+- [x] Get a photo for the gram
+- [ ] Visit Schirn Kunsthalle Frankfurt
+- [x] Work from a cafe → "Coffee Under Pressure"
+- [x] Go for a run
+
+WORK
+
+- [x] Super Search design tweaks
+- [x] Create issues for upcoming Super Search work
+- [x] https://threads.com/34412387295
+- [ ] Update cypress to run with Super Search enabled
