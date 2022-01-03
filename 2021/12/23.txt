@@ -36,3 +36,9 @@ TOMORROW:
 
 - [ ] Feedback on Skills →  https://threads.com/34413764279
 - [ ] Review https://threads.com/34413764279
+...
+
+kc_trade {
+  price
+  price_fx(currency: 'NZD')
+}
