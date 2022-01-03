@@ -1,0 +1,28 @@
+Sunday 26 Dec 2021
+==================
+https://www.youtube.com/watch?v=RiDhzDhsQU8&list=PLui6Eyny-UzzDCd9xCgPLKsIuTV7tZgac&index=3&t=6m23s
+
+Goal for 2022, stop working and spend all summer in a boat
+
+TODO
+
+- [x] Go for a short/quick run outside -- sub-zero temperatures!
+
+VOLATILE
+
+⠶ designs 
+
+- [x] List of Trades
+- [x] Creating a new DCA Order
+  - [x] UI for configuring price
+- [x] UI for adding API Keys
+
+- Distraction: displaying API errors in app
+
+TOMORROW
+
+- [ ] 20 min nap before 2pm
+- [ ] UI for market price
+- [ ] UI for pricing page
+- [ ] UI for entering credit card details
+- [ ] UI for managing subscription

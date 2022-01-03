@@ -1,0 +1,12 @@
+Monday 27 Dec 2021
+==================
+
+- [x] yoga with adrienne
+- [x] morning espresso from Cafe Oberholz
+- [x] post berlin photo to instagram
+- [x] bahn mi for lunch
+- [x] 20 min nap before 2pm
+- [x] UI for market price
+- [x] UI for pricing page
+- [ ] UI for entering credit card details
+- [ ] UI for managing subscription

@@ -1,0 +1,30 @@
+Tuesday 28 Dec 2021
+===================
+
+Embed into DCA Order
+
+- id: 'dca-order'
+- createdAt
+- updatedAt
+- nextRunAt: 
+- lastRunAt: 
+- interval: (minutes)
+
+dca-order-history
+
+start date - - - - 
++ 4 minutes + 4 minutes
++ how to calculate ???? 
++ 10:54
++ Time since start date?
+
+We don't need a cron parser!
+
+> dateFns.addMinutes( startDate, (( Math.floor(dateFns.differenceInMinutes(new Date(), startDate) / interval) + 1) * interval) )
+
+> just need to track
+- startAt
+- intervalMin
+- nextRunAt
+- lastRunAt
+

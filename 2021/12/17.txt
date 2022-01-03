@@ -1,0 +1,20 @@
+Friday 17 Dec 2021
+==================
+
+I should visit LJ in Barcelona.
+
+Why aren't multiple DCA orders against a single exchange working in Volatile?
+We need to make this easier to debug. DCA Order History should include data on trades.
+
+
+
+
+
+GIFS
+----
+
+OMG It Was You
+https://media.giphy.com/media/PEgTfUSmswvoQ/giphy.gif
+
+Surprise Slide Cat
+https://media.giphy.com/media/PEgTfUSmswvoQ/giphy.gif
