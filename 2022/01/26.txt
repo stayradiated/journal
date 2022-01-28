@@ -1,0 +1,70 @@
+Wednesday 26 Jan 2022
+=====================
+
+TRAIN from MADRID to BARCELONA.
+           11:30     14:42
+
+Planning to watch Dune in the cinemas tonight.
+
+TODO
+
+- [x] Post Madrid photo to Instagram
+- [x] Check if I can crash at LJ's place tonight → yes, sweet
+- [ ] Leave AirBnB Review for Valencia (Carmen & Marco)
+- [ ] Leave AirBnB Review for Madrid (Olala Homes)
+- [x] Watch Dune at the cinema with LJ
+
+WORK
+
+- epic
+  - [x] build config
+  - [x] Database migrations
+  - [x] Hasura schema 
+  - [x] global_id → id
+  - [x] db_id → id, string → number
+  - [x] getDataID
+  - [x] Jest test files
+
+SCHENGEN ARIA
+
+2021.11.11 ⠶ ENTER SCHENGEN AREA
+2022.02.09 ⠶ LEAVE SCHENGEN AREA
+2022.05.10 ⠶ RE-ENTER SCHENGEN AREA
+
+Members of the Schengen Area
+
+- Austria
+- Belgium
+- Czech Republic
+- Denmark
+- Estonia
+- Finland
+- France
+- Germany
+- Greece
+- Hungary
+- Iceland
+- Italy
+- Latvia
+- Liechtenstein
+- Lithuania
+- Luxembourg
+- Malta
+- Netherlands
+- Norway
+- Poland
+- Portugal
+- Slovakia
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+
+Countries not in the Schengen Area
+
+- UK
+- Ireland
+- Romania
+- Bulguria
+- Croatia
+- Cyprus

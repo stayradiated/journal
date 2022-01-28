@@ -1,0 +1,37 @@
+Friday 21 Jan 2022
+==================
+
+When is a fridge not a fridge?
+When your food is being kept at 21°.
+
+TODO:
+
+- [x] Expense book purchase of Designing Data-Intensive Applications
+- [ ] Call https://mymedgo.com/en/
+
+WORK:
+
+How to break up a massive PR into small reviewable chunks.
+
+First, identify the chunks.
+
+- Build config
+- Hasura schema 
+- Database migrations
+- global_id → id
+- db_id → id, string → number
+- store.get(relayids.contracts.encode(contract.person.id))
+- sortByNumber (maybe undo this)
+- Jest test files
+- remove tslint comments
+- Cypress tests + adding `data-component=`
+
+Figure out the graph.
+
+- main
+  - [x] Migrate away from class name selection in cypress tests
+  - [x] Remove tslint comments.
+  - [x] Always use store.get(relayids.contracts.encode(contract.person.id))
+  - [x] Refactor favouritePlaceholderRoleIds
+  - [x] Remove starredPlaceholderRoles
+  - [ ] getDataID

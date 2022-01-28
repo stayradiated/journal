@@ -1,0 +1,273 @@
+Thursday 13 Jan 2022
+====================
+
+My right achilles heel is very tender. It hurts to walk.
+I need to take a break from running for at least a week.
+
+I also have an odd lump behind my right ear.
+It's been there for a few days now, I hope it goes away.
+
+Valencia is pretty awesome.
+
+The AirBnB host is very generous.
+She made me a fruity breakfast with toast.
+I met one of the other guests, Karen.
+She is from the Netherlands, she used to live in Valencia.
+She loves how sunny it is here, but she is leaving tomorrow.
+
+Thinking about buying a bike.
+I need to be able to travel with it.
+One of those fold up bikes would be perfect.
+
+Saving money to go on a day skipper course.
+
+> Unfortunately, we are unable to support payments related to Bitcoin or other cryptocurrency services.
+
+Wise.com no longer allows me to send AUD to Independent Reserve.
+This is a pain.
+I could try a monthly wire transfer through TSB, but it's such a hassle.
+Plus TSB charge $25 for the service!
+
+SPANISH
+
+- Hola! (hello)
+- Salida/Sortida (exit)
+- Me gustaria un cafe con leche por favor. (I would like a coffe with milk please)
+
+DEUTSCH
+
+I have my first A1 exam this week.
+120 questions.
+Currently revising on the dialogues.
+I need to put some time into the flashcards on Brainscape.
+I'm pretty sure the test is just going to be the chunks.
+
+TODO
+
+- [ ] Yoga Day 9
+- [ ] Put together list of activites to do in Valencia with LJ
+- [ ] I should finish the Jovember playlist and publish it on mixcloud
+- [x] Visit a spanish restaurant and have Paella for dinner tonight!
+
+WORK
+
+- [x] Relay v13 upgrade
+- [ ] look into Github PR templates
+
+DASSET TX FEES
+
+Zilliqa (ZIL)
+1 ZIL = $0.09 NZD
+txFee = 0.00200000 ZIL = $0 NZD
+
+Komodo (KMD)
+1 KMD = $0.94897 NZD
+txFee = 0.00200000 KMD = $0 NZD
+
+Siacoin (SC)
+1 SC = $0.02 NZD
+txFee = 0.10000000 SC = $0 NZD
+
+Crypto.com Coin (CRO)
+1 CRO = $0.6745049999999999 NZD
+txFee = 0.01000000 CRO = $0.01 NZD
+
+DigiByte (DGB)
+1 DGB = $0.04283 NZD
+txFee = 0.20000000 DGB = $0.01 NZD
+
+Lumen (XLM)
+1 XLM = $0.40015500000000004 NZD
+txFee = 0.05000000 XLM = $0.02 NZD
+
+Hedera Hashgraph (HBAR)
+1 HBAR = $0.40682882 NZD
+txFee = 0.10000000 HBAR = $0.04 NZD
+
+Celo Native Asset (CELO)
+1 CELO = $7.412 NZD
+txFee = 0.01000000 CELO = $0.07 NZD
+
+TRON (TRX)
+1 TRX = $0.09734999999999999 NZD
+txFee = 1.20000000 TRX = $0.12 NZD
+
+Avalanche (AVAX)
+1 AVAX = $134.20499999999998 NZD
+txFee = 0.00100000 AVAX = $0.13 NZD
+
+RavenCoin (RVN)
+1 RVN = $0.140345 NZD
+txFee = 1.00000000 RVN = $0.14 NZD
+
+Bitcoin SV (BSV)
+1 BSV = $160.99599999999998 NZD
+txFee = 0.00100000 BSV = $0.16 NZD
+
+Algorand (ALGO)
+1 ALGO = $1.992595 NZD
+txFee = 0.10000000 ALGO = $0.2 NZD
+
+Cosmos (ATOM)
+1 ATOM = $56.630661035 NZD
+txFee = 0.00400000 ATOM = $0.23 NZD
+
+EOS (EOS)
+1 EOS = $4.102932965 NZD
+txFee = 0.10000000 EOS = $0.41 NZD
+
+Bitcoin Cash (BCHN) (BCH)
+1 BCH = $553.5029999999999 NZD
+txFee = 0.00100000 BCH = $0.55 NZD
+
+NEM (XEM)
+1 XEM = $0.17 NZD
+txFee = 4.00000000 XEM = $0.68 NZD
+
+NZD Stablecoin (NZDS)
+1 NZDS = $1.003 NZD
+txFee = 1.00000000 NZDS = $1 NZD
+
+XRP (XRP)
+1 XRP = $1.127295 NZD
+txFee = 1.00000000 XRP = $1.13 NZD
+
+Dogecoin (DOGE)
+1 DOGE = $0.2486 NZD
+txFee = 5.00000000 DOGE = $1.24 NZD
+
+Tezos (XTZ)
+1 XTZ = $6.07237567 NZD
+txFee = 0.25000000 XTZ = $1.52 NZD
+
+Filecoin (FIL)
+1 FIL = $42.1695 NZD
+txFee = 0.04000000 FIL = $1.69 NZD
+
+Cardano (ADA)
+1 ADA = $1.8201299999999998 NZD
+txFee = 1.00000000 ADA = $1.82 NZD
+
+Kusama (KSM)
+1 KSM = $389.92 NZD
+txFee = 0.00500000 KSM = $1.95 NZD
+
+Litecoin (LTC)
+1 LTC = $199.307755 NZD
+txFee = 0.01000000 LTC = $1.99 NZD
+
+ZCash (ZEC)
+1 ZEC = $212.515 NZD
+txFee = 0.01000000 ZEC = $2.13 NZD
+
+Terra (LUNA)
+1 LUNA = $115.545 NZD
+txFee = 0.02500000 LUNA = $2.89 NZD
+
+Bitcoin (BTC)
+1 BTC = $62528.82 NZD
+txFee = 0.00030000 BTC = $18.76 NZD
+
+Polkadot (DOT)
+1 DOT = $38.176 NZD
+txFee = 0.50000000 DOT = $19.09 NZD
+
+Ethereum (ETH)
+1 ETH = $4765.5509999999995 NZD
+txFee = 0.00740000 ETH = $35.27 NZD
+
+Uniswap (UNI)
+1 UNI = $22.746000000000002 NZD
+txFee = 3.00000000 UNI = $68.24 NZD
+
+Compound (COMP)
+1 COMP = $276.226 NZD
+txFee = 0.25000000 COMP = $69.06 NZD
+
+OMG Network (OMG)
+1 OMG = $8.892 NZD
+txFee = 8.00000000 OMG = $71.14 NZD
+
+SAND (SAND)
+1 SAND = $7.165 NZD
+txFee = 10.00000000 SAND = $71.65 NZD
+
+Decentraland (MANA)
+1 MANA = $4.27485 NZD
+txFee = 17.00000000 MANA = $72.67 NZD
+
+Chainlink (LINK)
+1 LINK = $36.436519204999996 NZD
+txFee = 2.00000000 LINK = $72.87 NZD
+
+Sushi (SUSHI)
+1 SUSHI = $10.440000000000001 NZD
+txFee = 7.00000000 SUSHI = $73.08 NZD
+
+Loopring (LRC)
+1 LRC = $2.22 NZD
+txFee = 33.00000000 LRC = $73.26 NZD
+
+Basic Attention Token (BAT)
+1 BAT = $1.52869 NZD
+txFee = 48.00000000 BAT = $73.38 NZD
+
+Enjin (ENJ)
+1 ENJ = $3.505525 NZD
+txFee = 21.00000000 ENJ = $73.62 NZD
+
+0x Protocol (ZRX)
+1 ZRX = $1.0855700000000001 NZD
+txFee = 68.00000000 ZRX = $73.82 NZD
+
+Polygon (MATIC)
+1 MATIC = $3.359045 NZD
+txFee = 22.00000000 MATIC = $73.9 NZD
+
+Bancor (BNT)
+1 BNT = $4.62 NZD
+txFee = 16.00000000 BNT = $73.92 NZD
+
+The Graph (GRT)
+1 GRT = $0.85073 NZD
+txFee = 87.00000000 GRT = $74.01 NZD
+
+STORJ (STORJ)
+1 STORJ = $2.32 NZD
+txFee = 32.00000000 STORJ = $74.24 NZD
+
+TrueUSD (TUSD)
+1 TUSD = $1.46 NZD
+txFee = 51.00000000 TUSD = $74.46 NZD
+
+USD Coin (USDC)
+1 USDC = $1.460675 NZD
+txFee = 51.00000000 USDC = $74.49 NZD
+
+Tether (USDT)
+1 USDT = $1.4610699999999999 NZD
+txFee = 51.00000000 USDT = $74.51 NZD
+
+DAI (DAI)
+1 DAI = $1.4630959049999999 NZD
+txFee = 51.00000000 DAI = $74.62 NZD
+
+Balancer (BAL)
+1 BAL = $25.496499999999997 NZD
+txFee = 3.00000000 BAL = $76.49 NZD
+
+1inch (1INCH)
+1 1INCH = $3.8049999999999997 NZD
+txFee = 21.00000000 1INCH = $79.91 NZD
+
+Synthetix Network Token (SNX)
+1 SNX = $7.4864999999999995 NZD
+txFee = 19.00000000 SNX = $142.24 NZD
+
+Band Protocol (BAND)
+1 BAND = $8.5445 NZD
+txFee = 22.00000000 BAND = $187.98 NZD
+
+Aave Token (AAVE)
+1 AAVE = $310.731 NZD
+txFee = 1.05000000 AAVE = $326.27 NZD

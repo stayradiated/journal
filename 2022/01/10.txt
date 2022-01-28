@@ -1,0 +1,16 @@
+Monday 10 Jan 2022
+==================
+
+TODO
+
+- [x] book airbnb in Valencia
+- [x] book train tickets to Valencia
+- [x] useDebugDependencies: add comments
+- [x] Merge https://github.com/Runn-Fast/runn/pull/7364
+- [ ] Visit the Marina Museum → tomorrow
+
+App Architecture
+https://www.notion.so/runn/App-Architecture-bc5f1f3f5a4149a48392bc2bd76c81a9
+
+Threads
+https://threads.com/34414738895?region=eu

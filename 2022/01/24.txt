@@ -1,0 +1,81 @@
+Monday 24 Jan 2022
+==================
+
+"Sometimes a cloud is just a cloud."
+- Fruit Bats
+
+MADRID.
+
+Mercadona opens at 9am.
+
+- [x] toilet paper (small pack)
+- [x] bar of soap
+- [x] small packet of eggs
+- [x] small loaf of bread
+- [x] orange juice
+
+Planning to have a late lunch at this old restaurant place.
+
+WORK
+----
+
+- main
+  - [ ] No Phase ID (app/javascript/src/ProjectDashboard/Body/ProjectPhases/PhasesTable.tsx)
+  - [ ] sortByNumber (app/javascript/src/ProjectDashboard/Body/VarianceReport/VarianceChart.tsx)
+  - [ ] type Report (app/javascript/src/reports/ReportContainer.tsx)
+  - [ ] PersonType (app/javascript/src/reports/PeopleReport/PeopleReportData.tsx)
+  - [ ] PlannerRightColumn (app/javascript/src/PeoplePlanner/PersonProjectRow.tsx)
+  - [ ] TEMP_MILESTONE_ID app/javascript/src/ProjectPlanner/ProjectOverview/ProjectMilestones.tsx
+  - [ ] TEMP_ASSIGNMENT_ID app/javascript/src/common/Pill/AssignmentActionHelpers.ts
+  - [ ] TEMP_TIMEOFF_ID app/javascript/src/common/Pill/TimeOffActionPill.tsx
+  - [ ] TEMP_ID app/javascript/src/common/PillActions/PillActions.tsx
+  - [ ] TEMP_ID app/javascript/src/common/timespan/TimelineHighlight.tsx
+  - [ ] relays.*.decode: (happ/javascript/src/helpers/relayids.ts)
+- epic
+  - [ ] build config
+  - [ ] Database migrations
+  - [ ] Hasura schema 
+  - [ ] global_id → id
+  - [ ] db_id → id, string → number
+  - [ ] getDataID
+  - [ ] Jest test files
+
+
+SHORT STORY
+-----------
+
+(prompt: Toothpaste + Banana)
+
+It looked harmless enough, a pale yellow paste trailing across the bristles,
+ends swirling down in soft peaks.  A strong sniff releaved the faint fruity
+aroma, hinting at the tropical flavour.
+
+Jeremy sighed, stared into the webcam and placed the brush against grated
+teeth.  He had never been particularly fond of bananaas. Acceptable in a
+smoothie or perhaps a fruit salad, but never by itself. The fog of taste
+quickly made its way through to the back of his throat. The chemical stew
+transforming into a wonka-ish experience of having a fully grown banana forced
+into your mouth. Jeremy started to gag, his lips quickly closing around the plastic handle, cheeks bulging, nostrils flared. 
+
+Why couldn't we stick with the classic fake banana flavour? The perfect middleground between just banana-ery enough to be recognised, but not so offensive to the senses that it could be enjoyed by anyone. The AI was programmed to care about only one thing: hyper realism. When you used RealFruit™ ToothPaste, it felt just like eating the real thing. 
+
+The trouble was, brushing your teeth wasn't quite the same as eating a fruit. 
+
+Jeremy had been working as an engineer for nearly two years. He remembered how much he enjoyed the job when he started. Apple, Pear, Grape, Strawberry. Great success.
+
+Peaches, plums, apricots and other stone fruits were so close. They just needed to get the sensation of the stone from the equation.
+
+Jeremy was currently tasked with turning the Banana Toothpaste into Peeled-Banana Toothpaste. A crucial change.
+
+The AI was remarkably good at capturing the complete experience of eating
+a fruit and condensing it down into a mass production ready list of FDA
+approved chemicals. The simulated mouth feel was unlike anything on the market,
+a paste that could replace fruit. 
+
+The only catch was that the AI cared a bit too much about a realistic experience.
+
+Apple flavoured toothpaste. The unmistakable tartness of a crisp Royal Gala. The refreshing bite as the incisors tore through the speckled red skin and the juicy flesh. Only after weeks of trial and arrow had Jeremy been able to patch the recipe bytecode to mute the sensation of biting into apple seeds. They still hadn't found a way to stop the roof of the mouth from the scratching of the stem. 
+
+The AI could take the DNA of a banana plant, grow it virtually in a simulated reality and spit out a molecular breakdown of the fruit, but it cared very little about which parts of the fruit humans actually ate. 
+
+Working with an AI with the intelligence of a cat. It couldn't be trained, only coaxed and pet it the wrong way and you would get scratched. Jeremy had herd horrorible rumours about what the AI could do if it didn't like you. It couldn't physically hurt you, but it might age the fruit until it was rotten. The taste lingering for days.

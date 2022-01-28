@@ -1,0 +1,53 @@
+Saturday 15 Jan 2022
+====================
+
+Yodelling - Franzl Lang
+https://www.youtube.com/watch?v=vQhqikWnQCU
+
+It’s a sky blue sky. Satellites are out tonight.
+- Laurie Anderson
+
+VALENCIA
+
+A 50 year old German woman is now staying at the AirBnB.
+I can't remember her name. Possibly Katrina?
+She works 15 hours a day as an anaethetist, but often takes breaks and travels
+overseas to work as a translator. She is fluent int sign language, loves to
+travel and surf and is looking to buy an appartment in Valencia.
+She also is big into fitness and gets paid to advertise the Moa nutritional
+supplement on her social media (https://ariixproducts.com/nutrifii-nutritional-supplements/moa/).
+
+Got back into yoga this morning. Day 9 of the Move videos.
+It's been 3 days with no yoga and I noticed that I had to really work to get
+that forward fold.
+
+LJ is training down to Valencia tomorrow afternoon.
+
+Continuing to practice Deutsch with the BrainScape app.
+It's a great app, I'm keen to go through the "Knowledge Rehab" cards as well,
+increase my "general knowledge" of the world.
+For now the focus is to cram as many chunks as I can so I am ready for the A1 exam tomorrow.
+
+- [ ] Walk along the Turia river park
+- [ ] Visit the beach
+
+VOLATILE
+--------
+
+Trying to keep the costs down by not having to pay for Open Exchange Rates.
+Problem is the free tier only supports converting to USD.
+I need to know the AUD ↔ NZD exchange rate. 
+
+I assume that exchange rates are tightly controlled to avoid arbitrage.
+So in theory NZD → USD → AUD should be the same as NZD → AUD, right?
+
+Let's check with xe.com
+
+100,000 AUD → → → → → → → → →  105,910.30 NZD
+100,000 AUD → 72,044.157 USD → 105,910.31 NZD
+
+100,000 NZD → → → → → → → → →  94,424.09 AUD
+100,000 NZD → 68,021.443 USD → 94,424.086 NZD
+
+Not bad!
+
