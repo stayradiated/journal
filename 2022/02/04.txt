@@ -1,0 +1,78 @@
+Friday 04 Feb 2022
+==================
+
+SAN SEBASTIAN.
+
+Didn't sleep very well last night.
+Pretty sure that Yerba Mate I had with lunch yesterday was chock full of
+caffeine, because my brain was running at 2x speed solving the problems of the
+universe while I despearately pleaded with it to go to sleep.
+
+Having a little coffee and croissant at Old Town Coffee. Great little cafe (I
+found it via the Coffee Trip app).
+
+Bought a new little wallet from a local store, it has as anchor painted on it.
+
+Practicing drawing the sea.
+
+Quite like the look of the Ucon Acrobatics bags.
+https://us.ucon-acrobatics.com/collections/jasper-backpack/products/jasper-backpack-lotus-honeymustard
+
+- [x] Deutsch practice
+- [x] Midday run
+- [x] Afternoon yoga (day 23)
+
+- [ ] Book plane outta here → wait, which airport do I need to get to?
+- [ ] Get my hair cut → Kur2 has stunning reviews
+
+WORK
+
+- [ ] review auth handling pr: https://github.com/Runn-Fast/runn/pull/7831
+- [x] scenario planning design
+  - [x] watch ruth's updated design video
+  - [x] leave comment with thoughts
+- [ ] review projectOverviewReport change: https://github.com/Runn-Fast/runn/pull/7815
+- [ ] review hasura docker file: https://github.com/Runn-Fast/runn/pull/7817
+- [ ] review rails docker file: https://github.com/Runn-Fast/runn/pull/7818
+
+my prs:
+- [x] fix bug with changing a person's role with empty contract cost
+- [ ] debug d2ha
+- [x] bigfake seeding tool
+
+TRAVEL
+
+>>>
+>>> Get to Münich, take the night train to Zagreb
+>>>
+
+Tuesday is going to be a long day… Going to take the day off.
+
+- 07:30 Leave on bus from San Sebastian (€9)
+- 08:50 Arrive in Bilbao
+- 09:20 Catch train from Bilbao (€32)
+- 14:28 Arrive in Madrid Chamartin
+- 14:45 Take metro to Madrid Airport
+- 17:35 Flight from Madrid to Münich (€132)
+- 20:15 Arrive in Münich
+- 20:40 50min on S-Bahn from Münich Airport to Hauptbahnhof
+- 21:30
+- 23:20 Overnight Train from Münich to Zagreb (€140)
+
+Total cost: €313 ($540)
+
+>>>
+>>> Barcelona on the 8th, fly to Zagreb on the 9th
+>>>
+
+Could ask to stay at LJ's place. Would be fun to catch up again.
+
+07:00 Bus from San Sebastian to Zaragoza (€28)
+10:45 Arrive
+11:06 Train from Zaragoza to Barcelona Sants (€28)
+13:06 Arrive
+... next day ...
+13:00 Flight from Barcelona (€223)
+17:20 Arrive in Zagreb
+
+Total cost €279 ($483)

@@ -1,0 +1,42 @@
+Monday 07 Feb 2022
+==================
+
+DONOSTIA, SAN SEBASTIAN
+
+Bit of a late start to the day. Sorting out my trip to Croatia.
+
+Watching a bit of Sean Locke on YouTube, more Deutschkurs (learning about all
+the irregular perfect present verbs, gesehen, eingekauft, gedacht, etc),
+followed by a bit of morning yoga.
+
+Finally heading out at midday for a coffee & croissant at Old Town Coffee.
+It's been raining this morning, only lightly (about a 2 on the George scale),
+but it seems the locals love an execuse to get out the umbrella.
+
+I wonder if the weather will clear up this afternoon, that's what usually
+happens here, a bit grey and wet in the morning, lovely blue sunny skies in the
+afternoon.
+
+Planning to get my hair tidied up today at Kur2 barbers.
+
+http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+
+
+- [x] morning yoga (day 25)
+- [x] deutschkurs
+- [x] book airbnb in zagreb
+- [x] fill in lufthansa form
+- [x] fill in croatia form
+- [x] Coffee & Croissant
+- [x] Lunch at The Yellow Deli
+- [x] 4pm, get a haircut
+
+WORK
+
+- [x] Resolve conflicts in https://github.com/Runn-Fast/runn/pull/7631
+- [x] Production notifications
+  - [x] Reproduce issue on pull request 
+  - [x] Need to break messages up so that aren't massive
+- [ ] Remove unused indexes: https://github.com/Runn-Fast/runn/pull/7848
+  - How can we keep an eye on this in the future?
+- [ ] Bigfake: seed similar data as current system

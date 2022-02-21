@@ -1,0 +1,44 @@
+Monday 31 Jan 2022
+==================
+
+BILBAO.
+
+It's actually been raining a little this morning! I haven't seen much rain at
+all while in Spain. Only that one afternoon in Barcelona.
+
+Technically I should have the day off (Auckland Anniversary Day).
+I'm going to work today and take Friday off.
+
+Having a Cafe con Leche and Pain au Chocolat at the fancy cafe down the road (Cafe
+Iruna).
+
+Wasn't there a big debate in France over the naming of Pain au Chcolat?  Hmm,
+seems like parts of the country prefer Chocolatine, but seems the debate wasn't
+that serious.
+
+https://www.thelocal.fr/20180524/chocolatine-vs-pain-au-chocolat-french-pastry-war-spills-into-parliament/
+
+Thinking about buying a bike.
+Was considering one of those folding bikes (like Brompton), but they are very
+expensive and there are many trade-offs just to have it fold.  The main reason
+I want to have a folding bike, is that it is easier to fly with and travel on
+buses/trains. However, it might be worth just getting a regular bike and paying
+a bit more to transport it.
+
+
+- [x] Deutsch Practice (catching up, A1/2 unit 2)
+- [x] Yoga with Adrienne (move, day 19)
+- [x] Pay safetywing invoice
+- [ ] Submit claim to safetying
+- [ ] Take selfie with passport, send to Wise for IBAN verification
+- [ ] Ask Kelsey how she is doing
+- [x] Leave review for Valencia AirBnB
+- [ ] continue volatile+stripe integration
+
+WORK
+
+- [ ] why does the slackbot sometimes fail for production deploys?
+- [ ] continue reading That Database book
+
+Me sitting outside Mikengo cafe in Valencia:
+https://www.google.com/maps/@39.4613771,-0.3323239,3a,75y,25.38h,78.08t/data=!3m6!1e1!3m4!1s5WpZSrHoVjD95LtqLvB96Q!2e0!7i16384!8i8192?hl=en

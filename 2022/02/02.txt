@@ -1,0 +1,33 @@
+Wednesday 02 Feb 2022
+=====================
+
+BILBAO
+
+The clouds have left, blue skies are back, baby!
+
+Travelling via Bus to San Sebastian today.
+Need to get myself to the bus stop by 13:15.
+
+Packing up and checking out of the airbnb.
+Working from the ARVO cafe, fantastic coffee and Açai bowl (smoothie with
+banana, granola and coconut).
+
+I will need to sort out a new SIM card for when I leave the EU.
+
+My belly is on fire.
+https://www.youtube.com/watch?v=hPyBU52P_Xc
+
+STACK
+
+- [x] German practice
+- [x] Yoga with Adrienne (day 21)
+- [x] Catch bus to San Sebastian
+- [ ] Review Liam's Milestones API PR (https://github.com/Runn-Fast/runn/pull/7812)
+- [x] Fix known bugs with relay v13 PR
+- [ ] Upgrade jest-macros (https://github.com/Runn-Fast/runn/pull/7797
+
+TOMORROW
+
+- Catch up with family
+
+

@@ -1,0 +1,39 @@
+Monday 14 Feb 2022
+==================
+
+Location: Zagreb, Croatia
+
+MORNING
+
+- deutsch practice (only 1 week to go!)
+- catching up with Jacob
+  * he is using the user management code from volatile
+  * suggest I publish volatile/keyring to NPM
+  * discussion around pros/cons of using UUIDs
+- washing the mud off my shoes
+
+- working from the Keks cafe
+
+FEBRUARY
+
+I think it would be good to spend the rest of February in Zagreb, just chill out
+from travelling for a bit.
+
+TODO STACK
+
+- [x] Book accomodation for Zagreb (rest of February)
+- [x] Go for a run → another half marathon (16 miles!)
+- [ ] Learn some more Hrvatski (https://www.loecsen.com/en/learn-croatian)
+- [ ] Continue editing September 2021 video
+- [ ] Continue editing Jovember mixtape
+- [ ] Urban sketching
+- [ ] Evening Yoga
+- [ ] Insurance Claim (need to get NZ doctor details)
+- [ ] Purchase a Zagreb patch
+
+WORK
+
+- [x] Reviewing PRs
+- [ ] "Thoughts on Next.js?" (https://threads.com/34417791661)
+- [ ] Project Templates (https://threads.com/34417649141)
+- [ ] Scenario Planning (https://threads.com/34417456623)

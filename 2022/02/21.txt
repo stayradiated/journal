@@ -1,0 +1,32 @@
+Monday 21 Feb 2022
+==================
+
+
+
+https://www.youtube.com/watch?v=yMA2L5IEBAE&t=3m26s
+- Visit market, purchase mint
+
+WORK
+
+- [.] Review Edit Role Form (https://github.com/Runn-Fast/runn/pull/7900)
+- [ ] Review Webpack Relay Compiler (https://github.com/Runn-Fast/runn/pull/7963)
+
+Failing cypress tests
+
+- [ ] Test Signup Page (0/1) → flakey 
+- [ ] Users & Invitations (0/1) → doesn't pass on main???
+-
+- [x] Rate Cards (0/2)
+- [x] Rate Types (0/4)
+- [x] Updates project total budget(0/5)
+- [x] Project Rates (0/5)
+- [x] People Bulk Edit (0/3)
+
+EINKAUFSZETTEL
+
+- [ ] Onion
+- [ ] Greek Yoghurt
+- [ ] Eggs
+- [ ] Mint
+- [ ] Limes
+- [ ] Bin Bags

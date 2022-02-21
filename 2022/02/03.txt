@@ -1,0 +1,46 @@
+Thursday 03 Feb 2022
+====================
+
+I've been having muscle pain in my left foot for the past 2 days now.
+Most likely caused by that 15 mile run on Sunday…
+
+Catching up with parents this morning, they are well.
+
+I would like to have a long weekend.
+Maybe go for a walk in the mountains.
+Or along the coast: https://www.komoot.com/smarttour/3991849
+
+Need to book a flight out of spain for next week.
+
+Running along the San Sebastian beach, such a great feeling.
+Plus a quick swim in the water, extremely refreshing.
+I should do this every day.
+
+Found an amazing restaurant to have lunch at: The Yellow Deli.
+Very friendly staff, trying one of their sandwhiches and a Lima Matte.
+And they are open from 6am to 1am!
+I will have to leave a 5 star review.
+
+I could see myself living in San Sebastian.
+Learn how to speak German, Spanish and French.
+
+- [x] deutsch lessons
+- [x] midday run up Mt Urgell
+- [x] evening yoga (day 22)
+
+- [x] review assignments export: https://github.com/Runn-Fast/runn/pull/7828
+- [x] review clockify sync: https://github.com/Runn-Fast/runn/pull/7826
+- [ ] review auth handling pr: https://github.com/Runn-Fast/runn/pull/7831
+- [o] scenario planning design
+  - [x] watch ruth's design video
+  - [ ] leave comment with thoughts
+- [x] Read through upcoming work https://threads.com/34416870106
+- [x] Update filter-engine for jest-macros v0.1.4 (https://github.com/Runn-Fast/runn/pull/7797)
+- [x] fix more relay v13 bugs: https://github.com/Runn-Fast/runn/pull/7631
+- [x] WAF Decision meeting at 9pm
+- [ ] review projectOverviewReport change: https://github.com/Runn-Fast/runn/pull/7815
+- [ ] review hasura docker file: https://github.com/Runn-Fast/runn/pull/7817
+- [ ] review rails docker file: https://github.com/Runn-Fast/runn/pull/7818
+  - waiting for wifi (need to download quite a bit of data)
+
+

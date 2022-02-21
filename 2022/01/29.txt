@@ -1,0 +1,10 @@
+Saturday 29 Jan 2022
+====================
+
+Put another 2 hours into bigfake.
+Can we use the `pg` library to do the `COPY`?
+
+- [x] yoga (day 18)
+
+James Burke Connections, Ep. 1 "The Trigger Effect"
+https://www.youtube.com/watch?v=XetplHcM7aQ

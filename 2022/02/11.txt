@@ -1,0 +1,28 @@
+Friday 11 Feb 2022
+==================
+
+ZAGREB
+
+Slam Poetry
+https://www.youtube.com/watch?v=KBAig-QT46Q
+
+TODO
+
+- [x] Get plenty of cash (KUNA) out
+  - [x] Find ATM that doesn't charge fees
+- [x] Black thread for sewing patches to bag → Müller, Gumbi
+- [ ] Pizza
+  - [ ] Fancy olive oil (maybe truffles)
+
+RUNN
+
+- [ ] `bigfake` -- seed minimal test account
+- [ ] #feat-node-backend
+  - [ ] sketch out idea of an atomic account
+- [x] Watch "Runn Q1 2022 Kickoff" meeting (2 hours)
+  - [x] Download from Zoom → Upload to Loom
+  - [ ] Watch video (25%)
+- [ ] Reviews
+  - [ ] https://github.com/Runn-Fast/runn/pull/7893
+- [ ] Watch "Subscriptions Updated" (https://threads.com/34417527566)
+- [ ] Investigate bug with duplicate IDs in API https://github.com/Runn-Fast/runn/issues/7894

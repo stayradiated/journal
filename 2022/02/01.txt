@@ -1,0 +1,38 @@
+Tuesday 01 Feb 2022
+===================
+
+BILBAO
+
+Sitting in a cafe (Mischocole) with the best hot chocolate of my life, working
+on a fun programming challenge to generate gigabytes of fake data while
+watching people in cars stuck in gridlock.
+
+When you are stuck in traffic, you haven't got many options. Especially if it's
+a one lane one way road with cars in front and behind you. The traffic curves
+off around the corner and around another corner and another corner. Horns are
+honked, but nothing can be done.
+
+A few people get up and walk around to see what the problem is, they come back
+a few minutes later and they don't look happy.  I think the best thing to do is
+just sit back and relax. Call up your mates and have a laugh, you aren't going
+anywhere soon, the sooner you accept that the better. Might as well leave the
+car there and go and get a coffee.
+
+20 minutes pass and the cars are finally free.
+
+LIFE STACK
+
+- [x] Where am I going tomorrow? → San Sebastian (take a bus)
+- [ ] Post photo to Instagram
+
+WORK STACK
+
+- [x] Container Security (https://threads.com/34416605426)
+- [x] Create PR to update Node & Ruby dependencies
+- [x] Check that PR passes (https://github.com/Runn-Fast/runn/pull/7779)
+- [x] explain why `pgcrypto` extension appears
+- [x] Relay v13 (merge development)
+- [x] Future Work Discussion (https://threads.com/34416662843)
+- [ ] Review https://github.com/Runn-Fast/runn/pull/7775
+- [ ] feat-nodebackend: do we need UUIDs?
+- [.] bigfake: support multiple accounts
