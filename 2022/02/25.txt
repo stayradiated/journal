@@ -13,18 +13,20 @@ WORK
 
 EINKAUFSZETTEL
 
-- [ ] red capsicum
-- [ ] green capsicum
+- [x] red capsicum
+- [x] green capsicum
 - [ ] 800g tomatoes
 - [ ] chillis
 - [ ] yellow onions
-- [ ] fresh coriander
-- [ ] eggs
+- [x] fresh coriander
+- [x] eggs
+- [ ] Cream
 
-- limes
-- fresh mint
+- [ ] lemons/limes
+- [ ] fresh mint
+- [x] Sparkling water
 
-- bottle of wine
+- [ ] bottle of wine
 
 - chai ingredients (NO MORTAR & PESTLE HERE THOUGH)
   * cardamom
@@ -36,9 +38,9 @@ EINKAUFSZETTEL
   * rooibos tea
 
 Maybe we skip the chai and instead make TIRAMISU
-  - kakao powder
-  - 500g marscapone
-  - piškote
-  - 2 packs vanilin šećer
-  - thickened cream
-  - icing sugar
+  - [x] 500g marscapone
+  - [x] Biscotti
+  - [ ] kakao powder
+  - [ ] Vanilla
+  - [ ] thickened cream
+  - [ ] icing sugar
