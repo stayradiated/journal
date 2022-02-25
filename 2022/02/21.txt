@@ -6,6 +6,29 @@ Monday 21 Feb 2022
 https://www.youtube.com/watch?v=yMA2L5IEBAE&t=3m26s
 - Visit market, purchase mint
 
+SLAM POETRY
+
+Maia Mayor - "I Want to Be" | Classic Slam 2019
+https://www.youtube.com/watch?v=KBAig-QT46Q
+
+Grand Slam Poetry Champion | Harry Baker | TEDxExeter
+https://www.youtube.com/watch?v=cxGWGohIXiw
+
+Sophie Priceman - How Teenage Girls Are Like Poetry
+https://www.youtube.com/watch?v=laAOxU3TSog
+
+Sabrina Benaim - The Loneliest Sweet Potato
+https://www.youtube.com/watch?v=YNqmK3iU59E
+
+Sabrina Benaim - Explaining My Depression to My Mother
+https://www.youtube.com/watch?v=aqu4ezLQEUA
+
+Mila Cuda & Jessica Romoff - "Exes"
+https://www.youtube.com/watch?v=3MXRAZ4pjZo
+
+Sarah Kay - Private Parts
+https://www.youtube.com/watch?v=xHHzHu289Ws
+
 WORK
 
 - [.] Review Edit Role Form (https://github.com/Runn-Fast/runn/pull/7900)
@@ -24,9 +47,9 @@ Failing cypress tests
 
 EINKAUFSZETTEL
 
-- [ ] Onion
-- [ ] Greek Yoghurt
-- [ ] Eggs
+- [x] Onion
+- [x] Greek Yoghurt
+- [x] Eggs
 - [ ] Mint
 - [ ] Limes
-- [ ] Bin Bags
+- [x] Bin Bags

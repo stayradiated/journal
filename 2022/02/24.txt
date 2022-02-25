@@ -1,0 +1,47 @@
+Thursday 24 Feb 2022
+====================
+
+- db reset
+- restart hasura
+- run cypress test
+- dump database
+- repeat
+
+The Berners Street Hoax 
+========================
+
+https://www.historytoday.com/archive/months-past/berners-street-hoax
+
+On 27 November 1809, a bet between two friends brought a large part of London to a standstill.
+
+At around 5am there was a knock on the door of 54 Berners Street, an unassuming
+house just north of Oxford Street, London. It was a chimney sweep, who claimed
+he had been called to the address. The maid suggested he was mistaken and he
+went on his way.
+
+A few moments later another sweep arrived with the same story, then another
+until the exasperated maid had sent away 12 in total. But the sweeps were only
+the beginning. Next came coal carts, each claiming they had a large order for
+number 54, something Mrs Tottenham, the owner, assured them she had not
+requested.
+
+Hot on their heels came the cake makers, each carrying 10-guinea wedding cakes.
+Then doctors began calling and in their wake came apothecaries, surgeons and
+lawyers, followed by vicars and priests to minister to the resident within who,
+they had been told, was dying. Outside, a group of rather bemused undertakers
+waited with bespoke coffins.
+
+By now the streets were becoming congested, not helped by the arrival of
+fishmongers, bootmakers, shoemakers, haberdashers, hatmakers, butchers’ boys
+and a queue of pianos. News travelled and the Governor of the Bank of England,
+the Lord Mayor of London, the chairman of the East India Company and even the
+Duke of Gloucester arrived to gawk.
+
+Opposite number 54 Berners Street stood Samuel Beazley, who an astute observer
+might have noticed handing his friend Theodore Edward Hook a guinea. Hook had
+undoubtedly won his bet: that, within a week, he could transform any house in
+London into the most talked-about in the city. To win, he sent out 4,000 orders
+or requests, to tradesmen, professionals and dignitaries, requiring them to
+present themselves at Mrs Tottenham’s. In the process he brought a large part
+of London to a standstill and triumphantly won his wager. Later that day he
+retired to the country to avoid retribution.
