@@ -1,27 +1,30 @@
 Friday 25 Feb 2022
 ==================
 
-- [ ] listen to the cannon go off at noon
-- [ ] purchase a postcard for LJ
+- [x] listen to the cannon go off at noon
+- [x] purchase a postcard for LJ
 - [ ] pick up ingredients for tonight's shakshouka
 
 WORK
 
-- [ ] https://github.com/Runn-Fast/runn/pull/7995
-- [ ] https://github.com/Runn-Fast/runn/pull/7818
+- [x] Docker Image https://github.com/Runn-Fast/runn/pull/7818
+- [ ] Analytics https://github.com/Runn-Fast/runn/pull/7995
+- [ ] Pass (3/5) Flakey Tests https://github.com/Runn-Fast/runn/pull/8005
 
 EINKAUFSZETTEL
 
-- red capsicum
-- green capsicum
-- 800g tomatoes
-- chillis
-- yellow onions
-- fresh coriander
-- eggs
+- [ ] red capsicum
+- [ ] green capsicum
+- [ ] 800g tomatoes
+- [ ] chillis
+- [ ] yellow onions
+- [ ] fresh coriander
+- [ ] eggs
 
 - limes
 - fresh mint
+
+- bottle of wine
 
 - chai ingredients (NO MORTAR & PESTLE HERE THOUGH)
   * cardamom
@@ -32,3 +35,10 @@ EINKAUFSZETTEL
   * milk
   * rooibos tea
 
+Maybe we skip the chai and instead make TIRAMISU
+  - kakao powder
+  - 500g marscapone
+  - piškote
+  - 2 packs vanilin šećer
+  - thickened cream
+  - icing sugar
