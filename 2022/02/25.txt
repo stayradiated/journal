@@ -19,6 +19,17 @@ WORK
 EINKAUFSZETTEL
 ==============
 
+- [x] red capsicum
+- [x] green capsicum
+- [x] 800g tomatoes
+- [ ] chillis
+- [x] yellow onions
+- [x] fresh coriander
+- [x] eggs
+- [x] Cream
+
+- [x] lemons/limes
+- [x] fresh mint
 - [x] Sparkling water
 - [ ] Wine
 
@@ -38,3 +49,7 @@ TIRAMISU
   - [ ] kakao powder
   - [ ] Vanilla
   - [ ] icing sugar
+  - [x] kakao powder
+  - [x] Vanilla
+  - [x] thickened cream
+  - [x] icing sugar
