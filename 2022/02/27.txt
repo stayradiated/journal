@@ -17,6 +17,8 @@ Einkaufszettle
 - [ ] FFP2 Face Masks
 - [ ] Eggs
 - [ ] Yoghurt
+- [ ] Cinnamon
+- [ ] Blueberries
 
 Kimchi Fried Rice
 =================
