@@ -1,0 +1,17 @@
+Tuesday 01 Mar 2022
+===================
+
+Another beautiful day in Zagreb.
+
+Best way to start the day is walking up to the top of park Grmoščica.
+
+- [x] Catching up with Rowan this morning.
+- [ ] Snap Dragon Guitar finally arrives
+- [ ] Deutsch practice (A2 - Unit 1.2)
+- [ ] Purchase Zagreb stickers for my water bottle
+- [ ] Coffee & Croissant from Cognito?
+
+WORK
+
+- [ ] Review https://github.com/Runn-Fast/runn/pull/8017
+- [ ] Review https://github.com/Runn-Fast/runn/pull/8005

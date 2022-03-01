@@ -9,16 +9,24 @@ March 7th → Sandalentag
 March 13th → James birthday
 
 I have bread.
+I now have toast. French toast.
+Noice.
+
+Someone once told me about a drink called the White Pearl.
+I'm pretty sure it was Annabel from Picton.
+It's just hot water and milk, but it's really good.
+Anyway, I really like it people invent names for things. 
+I should do that.
 
 Einkaufszettle
 ==============
 
-- [ ] Toilettenpapier
+- [x] Toilettenpapier
+- [x] Eggs
+- [x] Yoghurt
+- [x] Blueberries
+- [/] Cinnamon
 - [ ] FFP2 Face Masks
-- [ ] Eggs
-- [ ] Yoghurt
-- [ ] Cinnamon
-- [ ] Blueberries
 
 Kimchi Fried Rice
 =================
@@ -29,13 +37,32 @@ https://damndelicious.net/2019/03/21/kimchi-fried-rice/
 - [ ] Kimchi
 - [ ] Gochujang (Korean red pepper paste)
 - [ ] Soy sauce
+- [ ] Shiitake Mushrooms
 - [ ] Onion, diced
 - [ ] Freshly grated ginger
 - [ ] Fried Eggs
 
+VIM
+===
+
+Replace unix timestamp with formatted date:
+
+:%s/\d\{10\}/\=strftime('%c', str2nr(submatch(0)))/g
+
+YOUTUBE
+=======
 
 Denice Frohman - Accents
 https://www.youtube.com/watch?v=qtOXiNx4jgQ
+
+Beatbox brilliance | Tom Thum | TEDxSydney
+https://www.youtube.com/watch?v=GNZBSZD16cY
+
+Is This Country Song Racist? - Key & Peele
+https://www.youtube.com/watch?v=TLnUJzueBOQ
+
+Why Would You Mess with the Batmans? - Key & Peele
+https://www.youtube.com/watch?v=OZBaIrMOoBg
 
 
 In TypeScript, how to get the keys of an object type whose values are of a given type?
