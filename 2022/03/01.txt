@@ -6,12 +6,36 @@ Another beautiful day in Zagreb.
 Best way to start the day is walking up to the top of park Grmoščica.
 
 - [x] Catching up with Rowan this morning.
-- [ ] Snap Dragon Guitar finally arrives
-- [ ] Deutsch practice (A2 - Unit 1.2)
-- [ ] Purchase Zagreb stickers for my water bottle
-- [ ] Coffee & Croissant from Cognito?
+- [x] Snap Dragon Guitar finally arrives
+- [x] Coffee & Croissant from Cognito?
+- [x] Purchase a capo & pick for guitar
+- [x] If you see a Murphy dog, take a photo for dad
+- [x] Deutsch practice (A2 - Unit 1.2)
+- [ ] Should invite Sven & Kelsey out for dinner at that burger place (Submarine)
+- [ ] Purchase Zagreb stickers (water bottle + guitar)
 
 WORK
 
-- [ ] Review https://github.com/Runn-Fast/runn/pull/8017
-- [ ] Review https://github.com/Runn-Fast/runn/pull/8005
+- [x] Review https://github.com/Runn-Fast/runn/pull/8017
+- [x] Review https://github.com/Runn-Fast/runn/pull/8005
+
+THREADS
+
+- database ORM
+  * table types
+  * transactions
+- permissions
+  * who can make changes (admin/editor/superuser)
+  * which rows can be edited
+- env vars
+  * use `env-var` library
+  * single file named `env.ts` in the root directory that holds all env variables
+- logging
+  * Should we just use `debug`
+  * Options like `pino` which log as JSON
+- errors
+  * Throwing errors vs. returning errors
+  * Explicit error handling when we return errors
+  * Typescript compiler can help us
+  * Libraries like `error-boundary` can wrap existing code
+  * BetterError

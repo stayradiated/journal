@@ -25,4 +25,5 @@ YouTube
 | 2021.10.10 | . | https://www.youtube.com/watch?v=5PRyQlpwxcU&t=3041s   | Max Landis           | Max Landis Presents: The Death Of Batman                   |                                                                 |
 | 2021.11.15 | . | https://www.youtube.com/watch?v=LnH9sO426NA           | Jacob Duval          | [DND ROGUELIKE] A Frightening Feast!                       |                                                                 |
 | 2021.11.30 | ✓ | https://www.youtube.com/watch?v=SG1jwsMaYEg&t=6m51s   | Daniel Mullins       | Talk about building The Hex                                |                                                                 |
+| 2022.03.02 | . | https://www.youtube.com/watch?v=v68zYyaEmEA           | 3B1b                 | Solving Wordle with Information Theory                     |                                                                 |
 |------------+---+-------------------------------------------------------+----------------------+------------------------------------------------------------+-----------------------------------------------------------------|
