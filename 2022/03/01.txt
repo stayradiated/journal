@@ -39,3 +39,4 @@ THREADS
   * Typescript compiler can help us
   * Libraries like `error-boundary` can wrap existing code
   * BetterError
+- esm vs cjs

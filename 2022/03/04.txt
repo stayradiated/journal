@@ -1,0 +1,44 @@
+Friday 04 Mar 2022
+==================
+ 
+Why Russia is Invading Ukraine
+https://www.youtube.com/watch?v=If61baWF4GE&t=9m
+
+Catching up with parents.
+
+WORK
+WORK
+WORK
+
+Hasura Allow List
+https://github.com/Runn-Fast/runn/pull/8063
+https://github.com/Runn-Fast/runn/compare/ingo/relay-persist
+https://hasura.io/docs/latest/graphql/core/deployment/allow-list.html#recommended-usage
+
+https://threads.com/34419275868
+https://threads.com/34419260723
+
+March Learning & Development day: setup Handover bot
+
+Why don't we use the local disk to persist `node_modules`?
+Is there a reason I have it set to store in a docker volume?
+It would be quite useful to share `node_modules` between the Ruby app and the Node app.
+
+“I was watching the London Marathon and saw one runner dressed as a chicken and another runner dressed as an egg. I thought: ‘This could be interesting.'”
+- Paddy Lennox 
+
+Malade
+------
+
+by Katherine Mansfield
+
+The man in the room next to mine
+Has got the same complaint as I
+When I wake in the night I hear him turning
+And then he coughs
+And I cough
+And he coughs again —
+This goes on for a long time —
+Until I feel we are like two roosters
+Calling to each other at false dawn
+From far away hidden farms
