@@ -1,0 +1,37 @@
+Monday 14 Mar 2022
+==================
+
+My face skin is a bit peely this morning, I'm very happy I picked up some
+sunblock yesterday (surprisingly hard to find, do Croatians tend not to use
+sunblock?).
+
+Found a music shop in Zadar, purchsed a guitar strap for 30HRK.
+Now I can play the guitar standing up!
+
+Moving from Zadar to Dugi Otok (long island) this afternoon.
+Catching the 15:00 ferry, it's only $5 and takes 45min to get there.
+
+Turns out the ferry isn't sailing direct to Sali, it goes to Zaglav, the town
+next door. Fortunately, my AirBnB hosts are awesome and offered to give me a
+left from the terminal, saving me having to make my own way.
+
+Sali is a gorgeous town, already considering to stay here a bit longer.
+5pm, sitting outside the Martimo cafe with an orange juice, watching the sun
+fall behind the mountain tops.
+
+Flight of the Conchords - Murray Dad Guitar
+https://www.youtube.com/watch?v=y5iG11s-dok
+
+WORK
+
+- [x] #rebuild-review-app
+      if an error is encountered during the deploy, we could log something
+      useful to the console about how to rebuild.
+- [x] Sharing `node_modules` between host and container
+      https://github.com/Runn-Fast/runn/pull/8121
+      https://docker-docs.netlify.app/docker-for-mac/osxfs-caching/#cached
+      Explain my reasoning
+- [ ] Rails Upgrade
+      https://github.com/Runn-Fast/runn/pull/8131/checks
+      Why is the schedules_totals_roles migration causing the build to fail?
+- [ ] threads-orm.md

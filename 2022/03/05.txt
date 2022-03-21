@@ -30,14 +30,29 @@ EINKAUFSZETTEL
 - [x] Flour
 - [x] Butter
 
+What to take to Kelseys
+-----------------------
 
-Berlin Greek Restaurant -Mosaic -Candied Calamata Olives Cheesecake
-Berlin Film Museum
-Goodbye Lenin
-Death of Stalin
-Umarell
-Cream of Wheat
-Petite yoghurt
-Fjaka Croatian State of Mind
-Wernekees Aphasia
+- [ ] Naan Dough
+- [ ] Butter
+- [ ] Parsley
+- [ ] Chocolate
+- [ ] Sushi Go
 
+Notes
+-----
+
+Interesting things that Kelsey & Sven talked about
+
+- Berlin Greek Restaurant -Mosaic -Candied Calamata Olives Cheesecake
+- Berlin Film Museum
+- Goodbye Lenin
+- Umarell
+- Cream of Wheat
+- Fjaka Croatian State of Mind
+- Wernicke's Aphasia
+
+Thing I remembered:
+
+- Petits Filous "yoghurt"
+- Death of Stalin

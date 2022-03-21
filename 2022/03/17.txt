@@ -1,0 +1,39 @@
+Thursday 17 Mar 2022
+====================
+
+Looking at staying in Pag next week.
+https://www.airbnb.co.uk/rooms/44130492
+Could go visit the famous Pag triangle.
+
+TODO
+
+- [x] play guitar
+- [x] deutsch practice
+- [x] write review for zagreb airbnb
+- [ ] yoga
+- [ ] sketching
+- [x] run half marathon (visit cliffs)
+- [x] cook dinner
+
+WORK 
+
+- [ ] benchmarking #8172
+
+- [ ] share notes on ORM research with team
+- [.] fork node branch to use Prisma
+- [ ] schedule peer programming session with Chloe
+- [ ] Separate pipeline for prod from review (better security, empower devs)
+- [ ] Docker & node_modules https://github.com/Runn-Fast/runn/pull/8121
+- [ ] Pull Request Template https://github.com/Runn-Fast/runn/pull/8129
+- [ ] https://github.com/Runn-Fast/runn/pull/8143
+
+PRISMA
+
+Doesn't support Infinity in the datetime field
+https://github.com/prisma/prisma/issues/3492
+
+TOMORROW
+
+- [ ] Focus on publishing ORM docs
+- [ ] Take monday off work?
+

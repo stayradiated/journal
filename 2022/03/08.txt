@@ -1,0 +1,115 @@
+Tuesday 08 Mar 2022
+===================
+
+Waking up at 6am.
+Lying in bed reading Ben Thompson's thoughts on Big Tech sanctions in Russia.
+https://stratechery.com/2022/tech-and-war/
+
+Morning walk around the Old Town.
+I'll need to get up early to see the crack of dawn.
+
+Catching up with Rowan, he is in Canberra.
+Having issues with the internet cutting in and out.
+The wi-fi in the room isn't great for video calls.
+
+Out for a midday run.
+Went for another half-marathon distance - about just over 13 miles. 
+Not bad. Quite comfortable with this distance.
+I'd like to try and hit 20 miles this month. Just need to ease into it.
+Maybe next week we try for 18 miles.
+
+Lot of people walking around with flowers today.
+Is that normal? Or is there some Croatia valentines day I don't know about?
+Oh, it's International Women's Day.
+Is that like forgetting someone's birthday? I should be more aware of what
+events are celebrated each day.
+
+https://en.wikipedia.org/wiki/International_Women%27s_Day
+
+> …in much of the world, it is customary for men to give female colleagues and
+> loved ones flowers and small gifts. In some countries (such as Bulgaria and
+> Romania) it is also observed as an equivalent of Mother's Day, where children
+> also give small presents to their mothers and grandmothers.
+
+International Men's Day is on the November 18th.
+
+https://en.wikipedia.org/wiki/International_Men%27s_Day
+
+> In 2018, a small group promoted men's day in New Zealand.
+
+That sounds about right.
+
+What about the pigeons? Do they get a day?
+
+> International Pigeon Day on June 13th.
+
+Oh, we good then.
+
+TOMORROW
+--------
+
+- [ ] Get up before the crack of dawn and go for a dawn walk
+- [ ] Visit a souvenir store
+- [ ] Climb the tower
+- [ ] Take the ferry to an island?
+- [ ] Eat a pizza
+
+WORK
+----
+
+Catching up what has happened over the weekend.
+
+- [x] Let developers that #deploys-production exists
+- [x] Reply to Liam about Next.js vs Vite
+- [x] Create a design for a "New Version of Runn is available" notification
+  - [x] Benefits: don't have to auto reload peoples browsers, customers can
+    keep using the app (but can't make any changes).
+- [x] Pull Request Templates https://threads.com/34419521957
+- [x] Reply to Ingo about https://github.com/Runn-Fast/runn/pull/8063
+- [ ] 9:45PM RETRO
+
+
+- We now have redux-toolkt
+  - How does redux toolkit work? 
+  - [ ] Read the docs on how to use it
+  - https://threads.com/34419275868
+  - https://github.com/Runn-Fast/runn/pull/8064/files
+
+- Some odd deploy failures happening on Heroku
+  * https://github.com/Runn-Fast/runn/runs/5459326086?check_suite_focus=true
+  * 
+
+------
+ > [build 16/25] COPY app/javascript/src ./app/javascript/src:
+------
+Dockerfile.prod:31
+--------------------
+  29 |     
+  30 |     COPY schema_hasura.graphql ./
+  31 | >>> COPY app/javascript/src ./app/javascript/src
+  32 |     RUN yarn hasura:relay
+  33 |     
+--------------------
+error: failed to solve: failed to compute cache key: failed commit on ref "layer-sha256:394…": unexpected commit digest sha256:d13…, expected sha256:394…: failed precondition
+
+----
+https://github.com/Runn-Fast/runn/runs/5459528779
+
+ PG::ConnectionBad: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+ERRORS
+
+- Do nothing, try/catch at the end.
+
+DATABASE
+
+- Safety: plug-in for Rails that 
+- How do we handle N+1 queries
+- Chat to Jacob about Prisma
+- TypeORM
+- Knex.js
+
+Learn SQL
+

@@ -1,0 +1,47 @@
+Tuesday 15 Mar 2022
+===================
+
+The Most Beautiful Girl in the Room
+https://www.youtube.com/watch?v=ubFQbLjjdoc
+https://www.youtube.com/watch?v=jUYRV1w6Neg
+https://tabs.ultimate-guitar.com/tab/flight-of-the-conchords/the-most-beautiful-girl-in-the-room-chords-752397
+
+How to Play Flight of the Conchords Intro on Guitar
+https://www.youtube.com/watch?v=mXarBoneHuo
+
+
+Other songs I'd like to try:
+
+- Sweet Home Alabama riff
+https://www.youtube.com/watch?v=qGYJfBOHsKg&t=4m56s
+
+- The Kink's Lola
+https://www.youtube.com/watch?v=H7rksWU7G3E
+
+TODO
+
+- [ ] yoga
+- [x] deutsch practice
+- [x] catch up with james
+- [x] go for a run around
+- [x] get some cash out
+- [x] eggs for lunch
+
+TOMORROW
+
+- [ ] update wealth.txt
+- [ ] write review for zagreb airbnb
+
+WORK
+
+. WRITE ABOUT ORMs .
+
+- [ ] Try out Prisma
+      - [ ] change_column :my_table, :my_column, :bigint
+
+- [ ] Docker & node_modules
+      https://github.com/Runn-Fast/runn/pull/8121#issuecomment-1067355966
+- [ ] Pull Request Template
+      https://github.com/Runn-Fast/runn/pull/8129
+- [ ] [heroku-rebuild-review-app] → let team know about this feature
+- [ ] https://github.com/Runn-Fast/runn/pull/8143

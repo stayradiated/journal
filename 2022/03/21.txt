@@ -1,6 +1,37 @@
-To live is to risk it all, otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.
-- Rick Sanchez
+Monday 21 Mar 2022
+==================
+
+> To live is to risk it all, otherwise you're just an inert chunk of randomly
+> assembled molecules drifting wherever the universe blows you.
+> 
+> - Rick Sanchez
 
 I should take bigger risks. 
 
-Good idea to help prevent damage to my laptop: sew some thick padding material to the internal bottom of my backpack. Will also give it more structure and stop it sagging so much. 
+TRAVEL DAY
+----------
+
+Travelling from Sali → Zaglav → Zadar → Šibernik.
+Will I make it?
+
+Dugi Otok bus timetable
+Leaves from Sali at 10:00, but from where exactly?
+- https://liburnija-zadar.hr/en/island-transport/
+- https://liburnija-zadar.hr/wp-content/uploads/2021/11/202-LINIJA-SALI-ZAGLAV-LUKA-15.10.2021.pdf
+
+→ No sign of the 10am bus, vanished into the aether.
+  Ended up walking for 40 minutes around the coast to Zaglav.
+  Quite a good day for it.
+
+The ferry arrived at 10:15, boarded at 10:30.
+
+TODO
+----
+
+- [/] Catch bus to Zaglav → walked
+- [x] Catch ferry to Zadar
+- [ ] Catch bus to Šibernik
+
+Good idea to help prevent damage to my laptop: sew some thick padding material
+to the internal bottom of my backpack. Will also give it more structure and
+stop it sagging so much. 

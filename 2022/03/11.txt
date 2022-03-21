@@ -1,0 +1,75 @@
+Friday 11 Mar 2022
+==================
+
+Starting the day proper by getting out of bed at exactly 5:57am.
+Taking the guitar out to sunrise point and practicing my chords.
+Quite chilly, but I had my thermos and a mug of mate to keep me warm.
+
+Starting the work day from Caffe Novi.
+Zadar is such a beautiful old town, I love all the bricks.
+
+@ 44.114222, 15.227564
+In the People's Square, the centre of the Old Town, there are two cafes on opposite sides.
+Both fill the square with a grid of tables and chairs.
+As the day passes, the sunlight moves from one side of the square to the other.
+In the morning, everyone enjoys a coffee at the North side cafe, no one sits in the shade.
+In the afternoon, the sun has moved, and the South side cafe attracts the customers.
+
+I love how every caffe in Croatia gives you a complementary glass of water with
+your coffee. Not so keen on the two packets of sugar though.
+
+TODO
+----
+
+- [ ] Send care package to Chris
+- [ ] Call up LJ, mention the Learnt my Lesson podcast
+- [ ] Plan tomorrow out -- trip to the island
+- [ ] Attach Zadar patch to backpack
+
+WORK
+----
+
+- [ ] FOCUS: NODE.JS THREADS
+
+- [x] FIX docker-app-start ln -sf
+- [x] TEST https://github.com/Runn-Fast/runn/pull/8109
+- [x] READ https://remix.run/blog/remix-vs-next
+- [x] REVIEW https://github.com/Runn-Fast/runn/pull/8118
+- [x] THOUGHTS https://threads.com/34419832499
+- [x] ASK LIAM https://github.com/Runn-Fast/runn/pull/8102/files#diff-d9c39eea1770509047437fc49227b026771db777d717d6862573f710e02dcd61R17 
+- [x] REVIEW https://github.com/Runn-Fast/runn/pull/8002
+- [ ] (NEXT WEEK) THINK https://github.com/Runn-Fast/runn/pull/8111
+      https://relay.dev/docs/guided-tour/reusing-cached-data/filling-in-missing-data/
+      https://github.com/Runn-Fast/runn/pull/8119
+
+REMIX
+-----
+
+Thinking about porting Volatile to Remix, just to try it out.
+
+AARON'S PIZZA DOUGH RECIPIE
+---------------------------
+
+> So it depends on how soon you want to use it. Most recipes recommend you let
+> it proof in the fridge for at least a day. In that case I do 500g flour, 300g
+> water, 4g yeast and 12g salt.
+>
+> In this case I was in a hurry and wanted it for lunch so I did more yeast and
+> 65% hydration let it bulk ferment for just two hours
+>
+> There's a great app called PizzApp that figures all this out for you. You
+> just punch in your variables 
+> 
+> But I have to say, the most important thing I've discovered so far is 00
+> flour. All the pizza hobbyists recommend it but I could never find it. Found
+> it at Good For in Wellington (bulk grocer), and it makes a massive
+> difference. 
+>
+> Semolina is good for putting on the peel to help with the launch because the
+> dough won't absorb it. I'd like to try that sometime. 
+
+GIFS
+----
+
+cowboy_coding.gif
+https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif
