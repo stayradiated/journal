@@ -26,6 +26,18 @@ https://www.jocooks.com/recipes/naan-bread/
 EINKAUFSZETTEL
 --------------
 
-- [ ] Yeast
-- [ ] Flour
-- [ ] Butter
+- [x] Yeast
+- [x] Flour
+- [x] Butter
+
+
+Berlin Greek Restaurant -Mosaic -Candied Calamata Olives Cheesecake
+Berlin Film Museum
+Goodbye Lenin
+Death of Stalin
+Umarell
+Cream of Wheat
+Petite yoghurt
+Fjaka Croatian State of Mind
+Wernekees Aphasia
+
