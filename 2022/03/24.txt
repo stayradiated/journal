@@ -1,0 +1,97 @@
+Thursday 24 Mar 2022
+====================
+
+https://www.quotes.net/movies/the_castle_144817
+
+> Compulsorily acquired? You know what this means don't you, they're acquiring
+> it compulsorily.
+
+> If there's anything Dad loved more than serenity, it was a big two stroke
+> engine on full throttle!
+
+Red Setter looks like a fantastic breed of dog.
+
+SCHEDULE
+--------
+
+0600 Awake, guitar practice
+0700 Deutsch practice
+0800 Fixing shorts
+0900 Shower
+1000 Morning coffee at Cafe Na Ma Lo
+1540 Afternoon swim
+1600 Working from Pretrus cafe
+
+KRK
+---
+https://www.visit-croatia.co.uk/croatia-destinations/north-dalmatia/krka-national-park/
+https://www.atpsi.hr/media/attachments/2021/09/24/red-vonje-radni-dan---upanija---od-27.rujna-2021.pdf
+https://shop.np-krka.hr/hr/webshop?location=2fd12d9a-0c8d-45df-b019-391de1a3126b
+
+Lozovac 
+09:00 - 17:00
+50 HRK
+
+TODO
+----
+
+- [x] Deutsch practice
+- [x] Patch hole in shorts
+- [ ] Research shorts
+  - [ ] What waist size am I?
+  - [ ] https://outlier.nyc/products/slim-dungarees
+  - [ ] Outlier also do shorts and jackets, should look into them
+- [ ] Order a nice shirt
+- [ ] Visit a souvenir store
+
+SHORTS
+------
+
+Thinking about getting a new pair of shorts.
+- Looking into sailing shorts 
+- Bluff  shorts
+
+https://shop.bluffworks.com/products/ascender-shorts-regular-fit-matte-navy#
+https://www.mauriprosailing.com/us/product/HHN34104-597.html
+https://outlier.nyc/products/new-way-shorts
+https://seagale.fr/en/home/81-performance-shorts#/size-small/color-black
+https://www.vollebak.com/product/ocean-shorts-granite-edition/
+
+> For hard-wearing and active use, these quick-dry technical sailing shorts are
+> ideal for activites on and by the water. Lightweight shorts that protect
+> against the wind and sun, making them perfect for all your boating
+> activities. They feature practical cargo pockets and critical point
+> reinforcements for improved durability.
+
+SHIRTS
+------
+
+https://woolandprince.com/products/button-down-blue-oxford
+https://westernrise.com/products/limitless-merino-button-down-shirt?variant=27688391508033
+https://libertadapparel.com/collections/merino-wool-travel-shirts/products/single-hidden-pocket-merino-business-travel-shirt?variant=14407609057323
+https://seagale.fr/en/home/159-mao-merino-shirt
+
+BLACKSHINE
+----------
+
+Found this amazing blog today.
+
+https://blackshineblog.wordpress.com/
+Written by /u/jaymeetee
+
+Dude has been living out of a bag for a decade.
+Also has superb attention to detail.
+
+RUNN
+----
+
+- [ ] feat(security): Use Hasura Allow-List to avoid DoS (#8046) #8179 
+  - https://github.com/Runn-Fast/runn/pull/8179#pullrequestreview-918160624
+  - [ ] check out locally
+
+- [ ] Security & Prisma middleware
+- [ ] Prisma → Record hasura.user in audit log
+- 
+  
+- [ ] https://github.com/Runn-Fast/runn/pull/8201#issuecomment-1075866785
+  - https://github.com/Runn-Fast/runn/pull/8201#issuecomment-1075866785

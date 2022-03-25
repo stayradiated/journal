@@ -8,6 +8,10 @@ Monday 21 Mar 2022
 
 I should take bigger risks. 
 
+Noticed that the skin on my hands is quite dry.
+I wonder why? I could apply hand cream.
+Could be it a certain type of soap, or the dry weather?
+
 TRAVEL DAY
 ----------
 
@@ -30,7 +34,8 @@ TODO
 
 - [/] Catch bus to Zaglav → walked
 - [x] Catch ferry to Zadar
-- [ ] Catch bus to Šibernik
+- [x] Catch bus to Šibernik
+- [ ] Get lift with Mirjana to AirBnB @ 19:00
 
 Good idea to help prevent damage to my laptop: sew some thick padding material
 to the internal bottom of my backpack. Will also give it more structure and

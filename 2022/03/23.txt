@@ -1,0 +1,38 @@
+Wednesday 23 Mar 2022
+=====================
+
+The AirBnB host, Mirjana has hurt her leg. She can't really walk or drive, so
+she asked me to buy her cigarettes.
+I bought a pack of Marlboro Gold Long from the Tisak (first time buying
+cigarettes, really quite easy in Croatia).
+
+TODO
+----
+
+- [x] Deutsch practice
+- [x] Peer/Pair/Pear Programming with Chloe
+- [x] Catching up with Rowan
+
+WORK
+----
+
+- [x] Update .env.example
+- [x] What is going with JSON.stringify and BigInt
+- [ ] Security & Prisma middleware
+- [ ] Prisma → Record hasura.user in audit log
+- 
+- [ ] feat(security): Use Hasura Allow-List to avoid DoS (#8046) #8179 
+  - https://github.com/Runn-Fast/runn/pull/8179#pullrequestreview-918160624
+- [ ] https://github.com/Runn-Fast/runn/pull/8201#issuecomment-1075866785
+  - https://github.com/Runn-Fast/runn/pull/8201#issuecomment-1075866785
+
+Need to debug why we can't run Prisma in Docker on M1 Macs.
+Update: it's a known issue with no easy fix.
+- https://github.com/prisma/prisma/issues/7755
+- https://github.com/prisma/prisma/issues/8478
+
+> Error: Unknown PRISMA_QUERY_ENGINE_LIBRARY linux-arm64-openssl-undefined. Possible binaryTargets: darwin, darwin-arm64, debian-openssl-1.0.x, debian-openssl-1.1.x, rhel-openssl-1.0.x, rhel-openssl-1.1.x, linux-arm64-openssl-1.1.x, linux-arm64-openssl-1.0.x, linux-arm-openssl-1.1.x, linux-arm-openssl-1.0.x, linux-musl, linux-nixos, windows, freebsd11, freebsd12, openbsd, netbsd, arm, native or a path to the query engine library.
+> You may have to run prisma generate for your changes to take effect.
+>     at Object.getPlatform (/app/node_modules/@prisma/client/runtime/index.js:35528:13)
+>     at Object.instantiateLibrary (/app/node_modules/@prisma/client/runtime/index.js:35519:21)
+> You may have to run prisma generate for your changes to take effect.
