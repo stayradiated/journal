@@ -18,9 +18,9 @@ Movies (todo)
 - [x] Squid Game (2021) @ 2021.09.28 ⠶ from priscilla on slack
 - [ ] Chronicle (2012) @ 2021.10.10 ⠶ Max Landis
 - [x] Dune (2021) @ 2021.10.10 ⠶ Jacob, Rowan
-- [ ] The Billion Dollar Code (2021) @ 2021.10.11 ⠶ Reccomended by parents
-- [ ] Human (2015) @ 2021.10.18 ⠶ Reccomended by Chloe
-- [x] Wild Palms (1993) @ 2021.10.19 ⠶ Reccomended by Matt Webb (https://interconnected.org/home/2021/10/18/genre)
+- [ ] The Billion Dollar Code (2021) @ 2021.10.11 ⠶ Recommended by parents
+- [ ] Human (2015) @ 2021.10.18 ⠶ Recommended by Chloe
+- [x] Wild Palms (1993) @ 2021.10.19 ⠶ Recommended by Matt Webb (https://interconnected.org/home/2021/10/18/genre)
 - [ ] Yor: The Hunter from the Future (1983) ⠶ Noticed at a Spanish Cinema (Sala Equis)
 - [ ] The Killing (2011) ⠶ Bill Bailey
 - [ ] There Will Be Blood (2007) ⠶ Now You See It eassy on Vocal Control (https://www.youtube.com/watch?v=8JUXtUeWUTQ) 
@@ -28,13 +28,14 @@ Movies (todo)
 - [ ] The Norman Conquests (1977) ⠶ 8.6/10 on IMDB
 - [ ] Palo Alto (2013) ⠶ great soundtrack
 - [ ] Sleepless in Seattle (1993) ⠶ mentioned in german course
+- [ ] Good Bye Lenin (2003) ⠶ recommended by Kelsey
 
 
 - [ ] Palm Springs (2020) - movie of the year, jacob and alex watched it twice
 - [ ] The Haunting of Hill House : Recommended by Jacob
 - [ ] Bojack Horseman
 - [ ] Invincible - Recommended by Jacob, watch whole first episode 
-- [x] Wild Palms (1993) @ 2021.10.19 ⠶ Reccomended by Matt Webb (https://interconnected.org/home/2021/10/18/genre)
+- [x] Wild Palms (1993) @ 2021.10.19 ⠶ Recommended by Matt Webb (https://interconnected.org/home/2021/10/18/genre)
 
 
 Every Frame a Painting
@@ -45,8 +46,8 @@ Every Frame a Painting
 - [ ] The Imposter (2012)
 - [ ] Memories of Murder (2003)
 
-- [ ] The Founder (2015) ⠶ Reccomended by Jacob, good train movie
-- [ ] The Gentleman (2019) ⠶ Reccomended by Sven from Frankfurt cafe
+- [ ] The Founder (2015) ⠶ Recommended by Jacob, good train movie
+- [ ] The Gentleman (2019) ⠶ Recommended by Sven from Frankfurt cafe
 
 
 Quentin Tarantino's Desert Island Film Picks
