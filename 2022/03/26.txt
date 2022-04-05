@@ -1,31 +1,45 @@
 Saturday 26 Mar 2022
 ====================
 
+Little Bobby would be a good name for a sailboat. 
+http://xkcd.com/327
+
 TODO
 ----
 
-- [ ] Post photos to Instagram.
-  - [ ] Zagreb
-  - [ ] Zadar
-  - [ ] Dugi Otok
-  - [ ] Šibernik
-- [ ] Go to Lidl, hope for hummus
+- [o] Instagram
+  - [.] Cities
+    - [x] Zagreb
+    - [ ] Zadar
+    - [ ] Dugi Otok
+    - [ ] Šibernik
+  - [x] Instead of a photo, I would like to post a short video (<1 min)
+- [x] Go to Lidl/Kaufland, have hummus for lunch
+- [x] Visit H&M, try some shirts on
 - [ ] Have dinner at a traditional croatian restaurant
+
+- [ ] jovember mixtape
+
 - [x] deutsch practice
+- [x] guitar 
 - [ ] sketching
-- [ ] guitar 
 - [ ] yoga
-- [ ] mixtape
-- [ ] Renew clickandcollect.nz
-- [x] Review AirBnBs
+- [x] Renew clickandcollect.nz
+- [x] Review Zadar AirBnB
+- [ ] Review Sali AirBnB
 - [x] Extend stay in Šibenik
-- [ ] Contact Greece consulate in Canberra
-  - [ ] What documents do I need? The sooner I apply the better.
+  - [x] Ask Mirijana if I can extend stay in Šibenik
+    - Looks like there will be other guests around on Thu/Fri
 - [x] Visit H&M, try some shirts on
 
-
-Little Bobby would be a good name for a sailboat. 
-http://xkcd.com/327
+- [ ] Contact Greece consulate in Canberra
+  - [ ] What documents do I need? The sooner I apply the better.
+  - [ ] Monday morning: Phone call with Greece consulate in Canberra
+    - https://www.mfa.gr/australia/en/visa.html?mission=can
+    - Phone: (0061) 262710100
+    - 10.00 - 15.00 (Mon - Fri)
+    - Give them a phone call, ask if I need to apply in person or if I can
+      apply remotely
 
 Shirts
 ------

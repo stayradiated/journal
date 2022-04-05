@@ -1,0 +1,72 @@
+Thursday 31 Mar 2022
+====================
+
+Pair-programming with Chloe this morning.
+We are working on the HolidaysGroup service in Rails.
+Which is pretty tricky.
+Looking forward to having the Node.js server up and running.
+
+Rowan is interested in the idea of using Hasura as an ORM.
+I'm pretty sure it won't work, but happy to try it.
+
+Weather was supposed to be pretty shite today, but it's 11am and no rain.
+Weather apps do a poor job of explaining the forecast.
+I miss metvuw.com.
+
+http://www.montypython.50webs.com/scripts/Holy_Grail/Scene3.htm
+
+
+ARTHUR: Old woman!
+DENNIS: Man!
+ARTHUR: Man. Sorry. What knight lives in that castle over there?
+DENNIS: I'm thirty-seven.
+ARTHUR: I-- what?
+DENNIS: I'm thirty-seven. I'm not old.
+ARTHUR: Well, I can't just call you 'Man'.
+DENNIS: Well, you could say 'Dennis'.
+ARTHUR: Well, I didn't know you were called 'Dennis'.
+DENNIS: Well, you didn't bother to find out, did you?
+ARTHUR: I did say 'sorry' about the 'old woman', but from the behind you looked--
+DENNIS: What I object to is that you automatically treat me like an inferior!
+ARTHUR: Well, I am King!
+DENNIS: Oh, King, eh, very nice. And how d'you get that, eh? By exploiting the workers! By 'anging on to outdated imperialist dogma which perpetuates the economic and social differences in our society. If there's ever going to be any progress with the--
+WOMAN: Dennis, there's some lovely filth down here. Oh! How d'you do?
+ARTHUR: How do you do, good lady? I am Arthur, King of the Britons. Who's castle is that?
+WOMAN: King of the who?
+ARTHUR: The Britons.
+WOMAN: Who are the Britons?
+ARTHUR: Well, we all are. We are all Britons, and I am your king.
+WOMAN: I didn't know we had a king. I thought we were an autonomous collective.
+DENNIS: You're fooling yourself. We're living in a dictatorship: a self-perpetuating autocracy in which the working classes--
+WOMAN: Oh, there you go bringing class into it again.
+DENNIS: That's what it's all about. If only people would hear of--
+ARTHUR: Please! Please, good people. I am in haste. Who lives in that castle?
+WOMAN: No one lives there.
+ARTHUR: Then who is your lord?
+WOMAN: We don't have a lord.
+ARTHUR: What?
+DENNIS: I told you. We're an anarcho-syndicalist commune. We take it in turns to act as a sort of executive officer for the week,...
+ARTHUR: Yes.
+DENNIS: ...but all the decisions of that officer have to be ratified at a special bi-weekly meeting...
+ARTHUR: Yes, I see.
+DENNIS: ...by a simple majority in the case of purely internal affairs,...
+ARTHUR: Be quiet!
+DENNIS: ...but by a two-thirds majority in the case of more major--
+ARTHUR: Be quiet! I order you to be quiet!
+WOMAN: Order, eh? Who does he think he is? Heh.
+ARTHUR: I am your king!
+WOMAN: Well, I didn't vote for you.
+ARTHUR: You don't vote for kings.
+WOMAN: Well, how did you become King, then?
+ARTHUR: The Lady of the Lake, …her arm clad in the purest shimmering samite, held aloft Excalibur from the bosom of the water signifying by Divine Providence that I, Arthur, was to carry Excalibur. That is why I am your king!
+DENNIS: Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.
+ARTHUR: Be quiet!
+DENNIS: Well, but you can't expect to wield supreme executive power just 'cause some watery tart threw a sword at you!
+ARTHUR: Shut up!
+DENNIS: I mean, if I went 'round saying I was an emperor just because some moistened bint had lobbed a scimitar at me, they'd put me away!
+ARTHUR: Shut up, will you? Shut up!
+DENNIS: Ah, now we see the violence inherent in the system.
+ARTHUR: Shut up!
+DENNIS: Oh! Come and see the violence inherent in the system! Help! Help! I'm being repressed!
+ARTHUR: Bloody peasant!
+DENNIS: Oh, what a give-away. Did you hear that? Did you hear that, eh? That's what I'm on about. Did you see him repressing me? You saw it, didn't you? 
