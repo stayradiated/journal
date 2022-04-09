@@ -1,0 +1,50 @@
+Friday 08 Apr 2022
+==================
+
+TRAVEL DAY.
+Time to pack up my gear, I'm catching the 14:00 bus to Primošten today.
+It's only 30 min away from Šibernik.
+
+> Primošten is a village and municipality in Šibenik-Knin County, Croatia. It
+> is situated in the south, between the cities of Šibenik and Trogir, on the
+> Adriatic coast.
+>
+> In the past, Primošten was situated on the islet close to the mainland.
+> During the Turkish invasions in 1542 the islet was protected by the walls and
+> towers and a draw bridge connected it to the mainland. When the Turks
+> retreated, the draw bridge was replaced by the causeway and in 1564 the
+> settlement was named Primošten after the Croatian verb primostiti (to
+> bridge). 
+>
+> It is built on a hill and is dominated by the parish church of St. George
+> which was built in 1485 and restored in 1760 close to the local graveyard
+> from which a unique view spreads to the sea and the surroundings. 
+>
+> Primošten is famous for its huge and beautiful vineyards. A photo of the
+> vineyards of Primošten hung in the UN center in New York. Apart from its
+> vineyards, Primošten is also known for the traditional donkey race that takes
+> place there every summer. The largest beach in Primošten is called Raduča,
+> and its smaller part, Mala Raduča, is voted one of the 10 most beautiful
+> beaches in Croatia. The area's vineyards are currently under consideration to
+> become a UNESCO World Heritage site.
+
+Walking around the streets with my guitar, strumming away.
+
+Hoping to catch up with Natalia for a coffee.
+She is visiting the Krka park today.
+
+Working from Giro Espresso caffe.
+Love the staff here, they give you complementary croissants!
+Also the coffee is great.
+Helping Rowan debug the Clockify Integration.
+
+TODO
+----
+
+- [x] Get myself to Primošten
+- [x] Review Rowan's Clockify PR https://github.com/Runn-Fast/runn/pull/8380
+- [ ] Really should get some sunglasses and a hat
+- [ ] Also should order shirt and shorts 
+
+Sad Will Ferrel GIF
+https://media1.giphy.com/media/FSnwQf1mPhN2o/giphy.gif
