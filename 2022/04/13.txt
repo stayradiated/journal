@@ -1,3 +1,4 @@
+<<<<<<< ours
 Wednesday 13 Apr 2022
 =====================
 
@@ -60,3 +61,35 @@ TODO
   - [ ] Best practices around error handling with Prisma (particularly error codes)
 - [ ] Liam's suggestions:
   - [ ] testing approach
+=======
+Big Blue
+Free diving legend
+
+Radiooooooooo
+Historic Country Radio
+
+Garden Radio
+
+The Little Prince
+
+Radio Paradise
+
+Bathroom with two tubs
+
+Present tense dream journal
+
+Neil Gaiman - Sandman
+
+Stephen King - Shawshank Redemptio
+HP Lovecraft - 
+
+Dune Documentary
+
+Couch Surfinh
+
+Magical Realism
+
+Deep Time Walk
+
+Yoga Sutras
+>>>>>>> theirs
