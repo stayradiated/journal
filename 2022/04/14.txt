@@ -1,0 +1,82 @@
+Thursday 14 Apr 2022
+====================
+
+Waking up on Krapanj to a beautiful sunrise.
+
+Catching the ferry/bus into Šibenik with Ivana & Maja.
+
+Having coffee Ivana at Yum cafe.
+
+Cui bono?
+---------
+
+> in English "to whom is it a benefit?", is a Latin phrase about identifying
+> crime suspects. It expresses the view that crimes are often committed to
+> benefit their perpetrators, especially financially. 
+
+https://en.wikipedia.org/wiki/Cui_bono
+
+if all you have is a hammer, everything looks like a nail
+---------------------------------------------------------
+
+> I suppose it is tempting, if the only tool you have is a hammer, to treat
+> everything as if it were a nail.
+
+- If a person is familiar with a certain, single subject, or has with them a
+  certain, single instrument, they may have a confirmation bias to believe that
+  it is the answer to/involved in everything.
+
+- With limited tools, single-minded people apply them inappropriately or
+  indiscriminately.
+
+https://en.wiktionary.org/wiki/if_all_you_have_is_a_hammer,_everything_looks_like_a_nail
+
+TODO
+----
+
+API Level Tests
+- Jest unit tests
+
+- Keep writing threads
+- Writing some Jest tests
+> - Setting up Prisma with RLS
+
+PRs
+
+- Add Account IDs
+- Foreign Keys current PR 
+
+> Just 35 minutes from Wellington CBD and nestled in native bush, our
+> hand-built design studio is the perfect creative retreat.
+https://www.studiocdesign.co.nz/
+https://www.studiocdesign.co.nz/blog-posts/behind-the-scenes-of-building-studioc
+
+
+Friday Bus Timetable
+--------------------
+
+Catch bus to Šibenik and then get a taxi?
+
+https://www.taxivodice.net/
+
+|-----------+---------+------------------------------------|
+| Primošten | Pirovac | Company                            |
+|-----------+---------+------------------------------------|
+| 07:03     | 08:28   | ČAZMATRANS PROMET d.o.o.           |
+| 10:03     | 11:29   | Autotrans d.d.                     |
+| 11:03     | 12:17   | ČAZMATRANS PROMET d.o.o.           |
+| 13:10     | 14:15   | Autobusni prijevoz d.o.o. Varaždin |
+| 14:01     | 15:03   | Autotrans d.d.                     |
+| 17:03     | 18:19   | ČAZMATRANS PROMET d.o.o.           |
+| 18:40     | 19:30   | Autotrans d.d.                     |
+| 20:03     | 21:04   | APP d.d.                           |
+|-----------+---------+------------------------------------|
+
+Github Actions
+--------------
+
+Github has a 'workflow dispatch' option for triggering actions.
+
+I wonder if we can use to force a rebuild of a PR?
+
+https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/

@@ -1,0 +1,62 @@
+Wednesday 13 Apr 2022
+=====================
+
+Catching a bus to Brodarica this morning.
+
+In Croatia, they don't have bus timetables. Similar to the weather, they have
+bus forecasts.
+
+To catch a bus, you only need to know where to wait. This is harder than it
+sounds, as bus stops are typically an unmarked spot on the side of the road.
+
+To make it even more difficult, there are decoy Bus stops set up to trap tourists.
+
+---
+
+Why wait for a ferry, when you can just get a lift with a boat guy?
+
+---
+
+Drat! Left my pencil case back on the mainland…
+
+Fortunately Maja and Ivana still haven't arrived, they got it back for me.
+Turns out the Ferry people had picked it up, thinking it was left by one of the
+schoolkids.
+
+Working with Maja, Ivana and their NGO group to clean up a pond on the island.
+Trimming trees, pulling out shrubs, just giving the place a good tidy up.
+Pretty soon we had a massive pile of branches. There were set a side and a fire
+was started to slowly burn them up.
+We had trained firemen with us and official permission, so it was legit.
+Plus these funny yellow backpacks that squirt water - perfect for a watergun
+fight.
+
+Afterwards, we had a fantastic lunch - Krapanj Plate - octopus pasta. Delicious!
+
+---
+
+SAILING
+-------
+
+I haven't found anywhere to buy a hat in Primošten.
+
+Going to head off on Friday.
+
+Need to get to Šibenik and pick up some gear:
+
+- [ ] hat
+- [ ] sunglasses
+- [ ] thermometer?
+
+
+TODO
+----
+
+- [ ] Watch latest update about Freelancers: https://threads.com/34422203466
+
+- [.] Threads
+  - [x] How should we implement action handlers -- as functions or as fastify routes -- how does this affect testing?
+  - [ ] How should we provide session information to the helper functions?
+  - [ ] Best practices around error handling with Prisma (particularly error codes)
+- [ ] Liam's suggestions:
+  - [ ] testing approach
