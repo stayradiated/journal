@@ -1,4 +1,3 @@
-<<<<<<< ours
 Wednesday 13 Apr 2022
 =====================
 
@@ -61,35 +60,46 @@ TODO
   - [ ] Best practices around error handling with Prisma (particularly error codes)
 - [ ] Liam's suggestions:
   - [ ] testing approach
-=======
-Big Blue
-Free diving legend
 
-Radiooooooooo
-Historic Country Radio
 
-Garden Radio
+Chatting with Maja & Ivana
+--------------------------
 
-The Little Prince
+- Music Apps
+  * https://radiooooo.com/
+    + Historic Country Radio
+  * Garden Radio
+  * Radio Paradise
 
-Radio Paradise
+- Books
+  * The Little Prince
+  * Neil Gaiman - Sandman
+  * Stephen King - Shawshank Redemptio
 
-Bathroom with two tubs
+- Dreams
+  * "A bathroom with two tubs"
+  * Start a dream journal
+  * Write in the present tense
 
-Present tense dream journal
+- Movies:
+  * Big Blue, great documentary about a Free Diver
+  * Dune Documentary
 
-Neil Gaiman - Sandman
+- Travel:
+  * Couch Surfing
 
-Stephen King - Shawshank Redemptio
-HP Lovecraft - 
+- Magical Realism
+  * Literary Genre
+  * https://en.wikipedia.org/wiki/Magic_realism
 
-Dune Documentary
+- Deep Time Walk
+  * https://www.deeptimewalk.org/
+  * "Deep Time Walk is a transformative journey through 4.6bn years of Earth
+    history via a 4.6km guided walk. It is an invitation to view the world
+    differently, encouraging positive action and advocacy for a regenerative
+    Earth."
 
-Couch Surfinh
-
-Magical Realism
-
-Deep Time Walk
-
-Yoga Sutras
->>>>>>> theirs
+- Yoga Sutras
+  * https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali
+  * "Yogaś citta-vritti-nirodhaḥ" 
+    + "Yoga is the restriction of the fluctuations of mindstuff"

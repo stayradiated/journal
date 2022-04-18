@@ -1,18 +1,7 @@
 Monday 11 Apr 2022
 ==================
 
-https://www.nightjet.com/en/reiseziele/kroatien
-Night train from Zagreb → Zurich
-Then I catch a train to Paris.
-
-Todo
-----
-
-- [x] Schedule time to catch up with Liam, so we can discuss the Node Migration
-
-
 Dobro Jutro
-
 
 Great morning
 No wind, just sun
@@ -31,7 +20,18 @@ Languages to Learn: French, Spanish, Italian, Russian, Croatian
 
 ...
 
-
 Helping Ana's family on their Olive Grove today
 
 Should figure out my plan for Trogir & Murter
+
+https://www.nightjet.com/en/reiseziele/kroatien
+Night train from Zagreb → Zurich
+Then I catch a train to Paris.
+
+Todo
+----
+
+- [x] Schedule time to catch up with Liam, so we can discuss the Node Migration
+
+
+
