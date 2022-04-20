@@ -1,0 +1,71 @@
+Monday 02 Aug 2021
+==================
+
+Waking up in Nelson!
+I'm staying at the YHA here.
+It's what you would expect.
+
+> Cloudy, a few showers developing this morning. Northerlies developing around midday.
+> High: 14°c Low: 7°c
+> 7:04am/7:34am → 5:34pm/6:03pm
+
+Catching up with Jo this morning :)
+She has just arrived in Edinburgh, sailing to London in 2 days.
+
+SCHEDULE
+
+- 0730 out of bed
+- 0910 catching up with Jo
+- 0950 working from Zumo cafe
+- 1230 lunch (subway in the park)
+- 1400 virtual coffee with andria
+- 1630 12km run to the beach and back
+- 1730 roast veggies for dinner
+- 1930 working from the hostel lounge
+
+TODO
+
+- [x] let Mack know I'm in town
+- [ ] check-in with chris goodall
+- [x] update expenses
+  - [x] complete spreadsheet for July
+  - [x] start new expenses spreadsheet for August
+  - I wish I had a better understanding of how SC works
+- [/] get James to Nelson for the weekend!
+  - Whaat!? Air NZ don't fly directly from Rotorua to Nelson :( 
+  - Well that rules that out, James would not enjoy transiting through
+    Wellington by himself.
+- [ ] send Jo a postcard ♥
+- [ ] Cancel Ancestry.com subscription, ugh
+- [x] Expense skinny data to Runn (june, july, august)
+- [ ] move flight to london to September 16th (thursday)
+- [ ] book a pre-flight covid test
+  - https://www.healthpoint.co.nz/covid-19/central-auckland/auckland-central/
+    * Queen St Doctors
+    * Auckland City Doctors
+- [x] Pay off the last of the IRD tax
+
+RUNN
+
+- [x] catch up on thursday/friday events
+- [x] functional testing of Priscilla's weekends PR
+  * https://runn-pr-6402-app.herokuapp.com
+- [x] Update george/hasura-metadata-v3 branch
+  - tests are not passing
+    * try running them again
+- [x] Review rowan's API PR:
+  - https://github.com/Runn-Fast/runn/pull/6470#issuecomment-890316245
+- [x] raise PR to change font to roboto
+- [ ] continue work on filter engine
+- [x] fix bug with deploy-to-heroku-action
+- [x] explain font issue to ruth and rowan
+
+RETRO NOTES
+
+- Rowan should avoid merging PRs without anyone approving them first
+  * If necessary, at least request a post-merge review just so people are aware
+    of what has changed.
+- Rowan: With PRs, lets try keep them in “Draft” state until we want someone to
+  review them.This will both let people know when something is ready to be
+  reviewed, but also help us in keeping track of the “how long to review” KPI
+  for developers.

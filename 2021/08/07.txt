@@ -1,0 +1,61 @@
+Saturday 07 Aug 2021
+====================
+
+PICTON .........................................................................
+
+Should be a nice day.
+
+METSERVICE .....................................................................
+
+This is the best description of their API I've found:
+https://github.com/ZephireNZ/PyMetService/blob/master/pymetservice/__init__.py
+
+But it only works with places that fall unde "towns-cities"
+I don't know how to fetch data about rual regions from metservice.
+
+MORNING ........................................................................
+
+Ski patrol young woman, no name
+Noah
+
+Chilling at Le Cafe
+
+Putting brian back together
+Going to cycle to Havelock FOR FUN
+
+Update: road to Havelock is closed due to flood damage.
+Going to mountain bike around instead.
+
+TIPS ON SHOE HYGIENE ...........................................................
+
+> Shoes made from synthetic materials can be very hard to de-funk, so good shoe
+> hygiene from day one is important.
+>
+> Get them bone dry as quickly as possible after a run.
+>
+> If there's an insole, take it out. Lay them out in the sun if you can.
+>
+> Do not, under any circumstances, put the shoes in a bag, box, trunk of a car,
+> wrap them in a tee shirt, or put them into any enclosed space while
+> they are still damp.
+>
+> Launder the shoes every week or so.
+>
+> You should wear socks, a clean dry pair every time you put them on. This keeps
+> dead skin from accumulating in the shoe and causing odor.
+>
+> Make sure they are cotton socks, not synthetic or synthetic blends. The worst
+> synthetic for odor control is polyester, so avoid "wicking" socks.
+>
+> Launder the socks inside out to better get rid of dead skin flakes.
+
+from https://www.thebarefootrunners.org/threads/stinky-feet.22476/
+
+COMMA AI .......................................................................
+
+Loving George Hotz's presentation of the Comma 3
+https://www.youtube.com/watch?v=jJn2OzOLIzo
+
+TRAVEL .........................................................................
+
+Ferry has been cancelled tomorrow.

@@ -1,0 +1,29 @@
+Friday 23 Jul 2021
+==================
+
+Guess who is up early? This guy!
+
+tmux has a read-only mode, super nice
+> tmux attach -r
+> tmux switch-client -r
+
+I submitted an issue to @vercel/ncc before going to bed and woke up and now
+it's fixed, love those guys.
+
+My favourite Tom has a new song out and it's a great one.
+I hope he's doing alright.
+
+Watching Steve Mould and Mehdi talk about the physics behind chain fountains.
+
+Starting to create issues for everything I work on at Runn. Helps to keep track
+of all the things going on in the monthly project board.
+
+Getting better at using vi to edit JSX
+
+cst<App  ⠶ change surrounding tag name to app (and keep attributes)
+cst<App> ⠶ change surrounding tag name to app (and replace attributes)
+csa"<App> ⠶ change the surrounding "" quotes to an HTML tag <App
+
+g>bi}
+
+todo: try out pinta: https://www.pinta-project.com/releases/

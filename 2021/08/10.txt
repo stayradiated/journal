@@ -1,0 +1,49 @@
+Tuesday 10 Aug 2021
+===================
+
+Sailing to Picton today (big ferry).
+
+Chatting to the Le Cafe girl.
+She is "stuck" in Picton, thinking about returning to Australia.
+Turns out for the past 9 months she has been living on a yacht! With a large
+German Shepard dog (Freida)! Her yacht is out in the Picton harbour. Her father
+is a sailor.
+
+SCHEDULE
+========
+
+0630 out of bed
+0930 check-out
+0940 working from le cafe
+1000 standup
+…
+1300 get myself and brian to the ferry
+1330 check-in closes 
+1415 ferry departs
+1745 ferry arrives
+1830 check-in to the marion
+
+TODO
+====
+
+- [x] Review Priscilla's weekends PR (101 files changed!)
+  - https://github.com/Runn-Fast/runn/pull/6402/files
+- [.] continue development of filter engine
+
+SQL
+===
+
+Trying to find the the matching row from ~24 hours ago.
+How do you do this?
+
+SELECT cur_market_price.*, ROUND((cur_market_price.price_nzd / prev_market_price.price_nzd * 100) - 100, 2) as change
+ FROM kc.market_price as cur_market_price
+ JOIN kc.market_price as prev_market_price
+   on
+     prev_market_price.symbol = cur_market_price.symbol AND
+     prev_market_price.market_uid = cur_market_price.market_uid AND
+     prev_market_price.timestamp < cur_market_price.timestamp - interval '1440 minutes' AND
+     prev_market_price.timestamp > cur_market_price.timestamp - interval '1441 minutes'
+ ORDER BY cur_market_price.timestamp DESC
+ LIMIT 20
+

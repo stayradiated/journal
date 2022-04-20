@@ -1,0 +1,115 @@
+Tuesday 03 Aug 2021
+===================
+
+=== NELSON =====================================================================
+
+Surprisingly good weather yesterday. I thought it was going to rain.
+
+> Morning showers, then becoming fine. Southwesterlies easing at night.
+> High: 14°c Low: 0°c
+> 7:03am/7:33am → 5:35pm/6:04pm
+
+=== SCHEDULE ===================================================================
+
+0530 out of bed
+0600 working on kc
+0800 life admin from zumo coffee house
+0930 washing clothes
+0940 working from YHA
+1200 subway for lunch by the river
+1230 working from the little dove cafe
+1300 meeting: rocks & scorecards
+
+=== TODO =======================================================================
+
+- [x] grocery shopping
+  - chickpeas, apples, dark chocolate digestives
+- [x] extend accomodation until Friday morning
+- [x] Take leave from work on Friday
+- [x] Wash & dry clothes. (Laundry is open from 9am.)
+  - [x] get 2x $2 coins
+  - [x] wash clothes
+  - [x] hang clothes out to dry
+- [x] send Jo a postcard ♥
+  - [x] email photo to nelson@wsprint.co.nz
+  - [x] visit Stationery Warehouse, print photo on thick card (4x6")
+  - [x] purchase envelope
+  - [x] write on card
+  - [x] take to post office and send to Jo
+- [ ] Replace cassette and chain on Brian
+  - [ ] Get Brian out of storage
+  - [ ] Visit The Bike Station (54 Vanguard St)
+  - [ ] Purchase new chain
+  - [ ] Replace cassette and chain with proper tools
+- [x] Prepare to travel to UK
+  - [x] reschedule flight to morning of September 15 (wednesday)
+  - [x] request a pre-flight covid test (The Doctors QuayMed)
+  - [x] get response
+    - $200 + consultation fee, that's a bit steep. I will contact the other 2
+      doctors.
+  - [ ] book tes tdate
+- [o] Book flights
+  - [x] Ferry: PIC → WLG
+  - [x] Flight: WLG → ROT
+  - [ ] Flight: ROT → CHC
+- [ ] Call family
+- [ ] Cancel Ancestry.com subscription, ugh
+- [ ] Check-in with chris goodall
+
+=== KC =========================================================================
+
+- deployed trades into production
+- updated kc-cli to query hasura api to list trades
+
+=== TRAVEL + CYCLING ===========================================================
+
+Take Friday off work, cycle to Havelock (70km, 400m steep hill)
+Stay at the Bluemoon Backpackers.
+
+Saturday, cycle to Picton.
+Sunday, catch ferry to Wellington.
+
+=== RUNN =======================================================================
+
+- [x] search phase 1: send more screenshots to ruth 
+- [ ] feature flags
+- [ ] continue work on filter engine
+
+=== RETRO NOTES ================================================================
+
+Async dev meetings, it would be good to have a way for anyone to raise
+questions instead of just Rowan. Maybe nobody asks questions except Rowan, but
+still worth trying.
+
+=== QUAYMED, PRE-FLIGHT COVID TEST ============================================
+
+Hi George
+
+In order to get a Covid19 test for travelling purposes, you must first speak to
+one of our nurses, so they can ask a few security questions and arrange an
+appointment for your swab that fits within the timeframe you provided. Once we
+receive your results from Labtests, we will contact you and write the ‘fit to
+tavel’ letter.
+
+The covid test for travelling purposes has a cost of $200 + consultation fee,
+which is determined by your residency status.
+
+Results take between 24-48 hours to come back form the lab.
+
+In order to arrange your appointment with one of our nurses, could you please
+provide:
+
+- Full name and D.O.B
+- New Zealand Phone Number
+- New Zealand Address
+- Ethnicity
+- Passport copy
+- Visa copy
+- Flying details
+
+Kind regards,
+
+Ashiana
+
+
+The Reception Team

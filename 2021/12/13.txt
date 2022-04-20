@@ -1,0 +1,24 @@
+Monday 13 Dec 2021
+==================
+
+TODO
+
+- [x] Manage funds
+- [x] Book accomodation for Wednesday
+
+WORK
+
+Super Search
+
+- [x] Review Ingo's comments on charts integration PR
+
+R&D
+
+- [ ] Post to slack when production is deployed
+
+PRs To Review
+
+- [ ] https://github.com/Runn-Fast/runn/pull/7424
+- [ ] https://github.com/Runn-Fast/runn/pull/7424
+- [ ] https://github.com/Runn-Fast/runn/pull/7399
+- [ ] https://github.com/Runn-Fast/runn/pull/7356

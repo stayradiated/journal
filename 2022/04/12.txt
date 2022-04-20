@@ -1,0 +1,22 @@
+Tuesday 12 Apr 2022
+===================
+
+TODO
+----
+
+- [ ] Watch latest update about Freelancers: https://threads.com/34422203466
+
+- [o] Threads
+  - [x] Is there a better way we can do asHasuraUser()? It's not obvious what it is for or when to use it.
+  - [x] How should we organize helper functions for interacting with the database? For example, where should getStandardRateCard live?
+  - [x] Is it better to pass a prisma instance around, or have a single instance that can be accessed globally?
+  - [ ] How should we provide session information to the helper functions?
+  - [ ] How should we implement action handlers -- as functions or as fastify routes -- how does this affect testing?
+  - [ ] Best practices around error handling with Prisma (particularly error codes)
+- [ ] Liam's suggestions:
+  - [x] (framework? )fastify  + ecosystem vs other
+  - [x] routing
+  - [x] validation approach
+  - [x] initial folder structure
+  - [x] prisma + hasura (asHasuraUser)
+  - [ ] testing approach

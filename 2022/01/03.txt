@@ -1,0 +1,41 @@
+Monday 03 Jan 2022
+==================
+
+2fA is tricky
+
+    const keyuri = require('otplib').authenticator.keyuri('george@czabania.com', 'Volatile', secret)
+    await require('qrcode').toDataURL(keyuri)
+
+
+SHAKSHOUKA
+
+- 1 red onion
+- 2 red peppers
+- 2 yellow peppers
+- 300g vine tomatoes
+- 2 red chillies
+- 2 cloves of garlic
+- 1 tablespoon olive oil
+- 1 teaspoon sea salt
+- 1 teaspoon ground cumin
+- 1 teaspoon ground coriander
+- 1½ teaspoons smoke paprika
+- 1x 400g tin of chopped tomatoes
+- 4 free range eggs
+- 1 tablespoon za'atar (optional)
+- freshly chopped coriander
+- buttered toast or pita breads
+
+---
+
+shopping list
+
+- 1 red onion
+- 2 red peppers
+- 2 yellow peppers
+- 300g vine tomatoes
+- 1x 400g tin of chopped tomatoes
+- 4 free range eggs
+- good loaf of bread
+
+options: add feta

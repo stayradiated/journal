@@ -1,0 +1,51 @@
+Tuesday 27 Jul 2021
+================================================================================
+                                          __                       
+                                         |  \                      
+         ______ ____   ______   ______  _| ▓▓_    ______   _______ 
+        |      \    \ |      \ /      \|   ▓▓ \  /      \ /       \
+        | ▓▓▓▓▓▓\▓▓▓▓\ \▓▓▓▓▓▓\  ▓▓▓▓▓▓\\▓▓▓▓▓▓ |  ▓▓▓▓▓▓\  ▓▓▓▓▓▓▓
+        | ▓▓ | ▓▓ | ▓▓/      ▓▓ ▓▓   \▓▓ | ▓▓ __| ▓▓    ▓▓\▓▓    \ 
+        | ▓▓ | ▓▓ | ▓▓  ▓▓▓▓▓▓▓ ▓▓       | ▓▓|  \ ▓▓▓▓▓▓▓▓_\▓▓▓▓▓▓\
+        | ▓▓ | ▓▓ | ▓▓\▓▓    ▓▓ ▓▓        \▓▓  ▓▓\▓▓     \       ▓▓
+         \▓▓  \▓▓  \▓▓ \▓▓▓▓▓▓▓\▓▓         \▓▓▓▓  \▓▓▓▓▓▓▓\▓▓▓▓▓▓▓ 
+                                                                   
+                                                           
+
+TODO:
+================================================================================
+
+- [x] Purchase 8 speed cassette → check-in with my ride
+- [ ] Plan out what I am doing this week
+- [ ] Reply to Mack
+
+RUNN:
+================================================================================
+
+- [x] standup with rowan
+- [x] donut with prisciall and dan
+- [ ] migrate hasura metadata to v3
+  - [x] create pr
+  - [ ] figure out why tests are breaking
+- [x] suggest kpi → measure page load time of app
+- [ ] feature flags!!!
+- [o] search phase 1
+  - [x] get feedback from ruth
+  - [ ] implement feedback
+  - [ ] change app font to Roboto everywhere
+- [o] search phase 2
+  - [x] started...
+  - [ ] implement synchronous filter engine
+
+TRAVEL PLAN
+================================================================================
+
+Westport Weather :
+https://www.metservice.com/towns-cities/locations/westport/extended
+
+Where to stay???
+
+- THURSDAY westport → berlins → murchison? (100km)
+- FRIDAY get to Lake Rotoiti?
+- SATURDAY
+- SUNDAY

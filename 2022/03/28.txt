@@ -1,0 +1,28 @@
+Monday 28 Mar 2022
+==================
+
+Still texting with Marika :)
+
+Need to contact the Greek consulate.
+Timezones aren't fun.
+https://time.is/Canberra
+10am there is 1am here
+3pm there 6am here
+
+TODO
+----
+
+- [o] deutsch practice
+  - [x] unit 7, pt 1
+  - [ ] brainscape flashcards
+- [ ] Organise room at a local hostel for this week
+- [ ] Give Kelsey a call, she how she is doing, ask if I can use her address to
+      get some items delivered.
+
+WORK
+----
+
+Learning & Development day
+
+- [x] Keen to get Handover Bot up & running
+- [x] PR to add `internal:` tag detection to benji bot

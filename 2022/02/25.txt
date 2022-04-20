@@ -1,0 +1,55 @@
+Friday 25 Feb 2022
+==================
+
+Sarah Kay & Phil Kaye - When Love Arrives
+https://www.youtube.com/watch?v=cPG6nJRJeWQ
+
+"Thank you for stopping by"
+
+- [x] listen to the cannon go off at noon
+- [x] purchase a postcard for LJ
+- [ ] pick up ingredients for tonight's shakshouka
+
+WORK
+
+- [x] Docker Image https://github.com/Runn-Fast/runn/pull/7818
+- [ ] Analytics https://github.com/Runn-Fast/runn/pull/7995
+- [ ] Pass (3/5) Flakey Tests https://github.com/Runn-Fast/runn/pull/8005
+
+EINKAUFSZETTEL
+==============
+
+- [x] red capsicum
+- [x] green capsicum
+- [x] 800g tomatoes
+- [ ] chillis
+- [x] yellow onions
+- [x] fresh coriander
+- [x] eggs
+- [x] Cream
+
+- [x] lemons/limes
+- [x] fresh mint
+- [x] Sparkling water
+- [ ] Wine
+
+SHAKSHOUKA
+- [x] 2x Red capsicum
+- [x] Fresh parsley
+- [x] 6x eggs
+- [x] Cream
+- [ ] 800g tomatoes
+- [ ] Chilli Peppers
+- [ ] Yellow/Brown/White onions
+
+TIRAMISU
+  - [x] 500g marscapone
+  - [x] Biscotti
+  - [x] thickened cream
+  - [ ] kakao powder
+  - [ ] Vanilla
+  - [ ] icing sugar
+  - [x] kakao powder
+  - [x] Vanilla
+  - [x] thickened cream
+  - [x] icing sugar

@@ -1,0 +1,37 @@
+Wednesday 29 Sep 2021
+=====================
+
+{ Dads Day }
+
+- Did dad get the cake alright?
+-   yes
+
+NEW ZEALAND ISLAND NAMES:
+
+New Ulster (North Island, Te Ika-a-Maui)
+New Munster (South Island, Te Wai Pounamu)
+New Leinster (Stewart Island, Rakiura)
+
+SHOPPING LIST:
+
+- [ ] Travel Size Hair Conditioner → maybe a solid block?
+- [ ] A Reasonable Amount of Washing Powder
+
+TODO:
+
+- [x] Fix utilization report calculations #2511
+- [x] Visit/work from the PLYMOUTH BOX
+- [x] Work from COFFEE #1 cafe (busy cafe)
+- [x] Write handover in threads.com
+- [ ] Make plans for the weekend, check what Jo is up to
+
+PLYMOUTH:
+
+- Go bouldering at The Climbing Hangar
+- Climb up Smeaton's Tower lighthouse (£5 entry fee)
+
+WORK:
+
+- Thinking about process
+  * How do we make suggestions about the product?
+    + Could post in #product channel?

@@ -1,0 +1,20 @@
+Wednesday 22 Sep 2021
+=====================
+
+Going sailing with Jo in the afterno
+
+TODO:
+
+- [x] virtual coffee with Shannon & Priscilla
+- [o] create notion doc on how to talk to customers
+  - [x] https://www.notion.so/runn/How-To-Customer-Support-39c1eab5edad4ff49e7ae33c4081b4eb
+  - [ ] read through all the macros on intercom
+- [x] watch design meeting: https://runnapp.slack.com/archives/C027WAFRX5K/p1632272720001100
+- [ ] write blog post about git rebase
+- [ ] start building search UI
+- [x] where can I keep a big suitcase full of gear safe for a few days in Plymouth?
+  - use the "radical storage" app
+
+TOMORROW:
+
+- [ ] better way of seeding data in Runn (how to generate tonnes of actuals)???

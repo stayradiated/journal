@@ -1,0 +1,37 @@
+Tuesday 28 Sep 2021
+===================
+
+Rain rain rain rain
+I guess it makes up from all the sunny days
+
+Don't forget to take a mask with you.
+
+TODO:
+
+- [x] Create a Runn tangram (sailboat?)
+- [x] Create diagram of queen victoria riding a bear
+- [x] Order cheesecake for dad's birthday
+- [x] Catch up with Rowan
+
+- [x] fix broken cypress tests on search pr (add-new-person-planner.spec.ts)
+- [ ] add screenshots to project notes pr
+- [x] call dad and wish him a happy birthday
+
+
+
+SHOPPING LIST:
+
+- [ ] washing powder (for handwashing)
+  - https://www.wilko.com/en-uk/surf-washing-powder-tropical-45-washes/p/0507757
+  - this is way way way too much washing powder
+  - i just want a little bit
+- [x] cheap tea towel
+  - https://www.wilko.com/en-uk/wilko-grey-white-terry-towel-large/p/0489066
+- [x] travel towel
+  - https://www.cotswoldoutdoor.com/p/lifeventure-soft-fibre-advance-extra-large-E7414093.html?colour=108
+- [x] groceries for dinner
+  - onion
+  - ginger
+  - garlic
+  - capsicum
+  - mushrooms

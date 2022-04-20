@@ -1,0 +1,62 @@
+Tuesday 30 Nov 2021
+===================
+
+Jacob ventured out into the freezing wet (+ sky sniffles of snow) to fetch
+börek for breakfast, what a legend.
+
+Quickly packing up my bags and saying goodbye to Alex + Jacob.
+If I miss the U8 or S3 train I won't make ito the Berlin Hbf in time.
+
+Taking the ICE train from Berlin to Frankfurt today.
+It's a 4 hour journey. Should arrive around 15:00.
+
+TODO
+----
+
+- [ ] Mittwoch: Purchase pack of FFP2 masks
+- [ ] Mittwoch: Purchase a figure 8 EU adapter
+      https://www.saturn.de/de/product/_speedlink-netzkabel-f%C3%BCr-ps4-2598582.html
+- [x] Book a haircut
+- [x] Let Nina know I'm in Frankfurt
+
+RUNN
+--------------------------------------------------------------------------------
+
+FOCUS
+-----
+
+> Saved Search PR
+
+- [x] Fix merge conflicts
+- [x] Investigate bug with filter values being removed when navigating pages
+- [ ] Ruth's Design Updates:
+      - [ ] Update Save Icon
+      - [ ] Change Save Icon text colour to `shadow`
+      - [ ] When hovering over Save button, all filter elements should turn blue
+      - [ ] When Save popup is active, all filter elements should turn blue
+      - [ ] Add 10px margin-left on dropdown
+      - [ ] Dropdown arrow should be centered on filter button
+      - [ ] Tweak padding on filter component (0 8px)
+      - [ ] Adjust hover area on "Close filter" button
+
+NEXT 
+----
+
+- [x] Read/Reply on Q1/Q2 Major Features Thread
+      https://threads.com/34411919923
+
+- [x] Read/Reply Discuss Small Features (async roadmap meeting)
+      https://threads.com/34412151089
+
+- [ ] Read/Reply Rowan's PR on Hasura Blog Post
+      https://github.com/Runn-Fast/blog/pull/1
+
+- [ ] Understand the issue with Google SSO that Ingo & Rowan are fixing
+
+
+HORSE ROGERS
+--------------------------------------------------------------------------------
+
+Create a Horse Rogers meme, upload it to the internet, convert the URL to
+binary and send Jacob multiple Nano transactions  -- each transaction encoding
+one byte of the URL (example: 1.0101101).

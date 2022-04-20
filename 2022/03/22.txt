@@ -1,0 +1,70 @@
+Tuesday 22 Mar 2022
+===================
+
+My room in Šibernik has a beautiful view of the old town and river.
+
+Looking forward to Daylight Savings.
+The sun rises here at 06:00 in the morning, about the same time I wake up.
+I like getting up before the crack of dawn, but I don't like waking up before 6am.
+
+TODO
+----
+
+- [x] Look into applying for a DNV
+- [x] Deutsch practice
+- [ ] Afternoon run
+- [/] HUMMUS (been really missing it) → NOT HERE EITHER :(
+- [ ] Souvenir shop
+
+WORK
+----
+
+- [x] Share isMissingData branch with team
+- [x] Reply to Priscill about project_roles/project_rates
+- PRs to Review
+  * [x] fix: Auto-reload Hasura metadata on schema changes #8198 
+    + https://github.com/Runn-Fast/runn/pull/8198
+  * [x] chore: Encapsulate DB/Hasura interaction best practices #8200 
+    + https://github.com/Runn-Fast/runn/pull/8200
+  + [ ] fix(security): Lower JWT and session expiry #8143 
+    + Investigate websocket issue that Ingo is talking about
+    + https://github.com/Runn-Fast/runn/pull/8143
+
+VISA
+----
+
+https://www.atlys.com/country/greece/greece-digital-nomad-visa#proof-of-employment
+
+The Greek embassy in Croatia is in Zagreb.
+But do I need to go there in person?
+
+Can I e-mail the Consulate of Greece in New Zealand?
+Mr George Neonakis
+https://www.embassypages.com/greece-consulate-wellington-newzealand
+https://www.greek.org.nz/news/official-appointment-of-mr-georgios-neonakis-as-the-honorary-consul-of-greece-in-wellington-new-zealand
+Also has experience in the IT industry?
+https://www.linkedin.com/in/george-neonakis-bb924a28?originalSubdomain=nz
+
+> Submit Your Digital Nomad Visa Application
+> 
+> The next step is to submit your visa application and required documents at
+> your local Greece Embassy or Consulate.
+> 
+> There are 3 ways of doing this:
+> 
+> - In-person,
+> - Via email,
+> - Or via mail (post) to the registered address.
+> 
+> When applying, be sure to enter the correct details of the Greece Embassy or
+> Consulate you plan to apply at.
+> 
+> After submitting your documents, the Embassy authorities will evaluate your
+> application within 10 days. Once your application is approved, your new Greece
+> Digital Nomad Visa will be issued by the Greek Ministry of Migration and
+> Asylum.
+
+
+Is it OK if the AirBnB cat runs out the front door?
+
+Time to start wearing shorts again

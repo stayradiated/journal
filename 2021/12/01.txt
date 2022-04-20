@@ -1,0 +1,55 @@
+Wednesday 01 Dec 2021
+
+TODO
+----
+
+- [ ] Purchase Vitamin D tablets
+- [ ] Purchase pack of FFP2 masks
+- [x] 1100 Haircut at the Dirty Hairy's
+- [x] Purchase a figure 8 EU adapter
+      https://www.saturn.de/de/product/_speedlink-netzkabel-f%C3%BCr-ps4-2598582.html
+- [x] Purchase new set of headphones?
+
+- [x] Get dinner from "Aroma" -- very popular doner shop outside
+- [x] Visit Bethmann Park
+- [x] Walk along the Main river
+
+- [ ] Donnerstag: Visit Zeit fur Bröt
+- [ ] Freitag: Take day off work
+- [ ] What to do on the weekend?
+
+RUNN
+--------------------------------------------------------------------------------
+
+FOCUS
+-----
+
+> Saved Search PR
+
+- [x] Rip out redux-query-sync and replace it with a one-shot redux update
+- [x] Ruth's Design Updates:
+      - [x] Update Save Icon
+      - [x] Change Save Icon text colour to `shadow`
+      - [x] When hovering over Save button, all filter elements should turn blue
+      - [x] When Save popup is active, all filter elements should turn blue
+      - [x] Add 10px margin-left on dropdown
+      - [x] Dropdown arrow should be centered on filter button
+      - [x] Tweak padding on filter component (0 8px)
+      - [x] Adjust hover area on "Close filter" button
+      - [ ] Max of 5 items in the "My Saved" section
+      - [ ] Link to Show All
+      - [ ] Max of 15 saved filters
+
+NEXT
+----
+
+- [ ] Try out 15Five
+- [x] Watch Design Meeting
+- [ ] PoC for loading more data on the planner
+
+sqlite3
+-------
+
+.headers on
+.mode column
+

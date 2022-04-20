@@ -1,0 +1,9 @@
+Wednesday 01 Sep 2021
+=====================
+
+Depositing funds into Independent Reserve
+
+Exchange Rate: 1 NZD = 0.962857 AUD
+400 NZD - 1.87 AUD - 0.57 AUD = 382.77 AUD
+Total Fee = (400 * 0.962857) - 382.77 = $2.37
+Total Fee % = 2.37 / 400 = 0.59%

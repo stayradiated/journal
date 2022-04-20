@@ -1,0 +1,124 @@
+Sunday 17 Apr 2022
+==================
+
+Today is day 1 of my Basic of Sailing course!
+
+Starting with theory taught by Miša.
+Plus a couple hours on the boat, but not detaching from the Mooring lines.
+
+It's very windy today, strong 25 knot winds.
+Trying to fold a Jib Sail is a real challenge, even with 6 people!
+
+Points of Sail
+--------------
+
+With True Wind from 0° 
+
+- 0°    No Go Zone
+- 45°   Close Hauled
+- 90°   Reaching
+- 135°  Broad Reaching
+- 180°  Run
+
+- Bear Away: moving away from the wind (i.e. Reaching to Broad Reaching)
+- Luff Up: moving towards the wind (i.e. Reaching to Close Hauled)
+
+- Tack: turning across the wind
+- Gybe: turning opposite the wind
+
+Sails
+-----
+
+- Sloop
+- Bermuda Rig
+- Main & Head Sail
+- Headsail
+  * Hanked On
+  * Loose Luffed
+  * Roller Furled
+    + https://en.wikipedia.org/wiki/Roller_furling
+
+Standing Rigging
+----------------
+
+https://en.wikipedia.org/wiki/Standing_rigging
+
+- Forestay
+- Backstay
+- Shrouds (used with Spreaders for extra strength)
+
+Boat
+----
+
+- Bow: front of the boat
+- Stern: rear of the boat
+
+- Port: left side of the boat
+- Starboard: right side of the boat
+
+- Pulpit: solid rail at bow
+- Pushpit: solid rail at stern
+- Lifeline: wire line connecting Pulpit and Pushpit
+  * supported by solid Stanchions
+- Toe Rail: solid board around edge of boat to stop gear falling out
+
+- Helm: Steering Wheel (turns boat in same direction)
+- Tiller: Stick that controls Rudder (turns boat in opposite direction)
+
+Parts of the Sail
+-----------------
+
+- Points:
+  * Head (top of the sail)
+  * Tack (corner attacking the wind)
+  * Clew (opposite to Tack)
+- Edges:
+  * Luff  (between Head and Tack)
+  * Leach (between Head and Clew)
+  * Foot  (between Tack and Clew)
+- Telltales
+- Batterns: solid material reinforcing Main Sail 
+- Cringle (https://en.wikipedia.org/wiki/Cringle)
+  * A cringle is an eye through which to pass a rope. 
+
+Reefing Main Sail
+-----------------
+
+- 1st/2nd/3rd Reef Cringles
+  * Each is made up of a Tack and Clew side Cringle
+- Rams Horn hooks hold the Tack side Cringle
+- Lines running to the Cockpit keep Clew side Cringle in place
+
+Types of Head Sails
+-------------------
+
+Because this boat has a Hanked On Headsail, to reduce the Sail Area we need to
+replace each with a different size sail.
+
+(If it was a Roller Furled head sail, we could just roll up the Sail a bit).
+
+- Genoa: largest sail, big enough to overlap with Main Sail, lighter material
+- Jib / Flock / Working Jib: medium sail
+- Storm Jib: smallest sail, very tough material
+
+Essential Knots
+---------------
+
+- Bowline
+  * (https://en.wikipedia.org/wiki/Bowline)
+  * attaching Jib Halyards and Jib Sheets to Jib
+  * "the virtues of being both easy to tie and untie"
+- Clove Hitch
+  * (https://en.wikipedia.org/wiki/Clove_hitch)
+  * attaching Fenders to Lifeline
+- Reef Knot
+  * (https://en.wikipedia.org/wiki/Reef_knot)
+  * tying down Folded Sail and Sail Cover
+- Sheet Knot
+  * (https://en.wikipedia.org/wiki/Sheet_bend)
+  * joining two lines of different diameter or rigidity.
+
+Celestial Naviation
+-------------------
+
+https://www.southernfriedscience.com/sailing-by-starlight-the-lost-art-of-celestial-navigation/

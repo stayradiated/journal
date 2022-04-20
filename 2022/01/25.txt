@@ -1,0 +1,42 @@
+Tuesday 25 Jan 2022
+===================
+
+Dasset has finally made it possible to make automated deposits. How good!
+
+LJ is catching a train back to Barcelona this afternoon.
+Seeing her off at the Atocha Renfe station.
+
+Visiting Zero Point Espresso.
+Pretty good chai latte and banana cake.
+
+Need to go for a run this afternoon.
+
+Chopin - Nocturne op.9 No.2
+https://www.youtube.com/watch?v=9E6b3swbnWg
+
+Bill Bailey on Differences Between UK vs Europe
+https://www.youtube.com/watch?v=AAwcdnnvyQk
+  
+WORK
+----
+
+- main
+  - [x] sortByNumber (app/javascript/src/ProjectDashboard/Body/VarianceReport/VarianceChart.tsx)
+  - [ ] type Report (app/javascript/src/reports/ReportContainer.tsx)
+  - [x] PersonType (app/javascript/src/reports/PeopleReport/PeopleReportData.tsx)
+  - [x] PlannerRightColumn (app/javascript/src/PeoplePlanner/PersonProjectRow.tsx)
+  - [x] No Phase ID (app/javascript/src/ProjectDashboard/Body/ProjectPhases/PhasesTable.tsx)
+  - [x] TEMP_MILESTONE_ID app/javascript/src/ProjectPlanner/ProjectOverview/ProjectMilestones.tsx
+  - [x] TEMP_ASSIGNMENT_ID app/javascript/src/common/Pill/AssignmentActionHelpers.ts
+  - [x] TEMP_TIMEOFF_ID app/javascript/src/common/Pill/TimeOffActionPill.tsx
+  - [x] TEMP_ID app/javascript/src/common/PillActions/PillActions.tsx
+  - [x] TEMP_ID app/javascript/src/common/timespan/TimelineHighlight.tsx
+  - [x] relays.*.decode: (happ/javascript/src/helpers/relayids.ts)
+- epic
+  - [ ] build config
+  - [ ] Database migrations
+  - [ ] Hasura schema 
+  - [ ] global_id → id
+  - [ ] db_id → id, string → number
+  - [ ] getDataID
+  - [ ] Jest test files

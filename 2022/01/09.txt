@@ -1,0 +1,81 @@
+Sunday 09 Jan 2022
+==================
+
+SELECT (REGEXP_MATCHES(url, '^https:\/\/[\w.\-]+\.\w+\/'))[1] AS domain,
+       round(count(*)/24.0, 2) AS requests_per_hour
+FROM request
+WHERE request_at >= NOW() - INTERVAL '24 hours'
+GROUP BY domain
+ORDER BY requests_per_hour DESC
+
++-------------------------------------+-------------------+
+| domain                              | requests_per_hour |
+|-------------------------------------+-------------------|
+| https://api.independentreserve.com/ | 360.00            |
+| https://api.binance.us/             | 240.00            |
+| https://api.kraken.com/             | 120.00            |
+| https://api.dassetx.com/            | 120.00            |
+| https://r.easycrypto.nz/            | 120.00            |
+| https://kiwi-coin.com/              | 60.00             |
+| https://openexchangerates.org/      | 52.04             | <-- too high
++-------------------------------------+-------------------+
+
+
+---
+
+You Might Find Yours
+Tom Rosenthal
+
+When was the last time you wandered down a road, just for the sake of it?
+And have you ever been to a place, just because it was a place, and you have two good feet?
+Some people will say "you need a plan".
+But there is nothing wrong with not knowing where you are going.
+Lots of runners running about these days, running past everything.
+Go on any train, bus, plane and you will see people who have stopped looking out of windows.
+Don't be one of them.
+
+You may say "I've been done these streets before" and that's okay.
+But possibility is never gone.
+Aimless they say is without aim, but I have never seen purpose stop the rain.
+On any street corner you may find the light of your day, the soul of your hour, the dark of your minute, the love of your life.
+Or maybe not. But you may find something you haven't already got.
+Of course not all of the days can be magic days, that stun and amaze.
+But possible you may find a lonely smile that sings and cures.
+Or even better, you might find yours.
+
+The world that is in your pocket is not the world.
+The world is the one that lies before your feet.
+In the people that we meet.
+The smells, the sounds, the sights, the skies.
+Tell the world that you are ready and it replies.
+You see, I'm not sure what the secret to happiness is.
+But I'm pretty sure it starts when you go outside.
+
+---
+
+ich kann
+du kannst
+er/sie/es kann
+ihr könnt
+wir können
+Sie können
+
+ich will
+du willst
+er/sie/es will
+ihr wollt
+wir wollen
+Sie wollen
+
+
+---
+
+- [ ] Ordering in a German Restaurant
+      https://www.youtube.com/watch?v=kPYJF_kwLIs&list=PLYzp2xhTw9W1Z9RvnCoveC0W7pkwUMHXy&index=29
+- [ ] 10 Most Used Irregular German Verbs
+      https://www.youtube.com/watch?v=3EsP9aoRnDM&list=RDCMUCZwegPHTG4gvnR0WLzaq5OQ&start_radio=1&t=0
+- [ ] The ACCUSATIVE
+      https://www.youtube.com/watch?v=FuXxNSj_y5w&t=106s
+- [ ] Common Verbs with the Accusative
+      https://www.youtube.com/watch?v=IaySny0-VtI&list=PLYzp2xhTw9W1Xfjp8_0oxsULeUw5g80TH&index=7
+

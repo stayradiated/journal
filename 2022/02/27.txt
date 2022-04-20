@@ -1,0 +1,84 @@
+Sunday 27 Feb 2022
+==================
+
+Snowflakes are drifitng down from the skies this morning!
+I went out for a forest walk, short pone call with parents, making a coffee.
+Hands freezing on the walk back.
+
+March 7th → Sandalentag
+March 13th → James birthday
+
+I have bread.
+I now have toast. French toast.
+Noice.
+
+Someone once told me about a drink called the White Pearl.
+I'm pretty sure it was Annabel from Picton.
+It's just hot water and milk, but it's really good.
+Anyway, I really like it people invent names for things. 
+I should do that.
+
+Einkaufszettle
+==============
+
+- [x] Toilettenpapier
+- [x] Eggs
+- [x] Yoghurt
+- [x] Blueberries
+- [/] Cinnamon
+- [ ] FFP2 Face Masks
+
+Kimchi Fried Rice
+=================
+
+https://damndelicious.net/2019/03/21/kimchi-fried-rice/
+
+- [ ] Rice
+- [ ] Kimchi
+- [ ] Gochujang (Korean red pepper paste)
+- [ ] Soy sauce
+- [ ] Shiitake Mushrooms
+- [ ] Onion, diced
+- [ ] Freshly grated ginger
+- [ ] Fried Eggs
+
+VIM
+===
+
+Replace unix timestamp with formatted date:
+
+:%s/\d\{10\}/\=strftime('%c', str2nr(submatch(0)))/g
+
+YOUTUBE
+=======
+
+Denice Frohman - Accents
+https://www.youtube.com/watch?v=qtOXiNx4jgQ
+
+Beatbox brilliance | Tom Thum | TEDxSydney
+https://www.youtube.com/watch?v=GNZBSZD16cY
+
+Is This Country Song Racist? - Key & Peele
+https://www.youtube.com/watch?v=TLnUJzueBOQ
+
+Why Would You Mess with the Batmans? - Key & Peele
+https://www.youtube.com/watch?v=OZBaIrMOoBg
+
+
+In TypeScript, how to get the keys of an object type whose values are of a given type?
+======================================================================================
+
+https://stackoverflow.com/questions/54520676/in-typescript-how-to-get-the-keys-of-an-object-type-whose-values-are-of-a-given
+
+   type KeysMatching<T, V> = {[K in keyof T]-?: T[K] extends V ? K : never}[keyof T];
+
+   type Thing = {
+     a: string
+     b: number
+     c: boolean
+   }
+
+   KeysMatching<Thing, string> → 'a'
+   KeysMatching<Thing, string | number> → 'a' | 'b'
+
+   Pick<Thing, KeysMatching<Thing, boolean>> → { c: boolean }

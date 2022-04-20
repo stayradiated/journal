@@ -1,0 +1,14 @@
+Tuesday 18 Jan 2022
+===================
+
+WORK
+
+- [x] Meeting with Rowan → runn future stack
+- [ ] Relay v13 upgrade
+- [ ] Add "x" to the charts panel
+- [ ] 
+- [ ] Supporting OSS: https://runnapp.slack.com/archives/C7PJN2GER/p1642124942011400
+- [ ] https://threads.com/34415425062
+- [ ] Shannon: Hasura Doc
+
+

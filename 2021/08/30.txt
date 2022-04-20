@@ -1,0 +1,87 @@
+Monday 30 Aug 2021
+==================
+
+todo.
+- [x] book covid test to leave nz
+  - [x] contact ranolf medical centre
+  - [x] print out form
+  - [ ] complete form
+  - [ ] scan form + passport
+  - [ ] reply to sam
+  - [ ] wait for confirmation
+- [x] request refund from broken river :(
+- [ ] cancel dentist appt at grafton
+- [x] fix parents landline
+  - [x] call 2degrees about home phone plus
+  - [x] configure call divert
+- [x] configure plex to schedule operations through the day instead of at night
+
+runn.
+- discussing filter engine implementation with rowan, some great feedback about
+  making sure the code is readable/maintainable by the whole team.
+- [ ] make changes https://github.com/Runn-Fast/runn/pull/6655#issuecomment-908002873
+- andria reviewed my blog post!
+  * you can read the post at https://github.com/Runn-Fast/runn-api-tutorial/tree/main/toggl_timesheets
+  * feedback:
+    + [x] In the section `Running the syncing script`, you need a "we" after
+          "Now can" in the first sentence.
+    + [x] In the section `Looking up a person or project by their external ID`,
+          in `const person = findExternalId(people, externalId);` the function
+          should be `findItemByReference`.
+    + [x] In the section `Updating Actuals in Runn`, you need a , after date in
+          the function postActualTimeToRunn().
+    + [x] In the function postActualTimeToRunn() , you don't have to re-assign
+          the values of options again since you already do it when you call the
+          function main(). The function then becomes: 
+    
+            const response = await runnAPI.post('v0/actuals', {json: options})
+            return response.body
+    
+    + The write up was pretty easy to understand and it worked after the
+    postActualTimeToRunn was fixed.
+
+
+london.
+
+W  T  F  S  S
+15 16 17 18 19
+1  2  3  4  ..
+
+4 nights.
+
+Green Rooms
+No availability.
+
+Clink78.
+No availability.
+
+Wombats.
+Generator.
+
+
+London Court Hotel (4.3 ★)
+£346 for 4 nights → $679
+https://londonct.dbm.guestline.net/availability?hotel=LONDONCT&arrival=2021-09-15&departure=2021-09-19&adults=2&children=0
+
+- good value for money
+- stairs, no elevator
+- unlikely to get a window, must use a/c
+
+Point.A Kensington Olympia
+£333.90 for 4 nights →  $654.37
+
+Henley House Hotel London (4.4 ★)
+Double Room $793.79 NZD
+
+- biggest complaint is the about the complementary breakfast
+
+Caring Hotel
+Classic Double Room
+£420 → $824 NZD
+https://gcg.dbm.guestline.net/availability?hotel=CARING&arrival=2021-09-15&departure=2021-09-19&adults=1&children=0
+
+The Jade (3.4 ★)
+£366 → $719 NZD
+
+hub by Premier Inn London West Brompton hotel hub  (4.5 ★)
+$461.79

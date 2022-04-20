@@ -1,0 +1,45 @@
+Tuesday 18 Aug 2021
+===================
+
+todo.
+- [ ] find a new home for posessions I don't need anymore
+- [x] get hard copy of vaccine confirmation
+  - [x] print out document on A5
+  - [x] laminate document
+- [x] fortnightly investments.
+- [x] order a 1TB m.2 SSD
+
+schedule.
+1400: standup
+1430: standup a new EU server with the team
+
+brain.
+My head aches this morning.
+I ate too much peanut butter yesterday.
+I don't think it's related.
+
+wifi grumbles.
+I hate it when the wifi doesn't work.
+It wouldn't be so bad if I could debug where the issue is.
+Is it my laptop? Software? Hardware? Is it the router? Is it something on the
+network?
+
+writing.
+How do people write blog posts?
+It's so difficult.
+Big respect for all you bloggers out there.
+
+benji.
+needs more disk space.
+external SSDs are a pain.
+m.2 is the way to go.
+https://www.computerlounge.co.nz/shop/components/storage/solid-state-drives/samsung-970-evo-plus-1tb-m2-nvme-ssd
+
+dassetx.
+why does their API have to be so flakey?
+can't cancel an old order unless a new order was created after it.
+very silly.
+
+independent reserve.
+finally got an account verified.
+going to try using Wise to deposit funds, saves a $15 "processing fee".

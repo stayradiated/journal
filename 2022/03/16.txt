@@ -1,0 +1,122 @@
+Wednesday 16 Mar 2022
+=====================
+
+173467321476C32789777643T732V73117888732476789764376Lock
+https://www.youtube.com/watch?v=rERApU26PcA
+
+TODO
+----
+
+- [x] top up telemach credit → difficult, but still better than vodafone
+- [x] deutsch practice
+- [ ] yoga
+- [x] sketching
+- [x] play guitar
+- [x] update wealth.txt
+- [ ] write review for zagreb airbnb
+- [/] go for a dip?
+- [x] einkaufszettel
+      - [x] toilettenpapier
+      - [x] brokkoli
+      - [x] karotten
+      - [x] frozen beans
+
+
+SALI
+----
+
+- Maritimo: caffe and bar, friendly waitress, popular with the locals
+- Tommy: local supermarket, well stocked, but lacking in the cheese department
+
+Planning to visit the local restaurant for dinner.
+There are only 2 open at the moment, Garoful and Trapula.
+
+FOOD
+----
+
+Lunch: scrambled eggs on toast, with a slice of cheddar and cherry tomatoes.
+       + plain yoghurt with banana
+
+Dinner: garlic, onion, soy sauce, rice, mushroom, brocolli, carrot, beans
+
+DOCKER
+------
+
+I have finally finished updating the apps in my stayradiated/desktop image.
+It would be handy to have a way to automatically do this for me.
+
+- Find latest version of each app
+- Run container-diff find out what changed, update exports
+- Build each app and alert on which ones have failed
+
+PHONE
+-----
+
+Might be time for a new phone soon.
+
+My iPhone SE (2016) has several issues:
+
+- very short battery life
+- keep maxing out storage (32GB)
+- can be a bit slow sometimes
+- mute switch can sometimes trigger accidentally
+
+New issue: volume always return to 0%, increasing volume is futile
+
+
+CROATIAN
+--------
+
+Can I have a coffee with milk
+"Mogu li dobiti kavu s mlijekom"
+
+DEFAULT NOW
+___________
+
+https://www.nateliason.com/medley/305
+
+Should read 4000 Weeks
+
+> Leisure in this sense is distinct from what many of us do during downtime
+> from work. We've lost touch with true leisure, and replaced it with escapism.
+> A good way to demarcate between the two is whether you would put it in your
+> calendar. A long walk with a friend is something you would schedule and look
+> forward to. 20 minutes of doomscrolling on Twitter is unlikely to make it in
+> your weekly planner. 
+
+"...the crucial point isn't that it's wrong to spend your time relaxing... it's
+that the distracted person isn't really choosing at all. Their attention has
+been commandeered by forces that don't have their highest interests at heart."
+
+WORK
+
+- [x] virtual coffee with Rowan & Tim
+- [x] weekly catch up with Rowan
+      - [ ] share notes on ORM research with team
+      - [ ] fork node branch to use Prisma
+      - [ ] schedule peer programming session with Chloe
+      - [ ] GraphQL white-listing → comment about "just do it" approach
+      - [ ] Separate pipeline for prod from review (better security, empower devs)
+
+. WRITE ABOUT ORMs .
+
+- [ ] Try out Prisma
+      - [ ] change_column :my_table, :my_column, :bigint
+
+- [ ] Docker & node_modules https://github.com/Runn-Fast/runn/pull/8121
+- [ ] Pull Request Template https://github.com/Runn-Fast/runn/pull/8129
+- [x] [heroku-rebuild-review-app] → let team know about this feature
+- [ ] https://github.com/Runn-Fast/runn/pull/8143
+- [ ] GraphQL DoS https://github.com/Runn-Fast/runn/issues/8046
+
+GIFS
+----
+
+Monkey on computer, oh no
+https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif
+
+Moss throws monitor
+https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif
+
+Pingu
+https://media.giphy.com/media/OprPC1KQJvUME/giphy.gif

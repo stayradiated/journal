@@ -1,0 +1,21 @@
+Saturday 25 Dec 2021
+====================
+
+https://topdocumentaryfilms.com/hold-fast/
+@19:37
+
+2022 - Sail solo
+
+Sailing Courses
+https://www.sunsail.co.uk/destinations/uk/port-solent/sailing-school
+
+VOLATILE
+
+designs 
+
+- [ ] List of Trades
+- [ ] Creating a new DCA Order
+  - [ ] UI for configuring price
+- [ ] UI for adding API Keys
+
+- Distraction: displaying API errors in app

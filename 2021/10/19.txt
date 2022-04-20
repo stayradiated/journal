@@ -1,0 +1,78 @@
+Tuesday 19 Oct 2021
+===================
+
+Forecast is for 30mm of rain today.
+That seems like a lot.
+
+NEW RULE FOR OCTOBER
+No caffeine after midday, it messes with my sleep too much
+Have as much tea & coffee in the morning, but after 12:00 it's caffeine-free
+drinks only.
+
+
+
+FRIDAY
+------
+
+Wild Camping in the Dartmoor on Friday night
+
+> How can I wild camp?
+> --------------------
+> 
+> You can backpack camp on some parts of Dartmoor. This is by carrying your own
+> equipment as part of your walk and staying one or two nights max. You can
+> only do this in certain areas.
+>
+> Leave no trace - don't light fires and remember to take all your rubbish home
+> with you.
+
+How am I getting there?
+Should be able to catch a bus, just depends on where I want to start walking from.
+
+IMPORTANT: How can I get more water?
+Should I buy a gas stove
+
+Camping Map
+https://www.dartmoor.gov.uk/about-us/about-us-maps/camping-map
+
+Firing Range
+https://www.gov.uk/government/publications/dartmoor-firing-programme
+ 
+TODO
+----
+
+- [x] Morning Run
+- [ ] Take your damp clothes out of your bag and let them dry properly
+- [ ] Move from one AirBnB to another. There is a 3 hour gap where I will have
+  to look after my own stuff. It will be raining, so I should find somewhere to
+  hang about indoors. The Park Lodge cafe is nearby, I will try there.
+  - Park Lodge Cafe is not open today :(
+  - Walking to the other nearest cafe, Mrs Browns. They do sandwhiches, I think
+    I'll get one for lunch. They also have a fantastic selection of slices, but
+    I'm not eating any sweet treats for the rest of October.
+- [ ] Deep Storage
+  - Pick up Tent, Sleeping Bag & Camping Mat
+  - Drop Off X, Y & Z
+  - Maybe wait until Friday to do this? Or at least wait until Friday to pick
+    up my tent, maybe drop stuff off (could pick up the EXIT game?)
+  
+WORK
+----
+
+- [x] Playground: learn how Relay Hooks work
+- [x] Learning: What is React Suspense?
+- [x] PR: Add rule to prefer arrow functions
+  - https://github.com/Runn-Fast/runn/pull/6638
+  - 5 Failing Cypress Tests
+    ✓ project-phases.spec.ts
+    ✖ archive-person.spec.ts
+    ✖ archive-project.spec.ts
+    ✖ basic_functionality.spec.ts
+    ✖ project-planner-assignments.spec.ts
+- [ ] PR: Error Handling in `hasura_assignment_controller.rb`
+  - https://github.com/Runn-Fast/runn/pull/6977#issuecomment-946123100
+- [x] Merge PR: Undefined contract end dates (https://github.com/Runn-Fast/runn/pull/6867)
+- [ ] Hasura Livestream
+  - [ ] Watch previous videos at https://www.youtube.com/playlist?list=PLTRTpHrUcSB-EmDFWEtslMXJG4NFqrriw
+  - [ ] Update Twitter profile
+  - [ ] Send headshot to Vishwa for promotional material

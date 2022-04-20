@@ -1,0 +1,23 @@
+Friday 27 Aug 2021
+==================
+
+morning 5km run around the golf course.
+
+trying to work around stupid dasset api errors.
+i think we can just ignore the "failed to cancel order" error?
+important thing is to keep track of the available balance.
+
+i worked 4 hours on sunday so i am finishing work early today.
+
+todo.
+- [ ] scan pages from 2020 notebook
+- [ ] Book airbnb for london (where?)
+- [ ] Look into the coursera deutsch course
+- [x] Remind mum about madbutcher online order for delivery tomorrow
+
+goals.
+- [x] Go for a 5km run every day. 
+
+kc.
+- [x] Finish implementing open order sync (need to upsert rows in db)
+- [ ] Figure out how to handle "stuck" orders on dasset

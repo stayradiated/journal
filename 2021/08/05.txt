@@ -1,0 +1,102 @@
+Thursday 05 Aug 2021
+====================
+
+-- Nelson ----------------------------------------------------------------------
+
+> Periods of rain, possibly heavy late evening. Northeasterlies.
+> High: 13°c Low: 9°c
+> 7:01am/7:31am → 5:37pm/6:06pm
+
+Hope those Northeasterlies change tomorrow, I don't want a headwind on the
+bike!
+
+Havelock is 74km from here (4h 10min).
+- 0,12km: flat, following Tasman Bay 
+- 12,15km: gentle Annie saddle
+- 15,25km: up over the Whangamoa saddle (357m)
+- 25,35km: downhill!!!
+- 35,39km: gentle uphill
+- 39,41km: up over the Rai saddle (247m)
+- 41,47km: downhill to Rai Valley
+- Stop at the Rai Valley Brick Oven Cafe (⅔ of the way there).
+- 47,74km: Rolling flats until Havelock
+- Stay at the Bluemoon Lodge in Havelock.
+
+Saturday: get off SH6 and get to Picton!
+Picton: stay at the The Villa
+https://www.thevilla.nz/backpackers-accommodation-in-picton/#Book-Now
+
+Update: weather is looking pretty awful for Friday.
+
+OPTION 1: BUS ON FRIDAY
+  Could catch the Intercity bus to Picton tomorrow morning?
+  Pros: Can enjoy sunny Saturday in Picton.
+
+OPTION 2: CYCLE ON SATURDAY
+  Pros: get to do some more cycling.
+
+OPTION 3: BUS ON SUNDAY
+  Or stay in Nelson for 2 more nights and catch bus on Sunday morning?
+    Then go directly to Ferry at 1:30pm.
+  Pros: Can enjoy sunny Saturday in Nelson.
+
+
+--- SCHEDULE -------------------------------------------------------------------
+
+0630 out of bed
+0820 working from zumo coffee house
+1120 meeting mack for a coffee
+1250 lunch
+1720 beers & curry at the free-house with mack & his mates
+
+--- RUNN -----------------------------------------------------------------------
+
+george/search-phase-1:
+  - [x] stop using React.FC to type functions
+  - [x] fix colour of toggle switch
+  - [x] get approved by team
+
+george/search-phase-2:
+ - [x] refactor filter-engine to support projects AND people
+ - [x] rebase main
+ - [ ] refactor InputFilter
+
+george/yarn-workspaces:
+  - [x] get approved by team
+
+george/woah-no-shadows:
+  - [x] remove shadow
+
+--- TODO -----------------------------------------------------------------------
+
+- [ ] Give James a call. What should we do?
+- [ ] Catch up with Chris Goodall
+- [ ] Find time to catch up with Jacob
+- [ ] Book flights
+  - [ ] 2x Flights ROT → CHC
+- [ ] Cancel Ancestry.com subscription, ugh
+- [ ] Start learning Haskell:
+    - https://exercism.io/tracks/haskell
+    - https://exercism.io/my/solutions/f1c8609627fd437f92180cf1fb13af18
+- [o] charge bike lights
+  - [x] headlight
+  - [ ] rear light
+  - [ ] helmet light
+
+--- AUDIO ISSUES----------------------------------------------------------------
+
+- why does chrome work when I test the mic, but not let playback any sound?
+
+--- SNOW -----------------------------------------------------------------------
+
+... broken river next weekend ...
+
+What do I do with James?
+
+- Whakapapa Ski Field
+- Nelson → Abel Tasman?
+
+--- NEXT MONTH -----------------------------------------------------------------
+
+- [ ] Fly to the UK (September 15th)
+  - [ ] Organize a place to stay when I arrive in the UK (probably Plymouth?)

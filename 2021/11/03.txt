@@ -1,0 +1,99 @@
+Wednesday 03 Nov 2021
+=====================
+
+=== FOCUS ======================================================================
+
+Prepping for Hasura live stream next week
+
+- [x] Send email to Vishwa, confirm the agenda of the meeting will be
+- [x] Update my LinkedIn profile (you know, show that I actually work at Runn)
+  - [ ] Flesh out LinkedIn profle?
+- [x] Read Notion documents on Runn positioning & messaging
+- [ ] Continue polishing up blog post
+
+
+
+=== STANDUP ====================================================================
+
+Catching up with Nicole this morning. Prepping for the livestream with Hasura
+next week.
+
+I've been reading through the Positioning and Messaging docs in Notion, shout
+out to Shannon for putting that all together! I've found it very useful to get
+better at being able to explain to people what Runn is.
+
+- https://www.notion.so/runn/Messaging-b52a9859d0d741cebfa725f1f4e1c38a
+- https://www.notion.so/runn/Positioning-4c561fba43494aed9caca23b3d19f0f6
+
+=== TODO =======================================================================
+
+- [x] Leave review for Totnes Airbnb 
+- [x] Leave review for Charmouth Airbnb 
+
+- [x] Book accomodation for Bristol next week (monday - thursday)
+  - Booked! 
+  - Maybe stay in Exeter on Sunday night? Will leave unscheduled 
+
+---
+
+- [x] Catch up with Nicole, discuss Runn Positioning
+
+- [x] Reply to rowan about the changes to filter-engine  (https://github.com/Runn-Fast/runn/pull/7092)
+- [ ] Reply to priscilla about classnames in CSS modules (https://github.com/Runn-Fast/runn/pull/7075#discussion_r741568589)
+- [ ] Review priscilla's PR to always show phases https://github.com/Runn-Fast/runn/pull/7113
+
+- [ ] Continue Developing Super Search (https://github.com/Runn-Fast/runn/pull/6868)
+- [ ] Anymore ideas about Actuals on the Planner?
+
+=== TRAVEL =====================================================================
+
+FRIDAY
+
+- Catch train to Bristol on Friday morning
+- Catch train to Weston-super-Mare in the afternoon
+- Followed by a bus to Cheddar
+
+SATURDAY
+
+- Explore Cheddar Gorge
+
+SUNDAY
+
+- Bus/Train to Plymouth, exchange gear at Armadillo, back to Exeter
+- Submit https://www.einreiseanmeldung.de
+
+MONDAY
+
+- Train to Bristol
+
+THURSDAY
+
+- Bus to Bristol Airport, flight to Berlin
+
+=== RUNN POSITIONING ===========================================================
+
+- Solves the Utilisation visibility problem
+
+- notion
+  * marketing → research & documentation
+    + positioning
+      + key pain points
+    + messaging
+    
+- resource management app
+- schedule their projects and their people
+and then we take those schedules and translate those into forecasts
+- capacity forecasts and financial forecasts
+- what is your revenue going to be in the next 6 months, what is your profitability goin
+
+benefits:
+  - instant feedback
+    * insights, rolled up views, charts
+
+competitors:
+  - Harvest Forecast
+  - Forecast.app
+  - Float
+
+- resource management, not project management
+  * thinking about how we spend time not tasks

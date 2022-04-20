@@ -1,0 +1,69 @@
+Wednesday 06 Apr 2022
+===================
+
+Wrote a small script to find the fastest Void Linux mirror -- makes a big
+difference when updating system libraries.
+
+yarn link
+---------
+
+Fix for linking yarn binaries
+
+> rm -rf ~/.local/share/yarn
+> mkdir -p ~/.cache/npm/bin
+> yarn
+> yarn link
+
+
+Todo
+----
+
+- [x] Book accomodation in Murter for Sailing Week
+- [x] Fill out Sailing form
+- [x] Organise work leave for that week
+- [x] Return clothes to H&M
+- [x] Daily Deutsch
+- [ ] Find someone to replace my watch battery
+- [ ] Contact Ana, ask if I can visit this weekend (otherwise find somewhere to stay in Primošten)
+- [ ] Put together a few personal stories/anecdotes
+
+
+
+Stories of My Life
+------------------
+
+- Zlarin Stone Wall Weekend
+- Brian & the Bicycle
+- Cycling over the Lewis Pass
+- Searching Paris for trees and pizza with Chris G
+- Catching the Rijeka train with Stephanie
+
+
+Sailing
+-------
+
+Sailing area: local waters of the island Murter
+
+Duration: 5 days
+
+Arrival: Saturday 6:00 pm
+Start:   Sunday 8:30 am
+End:     Thursday 7:00 pm
+
+- [ ] sailing gloves
+- [ ] two pairs of non-slip shoes or sneakers
+- [ ] t-shirts and long sleeve shirts
+- [ ] short and long pants
+- [ ] warm waterproof jacket and pants
+- [ ] strong sunscreen
+- [ ] a hat
+- [ ] sunglasses
+- [ ] towels
+- [ ] personal hygiene items
+- [ ] bathing suit
+- [ ] towels
+- [ ] mosquito repellent
+- [ ] adequate clothing and footwear
+- [ ] bottle of water
+- [ ] lunch packet.
+

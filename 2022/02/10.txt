@@ -1,0 +1,74 @@
+Thursday 10 Feb 2022
+====================
+
+ZAGREB
+https://en.wikipedia.org/wiki/Zagreb
+
+> Zagreb is a city with a rich history dating from Roman times.
+
+> The estimated population of the city in 2018 was 804,507. The population of
+> the Zagreb urban agglomeration is 1,153,255, approximately a quarter of the
+> total population of Croatia. 
+
+- Working from Cogito Coffee this morning. Popular place with the locals, quite
+  a few people working from laptops.
+
+Catching up with Sven & Kelsey in the evening. They are so lovely, introducing
+me to Cedevita, sharing home made brandy and making delicious cheesy pastries.
+
+TODO
+
+- [o] Get plenty of cash (KUNA) out
+  - [x] Transfer NZD to wise account
+  - [ ] Find ATM that doesn't charge fees
+- [x] New toothbrush
+- [x] Beard oil
+- [x] Go for a run
+- [ ] Black thread for sewing patches to bag → GUMBI
+
+STORY
+
+It was a crispy winters day day, sun shining, not even particularly cold.
+
+Running through the park, they have large parks in Zagreb.
+
+Found my way to Park Cmrok. 
+
+CROATIA
+
+idemo na kavu
+
+- Espresso
+- Macchiato
+- Veliki macchiato
+- Bijela kava
+
+RUNN
+
+- [ ] `bigfake` -- seed minimal test account
+- [ ] #feat-node-backend
+  - [ ] sketch out idea of an atomic account
+- [x] Watch "Runn Q1 2022 Kickoff" meeting (2 hours)
+  - [x] Download from Zoom → Upload to Loom
+  - [ ] Watch video (25%)
+- [ ] Reviews
+  - [ ] https://github.com/Runn-Fast/runn/pull/7893
+- [ ] Watch "Subscriptions Updated" (https://threads.com/34417527566)
+- [ ] Investigate bug with duplicate IDs in API https://github.com/Runn-Fast/runn/issues/7894
+
+
+- Adriatic Coast
+
+Kelsey & Sven
+Restore a Farm in a small village 
+
+Müller
+Nama
+
+Dućan s opremom za šlvanje
+
+Dave Barry
+Collections
+
+Bill Bryson
+Walk In The Woods

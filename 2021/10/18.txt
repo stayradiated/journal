@@ -1,0 +1,81 @@
+Blue Monday 18 Oct 2021
+=======================
+
+A new week.  A week of rain.
+
+GEORGE'S RAIN SCALE
+
+0. Not raining
+1. Technically raining
+   - does not impact behaviour
+2. Light rain
+   - items sensitive to water must be put away (laptops, books, etc)
+   - does not require a rain jacket
+3. Rain 
+   - As long as you've got sensible rain jacket, you'll be fine as you make it
+     indoors
+4. Heavy Rain 
+   - Backpacks will be soaked (use a dry bag)
+   - Rain pants recommended
+
+TWO WEEK CHALLENGE
+
+buy no sweet treats
+that includes biscuits and slices
+(fruits are all good)
+I have been eating too many sweet treats recently
+
+TODO:
+
+- [x] Go for a morning run (in the rain)
+- [x] Book a place to stay in Plymouth for the rest of the wek
+- [x] Update wealth.txt for October
+  - [x] Check stocks
+  - [x] Check crypto
+- [ ] Make plans for the weekend.
+  - Jo is away in London with her friends. I should find something to do,
+    ideally with other people…
+  - [ ] I would like to go hiking in the Dartmoor and camp overnight in my tent.
+    - [ ] Research what I ned to know for hiking/camping in the Dartmoor
+    - [ ] (I've never hiked with a tent before)
+- [ ] catch up on Inktober drawings
+- [ ] Move belongings in/out of the Big Yellow storage
+  - IMPORTANT: will be unavailable this weeken
+  - I would like to get my camping gear out on Friday morning
+- [x] Purchase travel washing detergent
+  - https://www.superdrug.com/Toiletries/Travel-Accessories/Superdrug-Travel-Washing-Detergent-100ml/p/427900
+
+Slack
+- forgot to sign off last week, didn't update threads and forgot to toggle my
+  status to offline, oops.
+
+WORK
+
+- [ ] Work on Hasura blog post
+- [x] Write up standup for Friday
+- [x] Write up standup for Monday
+- [o] Hasura Livestream
+  - [x] Reply to Nicole/Shannon about November 9th Hasura (3 weeks away!)
+  - [x] Send email to Vishwa
+  - [ ] Watch previous videos at https://www.youtube.com/playlist?list=PLTRTpHrUcSB-EmDFWEtslMXJG4NFqrriw
+  - [ ] Update Twitter profile
+  - [ ] Send headshot to Vishwa for promotional material
+- [x] Review Rowan's Hotfix https://github.com/Runn-Fast/runn/pull/6976
+- [x] Intercom: reply to Anna from Catapult
+- [x] Filter Engine: Fix src/engines/local/filter-fns/person-team-id.test.ts
+- [x] Investigate `action_assignment_bulk_changes` hitting a 404 on Rails
+  
+- [o] Schedule virtual coffee with Iryna & Shannon
+  - [x] Say hi
+  - [ ] Find a date that works
+
+
+
+NOVEMBER
+========
+
+Jo is flying away to Tenerife on the 5th.
+
+I could fly to Berlin and hang out with Jacob & Alex for a couple weeks.
+
+

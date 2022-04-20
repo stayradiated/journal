@@ -1,0 +1,47 @@
+Sunday 05 Dec 2021
+==================
+
+TODO
+
+- [x] Go for a run
+- [ ] Dungeons & Dragons with Jacob & Friends
+- [ ] Visit a cafe
+- [ ] Watch Dune
+
+VOLATILE
+
+https://www.youtube.com/watch?v=qRao8xS_nyM&t=58m53s
+
+- [ ] Find a way to generate candlestick data from `market_price` table
+https://medium.com/elpassion/how-to-create-candlestick-charts-with-postgresql-80cb89893af2
+
+    with intervals as (
+      select
+        start, 
+        start + interval '1 day' as end
+      from
+        generate_series(
+          '2021-11-01 00:00',
+          '2021-12-05 00:00',
+          interval '1 day'
+        ) as start
+    )
+    select distinct
+      intervals.start as date,
+      min(price) over w as low,
+      max(price) over w as high,
+      first_value(price) over w as open,
+      last_value(price) over w as close
+    from
+      intervals
+      join market_price mp on
+        mp.market_uid = 'e2860358-91a5-44ca-8a61-a4cd077138f2' and
+        mp.currency = 'NZD' and
+        mp.asset_symbol = 'BTC' and
+        mp.timestamp >= intervals.start and
+        mp.timestamp < intervals.end
+    window w as (
+      partition by intervals.start
+        order by mp.timestamp asc
+        rows between unbounded preceding and unbounded following)
+    order by intervals.start

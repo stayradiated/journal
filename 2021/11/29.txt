@@ -1,0 +1,17 @@
+Monday 29 Nov 2021
+==================
+
+WORK
+
+- [x] "Close Filter" tooltip
+- [x] Only Save Filters, not search query
+- [x] "My Saved People Filters" title
+- [x] Prevent Saving with Missing Filter (should add a tooltip to explain why save is disabled)
+- [x] Save button hover → highlight buttons
+- [ ] Expanded filter still displays filter name
+
+THREADS
+https://threads.com/34411919923
+
+GROCERIES
+- Chicken Soup Ingredients

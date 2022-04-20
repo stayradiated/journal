@@ -1,0 +1,55 @@
+Monday 21 Feb 2022
+==================
+
+
+
+https://www.youtube.com/watch?v=yMA2L5IEBAE&t=3m26s
+- Visit market, purchase mint
+
+SLAM POETRY
+
+Maia Mayor - "I Want to Be" | Classic Slam 2019
+https://www.youtube.com/watch?v=KBAig-QT46Q
+
+Grand Slam Poetry Champion | Harry Baker | TEDxExeter
+https://www.youtube.com/watch?v=cxGWGohIXiw
+
+Sophie Priceman - How Teenage Girls Are Like Poetry
+https://www.youtube.com/watch?v=laAOxU3TSog
+
+Sabrina Benaim - The Loneliest Sweet Potato
+https://www.youtube.com/watch?v=YNqmK3iU59E
+
+Sabrina Benaim - Explaining My Depression to My Mother
+https://www.youtube.com/watch?v=aqu4ezLQEUA
+
+Mila Cuda & Jessica Romoff - "Exes"
+https://www.youtube.com/watch?v=3MXRAZ4pjZo
+
+Sarah Kay - Private Parts
+https://www.youtube.com/watch?v=xHHzHu289Ws
+
+WORK
+
+- [.] Review Edit Role Form (https://github.com/Runn-Fast/runn/pull/7900)
+- [ ] Review Webpack Relay Compiler (https://github.com/Runn-Fast/runn/pull/7963)
+
+Failing cypress tests
+
+- [ ] Test Signup Page (0/1) → flakey 
+- [ ] Users & Invitations (0/1) → doesn't pass on main???
+-
+- [x] Rate Cards (0/2)
+- [x] Rate Types (0/4)
+- [x] Updates project total budget(0/5)
+- [x] Project Rates (0/5)
+- [x] People Bulk Edit (0/3)
+
+EINKAUFSZETTEL
+
+- [x] Onion
+- [x] Greek Yoghurt
+- [x] Eggs
+- [ ] Mint
+- [ ] Limes
+- [x] Bin Bags

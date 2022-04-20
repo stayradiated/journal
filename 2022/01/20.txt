@@ -1,0 +1,54 @@
+Thursday 20 Jan 2022
+====================
+
+MAD MAD MADRID.
+
+Didn't sleep too well. Quite nosiy, had to put earplugs in.
+
+Need to see a doctor about this cyst behind my ear.
+Should ask LJ which service she uses to get an online appointment.
+Tomorrow, going to give these folks a call: https://www.unidadmedica.com/
+Cysts aren't covered by my travel insurance.
+
+Setting up the retro meeting for Feb 2022.
+Shared with the team, so people can start adding talking points head of time.
+
+So many places to checkout here.
+
+I reckon I could make a pretty good flat whie.
+Still keen to learn how to do that.
+
+VOLATILE
+--------
+
+- [x] Reduce openexchangerates polling to once every 3 hours
+- [x] Remove ETH/NZD syncing 
+
+RUNN
+----
+
+ - [x] Review Priscilla's PR
+       https://github.com/Runn-Fast/runn/pull/7593/
+ - [x] Relay v13
+   - [x] Fix cypress tests
+   - [x] Fix rspec tests
+
+USEFUL ICE BREAKERS
+-------------------
+
+- What country do you _never_ want to go back to?
+- Which songs have you completely memorized?
+- What game or movie universe would you most like to live in?
+- Are you usually early or late?
+- When people come to you for help, what do they usually want help with?
+- What takes up too much of your time?
+- What do you wish you knew more about?
+- What would be your first question after waking up from being cryogenically frozen for 100 years?
+- What’s the best thing that happened to you last week?
+- What’s the best way to start the day?
+- What is the most impressive thing you know how to do?
+- What job do you think you’d be really good at?
+- What job would you be terrible at?
+- If you didn’t have to sleep, what would you do with the extra time?
+- When was the last time you climbed a tree?
+- What do you do to get rid of stress?

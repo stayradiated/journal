@@ -1,0 +1,44 @@
+Thursday 23 Dec 2021
+====================
+
+BERLIN
+
+What am I doing today?
+
+So I need to be prepared. This hostel has no kitchen (so no fridge).
+Shops will be closed from Friday midday and all Weekend.
+I should go shopping this evening and get some supplies.
+
+VOLATILE
+--------
+
+Love this Mac OS 9 UI Kit
+https://www.figma.com/file/duf84FxGpqXLNdQXCEtM5z/Mac-OS-9%3A-UI-Kit-(Community)
+
+TODO
+----
+
+- [x] work from a cafe → impala (flat white + veggie bagel)
+- [x] groceries for friday/saturday/sunday
+- [x] find some gloves for running
+  - https://www.decathlon.de/p/laufhandschuhe-touch-warm/_/R-p-308692?mc=8549043&c=SCHWARZ
+- [ ] Order christmas gifts for family.
+- [ ] practice german.
+
+WORK
+----
+
+FOCUS: Last R&D of 2021
+- [x] Post to slack when production is deployed
+- [x] WIP on virtual list for people planner
+
+TOMORROW:
+
+- [ ] Feedback on Skills →  https://threads.com/34413764279
+- [ ] Review https://threads.com/34413764279
+...
+
+kc_trade {
+  price
+  price_fx(currency: 'NZD')
+}

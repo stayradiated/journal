@@ -1,0 +1,71 @@
+Tuesday 29 Mar 2022
+===================
+
+> Wealth is magical because we can create it out of thin air, without taking
+> anything away from anyone. When I write one of these newsletters, I'm
+> creating something valuable that someone could pay me for. I haven't "taken
+> away" someone else's newsletter. I've created something. Wealth is created
+> every day. 
+>
+> - Nat Eliason
+
+LOCATION
+--------
+
+Staying in šibernik for another week.
+I like it here.
+
+Moving into Hostel Splendido today.
+It has quite good reviews, let's see how splendid it really is.
+
+Going to check-in to Splendido at 2pm, then go and move my bags from the
+AirBnB.
+
+...
+
+Checked-in sucessfully. Place is great, I've got a whole 4 bed dorm to myself
+for only NZD $22 a night.
+
+Met another french woman, name of Charlotte, who is also travelling around
+Croatia. She is heading to Krka tomorrow, though she is convinced it will rain.
+If it does she can have my umbrella. 
+
+FRIENDS
+-------
+
+Going to try catching up with Kelsey today.
+What time tho? What's a good time to call someone? Is there such a thing?
+How about 11am. That's a time.
+Swoosh. It's 11:30am. It's lunch time now.
+How about 3pm? That's another time.
+Oh, she is at the office. She'll call me back later.
+
+Kelsey called around 8pm, we had a great chat, it's always worth talking with
+friends. I should do it more often.
+
+TODO
+----
+
+- [ ] Prisma/Zapatos → how do we get the audit log to record user & account IDs?
+
+- [x] Send e-mail to Greek embassy in Canberra.
+  - Trying to get up at 5:30am to call them is to difficult right now.
+
+- [ ] Watch Ruth's video on Permissions (34 min)
+  - https://threads.com/34421025068
+
+PRS to Review/Update
+
+- [ ] https://github.com/Runn-Fast/runn/pull/8179
+- [ ] https://github.com/Runn-Fast/runn/pull/8201
+- [ ] https://github.com/Runn-Fast/runn/pull/8246
+- [ ] https://github.com/Runn-Fast/runn/pull/8275
+- [ ] https://github.com/Runn-Fast/runn/pull/8242
+- [ ] https://github.com/Runn-Fast/runn/pull/8262
+- [ ] https://github.com/Runn-Fast/runn/pull/8274
+- [x] https://github.com/Runn-Fast/runn/pull/8281
+
+
+
+DPD Pickup Lockers
+https://www.dpd.com/si/en/pickup-parcelshops/dpd-parcel-locker/

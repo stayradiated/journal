@@ -1,0 +1,93 @@
+Wednesday 04 Aug 2021
+=====================
+
+=== NELSON =====================================================================
+
+I think it's going to be a wet day on Friday.
+Oh well, we can handle this.
+
+Saturday should be lovely though.
+
+> Fine with morning frost, then some evening cloud. Southerlies turning
+> northerly this afternoon.
+> High: 12°c Low: 4°c
+> 7:02am/7:32am → 5:36pm/6:05pm
+
+=== AUTOMATIC PAYMENTS =========================================================
+
+I really should get Banksy back up and running again, he was a very useful bot
+to have. I'm not sure if the microservice architecture was the best idea -- I
+might refactor it into a single Docker image with a SQL database.
+
+=== TRAVEL =====================================================================
+
+Yesterday I moved my flight to London.
+Currently booked to fly out on the early morning of September 15th (Wednesday).
+Total flight duration is 26 hours.
+
+=== TODO =======================================================================
+
+- [x] Replace cassette and chain on Brian
+  - [x] Get Brian out of storage
+  - [x] Visit The Bike Station (54 Vanguard St)
+  - [x] Purchase new chain
+  - [x] Replace cassette and chain with proper tools
+  - [x] Pick up Brian from workshop ($55)
+  - [x] Put Brian back into storage
+- [x] Prepare to travel to UK
+  - [x] Grafton Medical Centre. Phone: 09 930 8560 (4.9/5 * 59) => 58/60 = 0.97
+  - [x] book test date: 13th September at 10am
+    - arrive 10 minutes early
+    - cost: $250
+    - bring your passport with you
+    - test results should be ready the next day
+- [o] Book flights
+  - [ ] Flight: ROT → CHC
+- [ ] Cancel Ancestry.com subscription, ugh
+- [ ] Check-in with Chris Goodall
+- [ ] Start learning Haskell:
+    - https://exercism.io/tracks/haskell
+    - https://exercism.io/my/solutions/f1c8609627fd437f92180cf1fb13af18
+- [ ] charge bike lights
+- [ ] Fly to the UK
+  - [ ] Book UK Day 2 COVID-19 Test 
+    - These folks are in Plymouth, $270
+      - https://rapidhealthtest.com/product/covid-test-to-release-day-2-truro-clinic/
+    - Alternatively, get a test at home kit:
+      - https://www.covid19travelclinic.com/
+  - [ ] Organize a place to stay when I arrive in the UK (probably Plymouth?)
+  - [ ] Get NZ Pre-Flight COVID-19 Test (13th September)
+  - [ ] Fill in Passenger Locator Form (48 hours before arrival)
+    - https://provide-journey-contact-details.homeoffice.gov.uk/profile
+    - "You must bring proof of your eligibility with you during travel. You
+      will need to provide a contact address while in the UK and a Day 2 test
+      booking number."
+
+=== MIXTAPE: COMING BACK FOR YOU 😊==============================================
+
+1. You Might Find Yours ∙ Tom Rosenthal
+2. Always Spring ∙ I'm From Barcelona
+3. Go Solo ∙ Zwette
+4. Send Me On My Way ∙ Rusted Root
+5. Good Day ∙ New Hope Club
+6. Ham & Cheese ∙ The Sun Parade
+7. It Ain't Weird ∙ Sean Angus Watson
+8. Summer Romance ∙ Tim Minchin
+9. Josephine ∙ Stornoway
+10. Belong ∙ San Fermin
+11. The Things Above ∙ CooBee Coo
+
+=== ALSA CONFIG ================================================================
+
+For when you want to record from one input and playback on another.
+
+    pcm.!default {
+      type asym
+      playback.pcm "plughw:0,0"
+      capture.pcm "plughw:1,0"
+    }
+
+    ctl.!default {
+      type hw
+      card 1
+    }

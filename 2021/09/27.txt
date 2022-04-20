@@ -1,0 +1,47 @@
+Monday 27 Sep 2021
+==================
+
+Back on land! Jo is heading off back to Weir Quay this morning.
+
+Having an "iced americano" at cafe neros.  (ice + coffee + water)
+
+Lunch (pasty + yoghurt) out at the Hoe. It's been a sunny morning, but now
+(14:00) it's started to rain.
+
+WORK:
+-----
+
+
+
+Let's take a learning & development day and write up a blog post about Hasura.
+
+- why did we choose hasura?
+  * alternative, stick with Ruby, write our own GraphQL API, postgraphile
+- what did the migration process look like
+- what issues did we encounter
+
+TODO:
+-----
+
+- [x] collect suitcase from Jack n Mols
+- [x] check-in to this weeks airbnb
+- [x] book time for virtual coffee with rowan
+- [x] draft case study on hasura
+- [x] read/update threads (https://threads.com/)
+  - [x] Hiring a lead developer (https://threads.com/34406899921?share=46d9d124-08fa-41c8-825b-7f46e0c3beb9)
+- [x] fix threads timezone
+- [ ] review all the prs
+- [x] post a few photos of the sailing trip to #random
+- [x] order dad a birthday prezzie (golfmates hat + engraved marker)
+
+PRS to REVIEW:
+--------------
+
+- [ ] Refactor make app consistent with design system #6756 
+      https://github.com/Runn-Fast/runn/pull/6756
+
+- [ ] Refactor make app consistent with design system #6756 
+      https://github.com/Runn-Fast/runn/pull/6844
+
+- [ ] Fix IE crashing with fetch on login and register page #6843 
+      https://github.com/Runn-Fast/runn/pull/6843

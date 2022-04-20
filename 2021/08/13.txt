@@ -1,0 +1,176 @@
+Friday 13 Aug 2021
+==================
+
+schedule
+--------
+
+1400 standup
+
+todo
+----
+
+- [ ] email broken river trip
+- [ ] finish watch design meeting (00:55:37)
+- [x] join standup at 1400
+- [x] wash my clothes
+- [ ] plan out trip for next week with James
+- [x] convert audio library to a different format
+  - [x] pick a format → opus
+  - [x] configure beets (`beet convert`)
+  - [x] start converting library
+  - [ ] figure out how to update plex library…
+- [ ] get myself to christchurch for roadtrip with ivan
+- [ ] book flights in/out of queenstown
+- [ ] talk to parents about travelling to uk
+- [ ] get a suitcase for travelling to the uk (max 25kg)
+  - [ ] https://www.briscoes.co.nz/bags-and-luggage/trolley-cases/
+- [ ] update lists/posessions.txt
+- [x] order a better face mask → shop.lanaco.co.nz
+  - Alternative: https://lucke.co.nz/products/luckefit-reusable-deep-blue-mask-infused-with-viraloff
+
+
+
+runn
+----
+
+webpack: try using swc as a plugin
+It's so much faster, it's silly!
+I wonder if we can use this instead of ncc?
+
+broken river
+------------
+
+What am I going to do?
+
+benji: future
+-------------
+
+Purchase a replacement for benji that I can take travelling.
+Plus a 1TB m.2 SSD to put inside it.
+Would be amazing.
+
+james: travel
+-------------
+
+What is the weather doing in NZ this week?
+
+metvuw: http://metvuw.spork.in/main.html?region=nz
+
+picton (ferry?)
+nelson
+new plymouth
+somewhere snowy
+
+fathers day
+-----------
+
+Sunday 5th September
+I won't be here for dad's birthday, so better make it a great one
+We should go to the snow. I need to plan this.
+
+Reconnecting New Zealanders to the World forum livestream
+---------------------------------------------------------
+
+https://www.youtube.com/watch?v=1klFXM4-_oA
+
+David Skegg has a great bit at 1h 22m 30s
+https://en.wikipedia.org/wiki/David_Skegg
+
+- We can't vaccinate our way out of a pandemic, it's just too infectious.
+- There is a massive community benefit of everyone being vaccinated.
+
+Ashley on Vaccine Hesitancy:
+
+> I've never felt that vaccine hesitancy is the problem, because we know that most people:
+> - if they have information from someone they trust
+> - and the vaccine is offered in a setting and by someone they trust
+> - they will take up that offer.
+
+Herd Immunity → "Community Immunity"
+
+Reconnecting New Zealanders to the world: Next steps
+----------------------------------------------------
+
+> Published 10 August 2021
+> https://covid19.govt.nz/assets/reports/Independent-Advisory-Groups/Reconnecting-New-Zealanders-to-the-World/Reconnecting-New-Zealanders-to-the-World-Next-steps.pdf
+
+Our approach is guided by five objectives:
+..........................................
+
+- 1. Maintaining our elimination strategy to stamp out the virus and keep our
+  options open.
+- 2. Ensuring every eligible New Zealander is offered the opportunity to be
+  vaccinated as soon as possible.
+- 3. Reducing the need for further lockdowns as much as possible by continuing
+  to strengthen our health and contact tracing systems.
+- 4. Maintaining strong public health tools.
+- 5. Developing new ways to enable people to travel safely to and from New
+  Zealand.
+
+Step 1. Immediate response andpre-general population vaccination
+................................................................
+
+- 14 days’ MIQ required for everyone (except QFT zones)
+- Travel restricted to New Zealand citizens and residents, and limited
+  economic/humanitarian exemptions
+- Testing required pre-departure and once in New Zealand
+- Alert level restrictions are primary method of controlling outbreaks
+- Health measures like mandatory face coverings and QR scanning are key
+  prevention tools
+- Priority groups (border workers,at-risk populations) vaccinated
+
+Step 2. General population vaccination and development of additional tools
+..........................................................................
+
+- Vaccination of general population underway
+- Pilot scheme of new flexible pathways into New Zealand, testing safe
+  alternatives to 14 days’ MIQ
+- 14 days’ MIQ remains compulsory for everyone else (except QFT zones)
+- Additional testing requirements to monitor reduced time in MIQ
+- ICU/health capacity and contact tracing systems strengthened, in response to
+  Delta and other variants
+- Alert level restrictions remain primary method of controlling outbreaks
+- Work to develop traveller declaration for vaccine and testing information
+
+Step 3. New travel pathways reflecting risk
+...........................................
+
+- Phased implementation of three new pathways into New Zealand:LOW RISK:
+  Vaccinated travellers from low risk countries: no isolation requiredMEDIUM
+  RISK: Vaccinated travellers from medium risk countries: modified isolation
+  requirementsHIGH RISK: Unvaccinated travellers and all travellers from high
+  risk countries: 14 days’ MIQ
+- Testing regime remains in place
+- Countries regularly assessed for risk
+- Alert levels and public health measures are still in place, but lockdowns are
+  less likely
+
+Step 4. QFT for all vaccinated travellers
+.........................................
+
+- Quarantine free travel for vaccinated travellers who return a negative test
+- 14 days’ MIQ for the majority of unvaccinated travellers
+- Resilient population and resilient health systems
+- Testing at the border and public health measures like QR scanning still in
+  place
+- Booster vaccinations may be required
+
+What we’re looking for to give us confidence to move steps:
+...........................................................
+
+Where are we now:
+
+- Highest risk populations vaccinated, and vaccine rollout ramping up 
+
+Next up:
+
+- High coverage of vaccine in New Zealand within high-risk populations and
+  across regions
+- Vaccine remains effective 
+- We’re able to maintain elimination strategy
+
+Future:
+
+- Vaccine remains effective
+- Behaviour of variants stabilised
+- Strong confidence in our system

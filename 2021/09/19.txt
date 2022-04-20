@@ -1,0 +1,40 @@
+Sunday 19 Sep 2021
+==================
+
+Schedule:
+
+- 0730 morning walk around kensal greens
+- 0800 catch up with parents
+- 1100 train leaves from Paddington station
+- 1400 train arrives in Plymouth
+- 1520 jo catches her train home
+- 1530 check-in to airbnb
+- 1745 chips and hummus for dinner
+
+Plymouth Ideas:
+
+- Chess and drinks in the garden
+- Swimming in the sea
+    - Hire a SUP board and plhave a paddle around
+- Sunset on the grass in the Hoe
+
+Todo:
+
+- [x] Check-in to Plymouth AirBnB
+- [x] Purchase toothpaste
+- [ ] Purchase immunity tablets (e.g. echinacea, olive leaf)
+- [ ] Gift Jo the little mug
+- [ ] Take more polaroid photos
+- [x] Find a way to SSH into benji
+    - Possibly create ad hoc network using phone?
+    - Yes! That works really well.
+- [ ] Where am I staying next week?
+    - What am I doing this weekend?
+
+Tomorrow:
+
+- Plan to wake up at 05:55 and work from 06:00
+- First day working async from the UK
+- I need to get out for a run
+    * Try this route: https://www.plotaroute.com/route/656179
+- Work from a cafe

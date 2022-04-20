@@ -1,0 +1,10 @@
+Monday 23 Aug 2021
+==================
+
+sudoscripts.
+create a new directory: /root/sudoscripts
+put in scripts that you normally need sudo to execute.
+edit sudoers file: sudo visudo
+  host ALL = NOPASSWD: /root/sudoscripts/*.sh
+Now the host can `sudo /root/sudoscripts/sv-restart-udevmon.sh` without having
+to enter a password!

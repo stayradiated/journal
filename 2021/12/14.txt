@@ -1,0 +1,31 @@
+Tuesday 14 Dec 2021
+===================
+
+WORK
+
+- [x] Design Tweaks
+  - [x] Fix grey padding on SuperSearch
+  - [x] Vertically certain button
+  - [x] Right margin on MPF Checkbox
+  - [x] Bottom margin on Filter Button
+  - [x] Dropdown triangle z-index issue
+  - [x] Filter Button width
+  - [x] Lower Case "Match people filtering"
+  - [ ] Filter button, white background on disabled
+  - [x] Should we persist charts on refresh? 
+  - [ ] Record loom reply for Ruth
+
+- [x] Sketch out idea for data seeding UI → a little ambitious
+      https://www.figma.com/file/BfCHrJQIHJoFYBurpYXPuz/Draft%3A-Create-Test-Account-Sliders?node-id=0%3A1
+
+- [x] https://threads.com/34413231142: Discuss features - Dec week 2
+- [ ] https://threads.com/34413248721: useFragment() and co-locating data reqs with components
+- [ ] https://github.com/Runn-Fast/runn/pull/7364
+- [ ] https://github.com/Runn-Fast/runn/pull/7424#discussion_r768155790
+
+
+GIFs
+
+tentative
+https://media.giphy.com/media/Hqps7H0fbawcuC51oQ/giphy-downsized-large.gif
+https://giphy.com/gifs/wwi-great-war-first-world-Hqps7H0fbawcuC51oQ
