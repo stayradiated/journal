@@ -1,0 +1,19 @@
+do managers map to Users or People?
+
+who is allowed to edir the lisz of managers?
+can a manager remove/add other managers? what about themselves?
+
+who gets to edit which team a person is in? 
+
+admin, manager, viewer, timeshhets
+
+How much weight does the User-Person relation have?
+
+Can a user always edit their own person details?
+
+what about their own person timesheet?
+
+why not have a manage team option for projects?
+
+ 
+
