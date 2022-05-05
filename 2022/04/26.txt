@@ -1,0 +1,15 @@
+Tuesday 26 Apr 2022
+===================
+
+Learning about meterology
+https://anasail.skippersonline.net/members/V5content/DaySkipper/14/
+
+Runn
+----
+
+
+
+- [ ] RLS: do we need foreign key constraints?
+  - [ ] Create thread
+  - [ ] Put together example of policy with multiple foreign keys
+- [ ] Watch loom 

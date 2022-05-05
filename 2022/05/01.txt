@@ -1,0 +1,14 @@
+Sunday 01 May 2022
+==================
+
+Making travel plans for tomorrow.
+Komiža → Vis → Split → Trogir
+Going to be an early start, need to catch a 06:30 bus.
+Don't forget to pack your bags tonight!
+
+Continuing the refactor of Handover Bot.
+- automatic post creation for each new day
+- reminders
+
+Afternoon run + swim.
+

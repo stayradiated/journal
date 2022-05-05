@@ -1,19 +1,24 @@
-do managers map to Users or People?
+Wednesday 04 May 2022
+=====================
 
-who is allowed to edir the lisz of managers?
-can a manager remove/add other managers? what about themselves?
+Still trogging around TROGIR.
 
-who gets to edit which team a person is in? 
+Catching up with Jacob this morning.
 
-admin, manager, viewer, timeshhets
+https://www.youtube.com/watch?v=ZrErCb3RH9w
 
-How much weight does the User-Person relation have?
+- [ ] Review Liam's work on validation https://github.com/Runn-Fast/runn/pull/8548/files
+- [x] Permissions https://threads.com/34421025068
+- [x] Fix broken cypress tests https://github.com/Runn-Fast/runn/pull/8555
 
-Can a user always edit their own person details?
+## Permissions
 
-what about their own person timesheet?
-
-why not have a manage team option for projects?
-
- 
-
+- do managers map to Users or People?
+- who is allowed to edir the lisz of managers?
+- can a manager remove/add other managers? what about themselves?
+- who gets to edit which team a person is in? 
+- admin, manager, viewer, timeshhets
+- How much weight does the User-Person relation have?
+- Can a user always edit their own person details?
+- what about their own person timesheet?
+- why not have a manage team option for projects?

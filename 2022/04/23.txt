@@ -16,12 +16,12 @@ Damn, Split is full of tourists.
 
 I watched a woman drop a plastic bottle of juice into the sea. I couldn’t believe what I had seen. Why?! What is the appropriate response here? The bottle could not be retrieved by hand from the wharf. Saying nothing is not good enough. Next time, I need to walk up to her and say “Excuse Me! It’s not OK to throw your trash in the ocean, please never do that again. There is a bin right there”.
 
-- [ ] Create savings account for new iPhone
-- Upgrade iOS to latest version (so I can install Brainscape)
-- Continue studying RYA Day Skipper Course
-- Order new pair of Xero Sandals
+- [x] Create savings account for new iPhone
+- [ ] Upgrade iOS to latest version (so I can install Brainscape)
+- [x] Continue studying RYA Day Skipper Course
+- [ ] Order new pair of Xero Sandals
   * Starting to get a hole in my current pair
-- What do I need to do to enter France?
+- [ ] What do I need to do to enter France?
   * Vaccine requirements? Will they let me in without a booster?
   * Book a night train from Zagreb
     + When to travel?
@@ -92,4 +92,3 @@ I went for an afternoon swim at the beach. A few sunbathers out, but no  one els
 Quite a few noisy kids around. I don’t mind kids having fun, but the sound they make was irritating my brain. I’m sure this is an age issue, I don’t remember ever feeling like this as a child. 
 
 While shopping for groceries, A kid roller-skated passed me into the store! I was impressed and a bit jealous. I wonder how people would react if a Grown Up did that. 
-

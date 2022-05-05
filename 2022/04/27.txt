@@ -1,0 +1,29 @@
+Wednesday 27 Apr 2022
+=====================
+
+
+- [ ] rspec ./spec/features/contract_ranges_spec.rb:12 # Contract ranges create a new person with default ranges
+- [ ] rspec ./spec/features/contract_ranges_spec.rb:33 # Contract ranges with existing contracts new contract after existing
+- [ ] rspec ./spec/features/create_person_spec.rb:50 # Create Person with new Role creates new role
+- [ ] rspec ./spec/features/create_person_spec.rb:54 # Create Person with new Role saves new role name
+- [ ] rspec ./spec/features/create_person_spec.rb:58 # Create Person with new Role links to users contract
+- [ ] rspec ./spec/features/create_person_spec.rb:62 # Create Person with new Role defailt_hour_cost is 0
+- [ ] rspec ./spec/features/permissions/no_salaries_spec.rb:29 # No salaries permissions not allowed pages for editor no Hourly cost field for edit Person
+- [ ] rspec ./spec/features/permissions/no_salaries_spec.rb:91 # No salaries permissions not allowed pages for editor Person's page, can't see Cost to business
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:1:4]' # No fin permissions not allowed pages for admin no Hourly cost field for edit Person
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:1:6:1]' # No fin permissions not allowed pages for admin Person's page, cant see Billings
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:1:6:2]' # No fin permissions not allowed pages for admin Person's page, cant see Cost to business
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:1:7:1]' # No fin permissions not allowed pages for admin Project's page should not see Insights
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:1:7:2]' # No fin permissions not allowed pages for admin Project's page should not see Budget
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:2:4]' # No fin permissions not allowed pages for editor no Hourly cost field for edit Person
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:2:6:1]' # No fin permissions not allowed pages for editor Person's page, cant see Billings
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:2:6:2]' # No fin permissions not allowed pages for editor Person's page, cant see Cost to business
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:2:7:1]' # No fin permissions not allowed pages for editor Project's page should not see Insights
+- [ ] rspec './spec/features/permissions/none_permissions_spec.rb[1:2:7:2]' # No fin permissions not allowed pages for editor Project's page should not see Budget
+- [x] rspec ./spec/helpers/analytics_helper_spec.rb:17 # AnalyticsHelper approximate assigned minutes ignores past assignments
+- [x] rspec ./spec/helpers/analytics_helper_spec.rb:32 # AnalyticsHelper approximate assigned minutes includes tentative projects
+- [x] rspec ./spec/helpers/analytics_helper_spec.rb:48 # AnalyticsHelper approximate assigned minutes ignores archived projects
+- [x] rspec ./spec/helpers/analytics_helper_spec.rb:64 # AnalyticsHelper approximate assigned minutes ignores out of range assignments
+- [x] rspec ./spec/helpers/analytics_helper_spec.rb:79 # AnalyticsHelper approximate assigned minutes ignores archived people
+- [x] rspec ./spec/requests/projects_spec.rb:13 # Projects new client creates a project with a new client
+- [x] rspec ./spec/requests/projects_spec.rb:23 # Projects new client creates a project with existing client

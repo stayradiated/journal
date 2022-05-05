@@ -1,0 +1,19 @@
+Thursday 28 Apr 2022
+====================
+
+Morning swim.
+Afternoon run.
+Afternoon swim.
+
+Bought some swimming goggles!
+Keen to try them out tomorrow.
+
+RUNN
+----
+
+One thing I'd like to try is running the `yarn install` in Github Actions, so
+we cache the `node_modules` folder between builds. It should speed up the build
+time significantly.
+
+- [x] Create Github Project for Node Server with cards for each piece
+  - Target: deploy to production by the end of May
