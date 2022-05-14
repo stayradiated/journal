@@ -1,9 +1,14 @@
+Friday 13 May 2022
+==================
+
+Bike hire arnd ride around Krka → followed by crash.
+
 TODO:
 
 - [ ] Re-order New World delivery
 - [x] Don’t leave Jezera without RYA course materials
-- [ ] Get lift with the Two Doctors to Zagreb
-- [ ] Check in to Main Square hostel
+- [x] Get lift with the Two Doctors to Zagreb
+- [x] Check in to Main Square hostel
 - [ ] Book haircut while in Zagreb
 - [ ] Can I get my watch repaired in Zagreb? Maybe just ask if we can try a new battery
 
