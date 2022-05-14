@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -euxo pipefile
+set -euxo pipefail
 
 build_dir=$(cd $(dirname "${BASH_SOURCE[0]}") >/dev/null 2>&1 && pwd)
 template_path="${build_dir}/template.html"
