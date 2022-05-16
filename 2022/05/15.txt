@@ -1,3 +1,15 @@
 - [ ] Find a place to buy running shorts
 - [ ] Book accomodation for Paris
 - [ ] Get iPhone screen repaired
+Sunday 15 May 2022
+==================
+
+My `plaintext` tool now has any easy way to quickly embed images from Google Photos.
+
+I just right-click on the image and click "Copy Image Link".
+Then I paste the URL into the journal, with some special syntax to mark it as an image.
+The tool automatically downloads the image, resizes it and saves it into the ./_img directory.
+
+How convenient!
+
+<< ./_img/15_lh3.googleusercontent.com_1143733723 >>
