@@ -55,3 +55,18 @@ Croatian Treats
 - Krash chocolate
 - Napolitanke biscuits
 - Plazma biscuits (not technically from Croatia, but still)
+
+Plaintext Journal
+=================
+
+- [x] Embed images
+- [x] Fix deploy to web
+- [ ] Automatically generate index files
+
+
+Montpalier
+Nemes
+Nice
+Marseilles
+Lyon
+
