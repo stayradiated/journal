@@ -1,0 +1,24 @@
+Friday 20 May 2022
+==================
+
+SQL query to link up account with alternative_account_id:
+
+    UPDATE accounts AS a
+    SET alternative_account_id = b.id
+    FROM accounts AS b
+    WHERE a.id = b.alternative_account_id
+      AND a.alternative_account_id IS NULL
+
+This looks cool, but is it actually useful?
+https://github.com/tmux-plugins/tmux-resurrect
+
+SEAGALE
+-------
+
+Bought 2 new shirts and a pair of shorts from Seagale.
+Tried on their Merino business shirts - but the Small is too big and the XSmall
+is too tight around the arms.
+I'm not a big fan of the look either.
+
+The guy running the store was pretty cool though.
+Even offered me a slice of pizza.
