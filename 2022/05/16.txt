@@ -1,0 +1,107 @@
+Monday 16 May 2022
+==================
+
+GLAVNI KOLODVOR
+---------------
+
+Trying to catch the 18:38 overnight train to Zurich.
+Arrived at the Zagreb train station around 18:10, plenty of time to spare.
+It's not clear from the departures board where I need to go -- I can see a
+train leaving at 18:38 but it doesn't mention Zurich.
+I ask at the information office. They send me to the ticket office.
+I ask at the ticket office. The woman says platform 4.
+I find platform 1, 2, 3, 3a and 6. No 4.
+The train at 3a leaves at 18:38, there are people waiting. I wait.
+Something doesn't feel right. I brush it off as travel anxiety.
+However I don't see anyone else with luggage. That's odd. Maybe they are only
+travelling a few stops.
+The train still hasn't arrived, I walk around the station, I see a train in the
+distance, it looks like it has carriages with beds, but there is no one around.
+I head back to the station and back to platform 3a. Still no train.
+The sign updates, it's not the 18:38 that is arrive anymore.
+I decide to ask the ticket office again, on the way back I see a sign for
+platform 4.
+It's on the other side of the station. I run over there, which is difficult
+with all my luggage.
+By this time it's 18:48 - the train at station 4 is not the train I want.
+The departures board still lists an 18:38 train.
+I enquire at the information office, that's not my train.
+I missed it.
+:(
+
+I chill out at the park.
+I purchase another train ticket. This one goes to Münich.
+It's not as good, but I don't feel like staying in Zagreb.
+I give Marika a call and we chat for a bit.
+I head to the train station cafe. I have a beer and get my water bottle refilled.
+30 minutes before the train leaves I head to platform 4.
+I catch the train.
+:)
+
+There is only one other guy in this 6 person booth.
+He is from Lake Ohrid in Macedonia.
+He was hoping to catch a bus, but the next bus isn't until Thursday.
+He is travelling to Salzburg to visit his brother.
+
+The train stops. Police offices get on.
+They check my passport. Ask me where I am going. How long I plan to be there.
+Why am I travelling.
+They stamp my passport.
+They talk to the Macedonia guy in Croatian.
+They start going through his suitcase, checking everything quite throughly.
+They ask him to pack up his bags and escort him out of the booth.
+They do a quick check between the seats and in the bin.
+Now I am alone in the booth.
+
+SHORTS
+------
+
+Looking at getting some new running shorts.
+
+- must have pockets
+- a bit shorter than current shorts, about mid thigh
+
+https://www.nike.com/hr/t/fast-5cm-running-shorts-MqLvpp/CJ7845-010
+
+Catching up with mum.
+Helping her use WhatsApp from her computer.
+I've re-ordered the New World gift basket of treats for her -- hopefully they
+actually deliver it this time.
+
+TODO
+----
+
+- [x] @10:00 Check out of hostel, leave bags in lobby
+- [x] @18:00 Head to train station
+- [ ] Find a place to buy running shorts
+- [x] Book accomodation for Paris → might be staying with Marika?
+- [x] Get iPhone screen repaired → RepairPro (350 HRK)
+- [ ] Ask SafetyWing if they will cover me for the missed train
+
+RUNN
+----
+
+- [x] What is the status of the security issue from last week?
+- [ ] Catch up on the AuditLog subscription issue
+- [ ] Review Priscilla's PR for super search + skills https://github.com/Runn-Fast/runn/pull/8661
+- [ ] https://github.com/facebook/relay/issues/3890
+- [ ] Read https://threads.com/34424505360
+- [ ] Review https://github.com/Runn-Fast/runn/pull/8611
+- [ ] Read https://threads.com/34424422759
+- [x] Create PR to update `docker-compose.yml` to v14
+- [ ] Watch Developer Retro 
+
+PRS
+---
+
+- [ ] https://github.com/Runn-Fast/runn/pull/8519
+  - Fix conflicts
+
+> Hey could we have a chat about the drivers for the custom AuditLog
+> subscription implementation at some point once you’re caught up? Not blocking
+> anything, just interested to hear your take on
+> https://github.com/Runn-Fast/runn/pull/8602
+
+> I'm wondering how many of our mystery Rollbar local state issues come from
+> that subscription sync, with table Schema not being transformed fully to
+> relay schema expectations heh.

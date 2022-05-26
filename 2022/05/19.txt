@@ -1,0 +1,10 @@
+Thursday 19 May 2022
+====================
+
+
+
+- [x] Finish reviewing Priscilla's PR
+- [/] Catch up with Rowan - resync where we are with Node.js
+- [x] Fix tests on composite foreign keys
+- [ ] Test migrations on heroku prod clone
+- [ ] CREATE TRIGGER users_update_updated_at BEFORE UPDATE ON users FOR EACH ROW EXECUTE PROCEDURE update_updated_at_column();

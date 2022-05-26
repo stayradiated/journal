@@ -1,0 +1,82 @@
+Tuesday 17 May 2022
+===================
+
+Great website with info about the Glavni Kolodvor train station.
+https://showmethejourney.com/train-travel-info/countries/croatia/cities/zagreb/rail-stations/zagreb-glavni-kolodvor/
+
+Online departures board for various stations:
+
+- https://www.trainoclock.com/en-DE/station/munchenhbf/departures
+- https://www.trainoclock.com/en-DE/station/stuttgarthbf/departures
+
+----
+
+Arriving in München at 06:30.
+It was a rough night. Sleeping on the chairs is not comfortable, even with an
+entire booth to myself.
+The ticket inspector kept checking my ticket every hour or so. I was awoken at
+4am by the police wanting to check my passport.
+
+Trying to book a ticket to Paris.
+Need to use my NZ funds to pay for it, but to do so I need my NZ SIM card to
+approve the transaction. It always takes ages for the phone to connect to the
+network after swapping the SIM.
+Eventually I can approve the payment to thetrainline.com.
+However there is an error - I don't get any tickets - but they still have a
+lock on my money.
+Fortunately I have enough cash available to try again.
+The second ticket order fails as well. That's over €250 sitting in limbo.
+
+I decide to try ordering directly through bahn.de.
+I find the same train and try to buy a ticket -- but that fails as well!
+Fortunately the error happens _before_ the payment. It seems that train is
+fully booked?
+
+I go back to thetrainline.com and buy a ticket for a later time.
+This time it works! I am going to Paris!
+
+...
+
+On the train to Stuttgart, where I will catch a connecting train to Paris.
+Eventually the ticket inspector comes around.
+I show her my ticket, no problem.
+Then she asks for my BahnCard.
+Oh.
+I don't have a BahnCard. It expired in January.
+I didn't mean to order a ticket with a BahnCard. But I have.
+I try to ask if I can just pay the extra 25% - or buy a BahnCard.
+She tells me that I have a problem.
+One othe other passengers kindly comes over and asks if she can help translate.
+I explain the issue, she isn't sure what I should do either.
+The ticket inspector is not happy, she is holding my old BahnCard from 2020 and
+talking to someone on the phone.
+Am I first person she has encountered that has bought a ticket without a
+BahnCard? Seems unlikely.
+Eventually the ticket inspector walks off.
+I buy a 3 month BahnCard on the website -- I have another train to catch after
+this and don't want to risk running into an even stricter ticket inspector.
+20 minutes later the ticket inspector comes back and I show her the new BahnCard.
+She scans the code and seems much happier - as if the train is back in order.
+
+TODO
+----
+
+- [x] Arrive in München
+- [x] Book train to Paris
+- [x] Catch train to Stuttgart
+- [ ] Catch train to Paris Gare de l'Est
+- [x] Ask SafetyWing if they will cover me for the missed train 
+      ↳ Nope, they don't.
+
+RUNN
+----
+
+- [x] Catch up on the AuditLog subscription issue
+- [ ] Review Priscilla's PR for super search + skills https://github.com/Runn-Fast/runn/pull/8661
+- [x] https://github.com/facebook/relay/issues/3890
+- [x] Read .env thread https://threads.com/34424505360
+- [ ] Review https://github.com/Runn-Fast/runn/pull/8611
+- [ ] Read https://threads.com/34424422759
+- [x] Create PR to update `docker-compose.yml` to v14
+- [ ] Watch Developer Retro 
+- [ ] Review https://github.com/Runn-Fast/runn/pull/8179

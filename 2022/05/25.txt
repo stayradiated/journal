@@ -1,0 +1,31 @@
+Wednesday 25 May 2022
+=====================
+
+Je vais prendre deux croissants, s'il vous plaît
+
+https://github.com/Runn-Fast/runn/pull/8751#issuecomment-1135997797
+
+JACOB QUESTIONS
+---------------
+
+- If you were a cat, what would your meow sound like?
+- If you were making a reality show and you had to have people compete to do something, no matter how ridiculous, it could be anything, what would it be?
+- If you were an old British guy, what would you do?
+- Have you ever thought about what you would want to be in the Guinness Book of World Records for?
+- If you were a reality show judge and every time you banged your gavel you had to say the same catch phrase, what would it be?
+- If you wanted to torture someone by playing just one song on repeat, what song would you pick?
+- If you were a motivational poster, what would you say?
+- What is the first question you would ask a bat if you could speak to them?
+- If you could only have five vegetables for the rest of your life (and you get onion and garlic for free) what would they be?
+- If you had to replace your arm with anything besides a fake arm, what would you pick?
+- If a genie says he could give you superpowers, as many as you wanted, but some guy you have never met before would pick them for you, and they might be anything, no matter how weird or potentially inconvenient, would you say yes?
+
+OPENAI QUESTIONS
+----------------
+
+Write a list of bizarre hypothetical questions to ask someone:
+
+- What would you do if you woke up as a chicken?
+- If you could make any food item disappear, which one would it be?
+- If you could own any pet, what would it be?
+- If you could turn other people into animals, what would you do?
