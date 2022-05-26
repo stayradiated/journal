@@ -1,0 +1,14 @@
+- [x] paprika
+- [x] brocolli
+- [x] yellow onions
+- [x] Shallots
+- [x] green beans
+- [x] carrots
+- [x] garlic
+- [x] cucumber
+- [x] spinach
+- [x] Apples
+- [x] Avocado
+- [ ] Heavy Cream
+- [ ] Salt
+- [ ] Canned Tomatoes
